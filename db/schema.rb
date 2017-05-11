@@ -82,21 +82,21 @@ ActiveRecord::Schema.define(version: 20170510230654) do
     t.integer  "vintage"
     t.text     "description"
     t.integer  "wine_id"
-    t.integer  "wine_note_id"
     t.integer  "public_price"
     t.integer  "primeur_price"
     t.integer  "selling_price"
     t.datetime "created_at",    null: false
     t.datetime "updated_at",    null: false
     t.index ["wine_id"], name: "index_vintages_on_wine_id", using: :btree
-    t.index ["wine_note_id"], name: "index_vintages_on_wine_note_id", using: :btree
   end
 
   create_table "wine_notes", force: :cascade do |t|
     t.string   "name"
     t.string   "note"
+    t.integer  "vintage_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["vintage_id"], name: "index_wine_notes_on_vintage_id", using: :btree
   end
 
   create_table "wines", force: :cascade do |t|
@@ -114,7 +114,7 @@ ActiveRecord::Schema.define(version: 20170510230654) do
   add_foreign_key "retailer_stocks", "vintages"
   add_foreign_key "user_stocks", "users"
   add_foreign_key "user_stocks", "vintages"
-  add_foreign_key "vintages", "wine_notes"
   add_foreign_key "vintages", "wines"
+  add_foreign_key "wine_notes", "vintages"
   add_foreign_key "wines", "appellations"
 end
