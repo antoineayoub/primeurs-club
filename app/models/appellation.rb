@@ -1,0 +1,2 @@
+class Appellation < ApplicationRecord
+end
