@@ -33,7 +33,7 @@ module Scraper
         begin
           instance_variable_set("@#{attribute.to_s}", send(attribute))
         rescue NoMethodError
-          instance_variable_set("@#{attribute.to_s}", "N/A")
+          instance_variable_set("@#{attribute.to_s}", BordeauxPrimeurs.null_value)
         end
       end
     end
@@ -72,7 +72,7 @@ module Scraper
 
       total_vintages = []
       combined[:years].length.times do |i|
-        price = combined[:prices][i] == "..." ? "N/A" : combined[:prices][i]
+        price = combined[:prices][i] == "..." ? BordeauxPrimeurs.null_value : combined[:prices][i]
         
         total_vintages << { year: combined[:years][i], price: price }
       end

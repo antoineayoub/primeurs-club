@@ -8,6 +8,10 @@ module Scraper
       "http://www.bordeaux-primeurs.net"
     end
 
+    def self.null_value
+      nil
+    end    
+
     def self.run
       new
     end
@@ -35,7 +39,6 @@ module Scraper
       @output_hash[:wine_slugs][1..-1].map do |wine_slug|
          wine_details = collect_wine_details(wine_slug)
          @logger.info(wine_slug)
-         @logger.info(wine_details)
          wine_details
       end
     end
@@ -44,7 +47,7 @@ module Scraper
       document_object_model = dom_from_url(BordeauxPrimeurs.base_url + "/#{wine_slug}.php")
       Wine.build_from_dom(document_object_model).to_hash
     rescue
-      "N/A"
+      BordeauxPrimeurs.null_value
     end
 
     def write_to_output_file
