@@ -1,5 +1,3 @@
-require 'scraper/chateau_primeurs'
-
 namespace :scraper do
   desc "chateau primeurs scraper"
   task :chateau_primeurs => [:environment] do
