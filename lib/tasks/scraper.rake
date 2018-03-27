@@ -18,6 +18,6 @@ namespace :scraper do
 
   desc "bord overview scraper"  
   task :bordeaux_primeurs => [:environment] do
-    # Scraper::BordOverview.run
+    Scraper::BordOverview.run
   end  
 end
