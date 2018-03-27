@@ -34,7 +34,7 @@ module Scraper
             end
 
             #Wine
-            puts wine_name = wine_card.search(".produit_description a strong").text.strip.gsub(/\s*2016/,"")
+            puts wine_name = wine_card.search(".produit_description a strong").text.strip.gsub(/\s*2017/,"")
             rating = wine_card.search(".produit_classement").text.strip || ""
 
             status = wine_card.search(".produit_btn > a").text
