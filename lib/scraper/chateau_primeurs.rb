@@ -6,7 +6,7 @@ module Scraper
   class ChateauPrimeurs
     def run
       begin
-        html_file = open("https://www.chateauprimeur.com/Grand-vins-Bordeaux-primeur-2016")
+        html_file = open("https://www.chateauprimeur.com/Grand-vins-Bordeaux-primeur-2017/")
         html_doc  = Nokogiri::HTML(html_file, nil, 'utf-8')
         nb_pages = html_doc.search('.pagination > .tc span').last.text.to_i
 
@@ -16,7 +16,7 @@ module Scraper
         puts nb_pages
         for i in (1..nb_pages)
           puts "Page n°#{i}"
-          url = "https://www.chateauprimeur.com/catalogue/tous/2016?url=Grand-vins-Bordeaux-primeur-2016&page=#{i}"
+          url = "https://www.chateauprimeur.com/catalogue/tous/2017?url=Grand-vins-Bordeaux-primeur-2017&page=#{i}"
           html_file = open(url)
           html_doc  = Nokogiri::HTML(html_file, nil, 'utf-8')
           wine_cards =  html_doc.search('.produit')
