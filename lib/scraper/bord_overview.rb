@@ -17,10 +17,14 @@ module Scraper
 
     def collect_details_of_each_wine
       collect_unique_wine_names.map do |wine_name|
-        wine_dom = dom_from_wine_name(wine_name)      
-        wine = Wine::BordOverview.build_from_dom(wine_dom).to_hash
-        @logger.info(wine[:name]) if wine[:name]
-        wine
+        begin
+          wine_dom = dom_from_wine_name(wine_name)      
+          wine = Wine::BordOverview.build_from_dom(wine_dom).to_hash
+          @logger.info(wine[:name]) if wine[:name]
+          wine
+        rescue
+          Scraper::Base.null_value
+        end
       end
     end
     
