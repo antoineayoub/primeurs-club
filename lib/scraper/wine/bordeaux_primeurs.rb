@@ -4,31 +4,31 @@ module Scraper
       set_attributes :name, :stamp_image_url, :appellation, :rating, :colour, :description, :vintages
 
       def name
-        date.search("h2").first.inner_html
+        dom.search("h2").first.inner_html
       end
 
       def stamp_image_url
-        BordeauxPrimeurs.base_url + date.search("td[width='45%'] > img").first.attributes["src"].value
+        BordeauxPrimeurs.base_url + dom.search("td[width='45%'] > img").first.attributes["src"].value
       end
 
       def appellation
-        date.search("div > center").last.children.first.text
+        dom.search("div > center").last.children.first.text
       end
 
       def rating
-        date.search("div > center").last.children[3].text
+        dom.search("div > center").last.children[3].text
       end
 
       def colour
-        date.search("div > center").last.children.last.text
+        dom.search("div > center").last.children.last.text
       end
 
       def description
-        date.search("table[width='95%'] > tr > td > font").first.text.strip
+        dom.search("table[width='95%'] > tr > td > font").first.text.strip
       end
 
       def vintages
-        rows = date.search("table[width='100%'][cellspacing='1'][cellpadding='0'][bgcolor='#CCCCCC']")
+        rows = dom.search("table[width='100%'][cellspacing='1'][cellpadding='0'][bgcolor='#CCCCCC']")
 
         combined = rows.each_with_object({ years: [], prices: []}) do |row, hash|
           row.search("b").map(&:text).each { |year| hash[:years] << year }

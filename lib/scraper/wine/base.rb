@@ -1,29 +1,32 @@
 module Scraper
   module Wine
     module BaseClassMethods
+      attr_accessor :before_scraping_methods, :attributes
+
       def null_value
         nil
       end
   
-      def build_from_data(data)
-        new(data)
+      def build_from_dom(dom)
+        new(dom)
       end
   
       def set_attributes(*attributes)
-        @@attributes = attributes
+        @attributes = attributes
       end
 
-      def attributes
-        @@attributes
-      end
+      def before_scraping(*methods)
+        @before_scraping_methods = methods
+      end      
     end
 
     class Base
       extend BaseClassMethods
 
-      def initialize(data)
+      def initialize(dom)
         @attributes = self.class.attributes
-        @data = data
+        @dom = dom
+        run_before_scraping_methods
         collect_all_attributes
       end
 
@@ -35,8 +38,12 @@ module Scraper
 
       private
 
-      def data
-        @data
+      def dom
+        @dom
+      end
+
+      def run_before_scraping_methods
+        self.class.before_scraping_methods.each { |method_symbol| send(method_symbol) }
       end
 
       def collect_all_attributes

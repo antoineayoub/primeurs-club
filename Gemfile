@@ -19,6 +19,8 @@ gem 'autoprefixer-rails'
 gem 'remotipart', github: 'mshibuya/remotipart'
 gem 'rails_admin', '>= 1.0.0.rc'
 
+gem "selenium-webdriver"
+gem 'chromedriver-helper'
 
 group :development, :test do
   gem 'binding_of_caller'

@@ -4,19 +4,19 @@ module Scraper
       set_attributes :name, :appellation, :rating, :vintages
       
       def name
-        data.first.children.first.text.gsub(/\(buy\)$/, "").strip
+        dom.first.children.first.text.gsub(/\(buy\)$/, "").strip
       end
       
       def appellation
-        data.first.children[2].text
+        dom.first.children[2].text
       end
       
       def rating
-        data.first.children[3].text
+        dom.first.children[3].text
       end
       
       def vintages
-        data.map do |row| 
+        dom.map do |row| 
           row_as_hash = Scraper::BordOverview.headers.zip(extract_values_of_row(row)).to_h
           (BordOverview.attributes - [:vintages]).each { |attribute| row_as_hash.delete(attribute) }
           row_as_hash
