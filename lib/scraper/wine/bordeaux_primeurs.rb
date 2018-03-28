@@ -1,7 +1,7 @@
 module Scraper
   module Wine
     class BordeauxPrimeurs < Base
-      wine_attributes :name, :stamp_image_url, :appellation, :rating, :colour, :description, :vintages
+      set_attributes :name, :stamp_image_url, :appellation, :rating, :colour, :description, :vintages
 
       def name
         dom.search("h2").first.inner_html

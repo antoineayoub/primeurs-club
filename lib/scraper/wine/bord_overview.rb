@@ -1,7 +1,7 @@
 module Scraper
   module Wine
     class BordOverview < Wine::Base
-      wine_attributes :name, :appellation, :rating, :vintages
+      set_attributes :name, :appellation, :rating, :vintages
       
       def name
         dom.first.children.first.text.gsub(/\(buy\)$/, "").strip
