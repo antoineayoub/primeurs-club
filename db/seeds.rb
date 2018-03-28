@@ -1,14 +1,18 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+require "json"
+require "byebug"
+
+User.destroy_all
+Region.destroy_all
+Retailer.destroy_all
 
 User.create!(email: "antoine@ppc.com", password: "12345678", admin: true)
 
 Region.create(name: "Bordeaux")
-Retailer.create(name: "Château Primeur", type: "revendeur")
-Retailer.create(name: "Millesima", type: "revendeur")
-Retailer.create(name: "The Wine Merchang", type: "negociant")
+Retailer.create(name: "Château Primeur", category: "revendeur")
+Retailer.create(name: "Millesima", category: "revendeur")
+Retailer.create(name: "The Wine Merchang", category: "negociant")
+
+# bordeaux_primeurs_json = JSON.parse(File.open(Rails.root.join("db/scraper/bordeaux_primeurs.json")).read, symbolize_names: true)
+
+# bordeaux_primeurs_json[:wine_details].each do |wine_attributes|
+# end

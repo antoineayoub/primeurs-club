@@ -3,7 +3,7 @@ class CreateRetailers < ActiveRecord::Migration[5.0]
     create_table :retailers do |t|
       t.string :name
       t.string :email
-      t.string :type
+      t.string :category
       t.timestamps
     end
   end
