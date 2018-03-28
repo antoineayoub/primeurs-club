@@ -12,6 +12,10 @@ module Scraper
       def wine_attributes(*attributes)
         @@attributes = attributes
       end
+
+      def attributes
+        @@attributes
+      end
     end
 
     class Base

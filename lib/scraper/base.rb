@@ -37,7 +37,6 @@ module Scraper
       @output_file_path = Rails.root.join("db/scraper/#{self.class.output_file_name}")
 
       @logger = Logger.new(STDOUT)
-      @logger.progname = "scraper"
       @output_hash = {}
 
       run
