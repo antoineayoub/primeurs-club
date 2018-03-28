@@ -38,16 +38,6 @@ ActiveRecord::Schema.define(version: 20180328154552) do
     t.datetime "updated_at", null: false
   end
 
-  create_table "retailer_stocks", id: :serial, force: :cascade do |t|
-    t.integer "retailer_id"
-    t.integer "vintage_id"
-    t.integer "quantity"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.index ["retailer_id"], name: "index_retailer_stocks_on_retailer_id"
-    t.index ["vintage_id"], name: "index_retailer_stocks_on_vintage_id"
-  end
-
   create_table "retailers", id: :serial, force: :cascade do |t|
     t.string "name"
     t.string "email"
@@ -106,8 +96,6 @@ ActiveRecord::Schema.define(version: 20180328154552) do
 
   add_foreign_key "appellations", "regions"
   add_foreign_key "photos", "wines"
-  add_foreign_key "retailer_stocks", "retailers"
-  add_foreign_key "retailer_stocks", "vintages"
   add_foreign_key "vintages", "wines"
   add_foreign_key "wine_notes", "vintages"
   add_foreign_key "wines", "appellations"
