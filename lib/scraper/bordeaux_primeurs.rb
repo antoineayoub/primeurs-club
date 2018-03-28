@@ -1,30 +1,11 @@
-require 'open-uri'
-require 'json'
-require 'nokogiri'
-
 module Scraper
-  class BordeauxPrimeurs
-    def self.base_url
-      "http://www.bordeaux-primeurs.net"
-    end
+  class BordeauxPrimeurs < Base
+    set_base_url "http://www.bordeaux-primeurs.net"
+    set_output_file "bordeaux_primeurs.json"
 
-    def self.null_value
-      nil
-    end    
-
-    def self.run
-      new
-    end
-
-    def initialize
-      @output_file_path = Rails.root.join("db/scraper/bordeaux_primeurs.json")
-      @output_hash = {}
-      @logger = Logger.new(STDOUT)
-      @logger.progname = "scraper"
-
+    def run
       @output_hash[:wine_slugs] = collect_all_wine_slugs
       @output_hash[:wine_details] = collect_details_of_each_wine
-      write_to_output_file
     end
     
     private
@@ -45,21 +26,9 @@ module Scraper
 
     def collect_wine_details(wine_slug)
       document_object_model = dom_from_url(BordeauxPrimeurs.base_url + "/#{wine_slug}.php")
-      Wine.build_from_dom(document_object_model).to_hash
+      Wine::BordeuxPrimeurs.build_from_dom(document_object_model).to_hash
     rescue
-      BordeauxPrimeurs.null_value
-    end
-
-    def write_to_output_file
-      stringified_json = JSON.pretty_generate(@output_hash)
-
-      json_file = File.open(@output_file_path, "w")
-      json_file.puts(stringified_json)
-      json_file.close
-    end
-
-    def dom_from_url(url)
-      Nokogiri::HTML(open(url), nil, 'utf-8')
+      Scraper::Base.null_value
     end
   end
 end

@@ -1,5 +1,3 @@
-require 'scraper/chateau_primeurs'
-
 namespace :scraper do
   desc "chateau primeurs scraper"
   task :chateau_primeurs => [:environment] do
@@ -14,5 +12,10 @@ namespace :scraper do
   desc "bordeaux primeurs scraper"  
   task :bordeaux_primeurs => [:environment] do
     Scraper::BordeauxPrimeurs.run
+  end
+
+  desc "bord overview scraper"  
+  task :bord_overview => [:environment] do
+    Scraper::BordOverview.run
   end  
 end
