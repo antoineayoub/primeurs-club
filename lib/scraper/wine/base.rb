@@ -1,6 +1,8 @@
 module Scraper
   module Wine
     module BaseClassMethods
+      attr_accessor :before_scraping_methods, :attributes
+
       def null_value
         nil
       end
@@ -9,13 +11,13 @@ module Scraper
         new(dom)
       end
   
-      def wine_attributes(*attributes)
-        @@attributes = attributes
+      def set_attributes(*attributes)
+        @attributes = attributes
       end
 
-      def attributes
-        @@attributes
-      end
+      def before_scraping(*methods)
+        @before_scraping_methods = methods
+      end      
     end
 
     class Base
@@ -24,6 +26,7 @@ module Scraper
       def initialize(dom)
         @attributes = self.class.attributes
         @dom = dom
+        run_before_scraping_methods
         collect_all_attributes
       end
 
@@ -37,6 +40,10 @@ module Scraper
 
       def dom
         @dom
+      end
+
+      def run_before_scraping_methods
+        self.class.before_scraping_methods.each { |method_symbol| send(method_symbol) }
       end
 
       def collect_all_attributes
