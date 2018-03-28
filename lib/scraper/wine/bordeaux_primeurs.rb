@@ -1,34 +1,34 @@
 module Scraper
   module Wine
     class BordeauxPrimeurs < Base
-      wine_attributes :name, :stamp_image_url, :appellation, :rating, :colour, :description, :vintages
+      set_attributes :name, :stamp_image_url, :appellation, :rating, :colour, :description, :vintages
 
       def name
-        dom.search("h2").first.inner_html
+        date.search("h2").first.inner_html
       end
 
       def stamp_image_url
-        BordeauxPrimeurs.base_url + dom.search("td[width='45%'] > img").first.attributes["src"].value
+        BordeauxPrimeurs.base_url + date.search("td[width='45%'] > img").first.attributes["src"].value
       end
 
       def appellation
-        dom.search("div > center").last.children.first.text
+        date.search("div > center").last.children.first.text
       end
 
       def rating
-        dom.search("div > center").last.children[3].text
+        date.search("div > center").last.children[3].text
       end
 
       def colour
-        dom.search("div > center").last.children.last.text
+        date.search("div > center").last.children.last.text
       end
 
       def description
-        dom.search("table[width='95%'] > tr > td > font").first.text.strip
+        date.search("table[width='95%'] > tr > td > font").first.text.strip
       end
 
       def vintages
-        rows = dom.search("table[width='100%'][cellspacing='1'][cellpadding='0'][bgcolor='#CCCCCC']")
+        rows = date.search("table[width='100%'][cellspacing='1'][cellpadding='0'][bgcolor='#CCCCCC']")
 
         combined = rows.each_with_object({ years: [], prices: []}) do |row, hash|
           row.search("b").map(&:text).each { |year| hash[:years] << year }

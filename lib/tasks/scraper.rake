@@ -6,16 +6,16 @@ namespace :scraper do
 
   desc "millesima scraper"
   task :millesima => [:environment] do
-    Scraper::Millesima.new.run
+    Scraper::Millesima.run
   end 
 
   desc "bordeaux primeurs scraper"  
   task :bordeaux_primeurs => [:environment] do
     Scraper::BordeauxPrimeurs.run
   end
-
+  
   desc "bord overview scraper"  
   task :bord_overview => [:environment] do
     Scraper::BordOverview.run
-  end  
+  end
 end

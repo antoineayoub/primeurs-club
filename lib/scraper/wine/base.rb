@@ -5,11 +5,11 @@ module Scraper
         nil
       end
   
-      def build_from_dom(dom)
-        new(dom)
+      def build_from_data(data)
+        new(data)
       end
   
-      def wine_attributes(*attributes)
+      def set_attributes(*attributes)
         @@attributes = attributes
       end
 
@@ -21,9 +21,9 @@ module Scraper
     class Base
       extend BaseClassMethods
 
-      def initialize(dom)
+      def initialize(data)
         @attributes = self.class.attributes
-        @dom = dom
+        @data = data
         collect_all_attributes
       end
 
@@ -35,8 +35,8 @@ module Scraper
 
       private
 
-      def dom
-        @dom
+      def data
+        @data
       end
 
       def collect_all_attributes

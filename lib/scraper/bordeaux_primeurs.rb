@@ -26,7 +26,7 @@ module Scraper
 
     def collect_wine_details(wine_slug)
       document_object_model = dom_from_url(BordeauxPrimeurs.base_url + "/#{wine_slug}.php")
-      Wine::BordeuxPrimeurs.build_from_dom(document_object_model).to_hash
+      Wine::BordeuxPrimeurs.build_from_data(document_object_model).to_hash
     rescue
       Scraper::Base.null_value
     end
