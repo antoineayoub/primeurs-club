@@ -11,7 +11,7 @@ def build_wine_notes_for_vintage(vintage_object, vintage_attributes)
       vintage: vintage_object
     )
 
-    SeedLogger.debug(wine_note.as_json)
+    Seed::Logger.debug(wine_note.as_json)
   end
 end
 
@@ -19,17 +19,17 @@ def format_vintage_price(price)
   price.is_a?(String) ? price.gsub(/\D/, "") : nil
 end
 
-SeedLogger.info("destorying users")
+Seed::Logger.info("destorying users")
 User.destroy_all
-SeedLogger.info("destorying regions")
+Seed::Logger.info("destorying regions")
 Region.destroy_all
-SeedLogger.info("destorying retailers")
+Seed::Logger.info("destorying retailers")
 Retailer.destroy_all
-SeedLogger.info("destorying wine notes")
+Seed::Logger.info("destorying wine notes")
 WineNote.destroy_all
-SeedLogger.info("destorying vintages")
+Seed::Logger.info("destorying vintages")
 Vintage.destroy_all
-SeedLogger.info("destorying wines")
+Seed::Logger.info("destorying wines")
 Wine.destroy_all
 
 User.create!(email: "antoine@ppc.com", password: "12345678", admin: true)
@@ -50,7 +50,7 @@ bordeaux_primeurs_json[:wine_details].each do |wine_attributes|
       appellation: appellation
     )
 
-    SeedLogger.info(wine.as_json)
+    Seed::Logger.info(wine.as_json)
 
     wine_attributes[:vintages].each do |vintage_attributes|
       vintage = Vintage.create!(
@@ -59,12 +59,12 @@ bordeaux_primeurs_json[:wine_details].each do |wine_attributes|
         wine: wine
       )
 
-      SeedLogger.debug(vintage.as_json)
+      Seed::Logger.debug(vintage.as_json)
 
       build_wine_notes_for_vintage(vintage, vintage_attributes)
     end
 
   rescue => e
-    SeedLogger.error(e)
+    Seed::Logger.error(e)
   end
 end
