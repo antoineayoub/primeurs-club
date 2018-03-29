@@ -18,4 +18,9 @@ namespace :scraper do
   task :bord_overview => [:environment] do
     Scraper::BordOverview.run
   end
+
+  desc "bord overview scraper"  
+  task :millesima_index_page => [:environment] do
+    Scraper::MillesimaIndexPage.run
+  end  
 end

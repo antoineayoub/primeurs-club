@@ -43,7 +43,9 @@ module Scraper
       end
 
       def run_before_scraping_methods
-        self.class.before_scraping_methods.each { |method_symbol| send(method_symbol) }
+        if self.class.before_scraping_methods
+          self.class.before_scraping_methods.each { |method_symbol| send(method_symbol) }
+        end
       end
 
       def collect_all_attributes
