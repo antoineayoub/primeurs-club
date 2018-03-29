@@ -575,7 +575,7 @@
   "wine_details": [
     {
       "name": "Amiral de Beychevelle",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/amiral_de_beychevelle.jpg",
       "appellation": "Saint-Julien",
       "rating": "Second vin du Château Beychevelle",
       "colour": "Vin rouge",
@@ -733,7 +733,7 @@
     },
     {
       "name": "Baron de Brane",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/le_baron_de_brane.jpg",
       "appellation": "Margaux",
       "rating": "Second vin du Château Brane Cantenac",
       "colour": "Vin rouge",
@@ -891,7 +891,7 @@
     },
     {
       "name": "Blason d'Issan",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/blason_issan.jpg",
       "appellation": "Margaux",
       "rating": "Second vin du Château d'Issan",
       "colour": "Vin rouge",
@@ -1049,7 +1049,7 @@
     },
     {
       "name": "Blason de l'Evangile",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/blason_evangile.jpg",
       "appellation": "Pomerol",
       "rating": "Second vin du Château Evangile",
       "colour": "Vin rouge",
@@ -1207,7 +1207,7 @@
     },
     {
       "name": "Brio de Cantenac Brown",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/brio_de_cantenac.jpg",
       "appellation": "Margaux",
       "rating": "Second vin du Château Cantenac Brown",
       "colour": "Vin rouge",
@@ -1365,7 +1365,7 @@
     },
     {
       "name": "Carmes de Rieussec",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/carmes_de_rieussec.jpg",
       "appellation": "Sauternes",
       "rating": "Second vin du Château Rieussec",
       "colour": "Vin blanc liquoreux",
@@ -1523,7 +1523,7 @@
     },
     {
       "name": "Carruades de Lafite",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/carruades_de_lafite.jpg",
       "appellation": "Pauillac",
       "rating": "Second vin du Château Lafite-Rothschild",
       "colour": "Vin rouge",
@@ -1681,7 +1681,7 @@
     },
     {
       "name": "Chapelle d'Ausone",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chapelle_ausone.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Second vin du Château Ausone",
       "colour": "Vin rouge",
@@ -1839,7 +1839,7 @@
     },
     {
       "name": "Chapelle de Potensac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chapelle_de_potensac.jpg",
       "appellation": "Médoc",
       "rating": "Second vin du Château Potensac",
       "colour": "Vin rouge",
@@ -1997,7 +1997,7 @@
     },
     {
       "name": "Château Andréas",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_andreas.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -2155,7 +2155,7 @@
     },
     {
       "name": "Château Angélus",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_angelus.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé A",
       "colour": "Vin rouge",
@@ -2313,7 +2313,7 @@
     },
     {
       "name": "Château Anthonic",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_anthonic.jpg",
       "appellation": "Moulis",
       "rating": "",
       "colour": "Vin rouge",
@@ -2471,7 +2471,7 @@
     },
     {
       "name": "Château L'Archange",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_archange.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -2629,7 +2629,7 @@
     },
     {
       "name": "Château Armens",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_armens.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -2787,7 +2787,7 @@
     },
     {
       "name": "Château Arnauld",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_arnauld.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -2945,7 +2945,7 @@
     },
     {
       "name": "Château Ausone",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_ausone.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé A",
       "colour": "Vin rouge",
@@ -3103,7 +3103,7 @@
     },
     {
       "name": "Château Balestard la Tonnelle",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_balestard_la_tonnelle.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -3257,7 +3257,7 @@
     },
     {
       "name": "Château Barde-Haut",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_barde_haut.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -3415,7 +3415,7 @@
     },
     {
       "name": "Château Bastor-Lamontagne",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_bastor_lamontagne.jpg",
       "appellation": "Sauternes",
       "rating": "",
       "colour": "Vin blanc liquoreux",
@@ -3573,7 +3573,7 @@
     },
     {
       "name": "Château Batailley",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_batailley.jpg",
       "appellation": "Pauillac",
       "rating": "Cinquième cru classé du Médoc",
       "colour": "Vin rouge",
@@ -3731,7 +3731,7 @@
     },
     {
       "name": "Château Beaumont",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_beaumont.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -3889,7 +3889,7 @@
     },
     {
       "name": "Château Beauregard",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_beauregard.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -4047,7 +4047,7 @@
     },
     {
       "name": "Château Beau-Séjour Bécot",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_beau_sejour_becot.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé B",
       "colour": "Vin rouge",
@@ -4205,7 +4205,7 @@
     },
     {
       "name": "Château Beauséjour",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_beausejour.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé B",
       "colour": "Vin rouge",
@@ -4363,7 +4363,7 @@
     },
     {
       "name": "Château Beau-Site",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_beau_site.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -4521,7 +4521,7 @@
     },
     {
       "name": "Château Beau Soleil",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_beau_soleil.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -4679,7 +4679,7 @@
     },
     {
       "name": "Château Beausoleil",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/graph_chateau_beausoleil.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -4837,7 +4837,7 @@
     },
     {
       "name": "Château Bel Air",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_bel_air.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -4995,7 +4995,7 @@
     },
     {
       "name": "Château Bel Orme Tronquoy de Lalande",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_bel_orme_tronquoy_de_lalande.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -5153,7 +5153,7 @@
     },
     {
       "name": "Château Bélair Monange",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_belair_monange.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé B",
       "colour": "Vin rouge",
@@ -5311,7 +5311,7 @@
     },
     {
       "name": "Château Belgrave",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_belgrave.jpg",
       "appellation": "Haut-Médoc",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -5469,7 +5469,7 @@
     },
     {
       "name": "Château Bellefont-Belcier",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_bellefont_belcier.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -5627,7 +5627,7 @@
     },
     {
       "name": "Château Bellegrave",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_bellegrave.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -5785,7 +5785,7 @@
     },
     {
       "name": "Château Belle-Vue",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_belle_vue.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -5943,7 +5943,7 @@
     },
     {
       "name": "Château Bellevue",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_bellevue.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -6101,7 +6101,7 @@
     },
     {
       "name": "Château Bellevue Mondotte",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_bellevue_mondotte.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -6259,7 +6259,7 @@
     },
     {
       "name": "Château Bellisle Mondotte",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_bellisle_mondotte.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -6417,7 +6417,7 @@
     },
     {
       "name": "Château Bergat",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_bergat.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -6575,7 +6575,7 @@
     },
     {
       "name": "Château Berliquet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_berliquet.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -6733,7 +6733,7 @@
     },
     {
       "name": "Château Bernadotte",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_bernadotte.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -6891,7 +6891,7 @@
     },
     {
       "name": "Château Bertineau Saint-Vincent",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_bertineau_saint_vincent.jpg",
       "appellation": "Lalande de Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -7049,7 +7049,7 @@
     },
     {
       "name": "Château Beychevelle",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_beychevelle.jpg",
       "appellation": "Saint-Julien",
       "rating": "Quatrième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -7207,7 +7207,7 @@
     },
     {
       "name": "Château Biston-Brillette",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_biston_brillette.jpg",
       "appellation": "Moulis",
       "rating": "",
       "colour": "Vin rouge",
@@ -7365,7 +7365,7 @@
     },
     {
       "name": "Château Bellegrave",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_bonalgue.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -7523,7 +7523,7 @@
     },
     {
       "name": "Château Bourgneuf-Vayron",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_bourgneuf_vayron.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -7681,7 +7681,7 @@
     },
     {
       "name": "Château Bournac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_bournac.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -7839,7 +7839,7 @@
     },
     {
       "name": "Château Bouscaut",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_bouscaut.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Grand Cru Classé de Graves",
       "colour": "Vin rouge & blanc",
@@ -8145,7 +8145,7 @@
     },
     {
       "name": "Château Boutisse",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_boutisse.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -8303,7 +8303,7 @@
     },
     {
       "name": "Château Boyd-Cantenac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_boyd_cantenac.jpg",
       "appellation": "Margaux",
       "rating": "Troisième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -8461,7 +8461,7 @@
     },
     {
       "name": "Château Branaire Ducru",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_branaire_ducru.jpg",
       "appellation": "Saint-Julien",
       "rating": "Quatrième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -8619,7 +8619,7 @@
     },
     {
       "name": "Château Branas Grand Poujeaux",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_branas_grand_poujeaux.jpg",
       "appellation": "Moulis",
       "rating": "",
       "colour": "Vin rouge",
@@ -8777,7 +8777,7 @@
     },
     {
       "name": "Château Brane-Cantenac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_brane_cantenac.jpg",
       "appellation": "Margaux",
       "rating": "Deuxième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -8935,7 +8935,7 @@
     },
     {
       "name": "Château Branon",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_branon.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "",
       "colour": "Vin rouge",
@@ -9093,7 +9093,7 @@
     },
     {
       "name": "Château Brillette",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_brillette.jpg",
       "appellation": "Moulis",
       "rating": "",
       "colour": "Vin rouge",
@@ -9251,7 +9251,7 @@
     },
     {
       "name": "Château Broustet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_broustet.jpg",
       "appellation": "Barsac",
       "rating": "Second Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -9409,7 +9409,7 @@
     },
     {
       "name": "Château Brown",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_brown.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "",
       "colour": "Vin rouge & blanc",
@@ -9715,7 +9715,7 @@
     },
     {
       "name": "Château Cadet-Bon",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cadet_bon.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -9873,7 +9873,7 @@
     },
     {
       "name": "Château Cadet-Piola",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cadet_piola.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -10031,7 +10031,7 @@
     },
     {
       "name": "Château Caillou",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_caillou.jpg",
       "appellation": "Sauternes",
       "rating": "Second Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -10189,7 +10189,7 @@
     },
     {
       "name": "Château Calon-Ségur",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_calon_segur.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "Troisième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -10347,7 +10347,7 @@
     },
     {
       "name": "Château Cambon la Pelouse",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cambon_la_pelouse.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -10505,7 +10505,7 @@
     },
     {
       "name": "Château Canon",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_canon.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé B",
       "colour": "Vin rouge",
@@ -10663,7 +10663,7 @@
     },
     {
       "name": "Château Canon-La-Gaffelière",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_canon_la_gaffeliere.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé B",
       "colour": "Vin rouge",
@@ -10821,7 +10821,7 @@
     },
     {
       "name": "Château Cantegril",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cantegril.jpg",
       "appellation": "Sauternes",
       "rating": "",
       "colour": "Vin blanc liquoreux",
@@ -10979,7 +10979,7 @@
     },
     {
       "name": "Château Cantelauze",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cantelauze.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -11137,7 +11137,7 @@
     },
     {
       "name": "Château Cantelys",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cantelys.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "",
       "colour": "Vin rouge & blanc",
@@ -11443,7 +11443,7 @@
     },
     {
       "name": "Château Cantemerle",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cantemerle.jpg",
       "appellation": "Haut-Médoc",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -11601,7 +11601,7 @@
     },
     {
       "name": "Château Cantenac Brown",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cantenac_brown.jpg",
       "appellation": "Margaux",
       "rating": "Troisième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -11759,7 +11759,7 @@
     },
     {
       "name": "Château Cap de Faugères",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cap_de_faugeres.jpg",
       "appellation": "Castillon Côtes de Bordeaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -11917,7 +11917,7 @@
     },
     {
       "name": "Château Cap de Mourlin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cap_de_mourlin.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -12075,7 +12075,7 @@
     },
     {
       "name": "Château Cap Léon Veyrin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cap_leon_veyrin.jpg",
       "appellation": "Listrac-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -12233,7 +12233,7 @@
     },
     {
       "name": "Château Capbern",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_capbern_gasqueton.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -12395,7 +12395,7 @@
     },
     {
       "name": "Château Carbonnieux",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_carbonnieux.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Grand Cru Classé de Graves",
       "colour": "Vin rouge & blanc",
@@ -12701,7 +12701,7 @@
     },
     {
       "name": "Château Caronne Sainte-Gemme",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_caronne_sainte_gemme.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -12859,7 +12859,7 @@
     },
     {
       "name": "Château Cartier",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cartier.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -13017,7 +13017,7 @@
     },
     {
       "name": "Château Castera",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_castera.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -13175,7 +13175,7 @@
     },
     {
       "name": "Château Certan de May",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_certan_de_may.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -13333,7 +13333,7 @@
     },
     {
       "name": "Château Chambert-Marbuzet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_chambert_marbuzet.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -13491,7 +13491,7 @@
     },
     {
       "name": "Château Charmail",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_charmail.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -13649,7 +13649,7 @@
     },
     {
       "name": "Château Chasse-Spleen",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_chasse_spleen.jpg",
       "appellation": "Moulis",
       "rating": "",
       "colour": "Vin rouge",
@@ -13807,7 +13807,7 @@
     },
     {
       "name": "Château Chauvin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_chauvin.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -13965,7 +13965,7 @@
     },
     {
       "name": "Château Cheval Blanc",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cheval_blanc.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé A",
       "colour": "Vin rouge",
@@ -14123,7 +14123,7 @@
     },
     {
       "name": "Château Cissac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cissac.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -14281,7 +14281,7 @@
     },
     {
       "name": "Château Citran",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_citran.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -14439,7 +14439,7 @@
     },
     {
       "name": "Château Clarke",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_clarke.jpg",
       "appellation": "Listrac-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -14597,7 +14597,7 @@
     },
     {
       "name": "Château Clauzet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_clauzet.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -14755,7 +14755,7 @@
     },
     {
       "name": "Château Clément Pichon",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_clement_pichon.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -14913,7 +14913,7 @@
     },
     {
       "name": "Château Clerc Milon",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_clerc_milon.jpg",
       "appellation": "Pauillac",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -15071,7 +15071,7 @@
     },
     {
       "name": "Château Climens",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_climens.jpg",
       "appellation": "Barsac",
       "rating": "Premier Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -15229,7 +15229,7 @@
     },
     {
       "name": "Château Clinet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_clinet.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -15387,7 +15387,7 @@
     },
     {
       "name": "Château Clos de Salles",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_clos_de_salles.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -15545,7 +15545,7 @@
     },
     {
       "name": "Château Clos de Sarpe",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_clos_de_sarpe.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -15703,7 +15703,7 @@
     },
     {
       "name": "Château Clos des Jacobins",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_clos_des_jacobins.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -15861,7 +15861,7 @@
     },
     {
       "name": "Château Clos des Prince",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_clos_des_princes.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -16019,7 +16019,7 @@
     },
     {
       "name": "Château Clos Haut-Peyraguey",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_clos_haut_peyraguey.jpg",
       "appellation": "Sauternes",
       "rating": "Premier Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -16177,7 +16177,7 @@
     },
     {
       "name": "Château Colombier-Monpelou",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_colombier_monpelou.jpg",
       "appellation": "Pauillac",
       "rating": "",
       "colour": "Vin rouge",
@@ -16335,7 +16335,7 @@
     },
     {
       "name": "Château Corbin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_corbin.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -16493,7 +16493,7 @@
     },
     {
       "name": "Château Corbin Michotte",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_corbin_michotte.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -16651,7 +16651,7 @@
     },
     {
       "name": "Cos Labory",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cos_labory.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -16809,7 +16809,7 @@
     },
     {
       "name": "Château Côte de Baleau",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cote_de_baleau.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -16967,7 +16967,7 @@
     },
     {
       "name": "Château Coufran",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_coufran.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -17125,7 +17125,7 @@
     },
     {
       "name": "Château Couhins",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_couhins.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Grand Cru Classé de Graves",
       "colour": "Vin rouge et blanc",
@@ -17431,7 +17431,7 @@
     },
     {
       "name": "Château Couhins-Lurton",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_couhins_lurton.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Grand Cru Classé de Graves",
       "colour": "Vin rouge et blanc",
@@ -17737,7 +17737,7 @@
     },
     {
       "name": "Château Coutet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_coutet.jpg",
       "appellation": "Barsac",
       "rating": "Premier Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -17895,7 +17895,7 @@
     },
     {
       "name": "Château Croix de Labrie",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_croix_de_labrie.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -18053,7 +18053,7 @@
     },
     {
       "name": "Château Croizet-Bages",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_croizet_bages.jpg",
       "appellation": "Pauillac",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -18211,7 +18211,7 @@
     },
     {
       "name": "Château d'Agassac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_agassac.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -18369,7 +18369,7 @@
     },
     {
       "name": "Château d'Aiguilhe",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_aiguilhe.jpg",
       "appellation": "Castillon Côtes de Bordeaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -18527,7 +18527,7 @@
     },
     {
       "name": "Château d'Angludet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_angludet.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -18685,7 +18685,7 @@
     },
     {
       "name": "Château d´Arche",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_arche.jpg",
       "appellation": "Sauternes",
       "rating": "Second Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -18843,7 +18843,7 @@
     },
     {
       "name": "Château d'Arche",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_arche_hm.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -19001,7 +19001,7 @@
     },
     {
       "name": "Château d´Armailhac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_armailhac.jpg",
       "appellation": "Pauillac",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -19159,7 +19159,7 @@
     },
     {
       "name": "Château d'Arsac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_arsac.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -19317,7 +19317,7 @@
     },
     {
       "name": "Château d'Escurac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_escurac.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -19475,7 +19475,7 @@
     },
     {
       "name": "Château d´Issan",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_issan.jpg",
       "appellation": "Margaux",
       "rating": "Troisième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -19633,7 +19633,7 @@
     },
     {
       "name": "Château d'Yquem",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_yquem.jpg",
       "appellation": "Sauternes",
       "rating": "Premier Cru Classé Supérieur",
       "colour": "Vin blanc liquoreux",
@@ -19791,7 +19791,7 @@
     },
     {
       "name": "Château Dalem",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_dalem.jpg",
       "appellation": "Fronsac",
       "rating": "",
       "colour": "Vin rouge",
@@ -19949,7 +19949,7 @@
     },
     {
       "name": "Château Dassault",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_dassault.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -20107,7 +20107,7 @@
     },
     {
       "name": "Château Dauzac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_dauzac.jpg",
       "appellation": "Margaux",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -20265,7 +20265,7 @@
     },
     {
       "name": "Château de Camensac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_camensac.jpg",
       "appellation": "Haut-Médoc",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -20423,7 +20423,7 @@
     },
     {
       "name": "Château de Carlmagnus",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_carlmagnus.jpg",
       "appellation": "Fronsac",
       "rating": "",
       "colour": "Vin rouge",
@@ -20581,7 +20581,7 @@
     },
     {
       "name": "Château de Carolus",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_carolus.jpg",
       "appellation": "Fronsac",
       "rating": "",
       "colour": "Vin rouge",
@@ -20739,7 +20739,7 @@
     },
     {
       "name": "Château de Chambrun",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_chambrun.jpg",
       "appellation": "Lalande de Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -20897,7 +20897,7 @@
     },
     {
       "name": "Château de Fargues",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_fargues.jpg",
       "appellation": "Sauternes",
       "rating": "",
       "colour": "Vin blanc liquoreux",
@@ -21055,7 +21055,7 @@
     },
     {
       "name": "Château de Fieuzal",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_fieuzal.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Grand Cru Classé de Graves",
       "colour": "Vin rouge & blanc",
@@ -21361,7 +21361,7 @@
     },
     {
       "name": "Château de Fonbel",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_fonbel.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -21519,7 +21519,7 @@
     },
     {
       "name": "Château de la Dauphine",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_la_dauphine.jpg",
       "appellation": "Fronsac",
       "rating": "",
       "colour": "Vin rouge",
@@ -21677,7 +21677,7 @@
     },
     {
       "name": "Château de Lamarque",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_lamarque.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -21835,7 +21835,7 @@
     },
     {
       "name": "Château de Laussac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_laussac.jpg",
       "appellation": "Castillon Côtes de Bordeaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -21993,7 +21993,7 @@
     },
     {
       "name": "Château de Malle",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_malle.jpg",
       "appellation": "Sauternes",
       "rating": "Second Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -22151,7 +22151,7 @@
     },
     {
       "name": "Château de Malleret",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_malleret.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -22309,7 +22309,7 @@
     },
     {
       "name": "Château de Marbuzet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_marbuzet.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -22467,7 +22467,7 @@
     },
     {
       "name": "Château de Myrat",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_myrat.jpg",
       "appellation": "Sauternes",
       "rating": "Second Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -22625,7 +22625,7 @@
     },
     {
       "name": "Château de Pez",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_pez.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -22783,7 +22783,7 @@
     },
     {
       "name": "Château de Pressac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_pressac.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -22941,7 +22941,7 @@
     },
     {
       "name": "Château Sainte-Gemme",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_sainte_gemme.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -23099,7 +23099,7 @@
     },
     {
       "name": "Château de Sales",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_sales.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -23257,7 +23257,7 @@
     },
     {
       "name": "Château de Viaud",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_viaud.jpg",
       "appellation": "Lalande de Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -23415,7 +23415,7 @@
     },
     {
       "name": "Château de Villegeorge",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_de_villegeorge.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -23573,7 +23573,7 @@
     },
     {
       "name": "Château des Eyrins",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_des_eyrins.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -23731,7 +23731,7 @@
     },
     {
       "name": "Château Desmirail",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_desmirail.jpg",
       "appellation": "Margaux",
       "rating": "Troisième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -23889,7 +23889,7 @@
     },
     {
       "name": "Château Destieux",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_destieux.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -24047,7 +24047,7 @@
     },
     {
       "name": "Château Deyrem Valentin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_deyrem_valentin.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -24205,7 +24205,7 @@
     },
     {
       "name": "Château Doisy Daëne",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_doisy_daene.jpg",
       "appellation": "Sauternes",
       "rating": "Second Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -24363,7 +24363,7 @@
     },
     {
       "name": "Château Doisy Dubroca",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_doisy_dubroca.jpg",
       "appellation": "Barsac",
       "rating": "Second Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -24521,7 +24521,7 @@
     },
     {
       "name": "Château Doisy-Védrines",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_doisy_vedrines.jpg",
       "appellation": "Barsac",
       "rating": "Second Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -24679,7 +24679,7 @@
     },
     {
       "name": "Château Domeyne",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_domeyne.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -24837,7 +24837,7 @@
     },
     {
       "name": "Château Dubois-Grimon",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_dubois_grimon.jpg",
       "appellation": "Castillon Côtes de Bordeaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -24995,7 +24995,7 @@
     },
     {
       "name": "Château Ducru-Beaucaillou",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_ducru_beaucaillou.jpg",
       "appellation": "Saint-Julien",
       "rating": "Deuxième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -25153,7 +25153,7 @@
     },
     {
       "name": "Château Duhart-Milon",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_duhart_milon_rothschild.jpg",
       "appellation": "Pauillac",
       "rating": "Quatrième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -25311,7 +25311,7 @@
     },
     {
       "name": "Château Durfort-Vivens",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_durfort_vivens.jpg",
       "appellation": "Margaux",
       "rating": "Deuxième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -25469,7 +25469,7 @@
     },
     {
       "name": "Château Dutruch Grand Poujeaux",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_dutruch_grand_poujeaux.jpg",
       "appellation": "Moulis",
       "rating": "",
       "colour": "Vin rouge",
@@ -25627,7 +25627,7 @@
     },
     {
       "name": "Château du Cros Figeac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cros_figeac.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -25785,7 +25785,7 @@
     },
     {
       "name": "Château du Domaine de l'Eglise",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_domaine_eglise.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -25943,7 +25943,7 @@
     },
     {
       "name": "Château du Glana",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_du_glana.jpg",
       "appellation": "Saint-Julien",
       "rating": "",
       "colour": "Vin rouge",
@@ -26101,7 +26101,7 @@
     },
     {
       "name": "Château du Taillan",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_du_taillan.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -26259,7 +26259,7 @@
     },
     {
       "name": "Château du Tertre",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_du_tertre.jpg",
       "appellation": "Margaux",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -26417,7 +26417,7 @@
     },
     {
       "name": "Château Faugères",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_faugeres.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -26575,7 +26575,7 @@
     },
     {
       "name": "Château Fayat",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_fayat.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -26733,7 +26733,7 @@
     },
     {
       "name": "Château Ferran",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_ferran.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "",
       "colour": "Vin rouge & blanc",
@@ -27039,7 +27039,7 @@
     },
     {
       "name": "Château Ferrand",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_ferrand.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -27197,7 +27197,7 @@
     },
     {
       "name": "Château Ferrand Lartigue",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_ferrand_lartigue.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -27355,7 +27355,7 @@
     },
     {
       "name": "Château Ferrière",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_ferriere.jpg",
       "appellation": "Margaux",
       "rating": "Troisième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -27513,7 +27513,7 @@
     },
     {
       "name": "Château Feytit-Clinet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_feytit_clinet.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -27671,7 +27671,7 @@
     },
     {
       "name": "Château Figeac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_figeac.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé B",
       "colour": "Vin rouge",
@@ -27829,7 +27829,7 @@
     },
     {
       "name": "Château Filhot",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_filhot.jpg",
       "appellation": "Sauternes",
       "rating": "Second Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -27987,7 +27987,7 @@
     },
     {
       "name": "Château Fleur Cardinale",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_fleur_cardinale.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -28145,7 +28145,7 @@
     },
     {
       "name": "Château Fombrauge",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_fombrauge.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -28303,7 +28303,7 @@
     },
     {
       "name": "Château Fonbadet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_fonbadet.jpg",
       "appellation": "Pauillac",
       "rating": "",
       "colour": "Vin rouge",
@@ -28461,7 +28461,7 @@
     },
     {
       "name": "Château Fonplégade",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_fonplegade.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -28619,7 +28619,7 @@
     },
     {
       "name": "Château Fonréaud",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_fonreaud.jpg",
       "appellation": "Listrac-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -28777,7 +28777,7 @@
     },
     {
       "name": "Château Fonroque",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_fonroque.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -28935,7 +28935,7 @@
     },
     {
       "name": "Château Fontenil",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_fontenil.jpg",
       "appellation": "Fronsac",
       "rating": "",
       "colour": "Vin rouge",
@@ -29093,7 +29093,7 @@
     },
     {
       "name": "Château Fougas Maldoror",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_fougas_maldoror.jpg",
       "appellation": "Côtes de Bourg",
       "rating": "",
       "colour": "Vin rouge",
@@ -29251,7 +29251,7 @@
     },
     {
       "name": "Château Fourcas Dupré",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_fourcas_dupre.jpg",
       "appellation": "Listrac-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -29409,7 +29409,7 @@
     },
     {
       "name": "Château Fourcas Hosten",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_fourcas_hosten.jpg",
       "appellation": "Listrac-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -29567,7 +29567,7 @@
     },
     {
       "name": "Château Fourcas Loubaney",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_fourcas_loubaney.jpg",
       "appellation": "Listrac-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -29725,7 +29725,7 @@
     },
     {
       "name": "Château Franc-Maillet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_franc_maillet.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -29883,7 +29883,7 @@
     },
     {
       "name": "Château Franc Mayne",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_franc_mayne.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -30041,7 +30041,7 @@
     },
     {
       "name": "Château Garreau",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_garreau.jpg",
       "appellation": "Côtes de Bourg",
       "rating": "",
       "colour": "Vin rouge",
@@ -30199,7 +30199,7 @@
     },
     {
       "name": "Château Gazin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_gazin.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -30357,7 +30357,7 @@
     },
     {
       "name": "Château Gazin Rocquencourt",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_gazin_rocquencourt.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "",
       "colour": "Vin rouge & blanc",
@@ -30663,7 +30663,7 @@
     },
     {
       "name": "Château Giscours",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_giscours.jpg",
       "appellation": "Margaux",
       "rating": "Troisième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -30821,7 +30821,7 @@
     },
     {
       "name": "Château Gloria",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_gloria.jpg",
       "appellation": "Saint-Julien",
       "rating": "",
       "colour": "Vin rouge",
@@ -30979,7 +30979,7 @@
     },
     {
       "name": "Château Godeau",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_godeau.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -31137,7 +31137,7 @@
     },
     {
       "name": "Château Gombaude-Guillot",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_gombaude_guillot.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -31295,7 +31295,7 @@
     },
     {
       "name": "Château Grand Corbin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_grand_corbin.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -31453,7 +31453,7 @@
     },
     {
       "name": "Château Grand Corbin-Despagne",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_grand_corbin_despagne.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -31611,7 +31611,7 @@
     },
     {
       "name": "Château Grand Mayne",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_grand_mayne.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -31769,7 +31769,7 @@
     },
     {
       "name": "Château Grand Ormeau",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_grand_ormeau.jpg",
       "appellation": "Lalande de Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -31927,7 +31927,7 @@
     },
     {
       "name": "Château Grand-Pontet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_grand_pontet.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -32085,7 +32085,7 @@
     },
     {
       "name": "Château Grand-Puy Ducasse",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_grand_puy_ducasse.jpg",
       "appellation": "Pauillac",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -32243,7 +32243,7 @@
     },
     {
       "name": "Château Grand-Puy-Lacoste",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_grand_puy_lacoste.jpg",
       "appellation": "Pauillac",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -32401,7 +32401,7 @@
     },
     {
       "name": "Château Gressier Grand Poujeaux",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_gressier_grand_poujeaux.jpg",
       "appellation": "Moulis",
       "rating": "",
       "colour": "Vin rouge",
@@ -32559,7 +32559,7 @@
     },
     {
       "name": "Château Greysac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_greysac.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -32717,7 +32717,7 @@
     },
     {
       "name": "Château Gruaud Larose",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_gruaud_larose.jpg",
       "appellation": "Saint-Julien",
       "rating": "Deuxième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -32875,7 +32875,7 @@
     },
     {
       "name": "Château Guillot",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_guillot.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -33033,7 +33033,7 @@
     },
     {
       "name": "Château Guillot Clauzel",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_guillot_clauzel.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -33191,7 +33191,7 @@
     },
     {
       "name": "Château Guiraud",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_guiraud.jpg",
       "appellation": "Sauternes",
       "rating": "Premier Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -33349,7 +33349,7 @@
     },
     {
       "name": "Château Hanteillan",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_hanteillan.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -33507,7 +33507,7 @@
     },
     {
       "name": "Château Haut-Bages Libéral",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_bages_liberal.jpg",
       "appellation": "Pauillac",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -33665,7 +33665,7 @@
     },
     {
       "name": "Château Haut-Batailley",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_bages_monpelou.jpg",
       "appellation": "Pauillac",
       "rating": "",
       "colour": "Vin rouge",
@@ -33823,7 +33823,7 @@
     },
     {
       "name": "Château Haut-Bailly",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_bailly.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Grand Cru Classé de Graves",
       "colour": "Vin rouge",
@@ -33981,7 +33981,7 @@
     },
     {
       "name": "Château Haut-Batailley",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_batailley.jpg",
       "appellation": "Pauillac",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -34139,7 +34139,7 @@
     },
     {
       "name": "Château Haut-Beauséjour",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_beausejour.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -34297,7 +34297,7 @@
     },
     {
       "name": "Château Haut-Bergeron",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_bergeron.jpg",
       "appellation": "Sauternes",
       "rating": "",
       "colour": "Vin blanc liquoreux",
@@ -34455,7 +34455,7 @@
     },
     {
       "name": "Château Haut-Bergey",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_bergey.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "",
       "colour": "Vin rouge & blanc",
@@ -34761,7 +34761,7 @@
     },
     {
       "name": "Château Haut-Beychevelle Gloria",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_beychevelle_gloria.jpg",
       "appellation": "Saint-Julien",
       "rating": "",
       "colour": "Vin rouge",
@@ -34919,7 +34919,7 @@
     },
     {
       "name": "Château Haut-Brion",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_brion.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Premier Cru Classé du Médoc &",
       "colour": "Vin rouge & blanc",
@@ -35225,7 +35225,7 @@
     },
     {
       "name": "Château Haut-Brisson",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_brisson.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -35383,7 +35383,7 @@
     },
     {
       "name": "Château Haut-Carles",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_carles.jpg",
       "appellation": "Fronsac",
       "rating": "",
       "colour": "Vin rouge",
@@ -35541,7 +35541,7 @@
     },
     {
       "name": "Château Haut-Chaigneau",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_chaigneau.jpg",
       "appellation": "Lalande de Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -35699,7 +35699,7 @@
     },
     {
       "name": "Château Haut Condissas",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_condissas.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -35857,7 +35857,7 @@
     },
     {
       "name": "Château Haut-Corbin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_corbin.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -36015,7 +36015,7 @@
     },
     {
       "name": "Château Haut-Gardère",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_gardere.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "",
       "colour": "Vin rouge",
@@ -36173,7 +36173,7 @@
     },
     {
       "name": "Château Haut-Maillet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_maillet.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -36331,7 +36331,7 @@
     },
     {
       "name": "Château Haut-Marbuzet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_marbuzet.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -36489,7 +36489,7 @@
     },
     {
       "name": "Château Haut-Mazéris",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_mazeris.jpg",
       "appellation": "Fronsac",
       "rating": "",
       "colour": "Vin rouge",
@@ -36647,7 +36647,7 @@
     },
     {
       "name": "Château Haut-Sarpe",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_sarpe.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -36805,7 +36805,7 @@
     },
     {
       "name": "Château Haut-Villet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_haut_villet.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -36963,7 +36963,7 @@
     },
     {
       "name": "Château Hosanna",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_hosanna.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -37121,7 +37121,7 @@
     },
     {
       "name": "Château Hourtin-Ducasse",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_hourtin_ducasse.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -37279,7 +37279,7 @@
     },
     {
       "name": "Château Jean de Gué",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_jean_de_gue.jpg",
       "appellation": "Lalande de Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -37437,7 +37437,7 @@
     },
     {
       "name": "Château Joanin Bécot",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_joanin_becot.jpg",
       "appellation": "Castillon Côtes de Bordeaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -37595,7 +37595,7 @@
     },
     {
       "name": "Château Kirwan",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_kirwan.jpg",
       "appellation": "Margaux",
       "rating": "Troisième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -37753,7 +37753,7 @@
     },
     {
       "name": "Château L'Arrosée",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_arrosee.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -37911,7 +37911,7 @@
     },
     {
       "name": "Château L'Eglise-Clinet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_eglise_clinet.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -38069,7 +38069,7 @@
     },
     {
       "name": "Château L'Enclos",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_enclos.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -38227,7 +38227,7 @@
     },
     {
       "name": "Château L'Evangile",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_evangile.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -38385,7 +38385,7 @@
     },
     {
       "name": "Château L'Evêché",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_eveche.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -38543,7 +38543,7 @@
     },
     {
       "name": "Château L'Hermitage",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_hermitage.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -38701,7 +38701,7 @@
     },
     {
       "name": "Château La Bessane",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_bessane.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -38859,7 +38859,7 @@
     },
     {
       "name": "Château La Cabanne",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_cabanne.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -39017,7 +39017,7 @@
     },
     {
       "name": "Château La Cardonne",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_cardonne.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -39175,7 +39175,7 @@
     },
     {
       "name": "Château La Clare",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_clare.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -39333,7 +39333,7 @@
     },
     {
       "name": "Château La Clémence",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_clemence.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -39491,7 +39491,7 @@
     },
     {
       "name": "Château La Clotte",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_clotte.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -39649,7 +39649,7 @@
     },
     {
       "name": "Château La Commanderie",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_commanderie.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -39807,7 +39807,7 @@
     },
     {
       "name": "Château La Confession",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_confession.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -39965,7 +39965,7 @@
     },
     {
       "name": "Château La Conseillante",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_conseillante.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -40123,7 +40123,7 @@
     },
     {
       "name": "Château La Couspaude",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_couspaude.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -40281,7 +40281,7 @@
     },
     {
       "name": "Château La Croix de Gay",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_croix_de_gay.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -40439,7 +40439,7 @@
     },
     {
       "name": "Château La Croix du Casse",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_croix_du_casse.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -40601,7 +40601,7 @@
     },
     {
       "name": "Château La Croix Figeac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_croix_figeac.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -40759,7 +40759,7 @@
     },
     {
       "name": "Château La Croix Saint-Georges",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_croix_saint_georges.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -40917,7 +40917,7 @@
     },
     {
       "name": "Château La Croix Taillefer",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_croix_taillefer.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -41075,7 +41075,7 @@
     },
     {
       "name": "Château La Dominique",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_dominique.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -41233,7 +41233,7 @@
     },
     {
       "name": "Château La Fleur de Gay",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_fleur_de_gay.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -41391,7 +41391,7 @@
     },
     {
       "name": "Château La Fleur Morange",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_fleur_morange.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -41549,7 +41549,7 @@
     },
     {
       "name": "Château La Fleur-Pétrus",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_fleur_petrus.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -41707,7 +41707,7 @@
     },
     {
       "name": "Château La Fleur Peyrabon",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_fleur_peyrabon.jpg",
       "appellation": "Pauillac",
       "rating": "",
       "colour": "Vin rouge",
@@ -41865,7 +41865,7 @@
     },
     {
       "name": "Château La Fleur",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_fleur_se.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -42023,7 +42023,7 @@
     },
     {
       "name": "Château La Gaffelière",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_gaffeliere.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé B",
       "colour": "Vin rouge",
@@ -42181,7 +42181,7 @@
     },
     {
       "name": "Château La Ganne",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_ganne.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -42339,7 +42339,7 @@
     },
     {
       "name": "Château La Garricq",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_garricq.jpg",
       "appellation": "Moulis",
       "rating": "",
       "colour": "Vin rouge",
@@ -42497,7 +42497,7 @@
     },
     {
       "name": "Château La Gomerie",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_gomerie.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -42655,7 +42655,7 @@
     },
     {
       "name": "Château La Grave à Pomerol",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_grave_a_pomerol.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -42813,7 +42813,7 @@
     },
     {
       "name": "Château La Gurgue",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_gurgue.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -42971,7 +42971,7 @@
     },
     {
       "name": "Château La Haye",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_haye.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -43129,7 +43129,7 @@
     },
     {
       "name": "Château La Lagune",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_lagune.jpg",
       "appellation": "Haut-Médoc",
       "rating": "Troisième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -43287,7 +43287,7 @@
     },
     {
       "name": "Château La Louvière",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_louviere.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "",
       "colour": "Vin rouge & blanc",
@@ -43593,7 +43593,7 @@
     },
     {
       "name": "Château La Marzelle",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_marzelle.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -43751,7 +43751,7 @@
     },
     {
       "name": "Château La Mission Haut-Brion",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_mission_haut_brion.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Grand Cru Classé de Graves",
       "colour": "Vin rouge & blanc",
@@ -44057,7 +44057,7 @@
     },
     {
       "name": "Château La Mondotte",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_mondotte.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé B",
       "colour": "Vin rouge",
@@ -44215,7 +44215,7 @@
     },
     {
       "name": "Château La Pointe",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_pointe.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -44373,7 +44373,7 @@
     },
     {
       "name": "Château La Rose Figeac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_rose_figeac.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -44531,7 +44531,7 @@
     },
     {
       "name": "Château La Rousselle",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_rousselle.jpg",
       "appellation": "Fronsac",
       "rating": "",
       "colour": "Vin rouge",
@@ -44689,7 +44689,7 @@
     },
     {
       "name": "Château La Sergue",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_sergue.jpg",
       "appellation": "Lalande de Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -44847,7 +44847,7 @@
     },
     {
       "name": "Château La Serre",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_serre.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -45005,7 +45005,7 @@
     },
     {
       "name": "Château La Tour Blanche",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_tour_blanche.jpg",
       "appellation": "Sauternes",
       "rating": "Premier Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -45163,7 +45163,7 @@
     },
     {
       "name": "Château La Tour Carnet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_tour_carnet.jpg",
       "appellation": "Haut-Médoc",
       "rating": "Quatrième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -45321,7 +45321,7 @@
     },
     {
       "name": "Château La Tour de Bessan",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_tour_de_bessan.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -45479,7 +45479,7 @@
     },
     {
       "name": "Château La Tour de By",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_tour_de_by.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -45637,7 +45637,7 @@
     },
     {
       "name": "Château La Tour de Mons",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_tour_de_mons.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -45795,7 +45795,7 @@
     },
     {
       "name": "Château La Tour du Pin Figeac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_tour_du_pin_figeac.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -45953,7 +45953,7 @@
     },
     {
       "name": "Château La Tour Figeac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_tour_figeac.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -46111,7 +46111,7 @@
     },
     {
       "name": "Château La Vieille Cure",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_vieille_cure.jpg",
       "appellation": "Fronsac",
       "rating": "",
       "colour": "Vin rouge",
@@ -46269,7 +46269,7 @@
     },
     {
       "name": "Château La Violette",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_violette.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -46427,7 +46427,7 @@
     },
     {
       "name": "Château Labégorce",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_labegorce.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -46585,7 +46585,7 @@
     },
     {
       "name": "Château Lachesnaye",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lachesnaye.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -46743,7 +46743,7 @@
     },
     {
       "name": "Château Lafaurie-Peyraguey",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lafaurie_peyraguey.jpg",
       "appellation": "Sauternes",
       "rating": "Premier Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -46901,7 +46901,7 @@
     },
     {
       "name": "Château Lafite Rothschild",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lafite_rothschild.jpg",
       "appellation": "Pauillac",
       "rating": "Premier Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -47059,7 +47059,7 @@
     },
     {
       "name": "Château Lafleur",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lafleur.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -47217,7 +47217,7 @@
     },
     {
       "name": "Château Lafleur-Gazin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lafleur_gazin.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -47375,7 +47375,7 @@
     },
     {
       "name": "Château Lafon-Rochet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lafon_rochet.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "Quatrième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -47533,7 +47533,7 @@
     },
     {
       "name": "Château Laforge",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_laforge.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -47691,7 +47691,7 @@
     },
     {
       "name": "Château Lagrange",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lagrange.jpg",
       "appellation": "Saint-Julien",
       "rating": "Troisième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -47849,7 +47849,7 @@
     },
     {
       "name": "Château Lagrange",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lagrange_pomerol.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -48007,7 +48007,7 @@
     },
     {
       "name": "Château Lalande-Borie",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lalande_borie.jpg",
       "appellation": "Saint-Julien",
       "rating": "",
       "colour": "Vin rouge",
@@ -48165,7 +48165,7 @@
     },
     {
       "name": "Château Lamothe (Despujols)",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lamothe.jpg",
       "appellation": "Sauternes",
       "rating": "Second Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -48323,7 +48323,7 @@
     },
     {
       "name": "Château Lamothe Bergeron",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lamothe_bergeron.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -48481,7 +48481,7 @@
     },
     {
       "name": "Château Lamothe Guignard",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lamothe_guignard.jpg",
       "appellation": "Sauternes",
       "rating": "Second Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -48639,7 +48639,7 @@
     },
     {
       "name": "Château Lanessan",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lanessan.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -48797,7 +48797,7 @@
     },
     {
       "name": "Château Langoa Barton",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_langoa_barton.jpg",
       "appellation": "Saint-Julien",
       "rating": "Troisième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -48955,7 +48955,7 @@
     },
     {
       "name": "Château Laniote",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_laniote.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -49113,7 +49113,7 @@
     },
     {
       "name": "Château Laplagnotte-Bellevue",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_laplagnotte_bellevue.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -49271,7 +49271,7 @@
     },
     {
       "name": "Château Larcis Ducasse",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_larcis_ducasse.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé B",
       "colour": "Vin rouge",
@@ -49429,7 +49429,7 @@
     },
     {
       "name": "Château Larmande",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_larmande.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -49587,7 +49587,7 @@
     },
     {
       "name": "Château Laroque",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_laroque.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -49745,7 +49745,7 @@
     },
     {
       "name": "Château Larose-Trintaudon",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_larose_trintaudon.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -49903,7 +49903,7 @@
     },
     {
       "name": "Château Laroze",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_laroze.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -50061,7 +50061,7 @@
     },
     {
       "name": "Château Larrivaux",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_larrivaux.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -50219,7 +50219,7 @@
     },
     {
       "name": "Château Larrivet-Haut-Brion",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_larrivet_haut_brion.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "",
       "colour": "Vin rouge & blanc",
@@ -50525,7 +50525,7 @@
     },
     {
       "name": "Château Lascombes",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lascombes.jpg",
       "appellation": "Margaux",
       "rating": "Deuxième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -50683,7 +50683,7 @@
     },
     {
       "name": "Château Lassègue",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lassegue.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -50841,7 +50841,7 @@
     },
     {
       "name": "Château Latour",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_latour.jpg",
       "appellation": "Pauillac",
       "rating": "Premier Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -50999,7 +50999,7 @@
     },
     {
       "name": "Château Latour à Pomerol",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_latour_a_pomerol.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -51157,7 +51157,7 @@
     },
     {
       "name": "Château Latour-Martillac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_latour_martillac.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Grand Cru Classé de Graves",
       "colour": "Vin rouge & blanc",
@@ -51463,7 +51463,7 @@
     },
     {
       "name": "Château Le Bon Pasteur",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_le_bon_pasteur.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -51621,7 +51621,7 @@
     },
     {
       "name": "Château Le Boscq",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_le_boscq.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -51779,7 +51779,7 @@
     },
     {
       "name": "Château Le Caillou",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_le_caillou.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -51937,7 +51937,7 @@
     },
     {
       "name": "Château Le Chemin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/graph_chateau_le_chemin.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -52095,7 +52095,7 @@
     },
     {
       "name": "Château Le Coteau",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_le_coteau.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -52253,7 +52253,7 @@
     },
     {
       "name": "Château Le Crock",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_le_crock.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -52411,7 +52411,7 @@
     },
     {
       "name": "Château Le Gay",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_le_gay.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -52569,7 +52569,7 @@
     },
     {
       "name": "Château Le Jurat",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_le_jurat.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -52727,7 +52727,7 @@
     },
     {
       "name": "Château Le Moulin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_le_moulin.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -52885,7 +52885,7 @@
     },
     {
       "name": "Château Le Prieuré",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_le_prieure.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -53043,7 +53043,7 @@
     },
     {
       "name": "Château Les Carmes Haut-Brion",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_les_carmes_haut_brion.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "",
       "colour": "Vin rouge",
@@ -53201,7 +53201,7 @@
     },
     {
       "name": "Château Les Cruzelles",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_les_cruzelles.jpg",
       "appellation": "Lalande de Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -53359,7 +53359,7 @@
     },
     {
       "name": "Château Les Grandes Murailles",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_les_grandes_murailles.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -53517,7 +53517,7 @@
     },
     {
       "name": "Château Les Grands Chênes",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_les_grands_chenes.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -53675,7 +53675,7 @@
     },
     {
       "name": "Château Les Gravières",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_les_gravieres.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -53833,7 +53833,7 @@
     },
     {
       "name": "Château Les Justices",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_les_justices.jpg",
       "appellation": "Sauternes",
       "rating": "",
       "colour": "Vin blanc liquoreux",
@@ -53991,7 +53991,7 @@
     },
     {
       "name": "Château Les Ormes de Pez",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_les_ormes_de_pez.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -54149,7 +54149,7 @@
     },
     {
       "name": "Château Les Ormes Sorbet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_les_ormes_sorbet.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -54307,7 +54307,7 @@
     },
     {
       "name": "Château Les Trois Croix",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_les_trois_croix.jpg",
       "appellation": "Fronsac",
       "rating": "",
       "colour": "Vin rouge",
@@ -54465,7 +54465,7 @@
     },
     {
       "name": "Château Lécuyer",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lecuyer.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -54623,7 +54623,7 @@
     },
     {
       "name": "Château Léoville Barton",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_leoville_barton.jpg",
       "appellation": "Saint-Julien",
       "rating": "Deuxième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -54781,7 +54781,7 @@
     },
     {
       "name": "Château Léoville Poyferré",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_leoville_poyferre.jpg",
       "appellation": "Saint-Julien",
       "rating": "Deuxième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -54939,7 +54939,7 @@
     },
     {
       "name": "Château Lestage",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lestage.jpg",
       "appellation": "Listrac-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -55097,7 +55097,7 @@
     },
     {
       "name": "Château Lestage Simon",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lestage_simon.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -55255,7 +55255,7 @@
     },
     {
       "name": "Château Lilian Ladouys",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lilian_ladouys.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -55413,7 +55413,7 @@
     },
     {
       "name": "Château Liot",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_liot.jpg",
       "appellation": "Sauternes",
       "rating": "",
       "colour": "Vin blanc liquoreux",
@@ -55571,7 +55571,7 @@
     },
     {
       "name": "Château Liversan",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_liversan.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -55729,7 +55729,7 @@
     },
     {
       "name": "Château Loudenne",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_loudenne.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -55887,7 +55887,7 @@
     },
     {
       "name": "Château Louis",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_louis.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -56045,7 +56045,7 @@
     },
     {
       "name": "Château Lusseau",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lusseau.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -56203,7 +56203,7 @@
     },
     {
       "name": "Château Lynch-Bages",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lynch_bages.jpg",
       "appellation": "Pauillac",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -56361,7 +56361,7 @@
     },
     {
       "name": "Château Lynch-Moussas",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_lynch_moussas.jpg",
       "appellation": "Pauillac",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -56519,7 +56519,7 @@
     },
     {
       "name": "Château Magdelaine",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_magdelaine.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -56677,7 +56677,7 @@
     },
     {
       "name": "Château Magnan-Figeac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_magnan_figeac.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -56835,7 +56835,7 @@
     },
     {
       "name": "Château Magrez Fombrauge",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_magrez_fombrauge.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -56993,7 +56993,7 @@
     },
     {
       "name": "Château Malartic-Lagravière",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_malartic_lagraviere.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Grand Cru Classé de Graves",
       "colour": "Vin rouge & blanc",
@@ -57299,7 +57299,7 @@
     },
     {
       "name": "Château Malescasse",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_malescasse.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -57457,7 +57457,7 @@
     },
     {
       "name": "Château Malescot Saint-Exupéry",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_malescot_saint_exupery.jpg",
       "appellation": "Margaux",
       "rating": "Troisième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -57615,7 +57615,7 @@
     },
     {
       "name": "Château Margaux",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_margaux.jpg",
       "appellation": "Margaux",
       "rating": "Premier Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -57773,7 +57773,7 @@
     },
     {
       "name": "Château Marquis d´Alesme Becker",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_marquis_alesme_becker.jpg",
       "appellation": "Margaux",
       "rating": "Troisième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -57931,7 +57931,7 @@
     },
     {
       "name": "Château Marquis de Mons",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_marquis_de_mons.jpg",
       "appellation": "Margaux",
       "rating": "Second vin du Château Tour de Mons",
       "colour": "Vin rouge",
@@ -58089,7 +58089,7 @@
     },
     {
       "name": "Château Marquis de Terme",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_marquis_de_terme.jpg",
       "appellation": "Margaux",
       "rating": "Quatrième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -58247,7 +58247,7 @@
     },
     {
       "name": "Château Marsac-Séguineau",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_marsac_seguineau.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -58405,7 +58405,7 @@
     },
     {
       "name": "Château Martinens",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_martinens.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -58563,7 +58563,7 @@
     },
     {
       "name": "Château Matras",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_matras.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -58721,7 +58721,7 @@
     },
     {
       "name": "Château Maucaillou",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_maucaillou.jpg",
       "appellation": "Moulis",
       "rating": "",
       "colour": "Vin rouge",
@@ -58879,7 +58879,7 @@
     },
     {
       "name": "Château Maucamps",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_maucamps.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -59037,7 +59037,7 @@
     },
     {
       "name": "Château Mauvesin Barton",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_mauvesin_barton.jpg",
       "appellation": "Moulis",
       "rating": "",
       "colour": "Vin rouge",
@@ -59195,7 +59195,7 @@
     },
     {
       "name": "Château Mayne Lalande",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_mayne_lalande.jpg",
       "appellation": "Listrac-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -59353,7 +59353,7 @@
     },
     {
       "name": "Château Mazeyres",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_mazeyres.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -59511,7 +59511,7 @@
     },
     {
       "name": "Château Meyney",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_meyney.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -59669,7 +59669,7 @@
     },
     {
       "name": "Château Milens",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_milens.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -59827,7 +59827,7 @@
     },
     {
       "name": "Château Mille Roses",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_mille_roses.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -59985,7 +59985,7 @@
     },
     {
       "name": "Château Mille Roses",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_mille_roses_hm.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -60143,7 +60143,7 @@
     },
     {
       "name": "Château Monbousquet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_monbousquet.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -60301,7 +60301,7 @@
     },
     {
       "name": "Château Monbrison",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_monbrison.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -60459,7 +60459,7 @@
     },
     {
       "name": "Château Mondorion",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_mondorion.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -60617,7 +60617,7 @@
     },
     {
       "name": "Château Mongravey",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_mongravey.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -60775,7 +60775,7 @@
     },
     {
       "name": "Château Montlandrie",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_montlandrie.jpg",
       "appellation": "Castillon Côtes de Bordeaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -60933,7 +60933,7 @@
     },
     {
       "name": "Château Montrose",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_montrose.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "Deuxième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -61091,7 +61091,7 @@
     },
     {
       "name": "Château Montviel",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_montviel.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -61249,7 +61249,7 @@
     },
     {
       "name": "Château Moulin à Vent",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_moulin_a_vent.jpg",
       "appellation": "Moulis",
       "rating": "",
       "colour": "Vin rouge",
@@ -61407,7 +61407,7 @@
     },
     {
       "name": "Château Moulin de la Rose",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_moulin_de_la_rose.jpg",
       "appellation": "Saint-Julien",
       "rating": "",
       "colour": "Vin rouge",
@@ -61565,7 +61565,7 @@
     },
     {
       "name": "Château Moulin du Cadet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_moulin_du_cadet.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -61723,7 +61723,7 @@
     },
     {
       "name": "Château Moulinet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_moulinet.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -61881,7 +61881,7 @@
     },
     {
       "name": "Château Moulin Haut-Laroque",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_moulin_haut_laroque.jpg",
       "appellation": "Fronsac",
       "rating": "",
       "colour": "Vin rouge",
@@ -62039,7 +62039,7 @@
     },
     {
       "name": "Château Moulin Haut Villars",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_moulin_haut_villars.jpg",
       "appellation": "Fronsac",
       "rating": "",
       "colour": "Vin rouge",
@@ -62197,7 +62197,7 @@
     },
     {
       "name": "Château Moulin Riche",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_moulin_riche.jpg",
       "appellation": "Saint-Julien",
       "rating": "Second vin du Château Léoville Poyferré",
       "colour": "Vin rouge",
@@ -62355,7 +62355,7 @@
     },
     {
       "name": "Château Moulin Saint-Georges",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_moulin_saint_georges.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -62513,7 +62513,7 @@
     },
     {
       "name": "Château Mouton Rothschild",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_mouton_rothschild.jpg",
       "appellation": "Pauillac",
       "rating": "Premier Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -62671,7 +62671,7 @@
     },
     {
       "name": "Château Nairac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_nairac.jpg",
       "appellation": "Barsac",
       "rating": "Second Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -62829,7 +62829,7 @@
     },
     {
       "name": "Château Nénin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_nenin.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -62987,7 +62987,7 @@
     },
     {
       "name": "Château Olivier",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_olivier.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Grand Cru Classé de Graves",
       "colour": "Vin rouge & blanc",
@@ -63293,7 +63293,7 @@
     },
     {
       "name": "Château Palmer",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_palmer.jpg",
       "appellation": "Margaux",
       "rating": "Troisième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -63451,7 +63451,7 @@
     },
     {
       "name": "Château Paloumey",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_paloumey.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -63609,7 +63609,7 @@
     },
     {
       "name": "Château Pape Clément",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_pape_clement.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Grand Cru Classé de Graves",
       "colour": "Vin rouge & blanc",
@@ -63915,7 +63915,7 @@
     },
     {
       "name": "Château Patache d'Aux",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_patache_aux.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -64073,7 +64073,7 @@
     },
     {
       "name": "Château Patris",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_patris.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -64231,7 +64231,7 @@
     },
     {
       "name": "Château Paveil de Luze",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_paveil_de_luze.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -64389,7 +64389,7 @@
     },
     {
       "name": "Château Pavie",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_pavie.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé A",
       "colour": "Vin rouge",
@@ -64547,7 +64547,7 @@
     },
     {
       "name": "Château Pavie Decesse",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_pavie_decesse.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -64705,7 +64705,7 @@
     },
     {
       "name": "Château Pavie Macquin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_pavie_macquin.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé B",
       "colour": "Vin rouge",
@@ -64863,7 +64863,7 @@
     },
     {
       "name": "Château Péby Faugères",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_peby_faugeres.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -65025,7 +65025,7 @@
     },
     {
       "name": "Château Pedesclaux",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_pedesclaux.jpg",
       "appellation": "Pauillac",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -65183,7 +65183,7 @@
     },
     {
       "name": "Château Perron La Fleur",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_perron_la_fleur.jpg",
       "appellation": "Lalande de Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -65341,7 +65341,7 @@
     },
     {
       "name": "Château Petit Bocq",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_petit_bocq.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -65499,7 +65499,7 @@
     },
     {
       "name": "Château Petit-Faurie-de-Soutard",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_petit_faurie_de_soutard.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -65658,7 +65658,7 @@
     null,
     {
       "name": "Château Petit Village",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_petit_village.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -65816,7 +65816,7 @@
     },
     {
       "name": "Château Peyrabon",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_peyrabon.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -65974,7 +65974,7 @@
     },
     {
       "name": "Château Peyreau",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_peyreau.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -66132,7 +66132,7 @@
     },
     {
       "name": "Château Phélan Ségur",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_phelan_segur.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -66290,7 +66290,7 @@
     },
     {
       "name": "Château Pibran",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_pibran.jpg",
       "appellation": "Pauillac",
       "rating": "",
       "colour": "Vin rouge",
@@ -66448,7 +66448,7 @@
     },
     {
       "name": "Château Pichon Longueville Baron de Pichon",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_pichon_longueville_baron.jpg",
       "appellation": "Pauillac",
       "rating": "Deuxième cru classé du Médoc",
       "colour": "Vin rouge",
@@ -66606,7 +66606,7 @@
     },
     {
       "name": "Château Pichon Longueville Comtesse de Lalande",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_pichon_longueville_comtesse_de_lalande.jpg",
       "appellation": "Pauillac",
       "rating": "Deuxième cru classé du Médoc",
       "colour": "Vin rouge",
@@ -66764,7 +66764,7 @@
     },
     {
       "name": "Château Picque Caillou",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_picque_caillou.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "",
       "colour": "Vin rouge & blanc",
@@ -67070,7 +67070,7 @@
     },
     {
       "name": "Château Pierre de Lune",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_pierre_de_lune.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -67228,7 +67228,7 @@
     },
     {
       "name": "Château Pindefleurs",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_pindefleurs.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -67386,7 +67386,7 @@
     },
     {
       "name": "Château Pipeau",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_pipeau.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -67544,7 +67544,7 @@
     },
     {
       "name": "Château Plagnac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_plagnac.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -67702,7 +67702,7 @@
     },
     {
       "name": "Château Plaisance",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_plaisance.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -67860,7 +67860,7 @@
     },
     {
       "name": "Château Plincette",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_plincette.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -68018,7 +68018,7 @@
     },
     {
       "name": "Château Pomys",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_pomys.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -68176,7 +68176,7 @@
     },
     {
       "name": "Château Pontet-Canet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_pontet_canet.jpg",
       "appellation": "Pauillac",
       "rating": "Cinquième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -68334,7 +68334,7 @@
     },
     {
       "name": "Château Pontoise Cabarrus",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_pontoise_cabarrus.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -68492,7 +68492,7 @@
     },
     {
       "name": "Château Potensac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_potensac.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -68650,7 +68650,7 @@
     },
     {
       "name": "Château Pouget",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_pouget.jpg",
       "appellation": "Margaux",
       "rating": "Quatrième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -68808,7 +68808,7 @@
     },
     {
       "name": "Château Poujeaux",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_poujeaux.jpg",
       "appellation": "Moulis",
       "rating": "",
       "colour": "Vin rouge",
@@ -68966,7 +68966,7 @@
     },
     {
       "name": "Château Prieuré-Lichine",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_prieure_lichine.jpg",
       "appellation": "Margaux",
       "rating": "Quatrième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -69124,7 +69124,7 @@
     },
     {
       "name": "Château Puy La Rose",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_puy_la_rose.jpg",
       "appellation": "Pauillac",
       "rating": "",
       "colour": "Vin rouge",
@@ -69282,7 +69282,7 @@
     },
     {
       "name": "Château Quercy",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_quercy.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -69440,7 +69440,7 @@
     },
     {
       "name": "Château Quinault L'Enclos",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_quinault_enclos.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -69598,7 +69598,7 @@
     },
     {
       "name": "Château Quintus",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_quintus.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -69756,7 +69756,7 @@
     },
     {
       "name": "Château Rabaud-Promis",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_rabaud_promis.jpg",
       "appellation": "Sauternes",
       "rating": "Premier Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -69914,7 +69914,7 @@
     },
     {
       "name": "Château Ramage la Batisse",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_ramage_la_batisse.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -70072,7 +70072,7 @@
     },
     {
       "name": "Château Rauzan-Gassies",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_rauzan_gassies.jpg",
       "appellation": "Margaux",
       "rating": "Deuxième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -70230,7 +70230,7 @@
     },
     {
       "name": "Château Rauzan-Ségla",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_rauzan_segla.jpg",
       "appellation": "Margaux",
       "rating": "Deuxième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -70388,7 +70388,7 @@
     },
     {
       "name": "Château Raymond Lafon",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_raymond_lafon.jpg",
       "appellation": "Sauternes",
       "rating": "",
       "colour": "Vin blanc liquoreux",
@@ -70546,7 +70546,7 @@
     },
     {
       "name": "Château de Rayne Vigneau",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_rayne_vigneau.jpg",
       "appellation": "Sauternes",
       "rating": "Premier Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -70704,7 +70704,7 @@
     },
     {
       "name": "Château Reine Blanche",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_reine_blanche.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -70862,7 +70862,7 @@
     },
     {
       "name": "Château Renard Mondésir",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_renard_mondesir.jpg",
       "appellation": "Fronsac",
       "rating": "",
       "colour": "Vin rouge",
@@ -71020,7 +71020,7 @@
     },
     {
       "name": "Château Reysson",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_reysson.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -71178,7 +71178,7 @@
     },
     {
       "name": "Château Rieussec",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_rieussec.jpg",
       "appellation": "Sauternes",
       "rating": "Premier Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -71336,7 +71336,7 @@
     },
     {
       "name": "Château Riou de Thaillas",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_riou_de_thaillas.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -71494,7 +71494,7 @@
     },
     {
       "name": "Château Ripeau",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_ripeau.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -71652,7 +71652,7 @@
     },
     {
       "name": "Château Rocher Bellevue Figeac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_rocher_bellevue_figeac.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -71810,7 +71810,7 @@
     },
     {
       "name": "Château Rollan de By",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_rollan_de_by.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -71968,7 +71968,7 @@
     },
     {
       "name": "Château Rolland-Maillet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_rolland_maillet.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -72126,7 +72126,7 @@
     },
     {
       "name": "Château Rol Valentin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_rol_valentin.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -72284,7 +72284,7 @@
     },
     {
       "name": "Château Romer",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_romer.jpg",
       "appellation": "Sauternes",
       "rating": "Second Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -72442,7 +72442,7 @@
     },
     {
       "name": "Château Romer du Hayot",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_romer_du_hayot.jpg",
       "appellation": "Sauternes",
       "rating": "Second Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -72600,7 +72600,7 @@
     },
     {
       "name": "Château Rouget",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_rouget.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -72758,7 +72758,7 @@
     },
     {
       "name": "Château Roylland",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_roylland.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -72916,7 +72916,7 @@
     },
     {
       "name": "Château Saint-Domingue",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_saint_domingue.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -73074,7 +73074,7 @@
     },
     {
       "name": "Château Saint-Estèphe",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_saint_estephe.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -73232,7 +73232,7 @@
     },
     {
       "name": "Château Saint-Georges Côte Pavie",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_saint_georges_cote_pavie.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -73390,7 +73390,7 @@
     },
     {
       "name": "Château Saint-Pierre",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_saint_pierre.jpg",
       "appellation": "Saint-Julien",
       "rating": "Quatrième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -73548,7 +73548,7 @@
     },
     {
       "name": "Château Sansonnet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_sansonnet.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -73706,7 +73706,7 @@
     },
     {
       "name": "Château Saransot-Dupré",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_saransot_dupre.jpg",
       "appellation": "Listrac-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -73864,7 +73864,7 @@
     },
     {
       "name": "Château Ségur",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_segur.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -74022,7 +74022,7 @@
     },
     {
       "name": "Château Ségur de Cabanac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_segur_de_cabanac.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -74180,7 +74180,7 @@
     },
     {
       "name": "Château Sénéjac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_senejac.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -74338,7 +74338,7 @@
     },
     {
       "name": "Château Serilhan",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_serilhan.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -74496,7 +74496,7 @@
     },
     {
       "name": "Château Siaurac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_siaurac.jpg",
       "appellation": "Lalande de Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -74654,7 +74654,7 @@
     },
     {
       "name": "Château Sigalas Rabaud",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_sigalas_rabaud.jpg",
       "appellation": "Sauternes",
       "rating": "Premier Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -74812,7 +74812,7 @@
     },
     {
       "name": "Château Siran",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_siran.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -74970,7 +74970,7 @@
     },
     {
       "name": "Château Smith Haut Lafitte",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_smith_haut_lafitte.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Grand Cru Classé de Graves",
       "colour": "Vin rouge & blanc",
@@ -75276,7 +75276,7 @@
     },
     {
       "name": "Château Sociando-Mallet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_sociando_mallet.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -75434,7 +75434,7 @@
     },
     {
       "name": "Château Soudars",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_soudars.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -75592,7 +75592,7 @@
     },
     {
       "name": "Château Soutard",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_soutard.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -75750,7 +75750,7 @@
     },
     {
       "name": "Château Suau",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_suau.jpg",
       "appellation": "Barsac",
       "rating": "Second Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -75908,7 +75908,7 @@
     },
     {
       "name": "Château Suduiraut",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_suduiraut.jpg",
       "appellation": "Sauternes",
       "rating": "Premier Cru Classé",
       "colour": "Vin blanc liquoreux",
@@ -76066,7 +76066,7 @@
     },
     {
       "name": "Château Taillefer",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_taillefer.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -76224,7 +76224,7 @@
     },
     {
       "name": "Château Talbot",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_talbot.jpg",
       "appellation": "Saint-Julien",
       "rating": "Quatrième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -76382,7 +76382,7 @@
     },
     {
       "name": "Château Terrey-Gros-Cailloux",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_terrey_gros_cailloux.jpg",
       "appellation": "Saint-Julien",
       "rating": "",
       "colour": "Vin rouge",
@@ -76540,7 +76540,7 @@
     },
     {
       "name": "Château Tour de Marbuzet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_tour_de_marbuzet.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -76698,7 +76698,7 @@
     },
     {
       "name": "Château Tour de Pez",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_tour_de_pez.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -76856,7 +76856,7 @@
     },
     {
       "name": "Château Tour du Haut-Moulin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_tour_du_haut_moulin.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -77014,7 +77014,7 @@
     },
     {
       "name": "Château Tour Haut-Caussan",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_tour_haut_caussan.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -77172,7 +77172,7 @@
     },
     {
       "name": "Château Tour Maillet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_tour_maillet.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -77330,7 +77330,7 @@
     },
     {
       "name": "Château Tour Seran",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_tour_seran.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -77488,7 +77488,7 @@
     },
     {
       "name": "Château Tronquoy-Lalande",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_tronquoy_lalande.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "",
       "colour": "Vin rouge",
@@ -77646,7 +77646,7 @@
     },
     {
       "name": "Château Trotanoy",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_trotanoy.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -77804,7 +77804,7 @@
     },
     {
       "name": "Château Trotte Vieille",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_trotte_vieille.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé B",
       "colour": "Vin rouge",
@@ -77962,7 +77962,7 @@
     },
     {
       "name": "Château Valandraud",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_valandraud.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé B",
       "colour": "Vin rouge",
@@ -78120,7 +78120,7 @@
     },
     {
       "name": "Château Verdignan",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_verdignan.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -78278,7 +78278,7 @@
     },
     {
       "name": "Château Veyry",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_veyry.jpg",
       "appellation": "Castillon Côtes de Bordeaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -78436,7 +78436,7 @@
     },
     {
       "name": "Château Vieux Maillet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_vieux_maillet.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -78594,7 +78594,7 @@
     },
     {
       "name": "Château Vieux Robin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_vieux_robin.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -78752,7 +78752,7 @@
     },
     {
       "name": "Château Villars",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_villars.jpg",
       "appellation": "Fronsac",
       "rating": "",
       "colour": "Vin rouge",
@@ -78910,7 +78910,7 @@
     },
     {
       "name": "Château Villemaurine",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_villemaurine.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -79068,7 +79068,7 @@
     },
     {
       "name": "Château Vray Croix de Gay",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_vray_croix_de_gay.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -79227,7 +79227,7 @@
     null,
     {
       "name": "Château Yon Figeac",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_yon_figeac.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -79385,7 +79385,7 @@
     },
     {
       "name": "Chevalier de Lascombes",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chevalier_de_lascombes.jpg",
       "appellation": "Margaux",
       "rating": "Second vin du Château Lascombes",
       "colour": "Vin rouge",
@@ -79543,7 +79543,7 @@
     },
     {
       "name": "Clos Badon Thunevin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_badon.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -79701,7 +79701,7 @@
     },
     {
       "name": "Clos de l'Oratoire",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_oratoire.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -79859,7 +79859,7 @@
     },
     {
       "name": "Clos des Quatre Vents",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_des_quatre_vents.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -80017,7 +80017,7 @@
     },
     {
       "name": "Clos Dubreuil",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_dubreuil.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -80175,7 +80175,7 @@
     },
     {
       "name": "Clos du Canton des Ormeaux",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_du_canton_des_ormeaux.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -80333,7 +80333,7 @@
     },
     {
       "name": "Clos du Jaugueyron",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_du_jaugueyron.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -80491,7 +80491,7 @@
     },
     {
       "name": "Clos du Jaugueyron",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_du_jaugueyron_hm.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -80649,7 +80649,7 @@
     },
     {
       "name": "Clos du Marquis",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_du_marquis.jpg",
       "appellation": "Saint-Julien",
       "rating": "",
       "colour": "Vin rouge",
@@ -80807,7 +80807,7 @@
     },
     {
       "name": "Clos Fourtet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_fourtet.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé B",
       "colour": "Vin rouge",
@@ -80965,7 +80965,7 @@
     },
     {
       "name": "Clos La Madeleine",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_la_madeleine.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -81123,7 +81123,7 @@
     },
     {
       "name": "Clos L'Eglise",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_eglise.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -81281,7 +81281,7 @@
     },
     {
       "name": "Clos L'Eglise",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_eglise_cc.jpg",
       "appellation": "Castillon Côtes de Bordeaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -81439,7 +81439,7 @@
     },
     {
       "name": "Clos les Lunelles",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_les_lunelles.jpg",
       "appellation": "Castillon Côtes de Bordeaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -81597,7 +81597,7 @@
     },
     {
       "name": "Clos Manou",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos-manou.jpg",
       "appellation": "Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -81755,7 +81755,7 @@
     },
     {
       "name": "Clos Margalaine",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_margalaine.jpg",
       "appellation": "Margaux",
       "rating": "Second vin du Château Marojallia",
       "colour": "Vin rouge",
@@ -81913,7 +81913,7 @@
     },
     {
       "name": "Clos Marsalette",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_marsalette.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "",
       "colour": "Vin rouge",
@@ -82071,7 +82071,7 @@
     },
     {
       "name": "Clos Puy Arnaud",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_puy_arnaud.jpg",
       "appellation": "Castillon Côtes de Bordeaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -82229,7 +82229,7 @@
     },
     {
       "name": "Clos René",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_rene.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -82387,7 +82387,7 @@
     },
     {
       "name": "Clos Saint-Julien",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_saint_julien.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -82545,7 +82545,7 @@
     },
     {
       "name": "Clos Saint-Martin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/clos_saint_martin.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -82703,7 +82703,7 @@
     },
     {
       "name": "Connétable de Talbot",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/connetable_de_talbot.jpg",
       "appellation": "Saint-Julien",
       "rating": "Second vin du Château Talbot",
       "colour": "Vin rouge",
@@ -82861,7 +82861,7 @@
     },
     {
       "name": "Cos d´Estournel",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_cos_estournel.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "Deuxième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -83019,7 +83019,7 @@
     },
     {
       "name": "Couvent des Jacobins",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/couvent_des_jacobins.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Grand Cru Classé",
       "colour": "Vin rouge",
@@ -83177,7 +83177,7 @@
     },
     {
       "name": "Croix de Beaucaillou",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/croix_de_beaucaillou.jpg",
       "appellation": "Saint-Julien",
       "rating": "Second vin du Château Ducru-Beaucaillou",
       "colour": "Vin rouge",
@@ -83335,7 +83335,7 @@
     },
     {
       "name": "Cyprès de Climens",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/cypres_de_climens.jpg",
       "appellation": "Barsac",
       "rating": "Second vin du Château Climens",
       "colour": "Vin blanc",
@@ -83493,7 +83493,7 @@
     },
     {
       "name": "Domaine de l'A",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/domaine_a.jpg",
       "appellation": "Castillon Côtes de Bordeaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -83651,7 +83651,7 @@
     },
     {
       "name": "Domaine de Chevalier",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/domaine_de_chevalier.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Grand Cru Classé de Graves",
       "colour": "Vin rouge & blanc",
@@ -83957,7 +83957,7 @@
     },
     {
       "name": "Domaine De La Solitude",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/domaine_de_la_solitude.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "",
       "colour": "Vin rouge et blanc",
@@ -84259,7 +84259,7 @@
     },
     {
       "name": "Duo de Conseillante",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/duo_de_conseillante.jpg",
       "appellation": "Pomerol",
       "rating": "Second vin du Château L'Eglise Clinet",
       "colour": "Vin rouge",
@@ -84417,7 +84417,7 @@
     },
     {
       "name": "Echo de Lynch-Bages",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/echo_de_lynch_bages.jpg",
       "appellation": "Pauillac",
       "rating": "Second vin du Château Lynch-Bages",
       "colour": "Vin rouge",
@@ -84575,7 +84575,7 @@
     },
     {
       "name": "Fugue de Nénin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/fugue_de_nenin.jpg",
       "appellation": "Pomerol",
       "rating": "Second vin du Château Nénin",
       "colour": "Vin rouge",
@@ -84733,7 +84733,7 @@
     },
     {
       "name": "Gracia",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/gracia.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -84891,7 +84891,7 @@
     },
     {
       "name": "Grand Vin de Léoville du Marquis de Las Cases",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/grand_vin_leoville_las_cases.jpg",
       "appellation": "Saint-Julien",
       "rating": "Deuxième Cru Classé du Médoc",
       "colour": "Vin rouge",
@@ -85049,7 +85049,7 @@
     },
     {
       "name": "Karolus",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/karolus.jpg",
       "appellation": "Haut-Médoc",
       "rating": "",
       "colour": "Vin rouge",
@@ -85207,7 +85207,7 @@
     },
     {
       "name": "L'Esprit de Chevalier",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/esprit_de_chevalier.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Second vin du Domaine de Chevalier",
       "colour": "Vin rouge & blanc",
@@ -85513,7 +85513,7 @@
     },
     {
       "name": "L'Hospitalet de Gazin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/hospitalet_de_gazin.jpg",
       "appellation": "Pomerol",
       "rating": "Second vin du Château Gazin",
       "colour": "Vin rouge",
@@ -85671,7 +85671,7 @@
     },
     {
       "name": "La Chapelle de la Mission Haut-Brion",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/la_chapelle_de_la_mission_haut_brion.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Second vin du Château La Mission Haut-Brion",
       "colour": "Vin blanc",
@@ -85829,7 +85829,7 @@
     },
     {
       "name": "La Chenade",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_la_chenade.jpg",
       "appellation": "Lalande de Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -85987,7 +85987,7 @@
     },
     {
       "name": "La Clarté de Haut-Brion",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/la_clarte_de_haut_brion.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Second vin du Château Haut-Brion blanc",
       "colour": "Vin blanc",
@@ -86145,7 +86145,7 @@
     },
     {
       "name": "La Closerie de Fourtet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/la_closerie_de_fourtet.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Second vin du Château Louis",
       "colour": "Vin rouge",
@@ -86303,7 +86303,7 @@
     },
     {
       "name": "La Dame de Montrose",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/la_dame_de_montrose.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "Second vin du Château Montrose",
       "colour": "Vin rouge",
@@ -86461,7 +86461,7 @@
     },
     {
       "name": "La Demoiselle de Sociando-Mallet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/la_demoiselle_de_sociando_mallet.jpg",
       "appellation": "Haut-Médoc",
       "rating": "Second vin du Château Sociando-Mallet",
       "colour": "Vin rouge",
@@ -86619,7 +86619,7 @@
     },
     {
       "name": "La Fleur de Boüard",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/la_fleur_de_bouard.jpg",
       "appellation": "Lalande de Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -86777,7 +86777,7 @@
     },
     {
       "name": "La Parde de Haut-Bailly",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/la_parde_de_haut_bailly.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Second vin du Château Haut-Bailly",
       "colour": "Vin rouge",
@@ -86935,7 +86935,7 @@
     },
     {
       "name": "La Petite Eglise",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/la_petite_eglise.jpg",
       "appellation": "Pomerol",
       "rating": "Second vin du Château L'Eglise Clinet",
       "colour": "Vin rouge",
@@ -87093,7 +87093,7 @@
     },
     {
       "name": "La Réserve de Louis",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/la_reserve_de_louis.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Second vin du Château Louis",
       "colour": "Vin rouge",
@@ -87251,7 +87251,7 @@
     },
     {
       "name": "La sirène de Giscours",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/la_sirene_de_giscours.jpg",
       "appellation": "Margaux",
       "rating": "Second vin du Château Giscours",
       "colour": "Vin rouge",
@@ -87409,7 +87409,7 @@
     },
     {
       "name": "La Tour du Pin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/la_tour_du_pin.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -87567,7 +87567,7 @@
     },
     {
       "name": "Lacoste Borie",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/lacoste_borie.jpg",
       "appellation": "Pauillac",
       "rating": "Second vin du Château Grand-Puy-Lacoste",
       "colour": "Vin rouge",
@@ -87725,7 +87725,7 @@
     },
     {
       "name": "Le Carillon de l'Angélus",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/le_carillon_angelus.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Second vin du Château Angélus",
       "colour": "Vin rouge",
@@ -87883,7 +87883,7 @@
     },
     {
       "name": "Le Clarence de Haut-Brion",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/le_clarence_de_haut_brion.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Second vin du Château Haut-Brion",
       "colour": "Vin rouge",
@@ -88041,7 +88041,7 @@
     },
     {
       "name": "Le Clémentin de Pape Clément",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/le_clementin_de_pape_clement.jpg",
       "appellation": "Pessac-Léognan",
       "rating": "Second vin du Château Pape Clément",
       "colour": "Vin rouge & blanc",
@@ -88347,7 +88347,7 @@
     },
     {
       "name": "Le Clos du Beau-Père",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/le-clos-du-beau-pere.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -88505,7 +88505,7 @@
     },
     {
       "name": "Le Dôme",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/le_dome.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -88663,7 +88663,7 @@
     },
     {
       "name": "Le Dragon de Quintus",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/le_dragon_de_quintus.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Second vin du Château Quintus",
       "colour": "Vin rouge",
@@ -88821,7 +88821,7 @@
     },
     {
       "name": "Le Jardin de Petit Village",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/graph_le_jardin_de_petit_village.jpg",
       "appellation": "Pomerol",
       "rating": "Second vin du Château Petit Village",
       "colour": "Vin rouge",
@@ -88979,7 +88979,7 @@
     },
     {
       "name": "Le Marquis de Calon-Ségur",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/marquis_de_calon.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "Second vin du Château Calon-Ségur",
       "colour": "Vin rouge",
@@ -89137,7 +89137,7 @@
     },
     {
       "name": "Le Petit Mouton de Mouton Rothschild",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/le_petit_mouton_de_mouton_rothschild.jpg",
       "appellation": "Pauillac",
       "rating": "Second vin du Château Mouton Rothschild",
       "colour": "Vin rouge",
@@ -89295,7 +89295,7 @@
     },
     {
       "name": "Le Pin",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/le_pin.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -89453,7 +89453,7 @@
     },
     {
       "name": "Le Petit Cheval",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/le_petit_cheval.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Second vin du Château Cheval Blanc",
       "colour": "Vin rouge",
@@ -89611,7 +89611,7 @@
     },
     {
       "name": "Le Petit Lion du Marquis de Las Cases",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/le_petit_lion_du_marquis_de_las_cases.jpg",
       "appellation": "Saint-Julien",
       "rating": "Second vin du Château Léoville Las Cases",
       "colour": "Vin rouge",
@@ -89769,7 +89769,7 @@
     },
     {
       "name": "Les Fiefs de Lagrange",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/les_fiefs_de_lagrange.jpg",
       "appellation": "Saint-Julien",
       "rating": "Second vin du Château Lagrange",
       "colour": "Vin rouge",
@@ -89927,7 +89927,7 @@
     },
     {
       "name": "Les Forts de Latour",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/les_forts_de_latour.jpg",
       "appellation": "Pauillac",
       "rating": "Second vin du Château Latour",
       "colour": "Vin rouge",
@@ -90085,7 +90085,7 @@
     },
     {
       "name": "Les Hauts de Pontet-Canet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/les_hauts_de_pontet_canet.jpg",
       "appellation": "Pauillac",
       "rating": "Second vin du Château Pontet-Canet",
       "colour": "Vin rouge",
@@ -90243,7 +90243,7 @@
     },
     {
       "name": "Les Pagodes de Cos",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/les_pagodes_de_cos.jpg",
       "appellation": "Saint-Estèphe",
       "rating": "Second vin de Cos d'Estournel",
       "colour": "Vin rouge",
@@ -90401,7 +90401,7 @@
     },
     {
       "name": "Les Plantes du Mayne",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/les_plantes_du_mayne.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Second vin du Château Grand Mayne",
       "colour": "Vin rouge",
@@ -90559,7 +90559,7 @@
     },
     {
       "name": "Les Songes de Magdelaine",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/les_songes_de_magdelaine.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Second vin du Château Magdelaine",
       "colour": "Vin rouge",
@@ -90717,7 +90717,7 @@
     },
     {
       "name": "Les Tourelles de Longueville",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/les_tourelles_de_longueville.jpg",
       "appellation": "Pauillac",
       "rating": "Second vin du Château Pichon Longueville Baron",
       "colour": "Vin rouge",
@@ -90875,7 +90875,7 @@
     },
     {
       "name": "Lucia",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/lucia.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -91033,7 +91033,7 @@
     },
     {
       "name": "Lynsolence",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/lynsolence.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -91191,7 +91191,7 @@
     },
     {
       "name": "Manoir de Gay",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/manoir_de_gay.jpg",
       "appellation": "Pomerol",
       "rating": "Second vin du Château Le Gay",
       "colour": "Vin rouge",
@@ -91349,7 +91349,7 @@
     },
     {
       "name": "Marojallia",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_marojallia.jpg",
       "appellation": "Margaux",
       "rating": "",
       "colour": "Vin rouge",
@@ -91507,7 +91507,7 @@
     },
     {
       "name": "Mondot",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/mondot.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Second vin du Château Troplong Mondot",
       "colour": "Vin rouge",
@@ -91665,7 +91665,7 @@
     },
     {
       "name": "Pavillon Rouge",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/pavillon_rouge.jpg",
       "appellation": "Margaux",
       "rating": "Second vin du Château Margaux",
       "colour": "Vin rouge",
@@ -91823,7 +91823,7 @@
     },
     {
       "name": "Pensées de Lafleur",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/pensees_de_lafleur.jpg",
       "appellation": "Pomerol",
       "rating": "Second vin du Château Lafleur",
       "colour": "Vin rouge",
@@ -91981,7 +91981,7 @@
     },
     {
       "name": "Pétrus",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/petrus.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -92139,7 +92139,7 @@
     },
     {
       "name": "Providence",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_providence.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -92297,7 +92297,7 @@
     },
     {
       "name": "Réserve de la Comtesse",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/reserve_de_la_comtesse.jpg",
       "appellation": "Pauillac",
       "rating": "Second vin du Château Pontet-Canet",
       "colour": "Vin rouge",
@@ -92455,7 +92455,7 @@
     },
     {
       "name": "Roc de Cambes",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/roc_de_cambes.jpg",
       "appellation": "Côtes de Bourg",
       "rating": "",
       "colour": "Vin rouge",
@@ -92613,7 +92613,7 @@
     },
     {
       "name": "Sanctus",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/sanctus.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -92771,7 +92771,7 @@
     },
     {
       "name": "Sarget de Gruaud-Larose",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/sarget_de_gruaud_larose.jpg",
       "appellation": "Saint-Julien",
       "rating": "Second vin du Château Gruaud Larose",
       "colour": "Vin rouge",
@@ -92929,7 +92929,7 @@
     },
     {
       "name": "Tertre Roteboeuf",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/chateau_tertre_roteboeuf.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -93087,7 +93087,7 @@
     },
     {
       "name": "Troplong Mondot",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/troplong_mondot.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "Premier Grand Cru Classé B",
       "colour": "Vin rouge",
@@ -93245,7 +93245,7 @@
     },
     {
       "name": "Vieux Château Certan",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/vieux_chateau_certan.jpg",
       "appellation": "Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -93403,7 +93403,7 @@
     },
     {
       "name": "Vieux Château Gachet",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/vieux_chateau_gachet.jpg",
       "appellation": "Lalande de Pomerol",
       "rating": "",
       "colour": "Vin rouge",
@@ -93561,7 +93561,7 @@
     },
     {
       "name": "Vieux Château Mazerat",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/vieux_chateau_mazerat.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",
@@ -93719,7 +93719,7 @@
     },
     {
       "name": "Virginie de Valandraud",
-      "stamp_image_url": null,
+      "stamp_image_url": "http://www.bordeaux-primeurs.net/images/virginie_de_valandraud.jpg",
       "appellation": "Saint-Emilion Grand Cru",
       "rating": "",
       "colour": "Vin rouge",

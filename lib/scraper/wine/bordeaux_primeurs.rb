@@ -8,7 +8,7 @@ module Scraper
       end
 
       def stamp_image_url
-        BordeauxPrimeurs.base_url + dom.search("td[width='45%'] > img").first.attributes["src"].value
+        Scraper::BordeauxPrimeurs.base_url + dom.search("td[width='45%'] > img").first.attributes["src"].value
       end
 
       def appellation
