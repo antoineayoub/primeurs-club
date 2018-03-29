@@ -12,7 +12,7 @@ module Scraper
     end
 
     def self.start_page
-      35
+      0
     end
     
     def run
