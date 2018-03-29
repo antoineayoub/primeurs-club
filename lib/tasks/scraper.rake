@@ -34,5 +34,10 @@ namespace :seed do
   desc "bord overview seed"
   task :bord_overview => [:environment] do
     Seed::BordOverview.run
-  end  
+  end
+
+  desc "bordeaux primeurs seed"
+  task :bord_overview => [:environment] do
+    Seed::BordeauxPrimeurs.run
+  end
 end
