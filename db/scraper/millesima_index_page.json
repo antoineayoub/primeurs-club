@@ -1,0 +1,8708 @@
+{
+  "wine_vintages": {
+    "chateau-maucaillou": [
+      {
+        "slug": "chateau-maucaillou-2014",
+        "price": 4500
+      },
+      {
+        "slug": "chateau-maucaillou-2016",
+        "price": 1900
+      },
+      {
+        "slug": "chateau-maucaillou-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-maucaillou-2010",
+        "price": 2792
+      }
+    ],
+    "lacoste-borie": [
+      {
+        "slug": "lacoste-borie-2015",
+        "price": 2750
+      },
+      {
+        "slug": "lacoste-borie-2009",
+        "price": 3250
+      },
+      {
+        "slug": "lacoste-borie-2012",
+        "price": 2500
+      },
+      {
+        "slug": "lacoste-borie-2016",
+        "price": 2250
+      },
+      {
+        "slug": "lacoste-borie-2017",
+        "price": null
+      },
+      {
+        "slug": "lacoste-borie-2010",
+        "price": 3167
+      },
+      {
+        "slug": "lacoste-borie-2014",
+        "price": 2500
+      }
+    ],
+    "chateau-moulinet": [
+      {
+        "slug": "chateau-moulinet-2009",
+        "price": 4000
+      },
+      {
+        "slug": "chateau-moulinet-2010",
+        "price": 3417
+      },
+      {
+        "slug": "chateau-moulinet-2012",
+        "price": 2333
+      },
+      {
+        "slug": "chateau-moulinet-2013",
+        "price": 2042
+      }
+    ],
+    "chateau-lalande-borie": [
+      {
+        "slug": "chateau-lalande-borie-2012",
+        "price": 2750
+      },
+      {
+        "slug": "chateau-lalande-borie-2009",
+        "price": 4158
+      },
+      {
+        "slug": "chateau-lalande-borie-2014",
+        "price": 2583
+      },
+      {
+        "slug": "chateau-lalande-borie-2017",
+        "price": null
+      }
+    ],
+    "chateau-gruaud-larose": [
+      {
+        "slug": "chateau-gruaud-larose-2012",
+        "price": 6208
+      },
+      {
+        "slug": "chateau-gruaud-larose-2014",
+        "price": 6458
+      },
+      {
+        "slug": "chateau-gruaud-larose-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-gruaud-larose-2016",
+        "price": 7000
+      }
+    ],
+    "chateau-picque-caillou": [
+      {
+        "slug": "chateau-picque-caillou-2011",
+        "price": 2458
+      },
+      {
+        "slug": "chateau-picque-caillou-2016",
+        "price": 1600
+      },
+      {
+        "slug": "chateau-picque-caillou-2013",
+        "price": 1708
+      },
+      {
+        "slug": "chateau-picque-caillou-2014",
+        "price": 1833
+      },
+      {
+        "slug": "chateau-picque-caillou-2015",
+        "price": 2000
+      },
+      {
+        "slug": "chateau-picque-caillou-2010",
+        "price": 2667
+      },
+      {
+        "slug": "chateau-picque-caillou-2017",
+        "price": null
+      }
+    ],
+    "confidences-de-prieure-lichine": [
+      {
+        "slug": "confidences-de-prieure-lichine-2010",
+        "price": 3083
+      },
+      {
+        "slug": "confidences-de-prieure-lichine-2014",
+        "price": 1917
+      },
+      {
+        "slug": "confidences-de-prieure-lichine-2015",
+        "price": 2167
+      },
+      {
+        "slug": "confidences-de-prieure-lichine-2016",
+        "price": 2208
+      },
+      {
+        "slug": "confidences-de-prieure-lichine-2009",
+        "price": 3125
+      },
+      {
+        "slug": "confidences-de-prieure-lichine-2008",
+        "price": 2875
+      },
+      {
+        "slug": "confidences-de-prieure-lichine-2012",
+        "price": 2167
+      }
+    ],
+    "chateau-trottevieille": [
+      {
+        "slug": "chateau-trottevieille-2015",
+        "price": 8333
+      },
+      {
+        "slug": "chateau-trottevieille-2006",
+        "price": 7917
+      },
+      {
+        "slug": "chateau-trottevieille-2008",
+        "price": 6500
+      },
+      {
+        "slug": "chateau-trottevieille-2009",
+        "price": 12917
+      },
+      {
+        "slug": "chateau-trottevieille-2012",
+        "price": 7833
+      },
+      {
+        "slug": "chateau-trottevieille-2014",
+        "price": 7667
+      },
+      {
+        "slug": "chateau-trottevieille-2016",
+        "price": 7800
+      },
+      {
+        "slug": "chateau-trottevieille-2013",
+        "price": 7167
+      },
+      {
+        "slug": "chateau-trottevieille-2010",
+        "price": 13333
+      },
+      {
+        "slug": "chateau-trottevieille-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-trottevieille-2011",
+        "price": 7833
+      }
+    ],
+    "chateau-pierbone": [
+      {
+        "slug": "chateau-pierbone-2007",
+        "price": 1417
+      },
+      {
+        "slug": "chateau-pierbone-2010",
+        "price": 1625
+      },
+      {
+        "slug": "chateau-pierbone-2008",
+        "price": 1375
+      },
+      {
+        "slug": "chateau-pierbone-2006",
+        "price": 1458
+      }
+    ],
+    "chateau-canon-pecresse": [
+      {
+        "slug": "chateau-canon-pecresse-2009",
+        "price": 1917
+      },
+      {
+        "slug": "chateau-canon-pecresse-2012",
+        "price": 1583
+      },
+      {
+        "slug": "chateau-canon-pecresse-2010",
+        "price": 1750
+      },
+      {
+        "slug": "chateau-canon-pecresse-2013",
+        "price": 1458
+      },
+      {
+        "slug": "chateau-canon-pecresse-2014",
+        "price": 1667
+      },
+      {
+        "slug": "chateau-canon-pecresse-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-canon-pecresse-2011",
+        "price": 1708
+      }
+    ],
+    "chateau-d-aiguilhe": [
+      {
+        "slug": "chateau-d-aiguilhe-2010",
+        "price": 3208
+      },
+      {
+        "slug": "chateau-d-aiguilhe-2012",
+        "price": 2167
+      },
+      {
+        "slug": "chateau-d-aiguilhe-2015",
+        "price": 2250
+      },
+      {
+        "slug": "chateau-d-aiguilhe-2016",
+        "price": 1900
+      },
+      {
+        "slug": "chateau-d-aiguilhe-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-d-aiguilhe-2011",
+        "price": 2292
+      },
+      {
+        "slug": "chateau-d-aiguilhe-2013",
+        "price": 1875
+      },
+      {
+        "slug": "chateau-d-aiguilhe-2014",
+        "price": 2083
+      }
+    ],
+    "chateau-nenin": [
+      {
+        "slug": "chateau-nenin-2012",
+        "price": 4792
+      },
+      {
+        "slug": "chateau-nenin-2001",
+        "price": 7917
+      },
+      {
+        "slug": "chateau-nenin-2009",
+        "price": 7083
+      },
+      {
+        "slug": "chateau-nenin-2010",
+        "price": 7750
+      },
+      {
+        "slug": "chateau-nenin-2013",
+        "price": 4000
+      },
+      {
+        "slug": "chateau-nenin-2015",
+        "price": 6833
+      },
+      {
+        "slug": "chateau-nenin-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-nenin-2011",
+        "price": 5750
+      },
+      {
+        "slug": "chateau-nenin-2005",
+        "price": 7333
+      },
+      {
+        "slug": "chateau-nenin-2016",
+        "price": 6600
+      },
+      {
+        "slug": "chateau-nenin-2014",
+        "price": 4417
+      }
+    ],
+    "chateau-l-evangile": [
+      {
+        "slug": "chateau-l-evangile-2011",
+        "price": 15000
+      },
+      {
+        "slug": "chateau-l-evangile-2010",
+        "price": 28000
+      },
+      {
+        "slug": "chateau-l-evangile-2012",
+        "price": 15833
+      },
+      {
+        "slug": "chateau-l-evangile-2013",
+        "price": 15000
+      },
+      {
+        "slug": "chateau-l-evangile-2016",
+        "price": 21500
+      },
+      {
+        "slug": "chateau-l-evangile-1999",
+        "price": null
+      },
+      {
+        "slug": "chateau-l-evangile-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-l-evangile-2006",
+        "price": 18333
+      }
+    ],
+    "chateau-lynch-bages": [
+      {
+        "slug": "chateau-lynch-bages-2009",
+        "price": null
+      },
+      {
+        "slug": "chateau-lynch-bages-2010",
+        "price": 19500
+      },
+      {
+        "slug": "chateau-lynch-bages-2012",
+        "price": 14667
+      },
+      {
+        "slug": "chateau-lynch-bages-2015",
+        "price": 13833
+      },
+      {
+        "slug": "chateau-lynch-bages-2016",
+        "price": 13000
+      },
+      {
+        "slug": "chateau-lynch-bages-2005",
+        "price": 21667
+      },
+      {
+        "slug": "chateau-lynch-bages-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-lynch-bages-2014",
+        "price": 9833
+      },
+      {
+        "slug": "chateau-lynch-bages-2000",
+        "price": 32333
+      }
+    ],
+    "chateau-couhins": [
+      {
+        "slug": "chateau-couhins-2015",
+        "price": 2208
+      },
+      {
+        "slug": "chateau-couhins-2012",
+        "price": 2167
+      },
+      {
+        "slug": "chateau-couhins-2014",
+        "price": 1917
+      },
+      {
+        "slug": "chateau-couhins-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-couhins-2017-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-couhins-2014-1",
+        "price": 2333
+      },
+      {
+        "slug": "chateau-couhins-2015-1",
+        "price": 2667
+      },
+      {
+        "slug": "chateau-couhins-2016",
+        "price": 1800
+      },
+      {
+        "slug": "chateau-couhins-2016-1",
+        "price": 2050
+      },
+      {
+        "slug": "chateau-couhins-2010",
+        "price": 3083
+      }
+    ],
+    "chateau-angelus": [
+      {
+        "slug": "chateau-angelus-2012",
+        "price": 48667
+      },
+      {
+        "slug": "chateau-angelus-2009",
+        "price": null
+      },
+      {
+        "slug": "chateau-angelus-2014",
+        "price": 30000
+      },
+      {
+        "slug": "chateau-angelus-2015",
+        "price": 41667
+      },
+      {
+        "slug": "chateau-angelus-2016",
+        "price": 34900
+      },
+      {
+        "slug": "chateau-angelus-2017",
+        "price": null
+      }
+    ],
+    "chateau-la-lagune": [
+      {
+        "slug": "chateau-la-lagune-2005",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-lagune-2003",
+        "price": 6250
+      },
+      {
+        "slug": "chateau-la-lagune-2004",
+        "price": 12333
+      },
+      {
+        "slug": "chateau-la-lagune-2011",
+        "price": 7583
+      },
+      {
+        "slug": "chateau-la-lagune-2012",
+        "price": 6000
+      },
+      {
+        "slug": "chateau-la-lagune-2014",
+        "price": 4833
+      },
+      {
+        "slug": "chateau-la-lagune-2015",
+        "price": 5083
+      },
+      {
+        "slug": "chateau-la-lagune-2016",
+        "price": 4300
+      },
+      {
+        "slug": "chateau-la-lagune-2010",
+        "price": 9917
+      },
+      {
+        "slug": "chateau-la-lagune-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-lagune-2000",
+        "price": 9958
+      },
+      {
+        "slug": "chateau-la-lagune-2008",
+        "price": null
+      }
+    ],
+    "couvent-des-jacobins": [
+      {
+        "slug": "couvent-des-jacobins-2010",
+        "price": 3583
+      },
+      {
+        "slug": "couvent-des-jacobins-2012",
+        "price": 2917
+      },
+      {
+        "slug": "couvent-des-jacobins-2014",
+        "price": 2833
+      },
+      {
+        "slug": "couvent-des-jacobins-2015",
+        "price": 3333
+      },
+      {
+        "slug": "couvent-des-jacobins-2016",
+        "price": 2400
+      },
+      {
+        "slug": "couvent-des-jacobins-2017",
+        "price": null
+      },
+      {
+        "slug": "couvent-des-jacobins-2009",
+        "price": 3833
+      },
+      {
+        "slug": "couvent-des-jacobins-2013",
+        "price": 2492
+      },
+      {
+        "slug": "couvent-des-jacobins-2011",
+        "price": 3250
+      }
+    ],
+    "chateau-la-tour-de-mons": [
+      {
+        "slug": "chateau-la-tour-de-mons-2008",
+        "price": 2667
+      },
+      {
+        "slug": "chateau-la-tour-de-mons-2016",
+        "price": 1750
+      },
+      {
+        "slug": "chateau-la-tour-de-mons-2012",
+        "price": 2292
+      },
+      {
+        "slug": "chateau-la-tour-de-mons-2014",
+        "price": 1917
+      },
+      {
+        "slug": "chateau-la-tour-de-mons-2015",
+        "price": 2333
+      },
+      {
+        "slug": "chateau-la-tour-de-mons-2017",
+        "price": null
+      }
+    ],
+    "chateau-roylland": [
+      {
+        "slug": "chateau-roylland-2008",
+        "price": 2625
+      },
+      {
+        "slug": "chateau-roylland-2010",
+        "price": 2625
+      },
+      {
+        "slug": "chateau-roylland-2015",
+        "price": 2208
+      },
+      {
+        "slug": "chateau-roylland-2002",
+        "price": 2208
+      },
+      {
+        "slug": "chateau-roylland-2016",
+        "price": 1350
+      },
+      {
+        "slug": "chateau-roylland-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-roylland-2003",
+        "price": 3208
+      },
+      {
+        "slug": "chateau-roylland-2009",
+        "price": 2833
+      },
+      {
+        "slug": "chateau-roylland-2005",
+        "price": 3083
+      },
+      {
+        "slug": "chateau-roylland-2014",
+        "price": 1875
+      }
+    ],
+    "chateau-cadet": [
+      {
+        "slug": "chateau-cadet-2005",
+        "price": null
+      }
+    ],
+    "chateau-les-trois-croix": [
+      {
+        "slug": "chateau-les-trois-croix-2010",
+        "price": 2250
+      },
+      {
+        "slug": "chateau-les-trois-croix-2011",
+        "price": 2250
+      },
+      {
+        "slug": "chateau-les-trois-croix-2012",
+        "price": 1792
+      }
+    ],
+    "chateau-la-croix-du-casse": [
+      {
+        "slug": "chateau-la-croix-du-casse-2006",
+        "price": 3750
+      },
+      {
+        "slug": "chateau-la-croix-du-casse-2013",
+        "price": 2217
+      },
+      {
+        "slug": "chateau-la-croix-du-casse-2009",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-croix-du-casse-2010",
+        "price": 3375
+      },
+      {
+        "slug": "chateau-la-croix-du-casse-2011",
+        "price": 2583
+      },
+      {
+        "slug": "chateau-la-croix-du-casse-2012",
+        "price": 2750
+      },
+      {
+        "slug": "chateau-la-croix-du-casse-2014",
+        "price": 2458
+      },
+      {
+        "slug": "chateau-la-croix-du-casse-2015",
+        "price": 2625
+      },
+      {
+        "slug": "chateau-la-croix-du-casse-2016",
+        "price": 2300
+      },
+      {
+        "slug": "chateau-la-croix-du-casse-2007",
+        "price": 2583
+      },
+      {
+        "slug": "chateau-la-croix-du-casse-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-croix-du-casse-2005",
+        "price": 5500
+      },
+      {
+        "slug": "chateau-la-croix-du-casse-2008",
+        "price": 3375
+      }
+    ],
+    "chateau-l-enclos": [
+      {
+        "slug": "chateau-l-enclos-2000",
+        "price": null
+      }
+    ],
+    "chateau-l-eglise-clinet": [
+      {
+        "slug": "chateau-l-eglise-clinet-2015",
+        "price": 33333
+      },
+      {
+        "slug": "chateau-l-eglise-clinet-2016",
+        "price": 27500
+      },
+      {
+        "slug": "chateau-l-eglise-clinet-2014",
+        "price": 21667
+      },
+      {
+        "slug": "chateau-l-eglise-clinet-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-l-eglise-clinet-2009",
+        "price": 60833
+      }
+    ],
+    "chateau-cos-d-estournel": [
+      {
+        "slug": "chateau-cos-d-estournel-2006",
+        "price": 13458
+      },
+      {
+        "slug": "chateau-cos-d-estournel-2010",
+        "price": 31833
+      },
+      {
+        "slug": "chateau-cos-d-estournel-2011",
+        "price": 15333
+      },
+      {
+        "slug": "chateau-cos-d-estournel-2012",
+        "price": 13833
+      },
+      {
+        "slug": "chateau-cos-d-estournel-2013",
+        "price": null
+      },
+      {
+        "slug": "chateau-cos-d-estournel-2014",
+        "price": 13833
+      },
+      {
+        "slug": "chateau-cos-d-estournel-2015",
+        "price": 19333
+      },
+      {
+        "slug": "chateau-cos-d-estournel-2005",
+        "price": 23000
+      },
+      {
+        "slug": "chateau-cos-d-estournel-2016",
+        "price": 18500
+      },
+      {
+        "slug": "chateau-cos-d-estournel-2008",
+        "price": 14000
+      },
+      {
+        "slug": "chateau-cos-d-estournel-2009",
+        "price": 42833
+      },
+      {
+        "slug": "chateau-cos-d-estournel-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-cos-d-estournel-2017-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-cos-d-estournel-2016-1",
+        "price": null
+      }
+    ],
+    "chateau-franc-maillet": [
+      {
+        "slug": "chateau-franc-maillet-1999",
+        "price": 4000
+      }
+    ],
+    "chateau-villemaurine": [
+      {
+        "slug": "chateau-villemaurine-2012",
+        "price": 3625
+      },
+      {
+        "slug": "chateau-villemaurine-2014",
+        "price": 3417
+      },
+      {
+        "slug": "chateau-villemaurine-2015",
+        "price": 4333
+      },
+      {
+        "slug": "chateau-villemaurine-2016",
+        "price": 3900
+      },
+      {
+        "slug": "chateau-villemaurine-2017",
+        "price": null
+      }
+    ],
+    "chateau-la-garricq": [
+      {
+        "slug": "chateau-la-garricq-2012",
+        "price": 1583
+      },
+      {
+        "slug": "chateau-la-garricq-2010",
+        "price": 2167
+      }
+    ],
+    "la-clarte-de-haut-brion": [
+      {
+        "slug": "la-clarte-de-haut-brion-2015",
+        "price": 8667
+      },
+      {
+        "slug": "la-clarte-de-haut-brion-2013",
+        "price": 9333
+      },
+      {
+        "slug": "la-clarte-de-haut-brion-2014",
+        "price": 9167
+      },
+      {
+        "slug": "la-clarte-de-haut-brion-2016",
+        "price": 6800
+      },
+      {
+        "slug": "la-clarte-de-haut-brion-2017",
+        "price": null
+      }
+    ],
+    "chateau-la-mondotte": [
+      {
+        "slug": "chateau-la-mondotte-2005",
+        "price": 48667
+      },
+      {
+        "slug": "chateau-la-mondotte-2001",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-mondotte-2016",
+        "price": 23500
+      },
+      {
+        "slug": "chateau-la-mondotte-2017",
+        "price": null
+      }
+    ],
+    "chateau-du-domaine-de-l-eglise": [
+      {
+        "slug": "chateau-du-domaine-de-l-eglise-2012",
+        "price": 4250
+      },
+      {
+        "slug": "chateau-du-domaine-de-l-eglise-2013",
+        "price": 3750
+      },
+      {
+        "slug": "chateau-du-domaine-de-l-eglise-2016",
+        "price": 4100
+      },
+      {
+        "slug": "chateau-du-domaine-de-l-eglise-2014",
+        "price": 4158
+      },
+      {
+        "slug": "chateau-du-domaine-de-l-eglise-2015",
+        "price": 4833
+      },
+      {
+        "slug": "chateau-du-domaine-de-l-eglise-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-du-domaine-de-l-eglise-2009",
+        "price": 5083
+      }
+    ],
+    "chateau-nairac": [
+      {
+        "slug": "chateau-nairac-2009",
+        "price": 6583
+      },
+      {
+        "slug": "chateau-nairac-2005",
+        "price": 5667
+      },
+      {
+        "slug": "chateau-nairac-2013",
+        "price": 3833
+      },
+      {
+        "slug": "chateau-nairac-2006",
+        "price": 4708
+      },
+      {
+        "slug": "chateau-nairac-2007",
+        "price": 5825
+      },
+      {
+        "slug": "chateau-nairac-2008",
+        "price": 5667
+      },
+      {
+        "slug": "chateau-nairac-2011",
+        "price": 4983
+      },
+      {
+        "slug": "chateau-nairac-2012",
+        "price": 4583
+      }
+    ],
+    "chateau-cap-saint-george": [
+      {
+        "slug": "chateau-cap-saint-george-2014",
+        "price": 1875
+      },
+      {
+        "slug": "chateau-cap-saint-george-2017",
+        "price": null
+      }
+    ],
+    "chateau-de-fargues": [
+      {
+        "slug": "chateau-de-fargues-2007",
+        "price": 11250
+      },
+      {
+        "slug": "chateau-de-fargues-2005",
+        "price": 10333
+      },
+      {
+        "slug": "chateau-de-fargues-2014",
+        "price": 16800
+      },
+      {
+        "slug": "chateau-de-fargues-1994",
+        "price": null
+      },
+      {
+        "slug": "chateau-de-fargues-1996",
+        "price": 9083
+      },
+      {
+        "slug": "chateau-de-fargues-1997",
+        "price": 11000
+      },
+      {
+        "slug": "chateau-de-fargues-1989",
+        "price": 8875
+      },
+      {
+        "slug": "chateau-de-fargues-2006",
+        "price": 9167
+      },
+      {
+        "slug": "chateau-de-fargues-2008",
+        "price": null
+      },
+      {
+        "slug": "chateau-de-fargues-1995",
+        "price": 8750
+      },
+      {
+        "slug": "chateau-de-fargues-2003",
+        "price": null
+      }
+    ],
+    "chateau-raymond-lafon": [
+      {
+        "slug": "chateau-raymond-lafon-2007",
+        "price": 4250
+      },
+      {
+        "slug": "chateau-raymond-lafon-2003",
+        "price": 6000
+      },
+      {
+        "slug": "chateau-raymond-lafon-2005",
+        "price": 5667
+      }
+    ],
+    "chateau-chauvin": [
+      {
+        "slug": "chateau-chauvin-2010",
+        "price": 4125
+      },
+      {
+        "slug": "chateau-chauvin-2014",
+        "price": 3667
+      },
+      {
+        "slug": "chateau-chauvin-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-chauvin-2016",
+        "price": 3300
+      }
+    ],
+    "chateau-la-tour-blanche": [
+      {
+        "slug": "chateau-la-tour-blanche-2014",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-tour-blanche-2009",
+        "price": 6167
+      },
+      {
+        "slug": "chateau-la-tour-blanche-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-tour-blanche-2010",
+        "price": 4833
+      },
+      {
+        "slug": "chateau-la-tour-blanche-2005",
+        "price": 5583
+      },
+      {
+        "slug": "chateau-la-tour-blanche-2016",
+        "price": 3350
+      }
+    ],
+    "chateau-suduiraut": [
+      {
+        "slug": "chateau-suduiraut-2011",
+        "price": 6917
+      },
+      {
+        "slug": "chateau-suduiraut-2009",
+        "price": 9583
+      },
+      {
+        "slug": "chateau-suduiraut-2006",
+        "price": 5417
+      },
+      {
+        "slug": "chateau-suduiraut-2008",
+        "price": null
+      },
+      {
+        "slug": "chateau-suduiraut-2001",
+        "price": null
+      },
+      {
+        "slug": "chateau-suduiraut-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-suduiraut-2015",
+        "price": 6500
+      },
+      {
+        "slug": "chateau-suduiraut-2007",
+        "price": 6583
+      },
+      {
+        "slug": "chateau-suduiraut-2010",
+        "price": null
+      },
+      {
+        "slug": "chateau-suduiraut-1996",
+        "price": 4167
+      },
+      {
+        "slug": "chateau-suduiraut-2016",
+        "price": 5350
+      },
+      {
+        "slug": "chateau-suduiraut-1997",
+        "price": null
+      },
+      {
+        "slug": "chateau-suduiraut-2002",
+        "price": 4500
+      },
+      {
+        "slug": "chateau-suduiraut-1998",
+        "price": null
+      }
+    ],
+    "chateau-la-gaffeliere": [
+      {
+        "slug": "chateau-la-gaffeliere-1998",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-gaffeliere-2010",
+        "price": 10250
+      },
+      {
+        "slug": "chateau-la-gaffeliere-2011",
+        "price": 5917
+      },
+      {
+        "slug": "chateau-la-gaffeliere-2012",
+        "price": 6000
+      },
+      {
+        "slug": "chateau-la-gaffeliere-2013",
+        "price": 4667
+      },
+      {
+        "slug": "chateau-la-gaffeliere-2014",
+        "price": 5750
+      },
+      {
+        "slug": "chateau-la-gaffeliere-2015",
+        "price": 7833
+      },
+      {
+        "slug": "chateau-la-gaffeliere-2016",
+        "price": 5800
+      },
+      {
+        "slug": "chateau-la-gaffeliere-2005",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-gaffeliere-2006",
+        "price": 7000
+      },
+      {
+        "slug": "chateau-la-gaffeliere-2009",
+        "price": 10625
+      },
+      {
+        "slug": "chateau-la-gaffeliere-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-gaffeliere-2008",
+        "price": 7083
+      },
+      {
+        "slug": "chateau-la-gaffeliere-2007",
+        "price": 5875
+      },
+      {
+        "slug": "chateau-la-gaffeliere-1999",
+        "price": null
+      }
+    ],
+    "chateau-ramafort": [
+      {
+        "slug": "chateau-ramafort-2000",
+        "price": 2708
+      }
+    ],
+    "chateau-marsau": [
+      {
+        "slug": "chateau-marsau-2010",
+        "price": 2292
+      },
+      {
+        "slug": "chateau-marsau-2014",
+        "price": 1583
+      },
+      {
+        "slug": "chateau-marsau-2015",
+        "price": 1583
+      },
+      {
+        "slug": "chateau-marsau-2016",
+        "price": 1250
+      },
+      {
+        "slug": "chateau-marsau-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-marsau-2011",
+        "price": 1567
+      },
+      {
+        "slug": "chateau-marsau-2012",
+        "price": 1658
+      },
+      {
+        "slug": "chateau-marsau-2013",
+        "price": 1417
+      }
+    ],
+    "domaine-de-chevalier": [
+      {
+        "slug": "domaine-de-chevalier-1993",
+        "price": null
+      },
+      {
+        "slug": "domaine-de-chevalier-2000",
+        "price": 12083
+      },
+      {
+        "slug": "domaine-de-chevalier-2002",
+        "price": 6000
+      },
+      {
+        "slug": "domaine-de-chevalier-2005",
+        "price": null
+      },
+      {
+        "slug": "domaine-de-chevalier-2015-1",
+        "price": 9333
+      },
+      {
+        "slug": "domaine-de-chevalier-2009",
+        "price": null
+      },
+      {
+        "slug": "domaine-de-chevalier-2010",
+        "price": 9000
+      },
+      {
+        "slug": "domaine-de-chevalier-2016-1",
+        "price": 8150
+      },
+      {
+        "slug": "domaine-de-chevalier-2012",
+        "price": 5500
+      },
+      {
+        "slug": "domaine-de-chevalier-2014",
+        "price": 5667
+      },
+      {
+        "slug": "domaine-de-chevalier-2015",
+        "price": 7000
+      },
+      {
+        "slug": "domaine-de-chevalier-2016",
+        "price": 6400
+      },
+      {
+        "slug": "domaine-de-chevalier-1996-1",
+        "price": 9167
+      },
+      {
+        "slug": "domaine-de-chevalier-1982",
+        "price": 26667
+      },
+      {
+        "slug": "domaine-de-chevalier-1986",
+        "price": 12667
+      },
+      {
+        "slug": "domaine-de-chevalier-1989",
+        "price": null
+      },
+      {
+        "slug": "domaine-de-chevalier-1995-1",
+        "price": 10000
+      },
+      {
+        "slug": "domaine-de-chevalier-1998",
+        "price": 6917
+      },
+      {
+        "slug": "domaine-de-chevalier-2017-1",
+        "price": null
+      },
+      {
+        "slug": "domaine-de-chevalier-2017",
+        "price": null
+      },
+      {
+        "slug": "domaine-de-chevalier-2011-1",
+        "price": 9417
+      },
+      {
+        "slug": "domaine-de-chevalier-2014-1",
+        "price": 9500
+      }
+    ],
+    "chateau-meyney": [
+      {
+        "slug": "chateau-meyney-2013",
+        "price": 2667
+      },
+      {
+        "slug": "chateau-meyney-2000",
+        "price": 4667
+      },
+      {
+        "slug": "chateau-meyney-2005",
+        "price": 4000
+      },
+      {
+        "slug": "chateau-meyney-2006",
+        "price": 3167
+      },
+      {
+        "slug": "chateau-meyney-2008",
+        "price": 7000
+      },
+      {
+        "slug": "chateau-meyney-2009",
+        "price": 4250
+      },
+      {
+        "slug": "chateau-meyney-2010",
+        "price": 3917
+      },
+      {
+        "slug": "chateau-meyney-2011",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-meyney-2012",
+        "price": 3083
+      },
+      {
+        "slug": "chateau-meyney-2014",
+        "price": 2750
+      },
+      {
+        "slug": "chateau-meyney-2015",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-meyney-2016",
+        "price": 2600
+      },
+      {
+        "slug": "chateau-meyney-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-meyney-2007",
+        "price": 2875
+      }
+    ],
+    "chateau-latour-martillac": [
+      {
+        "slug": "chateau-latour-martillac-1993",
+        "price": null
+      },
+      {
+        "slug": "chateau-latour-martillac-1999",
+        "price": null
+      },
+      {
+        "slug": "chateau-latour-martillac-2016-1",
+        "price": 2700
+      },
+      {
+        "slug": "chateau-latour-martillac-2014",
+        "price": 3417
+      },
+      {
+        "slug": "chateau-latour-martillac-2015",
+        "price": 3750
+      },
+      {
+        "slug": "chateau-latour-martillac-2016",
+        "price": 3200
+      },
+      {
+        "slug": "chateau-latour-martillac-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-latour-martillac-2017-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-latour-martillac-2012",
+        "price": 3167
+      },
+      {
+        "slug": "chateau-latour-martillac-2006-1",
+        "price": 3583
+      },
+      {
+        "slug": "chateau-latour-martillac-2010",
+        "price": 4000
+      }
+    ],
+    "chateau-larcis-ducasse": [
+      {
+        "slug": "chateau-larcis-ducasse-2013",
+        "price": 4583
+      },
+      {
+        "slug": "chateau-larcis-ducasse-2014",
+        "price": 5708
+      },
+      {
+        "slug": "chateau-larcis-ducasse-2011",
+        "price": 5083
+      },
+      {
+        "slug": "chateau-larcis-ducasse-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-larcis-ducasse-2016",
+        "price": 6600
+      }
+    ],
+    "chateau-laville-haut-brion": [
+      {
+        "slug": "chateau-laville-haut-brion-2006",
+        "price": 43333
+      },
+      {
+        "slug": "chateau-laville-haut-brion-2007",
+        "price": 44167
+      },
+      {
+        "slug": "chateau-laville-haut-brion-2008",
+        "price": 30833
+      },
+      {
+        "slug": "chateau-laville-haut-brion-2005",
+        "price": 24167
+      }
+    ],
+    "pavillon-rouge": [
+      {
+        "slug": "pavillon-rouge-2000",
+        "price": 25000
+      },
+      {
+        "slug": "pavillon-rouge-2005",
+        "price": 22917
+      },
+      {
+        "slug": "pavillon-rouge-2002",
+        "price": null
+      },
+      {
+        "slug": "pavillon-rouge-2004",
+        "price": 21250
+      },
+      {
+        "slug": "pavillon-rouge-2008",
+        "price": 20833
+      },
+      {
+        "slug": "pavillon-rouge-2009",
+        "price": 22500
+      },
+      {
+        "slug": "pavillon-rouge-2010",
+        "price": 22500
+      },
+      {
+        "slug": "pavillon-rouge-2013",
+        "price": null
+      },
+      {
+        "slug": "pavillon-rouge-2015",
+        "price": 30833
+      },
+      {
+        "slug": "pavillon-rouge-2016",
+        "price": 14200
+      },
+      {
+        "slug": "pavillon-rouge-1996",
+        "price": 20833
+      },
+      {
+        "slug": "pavillon-rouge-2017",
+        "price": null
+      }
+    ],
+    "chateau-troplong-mondot": [
+      {
+        "slug": "chateau-troplong-mondot-1999",
+        "price": null
+      },
+      {
+        "slug": "chateau-troplong-mondot-2006",
+        "price": 11375
+      },
+      {
+        "slug": "chateau-troplong-mondot-2008",
+        "price": null
+      },
+      {
+        "slug": "chateau-troplong-mondot-2010",
+        "price": 18333
+      },
+      {
+        "slug": "chateau-troplong-mondot-2012",
+        "price": 9333
+      },
+      {
+        "slug": "chateau-troplong-mondot-2013",
+        "price": 8000
+      },
+      {
+        "slug": "chateau-troplong-mondot-2014",
+        "price": 9333
+      },
+      {
+        "slug": "chateau-troplong-mondot-2015",
+        "price": 12167
+      },
+      {
+        "slug": "chateau-troplong-mondot-2016",
+        "price": 12240
+      },
+      {
+        "slug": "chateau-troplong-mondot-1996",
+        "price": null
+      },
+      {
+        "slug": "chateau-troplong-mondot-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-troplong-mondot-2009",
+        "price": 19333
+      }
+    ],
+    "aile-d-argent": [
+      {
+        "slug": "aile-d-argent-2008",
+        "price": 7583
+      },
+      {
+        "slug": "aile-d-argent-2017",
+        "price": null
+      },
+      {
+        "slug": "aile-d-argent-2016",
+        "price": 6800
+      },
+      {
+        "slug": "aile-d-argent-2013",
+        "price": 7833
+      },
+      {
+        "slug": "aile-d-argent-2015",
+        "price": 7500
+      }
+    ],
+    "chateau-fombrauge": [
+      {
+        "slug": "chateau-fombrauge-2006",
+        "price": 3417
+      },
+      {
+        "slug": "chateau-fombrauge-2014",
+        "price": 2542
+      },
+      {
+        "slug": "chateau-fombrauge-2015",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-fombrauge-2010",
+        "price": 3667
+      },
+      {
+        "slug": "chateau-fombrauge-2011",
+        "price": 3292
+      },
+      {
+        "slug": "chateau-fombrauge-2012",
+        "price": 3417
+      },
+      {
+        "slug": "chateau-fombrauge-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-fombrauge-2016",
+        "price": 2300
+      }
+    ],
+    "chateau-margaux": [
+      {
+        "slug": "chateau-margaux-2003",
+        "price": 82167
+      },
+      {
+        "slug": "chateau-margaux-1999",
+        "price": 66500
+      },
+      {
+        "slug": "chateau-margaux-2002",
+        "price": 51667
+      },
+      {
+        "slug": "chateau-margaux-2004",
+        "price": 52500
+      },
+      {
+        "slug": "chateau-margaux-2005",
+        "price": null
+      },
+      {
+        "slug": "chateau-margaux-2006",
+        "price": 58417
+      },
+      {
+        "slug": "chateau-margaux-2009",
+        "price": null
+      },
+      {
+        "slug": "chateau-margaux-2010",
+        "price": null
+      },
+      {
+        "slug": "chateau-margaux-2012",
+        "price": 50833
+      },
+      {
+        "slug": "chateau-margaux-1986",
+        "price": null
+      },
+      {
+        "slug": "chateau-margaux-1990",
+        "price": null
+      },
+      {
+        "slug": "chateau-margaux-1995",
+        "price": 81000
+      },
+      {
+        "slug": "chateau-margaux-1998",
+        "price": 52167
+      },
+      {
+        "slug": "chateau-margaux-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-margaux-2014",
+        "price": 51333
+      },
+      {
+        "slug": "chateau-margaux-2016",
+        "price": 55000
+      },
+      {
+        "slug": "chateau-margaux-2008",
+        "price": 62667
+      },
+      {
+        "slug": "chateau-margaux-2001",
+        "price": 68667
+      },
+      {
+        "slug": "chateau-margaux-1985",
+        "price": null
+      },
+      {
+        "slug": "chateau-margaux-1996",
+        "price": 94833
+      },
+      {
+        "slug": "chateau-margaux-2000",
+        "price": null
+      },
+      {
+        "slug": "chateau-margaux-2015",
+        "price": null
+      }
+    ],
+    "chateau-ausone": [
+      {
+        "slug": "chateau-ausone-1989",
+        "price": null
+      },
+      {
+        "slug": "chateau-ausone-1990",
+        "price": null
+      },
+      {
+        "slug": "chateau-ausone-2017",
+        "price": null
+      }
+    ],
+    "chateau-branaire-ducru": [
+      {
+        "slug": "chateau-branaire-ducru-2005",
+        "price": 12833
+      },
+      {
+        "slug": "chateau-branaire-ducru-2010",
+        "price": 8000
+      },
+      {
+        "slug": "chateau-branaire-ducru-2012",
+        "price": 4917
+      },
+      {
+        "slug": "chateau-branaire-ducru-2014",
+        "price": 4833
+      },
+      {
+        "slug": "chateau-branaire-ducru-2015",
+        "price": 5833
+      },
+      {
+        "slug": "chateau-branaire-ducru-2016",
+        "price": 4800
+      },
+      {
+        "slug": "chateau-branaire-ducru-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-branaire-ducru-2000",
+        "price": 13750
+      }
+    ],
+    "chateau-la-mission-haut-brion": [
+      {
+        "slug": "chateau-la-mission-haut-brion-2008",
+        "price": 22333
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2012-1",
+        "price": 68500
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2005",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2006",
+        "price": 37500
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2009",
+        "price": 88167
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2010",
+        "price": 85167
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2011",
+        "price": 30333
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2012",
+        "price": 23667
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2013",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2014",
+        "price": 23167
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2015",
+        "price": 45833
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2016",
+        "price": 38900
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2009-1",
+        "price": 71667
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2010-1",
+        "price": 80000
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2011-1",
+        "price": 83167
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2013-1",
+        "price": 68333
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2014-1",
+        "price": 70667
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2015-1",
+        "price": 71667
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2016-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2017-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-mission-haut-brion-2007",
+        "price": 24000
+      }
+    ],
+    "chateau-rauzan-segla": [
+      {
+        "slug": "chateau-rauzan-segla-2009",
+        "price": 13833
+      },
+      {
+        "slug": "chateau-rauzan-segla-2014",
+        "price": 7000
+      },
+      {
+        "slug": "chateau-rauzan-segla-2016",
+        "price": 8900
+      },
+      {
+        "slug": "chateau-rauzan-segla-2010",
+        "price": 14500
+      },
+      {
+        "slug": "chateau-rauzan-segla-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-rauzan-segla-2012",
+        "price": 7333
+      }
+    ],
+    "chateau-rauzan-gassies": [
+      {
+        "slug": "chateau-rauzan-gassies-2008",
+        "price": 2500
+      },
+      {
+        "slug": "chateau-rauzan-gassies-2014",
+        "price": 4417
+      },
+      {
+        "slug": "chateau-rauzan-gassies-2015",
+        "price": 5500
+      },
+      {
+        "slug": "chateau-rauzan-gassies-2009",
+        "price": 5708
+      },
+      {
+        "slug": "chateau-rauzan-gassies-2010",
+        "price": 6167
+      },
+      {
+        "slug": "chateau-rauzan-gassies-2005",
+        "price": null
+      },
+      {
+        "slug": "chateau-rauzan-gassies-2016",
+        "price": 4700
+      },
+      {
+        "slug": "chateau-rauzan-gassies-2017",
+        "price": null
+      }
+    ],
+    "chateau-cantemerle": [
+      {
+        "slug": "chateau-cantemerle-2000",
+        "price": null
+      },
+      {
+        "slug": "chateau-cantemerle-2006",
+        "price": 3917
+      },
+      {
+        "slug": "chateau-cantemerle-2008",
+        "price": 3750
+      },
+      {
+        "slug": "chateau-cantemerle-2012",
+        "price": 3250
+      },
+      {
+        "slug": "chateau-cantemerle-2013",
+        "price": null
+      },
+      {
+        "slug": "chateau-cantemerle-2014",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-cantemerle-2015",
+        "price": 3292
+      },
+      {
+        "slug": "chateau-cantemerle-2016",
+        "price": 2600
+      },
+      {
+        "slug": "chateau-cantemerle-2005",
+        "price": 5583
+      },
+      {
+        "slug": "chateau-cantemerle-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-cantemerle-2010",
+        "price": 4583
+      }
+    ],
+    "chateau-de-sales": [
+      {
+        "slug": "chateau-de-sales-2005",
+        "price": null
+      },
+      {
+        "slug": "chateau-de-sales-2008",
+        "price": null
+      },
+      {
+        "slug": "chateau-de-sales-2010",
+        "price": 3333
+      },
+      {
+        "slug": "chateau-de-sales-2011",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-de-sales-2012",
+        "price": 2875
+      },
+      {
+        "slug": "chateau-de-sales-2013",
+        "price": 2042
+      },
+      {
+        "slug": "chateau-de-sales-2014",
+        "price": 2500
+      },
+      {
+        "slug": "chateau-de-sales-2015",
+        "price": 2458
+      },
+      {
+        "slug": "chateau-de-sales-2016",
+        "price": 2300
+      },
+      {
+        "slug": "chateau-de-sales-2017",
+        "price": null
+      }
+    ],
+    "chateau-canon-la-gaffeliere": [
+      {
+        "slug": "chateau-canon-la-gaffeliere-2005",
+        "price": null
+      },
+      {
+        "slug": "chateau-canon-la-gaffeliere-2016",
+        "price": 7700
+      },
+      {
+        "slug": "chateau-canon-la-gaffeliere-2009",
+        "price": 11833
+      },
+      {
+        "slug": "chateau-canon-la-gaffeliere-2010",
+        "price": 11875
+      },
+      {
+        "slug": "chateau-canon-la-gaffeliere-2013",
+        "price": 11583
+      },
+      {
+        "slug": "chateau-canon-la-gaffeliere-2014",
+        "price": 6917
+      },
+      {
+        "slug": "chateau-canon-la-gaffeliere-2003",
+        "price": 10792
+      },
+      {
+        "slug": "chateau-canon-la-gaffeliere-2017",
+        "price": null
+      }
+    ],
+    "chateau-lascombes": [
+      {
+        "slug": "chateau-lascombes-2013",
+        "price": null
+      },
+      {
+        "slug": "chateau-lascombes-2014",
+        "price": 7167
+      },
+      {
+        "slug": "chateau-lascombes-2015",
+        "price": 8500
+      },
+      {
+        "slug": "chateau-lascombes-2016",
+        "price": 6700
+      },
+      {
+        "slug": "chateau-lascombes-1996",
+        "price": null
+      },
+      {
+        "slug": "chateau-lascombes-2009",
+        "price": 11500
+      },
+      {
+        "slug": "chateau-lascombes-2010",
+        "price": 12000
+      },
+      {
+        "slug": "chateau-lascombes-2012",
+        "price": 6667
+      },
+      {
+        "slug": "chateau-lascombes-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-lascombes-2005",
+        "price": 14625
+      }
+    ],
+    "chateau-d-issan": [
+      {
+        "slug": "chateau-d-issan-2014",
+        "price": 5250
+      },
+      {
+        "slug": "chateau-d-issan-2015",
+        "price": 7250
+      },
+      {
+        "slug": "chateau-d-issan-2016",
+        "price": 5600
+      },
+      {
+        "slug": "chateau-d-issan-2002",
+        "price": null
+      },
+      {
+        "slug": "chateau-d-issan-2009",
+        "price": 9000
+      },
+      {
+        "slug": "chateau-d-issan-2010",
+        "price": 8375
+      },
+      {
+        "slug": "chateau-d-issan-2017",
+        "price": null
+      }
+    ],
+    "carmes-de-rieussec": [
+      {
+        "slug": "carmes-de-rieussec-2012",
+        "price": 2208
+      },
+      {
+        "slug": "carmes-de-rieussec-2014",
+        "price": 2083
+      },
+      {
+        "slug": "carmes-de-rieussec-2017",
+        "price": null
+      },
+      {
+        "slug": "carmes-de-rieussec-2008",
+        "price": 2333
+      },
+      {
+        "slug": "carmes-de-rieussec-2009",
+        "price": 2583
+      },
+      {
+        "slug": "carmes-de-rieussec-2015",
+        "price": 1933
+      },
+      {
+        "slug": "carmes-de-rieussec-2010",
+        "price": 2500
+      },
+      {
+        "slug": "carmes-de-rieussec-2016",
+        "price": 1600
+      },
+      {
+        "slug": "carmes-de-rieussec-2011",
+        "price": 2417
+      }
+    ],
+    "chateau-lafaurie-peyraguey": [
+      {
+        "slug": "chateau-lafaurie-peyraguey-2007",
+        "price": 5125
+      },
+      {
+        "slug": "chateau-lafaurie-peyraguey-2008",
+        "price": null
+      },
+      {
+        "slug": "chateau-lafaurie-peyraguey-2009",
+        "price": 5500
+      },
+      {
+        "slug": "chateau-lafaurie-peyraguey-2015",
+        "price": 5167
+      },
+      {
+        "slug": "chateau-lafaurie-peyraguey-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-lafaurie-peyraguey-2013",
+        "price": 5750
+      },
+      {
+        "slug": "chateau-lafaurie-peyraguey-2002",
+        "price": 4375
+      },
+      {
+        "slug": "chateau-lafaurie-peyraguey-2016",
+        "price": 4000
+      },
+      {
+        "slug": "chateau-lafaurie-peyraguey-2016-1",
+        "price": 3583
+      },
+      {
+        "slug": "chateau-lafaurie-peyraguey-2005",
+        "price": 5000
+      },
+      {
+        "slug": "chateau-lafaurie-peyraguey-2010",
+        "price": 5083
+      }
+    ],
+    "chateau-giscours": [
+      {
+        "slug": "chateau-giscours-2005",
+        "price": 11083
+      },
+      {
+        "slug": "chateau-giscours-2009",
+        "price": 7667
+      },
+      {
+        "slug": "chateau-giscours-2010",
+        "price": 9708
+      },
+      {
+        "slug": "chateau-giscours-2012",
+        "price": 5083
+      },
+      {
+        "slug": "chateau-giscours-2014",
+        "price": 5000
+      },
+      {
+        "slug": "chateau-giscours-2016",
+        "price": 5600
+      },
+      {
+        "slug": "chateau-giscours-1996",
+        "price": null
+      },
+      {
+        "slug": "chateau-giscours-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-giscours-2008",
+        "price": 5833
+      },
+      {
+        "slug": "chateau-giscours-2015",
+        "price": 9667
+      }
+    ],
+    "chateau-saint-pierre": [
+      {
+        "slug": "chateau-saint-pierre-1999",
+        "price": 6917
+      },
+      {
+        "slug": "chateau-saint-pierre-2000",
+        "price": 9167
+      },
+      {
+        "slug": "chateau-saint-pierre-2006",
+        "price": 5792
+      },
+      {
+        "slug": "chateau-saint-pierre-2008",
+        "price": 5667
+      },
+      {
+        "slug": "chateau-saint-pierre-2009",
+        "price": 21167
+      },
+      {
+        "slug": "chateau-saint-pierre-2011",
+        "price": 7583
+      },
+      {
+        "slug": "chateau-saint-pierre-2012",
+        "price": 5417
+      },
+      {
+        "slug": "chateau-saint-pierre-2014",
+        "price": 5083
+      },
+      {
+        "slug": "chateau-saint-pierre-2015",
+        "price": 6000
+      },
+      {
+        "slug": "chateau-saint-pierre-2016",
+        "price": 5350
+      },
+      {
+        "slug": "chateau-saint-pierre-1996",
+        "price": null
+      },
+      {
+        "slug": "chateau-saint-pierre-1998",
+        "price": 7083
+      },
+      {
+        "slug": "chateau-saint-pierre-2015-1",
+        "price": 4583
+      },
+      {
+        "slug": "chateau-saint-pierre-2016-1",
+        "price": 4000
+      },
+      {
+        "slug": "chateau-saint-pierre-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-saint-pierre-2017-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-saint-pierre-2001",
+        "price": 6083
+      },
+      {
+        "slug": "chateau-saint-pierre-2010",
+        "price": null
+      }
+    ],
+    "chateau-leoville-barton": [
+      {
+        "slug": "chateau-leoville-barton-2010",
+        "price": 13333
+      },
+      {
+        "slug": "chateau-leoville-barton-2012",
+        "price": 7458
+      },
+      {
+        "slug": "chateau-leoville-barton-2014",
+        "price": 7667
+      },
+      {
+        "slug": "chateau-leoville-barton-2015",
+        "price": 11667
+      },
+      {
+        "slug": "chateau-leoville-barton-2016",
+        "price": 8000
+      },
+      {
+        "slug": "chateau-leoville-barton-2009",
+        "price": 13333
+      },
+      {
+        "slug": "chateau-leoville-barton-2017",
+        "price": null
+      }
+    ],
+    "chateau-talbot": [
+      {
+        "slug": "chateau-talbot-2014",
+        "price": 5417
+      },
+      {
+        "slug": "chateau-talbot-2015",
+        "price": 5917
+      },
+      {
+        "slug": "chateau-talbot-2016",
+        "price": 5100
+      },
+      {
+        "slug": "chateau-talbot-2006",
+        "price": 15667
+      },
+      {
+        "slug": "chateau-talbot-2010",
+        "price": 7750
+      },
+      {
+        "slug": "chateau-talbot-2012",
+        "price": 6167
+      },
+      {
+        "slug": "chateau-talbot-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-talbot-2009",
+        "price": null
+      },
+      {
+        "slug": "chateau-talbot-1962",
+        "price": null
+      }
+    ],
+    "chateau-lagrange": [
+      {
+        "slug": "chateau-lagrange-2005",
+        "price": 8083
+      },
+      {
+        "slug": "chateau-lagrange-2010",
+        "price": 7250
+      },
+      {
+        "slug": "chateau-lagrange-2011",
+        "price": 2188
+      },
+      {
+        "slug": "chateau-lagrange-2012",
+        "price": 4042
+      },
+      {
+        "slug": "chateau-lagrange-2014",
+        "price": 3833
+      },
+      {
+        "slug": "chateau-lagrange-2015",
+        "price": 4333
+      },
+      {
+        "slug": "chateau-lagrange-2016",
+        "price": 4300
+      },
+      {
+        "slug": "chateau-lagrange-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-lagrange-2009",
+        "price": null
+      }
+    ],
+    "chateau-beychevelle": [
+      {
+        "slug": "chateau-beychevelle-2014",
+        "price": 9167
+      },
+      {
+        "slug": "chateau-beychevelle-2015",
+        "price": 8750
+      },
+      {
+        "slug": "chateau-beychevelle-2009",
+        "price": 11500
+      },
+      {
+        "slug": "chateau-beychevelle-2010",
+        "price": 11333
+      },
+      {
+        "slug": "chateau-beychevelle-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-beychevelle-2016",
+        "price": 7800
+      }
+    ],
+    "chateau-ducru-beaucaillou": [
+      {
+        "slug": "chateau-ducru-beaucaillou-2003",
+        "price": null
+      },
+      {
+        "slug": "chateau-ducru-beaucaillou-2005",
+        "price": 24250
+      },
+      {
+        "slug": "chateau-ducru-beaucaillou-2006",
+        "price": 17583
+      },
+      {
+        "slug": "chateau-ducru-beaucaillou-2008",
+        "price": 16000
+      },
+      {
+        "slug": "chateau-ducru-beaucaillou-2009",
+        "price": 35667
+      },
+      {
+        "slug": "chateau-ducru-beaucaillou-2010",
+        "price": 25000
+      },
+      {
+        "slug": "chateau-ducru-beaucaillou-2012",
+        "price": 13167
+      },
+      {
+        "slug": "chateau-ducru-beaucaillou-2014",
+        "price": null
+      },
+      {
+        "slug": "chateau-ducru-beaucaillou-2015",
+        "price": 20000
+      },
+      {
+        "slug": "chateau-ducru-beaucaillou-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-ducru-beaucaillou-2000",
+        "price": 35833
+      },
+      {
+        "slug": "chateau-ducru-beaucaillou-2016",
+        "price": 16800
+      }
+    ],
+    "clos-l-eglise": [
+      {
+        "slug": "clos-l-eglise-2009",
+        "price": 23333
+      },
+      {
+        "slug": "clos-l-eglise-2013",
+        "price": 6208
+      },
+      {
+        "slug": "clos-l-eglise-2014",
+        "price": 7333
+      },
+      {
+        "slug": "clos-l-eglise-2016",
+        "price": 8600
+      },
+      {
+        "slug": "clos-l-eglise-2008",
+        "price": 9417
+      },
+      {
+        "slug": "clos-l-eglise-2017",
+        "price": null
+      },
+      {
+        "slug": "clos-l-eglise-2012",
+        "price": 7083
+      },
+      {
+        "slug": "clos-l-eglise-2015",
+        "price": 10000
+      }
+    ],
+    "chateau-clos-de-sarpe": [
+      {
+        "slug": "chateau-clos-de-sarpe-2008",
+        "price": 7000
+      },
+      {
+        "slug": "chateau-clos-de-sarpe-2009",
+        "price": 13250
+      },
+      {
+        "slug": "chateau-clos-de-sarpe-2010",
+        "price": 11000
+      },
+      {
+        "slug": "chateau-clos-de-sarpe-2013",
+        "price": 5167
+      },
+      {
+        "slug": "chateau-clos-de-sarpe-2014",
+        "price": 5250
+      },
+      {
+        "slug": "chateau-clos-de-sarpe-2015",
+        "price": 5825
+      },
+      {
+        "slug": "chateau-clos-de-sarpe-2016",
+        "price": 5200
+      },
+      {
+        "slug": "chateau-clos-de-sarpe-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-clos-de-sarpe-2012",
+        "price": 5750
+      }
+    ],
+    "chateau-leoville-las-cases": [
+      {
+        "slug": "chateau-leoville-las-cases-2014",
+        "price": 15167
+      },
+      {
+        "slug": "chateau-leoville-las-cases-2015",
+        "price": 21000
+      },
+      {
+        "slug": "chateau-leoville-las-cases-1995",
+        "price": 33333
+      },
+      {
+        "slug": "chateau-leoville-las-cases-1996",
+        "price": 43583
+      },
+      {
+        "slug": "chateau-leoville-las-cases-2005",
+        "price": 32667
+      },
+      {
+        "slug": "chateau-leoville-las-cases-2008",
+        "price": 17333
+      },
+      {
+        "slug": "chateau-leoville-las-cases-2009",
+        "price": 40000
+      },
+      {
+        "slug": "chateau-leoville-las-cases-2010",
+        "price": 30000
+      },
+      {
+        "slug": "chateau-leoville-las-cases-2011",
+        "price": 15333
+      },
+      {
+        "slug": "chateau-leoville-las-cases-2012",
+        "price": 13917
+      },
+      {
+        "slug": "chateau-leoville-las-cases-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-leoville-las-cases-2001",
+        "price": null
+      },
+      {
+        "slug": "chateau-leoville-las-cases-2006",
+        "price": 19167
+      },
+      {
+        "slug": "chateau-leoville-las-cases-2016",
+        "price": 27000
+      }
+    ],
+    "chateau-prieure-lichine": [
+      {
+        "slug": "chateau-prieure-lichine-2015",
+        "price": 4667
+      },
+      {
+        "slug": "chateau-prieure-lichine-2016",
+        "price": 3600
+      },
+      {
+        "slug": "chateau-prieure-lichine-2008",
+        "price": null
+      },
+      {
+        "slug": "chateau-prieure-lichine-2009",
+        "price": 6125
+      },
+      {
+        "slug": "chateau-prieure-lichine-2010",
+        "price": 8750
+      },
+      {
+        "slug": "chateau-prieure-lichine-2011",
+        "price": 4542
+      },
+      {
+        "slug": "chateau-prieure-lichine-2012",
+        "price": 4250
+      },
+      {
+        "slug": "chateau-prieure-lichine-2014",
+        "price": 3667
+      },
+      {
+        "slug": "chateau-prieure-lichine-2017",
+        "price": null
+      }
+    ],
+    "la-sirene-de-giscours": [
+      {
+        "slug": "la-sirene-de-giscours-2016",
+        "price": 2250
+      },
+      {
+        "slug": "la-sirene-de-giscours-2009",
+        "price": 7000
+      },
+      {
+        "slug": "la-sirene-de-giscours-2017",
+        "price": null
+      }
+    ],
+    "chateau-cantenac-brown": [
+      {
+        "slug": "chateau-cantenac-brown-2010",
+        "price": 6708
+      },
+      {
+        "slug": "chateau-cantenac-brown-2012",
+        "price": 4583
+      },
+      {
+        "slug": "chateau-cantenac-brown-2014",
+        "price": 4667
+      },
+      {
+        "slug": "chateau-cantenac-brown-2015",
+        "price": 5792
+      },
+      {
+        "slug": "chateau-cantenac-brown-2016",
+        "price": 4700
+      },
+      {
+        "slug": "chateau-cantenac-brown-2017",
+        "price": null
+      }
+    ],
+    "chateau-du-tertre": [
+      {
+        "slug": "chateau-du-tertre-2012",
+        "price": 7833
+      },
+      {
+        "slug": "chateau-du-tertre-2015",
+        "price": 6833
+      },
+      {
+        "slug": "chateau-du-tertre-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-du-tertre-2016",
+        "price": 3700
+      }
+    ],
+    "chateau-leoville-poyferre": [
+      {
+        "slug": "chateau-leoville-poyferre-2014",
+        "price": 7458
+      },
+      {
+        "slug": "chateau-leoville-poyferre-2010",
+        "price": 16667
+      },
+      {
+        "slug": "chateau-leoville-poyferre-2015",
+        "price": 9333
+      },
+      {
+        "slug": "chateau-leoville-poyferre-2006",
+        "price": 8208
+      },
+      {
+        "slug": "chateau-leoville-poyferre-2011",
+        "price": 9917
+      },
+      {
+        "slug": "chateau-leoville-poyferre-2012",
+        "price": 7500
+      },
+      {
+        "slug": "chateau-leoville-poyferre-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-leoville-poyferre-2016",
+        "price": 9600
+      },
+      {
+        "slug": "chateau-leoville-poyferre-2000",
+        "price": 21667
+      }
+    ],
+    "chateau-faurie-de-souchard": [
+      {
+        "slug": "chateau-faurie-de-souchard-2016",
+        "price": 2900
+      }
+    ],
+    "chateau-palmer": [
+      {
+        "slug": "chateau-palmer-2005",
+        "price": 36250
+      },
+      {
+        "slug": "chateau-palmer-2006",
+        "price": 28792
+      },
+      {
+        "slug": "chateau-palmer-2007",
+        "price": 39667
+      },
+      {
+        "slug": "chateau-palmer-2008",
+        "price": 43333
+      },
+      {
+        "slug": "chateau-palmer-2009",
+        "price": 38417
+      },
+      {
+        "slug": "chateau-palmer-2010",
+        "price": 37750
+      },
+      {
+        "slug": "chateau-palmer-2012",
+        "price": 25167
+      },
+      {
+        "slug": "chateau-palmer-2014",
+        "price": 25000
+      },
+      {
+        "slug": "chateau-palmer-2015",
+        "price": 34667
+      },
+      {
+        "slug": "chateau-palmer-2016",
+        "price": 28000
+      },
+      {
+        "slug": "chateau-palmer-1998",
+        "price": 32000
+      },
+      {
+        "slug": "chateau-palmer-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-palmer-1990",
+        "price": 45000
+      }
+    ],
+    "chateau-duhart-milon": [
+      {
+        "slug": "chateau-duhart-milon-2014",
+        "price": 7167
+      },
+      {
+        "slug": "chateau-duhart-milon-2015",
+        "price": 7333
+      },
+      {
+        "slug": "chateau-duhart-milon-2016",
+        "price": 6400
+      },
+      {
+        "slug": "chateau-duhart-milon-2010",
+        "price": 12917
+      },
+      {
+        "slug": "chateau-duhart-milon-2011",
+        "price": 9250
+      },
+      {
+        "slug": "chateau-duhart-milon-2013",
+        "price": 7500
+      },
+      {
+        "slug": "chateau-duhart-milon-2005",
+        "price": null
+      },
+      {
+        "slug": "chateau-duhart-milon-2008",
+        "price": 10417
+      },
+      {
+        "slug": "chateau-duhart-milon-2004",
+        "price": 13333
+      },
+      {
+        "slug": "chateau-duhart-milon-2006",
+        "price": null
+      },
+      {
+        "slug": "chateau-duhart-milon-2017",
+        "price": null
+      }
+    ],
+    "chateau-grand-puy-lacoste": [
+      {
+        "slug": "chateau-grand-puy-lacoste-2005",
+        "price": 13833
+      },
+      {
+        "slug": "chateau-grand-puy-lacoste-2006",
+        "price": 6708
+      },
+      {
+        "slug": "chateau-grand-puy-lacoste-2009",
+        "price": 9917
+      },
+      {
+        "slug": "chateau-grand-puy-lacoste-2010",
+        "price": 10083
+      },
+      {
+        "slug": "chateau-grand-puy-lacoste-2012",
+        "price": 5500
+      },
+      {
+        "slug": "chateau-grand-puy-lacoste-2013",
+        "price": null
+      },
+      {
+        "slug": "chateau-grand-puy-lacoste-2015",
+        "price": 8250
+      },
+      {
+        "slug": "chateau-grand-puy-lacoste-2016",
+        "price": 7350
+      },
+      {
+        "slug": "chateau-grand-puy-lacoste-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-grand-puy-lacoste-2014",
+        "price": 6667
+      }
+    ],
+    "chateau-croizet-bages": [
+      {
+        "slug": "chateau-croizet-bages-2015",
+        "price": 3583
+      },
+      {
+        "slug": "chateau-croizet-bages-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-croizet-bages-2016",
+        "price": 3300
+      }
+    ],
+    "le-petit-mouton-de-mouton-rothschild": [
+      {
+        "slug": "le-petit-mouton-de-mouton-rothschild-2009",
+        "price": 29500
+      },
+      {
+        "slug": "le-petit-mouton-de-mouton-rothschild-2016",
+        "price": 17000
+      },
+      {
+        "slug": "le-petit-mouton-de-mouton-rothschild-2017",
+        "price": null
+      },
+      {
+        "slug": "le-petit-mouton-de-mouton-rothschild-2015",
+        "price": 25500
+      }
+    ],
+    "chateau-lynch-moussas": [
+      {
+        "slug": "chateau-lynch-moussas-2009",
+        "price": 4333
+      },
+      {
+        "slug": "chateau-lynch-moussas-2010",
+        "price": 4458
+      },
+      {
+        "slug": "chateau-lynch-moussas-2008",
+        "price": 3500
+      },
+      {
+        "slug": "chateau-lynch-moussas-2012",
+        "price": 3625
+      },
+      {
+        "slug": "chateau-lynch-moussas-2014",
+        "price": 3583
+      },
+      {
+        "slug": "chateau-lynch-moussas-2015",
+        "price": 3958
+      },
+      {
+        "slug": "chateau-lynch-moussas-2016",
+        "price": 3350
+      },
+      {
+        "slug": "chateau-lynch-moussas-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-lynch-moussas-2005",
+        "price": 5042
+      }
+    ],
+    "chateau-grand-puy-ducasse": [
+      {
+        "slug": "chateau-grand-puy-ducasse-2008",
+        "price": 4292
+      },
+      {
+        "slug": "chateau-grand-puy-ducasse-2009",
+        "price": 4958
+      },
+      {
+        "slug": "chateau-grand-puy-ducasse-2010",
+        "price": 5333
+      },
+      {
+        "slug": "chateau-grand-puy-ducasse-2011",
+        "price": 8333
+      },
+      {
+        "slug": "chateau-grand-puy-ducasse-2012",
+        "price": 4000
+      },
+      {
+        "slug": "chateau-grand-puy-ducasse-2013",
+        "price": 6500
+      },
+      {
+        "slug": "chateau-grand-puy-ducasse-2014",
+        "price": 3667
+      },
+      {
+        "slug": "chateau-grand-puy-ducasse-2015",
+        "price": 3917
+      },
+      {
+        "slug": "chateau-grand-puy-ducasse-2016",
+        "price": 3450
+      },
+      {
+        "slug": "chateau-grand-puy-ducasse-2017",
+        "price": null
+      }
+    ],
+    "chateau-haut-batailley": [
+      {
+        "slug": "chateau-haut-batailley-2009",
+        "price": null
+      },
+      {
+        "slug": "chateau-haut-batailley-2010",
+        "price": 5417
+      },
+      {
+        "slug": "chateau-haut-batailley-2012",
+        "price": 4000
+      },
+      {
+        "slug": "chateau-haut-batailley-2014",
+        "price": 3833
+      },
+      {
+        "slug": "chateau-haut-batailley-2015",
+        "price": 4833
+      },
+      {
+        "slug": "chateau-haut-batailley-1999",
+        "price": null
+      },
+      {
+        "slug": "chateau-haut-batailley-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-haut-batailley-2000",
+        "price": 9125
+      },
+      {
+        "slug": "chateau-haut-batailley-2008",
+        "price": null
+      }
+    ],
+    "chateau-haut-bages-liberal": [
+      {
+        "slug": "chateau-haut-bages-liberal-2014",
+        "price": 3583
+      },
+      {
+        "slug": "chateau-haut-bages-liberal-2015",
+        "price": 3917
+      },
+      {
+        "slug": "chateau-haut-bages-liberal-2016",
+        "price": 3950
+      },
+      {
+        "slug": "chateau-haut-bages-liberal-2017",
+        "price": null
+      }
+    ],
+    "chateau-clerc-milon": [
+      {
+        "slug": "chateau-clerc-milon-2009",
+        "price": 10583
+      },
+      {
+        "slug": "chateau-clerc-milon-2010",
+        "price": 10667
+      },
+      {
+        "slug": "chateau-clerc-milon-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-clerc-milon-2016",
+        "price": 6700
+      }
+    ],
+    "chateau-latour": [
+      {
+        "slug": "chateau-latour-2009",
+        "price": null
+      },
+      {
+        "slug": "chateau-latour-2011",
+        "price": 93333
+      },
+      {
+        "slug": "chateau-latour-2005",
+        "price": null
+      },
+      {
+        "slug": "chateau-latour-2008",
+        "price": 97250
+      },
+      {
+        "slug": "chateau-latour-1989",
+        "price": 56250
+      },
+      {
+        "slug": "chateau-latour-2010",
+        "price": null
+      },
+      {
+        "slug": "chateau-latour-1996",
+        "price": null
+      }
+    ],
+    "chateau-pichon-longueville-comtesse-de-lalande": [
+      {
+        "slug": "chateau-pichon-longueville-comtesse-de-lalande-2006",
+        "price": null
+      },
+      {
+        "slug": "chateau-pichon-longueville-comtesse-de-lalande-2009",
+        "price": 21833
+      },
+      {
+        "slug": "chateau-pichon-longueville-comtesse-de-lalande-2010",
+        "price": 22333
+      },
+      {
+        "slug": "chateau-pichon-longueville-comtesse-de-lalande-2016",
+        "price": 16000
+      },
+      {
+        "slug": "chateau-pichon-longueville-comtesse-de-lalande-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-pichon-longueville-comtesse-de-lalande-2003",
+        "price": 23000
+      },
+      {
+        "slug": "chateau-pichon-longueville-comtesse-de-lalande-2005",
+        "price": 14167
+      }
+    ],
+    "chateau-mouton-rothschild": [
+      {
+        "slug": "chateau-mouton-rothschild-2015",
+        "price": 65833
+      },
+      {
+        "slug": "chateau-mouton-rothschild-2000",
+        "price": null
+      },
+      {
+        "slug": "chateau-mouton-rothschild-2003",
+        "price": null
+      },
+      {
+        "slug": "chateau-mouton-rothschild-2005",
+        "price": 99167
+      },
+      {
+        "slug": "chateau-mouton-rothschild-2006",
+        "price": 69667
+      },
+      {
+        "slug": "chateau-mouton-rothschild-2009",
+        "price": null
+      },
+      {
+        "slug": "chateau-mouton-rothschild-2010",
+        "price": null
+      },
+      {
+        "slug": "chateau-mouton-rothschild-2011",
+        "price": 55000
+      },
+      {
+        "slug": "chateau-mouton-rothschild-2012",
+        "price": 50833
+      },
+      {
+        "slug": "chateau-mouton-rothschild-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-mouton-rothschild-2016",
+        "price": 55000
+      }
+    ],
+    "chateau-lafite-rothschild": [
+      {
+        "slug": "chateau-lafite-rothschild-2000",
+        "price": null
+      },
+      {
+        "slug": "chateau-lafite-rothschild-2001",
+        "price": null
+      },
+      {
+        "slug": "chateau-lafite-rothschild-2002",
+        "price": null
+      },
+      {
+        "slug": "chateau-lafite-rothschild-2004",
+        "price": 93333
+      },
+      {
+        "slug": "chateau-lafite-rothschild-2005",
+        "price": null
+      },
+      {
+        "slug": "chateau-lafite-rothschild-2006",
+        "price": 90000
+      },
+      {
+        "slug": "chateau-lafite-rothschild-2008",
+        "price": null
+      },
+      {
+        "slug": "chateau-lafite-rothschild-2009",
+        "price": null
+      },
+      {
+        "slug": "chateau-lafite-rothschild-2010",
+        "price": null
+      },
+      {
+        "slug": "chateau-lafite-rothschild-2011",
+        "price": 65000
+      },
+      {
+        "slug": "chateau-lafite-rothschild-2012",
+        "price": 58000
+      },
+      {
+        "slug": "chateau-lafite-rothschild-2014",
+        "price": 56667
+      },
+      {
+        "slug": "chateau-lafite-rothschild-2015",
+        "price": 70833
+      },
+      {
+        "slug": "chateau-lafite-rothschild-1996",
+        "price": null
+      },
+      {
+        "slug": "chateau-lafite-rothschild-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-lafite-rothschild-2016",
+        "price": 59500
+      },
+      {
+        "slug": "chateau-lafite-rothschild-1990",
+        "price": null
+      }
+    ],
+    "chateau-pichon-longueville-baron": [
+      {
+        "slug": "chateau-pichon-longueville-baron-2005",
+        "price": 16375
+      },
+      {
+        "slug": "chateau-pichon-longueville-baron-2006",
+        "price": null
+      },
+      {
+        "slug": "chateau-pichon-longueville-baron-2009",
+        "price": 21750
+      },
+      {
+        "slug": "chateau-pichon-longueville-baron-2010",
+        "price": 24333
+      },
+      {
+        "slug": "chateau-pichon-longueville-baron-2011",
+        "price": 11750
+      }
+    ],
+    "chateau-pichon-baron": [
+      {
+        "slug": "chateau-pichon-baron-2015",
+        "price": 16500
+      },
+      {
+        "slug": "chateau-pichon-baron-2016",
+        "price": 14500
+      },
+      {
+        "slug": "chateau-pichon-baron-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-pichon-baron-2014",
+        "price": 12833
+      }
+    ],
+    "chateau-malartic-lagraviere": [
+      {
+        "slug": "chateau-malartic-lagraviere-2014",
+        "price": 4250
+      },
+      {
+        "slug": "chateau-malartic-lagraviere-2015",
+        "price": 5500
+      },
+      {
+        "slug": "chateau-malartic-lagraviere-2016",
+        "price": 4950
+      },
+      {
+        "slug": "chateau-malartic-lagraviere-2009",
+        "price": 6500
+      },
+      {
+        "slug": "chateau-malartic-lagraviere-2010-1",
+        "price": 6667
+      },
+      {
+        "slug": "chateau-malartic-lagraviere-2011-1",
+        "price": 6333
+      },
+      {
+        "slug": "chateau-malartic-lagraviere-2017-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-malartic-lagraviere-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-malartic-lagraviere-2016-1",
+        "price": 4850
+      },
+      {
+        "slug": "chateau-malartic-lagraviere-2015-1",
+        "price": 5417
+      },
+      {
+        "slug": "chateau-malartic-lagraviere-2014-1",
+        "price": 5917
+      },
+      {
+        "slug": "chateau-malartic-lagraviere-2010",
+        "price": 6250
+      },
+      {
+        "slug": "chateau-malartic-lagraviere-2003-1",
+        "price": 4917
+      },
+      {
+        "slug": "chateau-malartic-lagraviere-2008",
+        "price": 5000
+      },
+      {
+        "slug": "chateau-malartic-lagraviere-2009-1",
+        "price": 6833
+      }
+    ],
+    "chevalier-de-lascombes": [
+      {
+        "slug": "chevalier-de-lascombes-2015",
+        "price": 2958
+      },
+      {
+        "slug": "chevalier-de-lascombes-2016",
+        "price": 2500
+      },
+      {
+        "slug": "chevalier-de-lascombes-2014",
+        "price": 5000
+      },
+      {
+        "slug": "chevalier-de-lascombes-2017",
+        "price": null
+      }
+    ],
+    "chateau-pape-clement": [
+      {
+        "slug": "chateau-pape-clement-2014",
+        "price": 9167
+      },
+      {
+        "slug": "chateau-pape-clement-2006",
+        "price": 12083
+      },
+      {
+        "slug": "chateau-pape-clement-2008",
+        "price": 13000
+      },
+      {
+        "slug": "chateau-pape-clement-2009",
+        "price": 22167
+      },
+      {
+        "slug": "chateau-pape-clement-2015-1",
+        "price": 16000
+      },
+      {
+        "slug": "chateau-pape-clement-2017-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-pape-clement-2015",
+        "price": 13000
+      },
+      {
+        "slug": "chateau-pape-clement-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-pape-clement-2012",
+        "price": 9333
+      },
+      {
+        "slug": "chateau-pape-clement-2016",
+        "price": 9600
+      },
+      {
+        "slug": "chateau-pape-clement-2016-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-pape-clement-2014-1",
+        "price": 13500
+      }
+    ],
+    "chateau-olivier": [
+      {
+        "slug": "chateau-olivier-2009",
+        "price": 4208
+      },
+      {
+        "slug": "chateau-olivier-2010",
+        "price": 3708
+      },
+      {
+        "slug": "chateau-olivier-2013",
+        "price": 2458
+      },
+      {
+        "slug": "chateau-olivier-2014",
+        "price": 2750
+      },
+      {
+        "slug": "chateau-olivier-2012",
+        "price": 3000
+      },
+      {
+        "slug": "chateau-olivier-2016",
+        "price": 2600
+      },
+      {
+        "slug": "chateau-olivier-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-olivier-2017-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-olivier-2014-1",
+        "price": 3000
+      },
+      {
+        "slug": "chateau-olivier-2015-1",
+        "price": 2750
+      },
+      {
+        "slug": "chateau-olivier-2015",
+        "price": 3042
+      },
+      {
+        "slug": "chateau-olivier-2016-1",
+        "price": 2380
+      }
+    ],
+    "chateau-haut-brion": [
+      {
+        "slug": "chateau-haut-brion-2000",
+        "price": null
+      },
+      {
+        "slug": "chateau-haut-brion-2005",
+        "price": 98333
+      },
+      {
+        "slug": "chateau-haut-brion-2006",
+        "price": 53333
+      },
+      {
+        "slug": "chateau-haut-brion-2009",
+        "price": null
+      },
+      {
+        "slug": "chateau-haut-brion-2010",
+        "price": null
+      },
+      {
+        "slug": "chateau-haut-brion-2011",
+        "price": 52833
+      },
+      {
+        "slug": "chateau-haut-brion-2012",
+        "price": 42000
+      },
+      {
+        "slug": "chateau-haut-brion-2014",
+        "price": 39333
+      },
+      {
+        "slug": "chateau-haut-brion-2016",
+        "price": 49900
+      },
+      {
+        "slug": "chateau-haut-brion-1996",
+        "price": null
+      },
+      {
+        "slug": "chateau-haut-brion-2011-1",
+        "price": 98333
+      },
+      {
+        "slug": "chateau-haut-brion-2012-1",
+        "price": 93333
+      },
+      {
+        "slug": "chateau-haut-brion-2013-1",
+        "price": 93333
+      },
+      {
+        "slug": "chateau-haut-brion-2014-1",
+        "price": 91667
+      },
+      {
+        "slug": "chateau-haut-brion-2015-1",
+        "price": 90000
+      },
+      {
+        "slug": "chateau-haut-brion-2017-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-haut-brion-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-haut-brion-2003",
+        "price": 47667
+      },
+      {
+        "slug": "chateau-haut-brion-2015",
+        "price": 71667
+      },
+      {
+        "slug": "chateau-haut-brion-1982",
+        "price": null
+      }
+    ],
+    "chateau-haut-bailly": [
+      {
+        "slug": "chateau-haut-bailly-2012",
+        "price": 8167
+      },
+      {
+        "slug": "chateau-haut-bailly-2010",
+        "price": 16500
+      },
+      {
+        "slug": "chateau-haut-bailly-2014",
+        "price": 8167
+      },
+      {
+        "slug": "chateau-haut-bailly-2016",
+        "price": 11500
+      },
+      {
+        "slug": "chateau-haut-bailly-1999",
+        "price": null
+      },
+      {
+        "slug": "chateau-haut-bailly-2017",
+        "price": null
+      }
+    ],
+    "chateau-belgrave": [
+      {
+        "slug": "chateau-belgrave-2010",
+        "price": 3917
+      },
+      {
+        "slug": "chateau-belgrave-2012",
+        "price": 3083
+      },
+      {
+        "slug": "chateau-belgrave-2013",
+        "price": 2750
+      },
+      {
+        "slug": "chateau-belgrave-2014",
+        "price": 2667
+      },
+      {
+        "slug": "chateau-belgrave-2015",
+        "price": 3375
+      },
+      {
+        "slug": "chateau-belgrave-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-belgrave-2016",
+        "price": 3050
+      },
+      {
+        "slug": "chateau-belgrave-2011",
+        "price": 3125
+      }
+    ],
+    "chateau-smith-haut-lafitte": [
+      {
+        "slug": "chateau-smith-haut-lafitte-2014",
+        "price": 7917
+      },
+      {
+        "slug": "chateau-smith-haut-lafitte-2016",
+        "price": 9600
+      },
+      {
+        "slug": "chateau-smith-haut-lafitte-2016-1",
+        "price": 8650
+      },
+      {
+        "slug": "chateau-smith-haut-lafitte-2017-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-smith-haut-lafitte-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-smith-haut-lafitte-2014-1",
+        "price": 9333
+      }
+    ],
+    "chateau-la-tour-carnet": [
+      {
+        "slug": "chateau-la-tour-carnet-2014",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-la-tour-carnet-2015",
+        "price": 3250
+      },
+      {
+        "slug": "chateau-la-tour-carnet-2010",
+        "price": 4250
+      },
+      {
+        "slug": "chateau-la-tour-carnet-2012",
+        "price": 3083
+      },
+      {
+        "slug": "chateau-la-tour-carnet-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-tour-carnet-2016",
+        "price": 2550
+      }
+    ],
+    "chateau-montrose": [
+      {
+        "slug": "chateau-montrose-2000",
+        "price": null
+      },
+      {
+        "slug": "chateau-montrose-2005",
+        "price": 17500
+      },
+      {
+        "slug": "chateau-montrose-2006",
+        "price": 11083
+      },
+      {
+        "slug": "chateau-montrose-2008",
+        "price": null
+      },
+      {
+        "slug": "chateau-montrose-2009",
+        "price": 32833
+      },
+      {
+        "slug": "chateau-montrose-2010",
+        "price": 27000
+      },
+      {
+        "slug": "chateau-montrose-2011",
+        "price": 16583
+      },
+      {
+        "slug": "chateau-montrose-2012",
+        "price": 9500
+      },
+      {
+        "slug": "chateau-montrose-2015",
+        "price": 16667
+      },
+      {
+        "slug": "chateau-montrose-2016",
+        "price": 18000
+      },
+      {
+        "slug": "chateau-montrose-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-montrose-2014",
+        "price": 14333
+      }
+    ],
+    "chateau-marquis-d-alesme": [
+      {
+        "slug": "chateau-marquis-d-alesme-2014",
+        "price": 3750
+      },
+      {
+        "slug": "chateau-marquis-d-alesme-2015",
+        "price": 4417
+      },
+      {
+        "slug": "chateau-marquis-d-alesme-2016",
+        "price": 3450
+      },
+      {
+        "slug": "chateau-marquis-d-alesme-2010",
+        "price": 4250
+      },
+      {
+        "slug": "chateau-marquis-d-alesme-2011",
+        "price": 3667
+      },
+      {
+        "slug": "chateau-marquis-d-alesme-2012",
+        "price": null
+      },
+      {
+        "slug": "chateau-marquis-d-alesme-2017",
+        "price": null
+      }
+    ],
+    "chateau-calon-segur": [
+      {
+        "slug": "chateau-calon-segur-2009",
+        "price": 29333
+      },
+      {
+        "slug": "chateau-calon-segur-2010",
+        "price": 14667
+      },
+      {
+        "slug": "chateau-calon-segur-2012",
+        "price": 10833
+      },
+      {
+        "slug": "chateau-calon-segur-2002",
+        "price": null
+      },
+      {
+        "slug": "chateau-calon-segur-2004",
+        "price": null
+      },
+      {
+        "slug": "chateau-calon-segur-2015",
+        "price": null
+      },
+      {
+        "slug": "chateau-calon-segur-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-calon-segur-2003",
+        "price": 13167
+      },
+      {
+        "slug": "chateau-calon-segur-2000",
+        "price": 13000
+      },
+      {
+        "slug": "chateau-calon-segur-2014",
+        "price": 11500
+      },
+      {
+        "slug": "chateau-calon-segur-1998",
+        "price": 13833
+      }
+    ],
+    "chateau-pedesclaux": [
+      {
+        "slug": "chateau-pedesclaux-2015",
+        "price": 4167
+      },
+      {
+        "slug": "chateau-pedesclaux-2016",
+        "price": 3850
+      },
+      {
+        "slug": "chateau-pedesclaux-2010",
+        "price": 4208
+      },
+      {
+        "slug": "chateau-pedesclaux-2011",
+        "price": 1708
+      },
+      {
+        "slug": "chateau-pedesclaux-2017",
+        "price": null
+      }
+    ],
+    "chateau-pontet-canet": [
+      {
+        "slug": "chateau-pontet-canet-2004",
+        "price": 21667
+      },
+      {
+        "slug": "chateau-pontet-canet-2006",
+        "price": 11167
+      },
+      {
+        "slug": "chateau-pontet-canet-2008",
+        "price": 10917
+      },
+      {
+        "slug": "chateau-pontet-canet-2009",
+        "price": 23750
+      },
+      {
+        "slug": "chateau-pontet-canet-2010",
+        "price": 23000
+      },
+      {
+        "slug": "chateau-pontet-canet-2011",
+        "price": 10333
+      },
+      {
+        "slug": "chateau-pontet-canet-2012",
+        "price": 10167
+      },
+      {
+        "slug": "chateau-pontet-canet-2013",
+        "price": 9333
+      },
+      {
+        "slug": "chateau-pontet-canet-2014",
+        "price": 10750
+      },
+      {
+        "slug": "chateau-pontet-canet-2015",
+        "price": 12000
+      },
+      {
+        "slug": "chateau-pontet-canet-2016",
+        "price": 13400
+      },
+      {
+        "slug": "chateau-pontet-canet-2005",
+        "price": null
+      },
+      {
+        "slug": "chateau-pontet-canet-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-pontet-canet-2000",
+        "price": 14417
+      }
+    ],
+    "chateau-lafon-rochet": [
+      {
+        "slug": "chateau-lafon-rochet-2005",
+        "price": 7042
+      },
+      {
+        "slug": "chateau-lafon-rochet-2006",
+        "price": 4500
+      },
+      {
+        "slug": "chateau-lafon-rochet-2008",
+        "price": 4833
+      },
+      {
+        "slug": "chateau-lafon-rochet-2010",
+        "price": 5583
+      },
+      {
+        "slug": "chateau-lafon-rochet-2014",
+        "price": 3750
+      },
+      {
+        "slug": "chateau-lafon-rochet-2015",
+        "price": 4333
+      },
+      {
+        "slug": "chateau-lafon-rochet-2016",
+        "price": 4000
+      },
+      {
+        "slug": "chateau-lafon-rochet-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-lafon-rochet-2009",
+        "price": 5833
+      }
+    ],
+    "chateau-climens": [
+      {
+        "slug": "chateau-climens-2008",
+        "price": 9000
+      },
+      {
+        "slug": "chateau-climens-2009",
+        "price": 11167
+      },
+      {
+        "slug": "chateau-climens-2011",
+        "price": 10417
+      },
+      {
+        "slug": "chateau-climens-2012",
+        "price": 6333
+      },
+      {
+        "slug": "chateau-climens-2014",
+        "price": 6667
+      },
+      {
+        "slug": "chateau-climens-1998",
+        "price": null
+      },
+      {
+        "slug": "chateau-climens-1999",
+        "price": null
+      },
+      {
+        "slug": "chateau-climens-2003",
+        "price": 11583
+      },
+      {
+        "slug": "chateau-climens-2004",
+        "price": 6625
+      },
+      {
+        "slug": "chateau-climens-2005",
+        "price": 9750
+      },
+      {
+        "slug": "chateau-climens-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-climens-2015",
+        "price": null
+      },
+      {
+        "slug": "chateau-climens-2000",
+        "price": 8750
+      },
+      {
+        "slug": "chateau-climens-2006",
+        "price": 8125
+      },
+      {
+        "slug": "chateau-climens-2010",
+        "price": 11250
+      },
+      {
+        "slug": "chateau-climens-2016",
+        "price": 5600
+      }
+    ],
+    "chateau-coutet": [
+      {
+        "slug": "chateau-coutet-2008",
+        "price": 4833
+      },
+      {
+        "slug": "chateau-coutet-2010",
+        "price": null
+      },
+      {
+        "slug": "chateau-coutet-2011",
+        "price": 6150
+      },
+      {
+        "slug": "chateau-coutet-2012",
+        "price": 4917
+      },
+      {
+        "slug": "chateau-coutet-1999",
+        "price": null
+      },
+      {
+        "slug": "chateau-coutet-2002",
+        "price": 4500
+      },
+      {
+        "slug": "chateau-coutet-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-coutet-2015",
+        "price": 4083
+      },
+      {
+        "slug": "chateau-coutet-1998",
+        "price": 4125
+      },
+      {
+        "slug": "chateau-coutet-2003",
+        "price": 4375
+      },
+      {
+        "slug": "chateau-coutet-2000",
+        "price": 4125
+      },
+      {
+        "slug": "chateau-coutet-2001",
+        "price": null
+      },
+      {
+        "slug": "chateau-coutet-2005",
+        "price": 5125
+      },
+      {
+        "slug": "chateau-coutet-2006",
+        "price": 4000
+      },
+      {
+        "slug": "chateau-coutet-2007",
+        "price": 5250
+      },
+      {
+        "slug": "chateau-coutet-2009",
+        "price": 8333
+      },
+      {
+        "slug": "chateau-coutet-2016",
+        "price": 3100
+      }
+    ],
+    "chateau-rieussec": [
+      {
+        "slug": "chateau-rieussec-2002",
+        "price": null
+      },
+      {
+        "slug": "chateau-rieussec-2005",
+        "price": 14000
+      },
+      {
+        "slug": "chateau-rieussec-2006",
+        "price": 5500
+      },
+      {
+        "slug": "chateau-rieussec-2007",
+        "price": 7000
+      },
+      {
+        "slug": "chateau-rieussec-2008",
+        "price": 5500
+      },
+      {
+        "slug": "chateau-rieussec-2010",
+        "price": 7250
+      },
+      {
+        "slug": "chateau-rieussec-2011",
+        "price": 6917
+      },
+      {
+        "slug": "chateau-rieussec-2013",
+        "price": 6750
+      },
+      {
+        "slug": "chateau-rieussec-2001",
+        "price": null
+      },
+      {
+        "slug": "chateau-rieussec-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-rieussec-1999",
+        "price": null
+      },
+      {
+        "slug": "chateau-rieussec-2003",
+        "price": null
+      },
+      {
+        "slug": "chateau-rieussec-2015",
+        "price": 5667
+      },
+      {
+        "slug": "chateau-rieussec-2016",
+        "price": 4830
+      },
+      {
+        "slug": "chateau-rieussec-1997",
+        "price": 9167
+      }
+    ],
+    "chateau-d-arsac": [
+      {
+        "slug": "chateau-d-arsac-2015",
+        "price": 2000
+      },
+      {
+        "slug": "chateau-d-arsac-2016",
+        "price": 1650
+      },
+      {
+        "slug": "chateau-d-arsac-2014",
+        "price": 1833
+      }
+    ],
+    "chateau-doisy-vedrines": [
+      {
+        "slug": "chateau-doisy-vedrines-2008",
+        "price": 3583
+      },
+      {
+        "slug": "chateau-doisy-vedrines-2010",
+        "price": 3667
+      },
+      {
+        "slug": "chateau-doisy-vedrines-2012",
+        "price": 3000
+      },
+      {
+        "slug": "chateau-doisy-vedrines-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-doisy-vedrines-2007",
+        "price": 3583
+      },
+      {
+        "slug": "chateau-doisy-vedrines-2000",
+        "price": 3625
+      },
+      {
+        "slug": "chateau-doisy-vedrines-2002",
+        "price": 3042
+      },
+      {
+        "slug": "chateau-doisy-vedrines-2003",
+        "price": 3333
+      },
+      {
+        "slug": "chateau-doisy-vedrines-2005",
+        "price": 3958
+      },
+      {
+        "slug": "chateau-doisy-vedrines-2016",
+        "price": 2750
+      },
+      {
+        "slug": "chateau-doisy-vedrines-2015",
+        "price": 3333
+      }
+    ],
+    "chateau-guiraud": [
+      {
+        "slug": "chateau-guiraud-2001",
+        "price": 14000
+      },
+      {
+        "slug": "chateau-guiraud-2002",
+        "price": 4708
+      },
+      {
+        "slug": "chateau-guiraud-2003",
+        "price": 6208
+      },
+      {
+        "slug": "chateau-guiraud-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-guiraud-2015",
+        "price": 4600
+      },
+      {
+        "slug": "chateau-guiraud-2016",
+        "price": 3550
+      },
+      {
+        "slug": "chateau-guiraud-1996",
+        "price": null
+      },
+      {
+        "slug": "chateau-guiraud-1999",
+        "price": 4667
+      },
+      {
+        "slug": "chateau-guiraud-2006",
+        "price": 4542
+      },
+      {
+        "slug": "chateau-guiraud-2014",
+        "price": 4583
+      }
+    ],
+    "chateau-la-garde": [
+      {
+        "slug": "chateau-la-garde-2006",
+        "price": 2492
+      },
+      {
+        "slug": "chateau-la-garde-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-garde-2015",
+        "price": 2333
+      },
+      {
+        "slug": "chateau-la-garde-2014",
+        "price": 2042
+      },
+      {
+        "slug": "chateau-la-garde-2009",
+        "price": 3083
+      },
+      {
+        "slug": "chateau-la-garde-2016",
+        "price": 2000
+      }
+    ],
+    "chateau-d-yquem": [
+      {
+        "slug": "chateau-d-yquem-2005",
+        "price": 60833
+      },
+      {
+        "slug": "chateau-d-yquem-2006",
+        "price": 49500
+      },
+      {
+        "slug": "chateau-d-yquem-2007",
+        "price": 59167
+      },
+      {
+        "slug": "chateau-d-yquem-2009",
+        "price": 79167
+      },
+      {
+        "slug": "chateau-d-yquem-2010",
+        "price": 65833
+      },
+      {
+        "slug": "chateau-d-yquem-2011",
+        "price": 37167
+      },
+      {
+        "slug": "chateau-d-yquem-2013",
+        "price": 36667
+      },
+      {
+        "slug": "chateau-d-yquem-2014",
+        "price": 36500
+      },
+      {
+        "slug": "chateau-d-yquem-2015",
+        "price": 36333
+      },
+      {
+        "slug": "chateau-d-yquem-2000",
+        "price": 43333
+      },
+      {
+        "slug": "chateau-d-yquem-1988",
+        "price": 51333
+      }
+    ],
+    "chateau-de-rayne-vigneau": [
+      {
+        "slug": "chateau-de-rayne-vigneau-2008",
+        "price": null
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-2016",
+        "price": 3850
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-1999",
+        "price": 3833
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-2001",
+        "price": 4708
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-2007",
+        "price": 3958
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-2009",
+        "price": 4750
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-2004",
+        "price": 3208
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-2000",
+        "price": 3667
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-2003",
+        "price": 4167
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-2005",
+        "price": 4125
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-2014",
+        "price": 4417
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-1996",
+        "price": 3500
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-1997",
+        "price": 4417
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-1998",
+        "price": 3292
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-2015",
+        "price": 4500
+      },
+      {
+        "slug": "chateau-de-rayne-vigneau-2010",
+        "price": null
+      }
+    ],
+    "chateau-carbonnieux": [
+      {
+        "slug": "chateau-carbonnieux-1999",
+        "price": null
+      },
+      {
+        "slug": "chateau-carbonnieux-2015",
+        "price": 3750
+      },
+      {
+        "slug": "chateau-carbonnieux-2016",
+        "price": 3150
+      },
+      {
+        "slug": "chateau-carbonnieux-2017-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-carbonnieux-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-carbonnieux-2015-1",
+        "price": 3750
+      },
+      {
+        "slug": "chateau-carbonnieux-2014",
+        "price": 3292
+      },
+      {
+        "slug": "chateau-carbonnieux-2016-1",
+        "price": 2580
+      }
+    ],
+    "chateau-lespault-martillac": [
+      {
+        "slug": "chateau-lespault-martillac-2013",
+        "price": 2167
+      },
+      {
+        "slug": "chateau-lespault-martillac-2015",
+        "price": 2375
+      },
+      {
+        "slug": "chateau-lespault-martillac-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-lespault-martillac-2017-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-lespault-martillac-2010",
+        "price": 3208
+      },
+      {
+        "slug": "chateau-lespault-martillac-2016",
+        "price": 2000
+      },
+      {
+        "slug": "chateau-lespault-martillac-2015-1",
+        "price": 2417
+      },
+      {
+        "slug": "chateau-lespault-martillac-2011",
+        "price": 2250
+      },
+      {
+        "slug": "chateau-lespault-martillac-2013-1",
+        "price": 2333
+      },
+      {
+        "slug": "chateau-lespault-martillac-2016-1",
+        "price": 2000
+      }
+    ],
+    "chateau-de-fieuzal": [
+      {
+        "slug": "chateau-de-fieuzal-2010",
+        "price": 5042
+      },
+      {
+        "slug": "chateau-de-fieuzal-2012",
+        "price": 3500
+      },
+      {
+        "slug": "chateau-de-fieuzal-2013",
+        "price": 3000
+      },
+      {
+        "slug": "chateau-de-fieuzal-2014",
+        "price": 3417
+      },
+      {
+        "slug": "chateau-de-fieuzal-2015",
+        "price": 4333
+      },
+      {
+        "slug": "chateau-de-fieuzal-2016",
+        "price": 3700
+      },
+      {
+        "slug": "chateau-de-fieuzal-2005",
+        "price": null
+      },
+      {
+        "slug": "chateau-de-fieuzal-2017-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-de-fieuzal-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-de-fieuzal-2014-1",
+        "price": 4417
+      },
+      {
+        "slug": "chateau-de-fieuzal-2015-1",
+        "price": 4250
+      },
+      {
+        "slug": "chateau-de-fieuzal-2016-1",
+        "price": 3900
+      }
+    ],
+    "chateau-gloria": [
+      {
+        "slug": "chateau-gloria-2006",
+        "price": null
+      },
+      {
+        "slug": "chateau-gloria-2010",
+        "price": 5375
+      },
+      {
+        "slug": "chateau-gloria-2011",
+        "price": 3708
+      },
+      {
+        "slug": "chateau-gloria-2012",
+        "price": 3750
+      },
+      {
+        "slug": "chateau-gloria-2013",
+        "price": 3083
+      },
+      {
+        "slug": "chateau-gloria-2014",
+        "price": 3500
+      },
+      {
+        "slug": "chateau-gloria-2015",
+        "price": 4042
+      },
+      {
+        "slug": "chateau-gloria-2016",
+        "price": 3550
+      },
+      {
+        "slug": "chateau-gloria-2017",
+        "price": null
+      }
+    ],
+    "carruades-de-lafite": [
+      {
+        "slug": "carruades-de-lafite-2010",
+        "price": 31333
+      },
+      {
+        "slug": "carruades-de-lafite-2015",
+        "price": 30000
+      },
+      {
+        "slug": "carruades-de-lafite-2011",
+        "price": 36500
+      },
+      {
+        "slug": "carruades-de-lafite-2009",
+        "price": 31000
+      },
+      {
+        "slug": "carruades-de-lafite-1996",
+        "price": null
+      }
+    ],
+    "les-fiefs-de-lagrange": [
+      {
+        "slug": "les-fiefs-de-lagrange-2006",
+        "price": 2750
+      },
+      {
+        "slug": "les-fiefs-de-lagrange-2009",
+        "price": 3458
+      },
+      {
+        "slug": "les-fiefs-de-lagrange-2010",
+        "price": 3417
+      },
+      {
+        "slug": "les-fiefs-de-lagrange-2012",
+        "price": 2500
+      },
+      {
+        "slug": "les-fiefs-de-lagrange-2014",
+        "price": 2583
+      },
+      {
+        "slug": "les-fiefs-de-lagrange-2015",
+        "price": 2417
+      },
+      {
+        "slug": "les-fiefs-de-lagrange-2016",
+        "price": 2150
+      },
+      {
+        "slug": "les-fiefs-de-lagrange-2017",
+        "price": null
+      },
+      {
+        "slug": "les-fiefs-de-lagrange-2008",
+        "price": 3000
+      }
+    ],
+    "les-forts-de-latour": [
+      {
+        "slug": "les-forts-de-latour-1990",
+        "price": null
+      },
+      {
+        "slug": "les-forts-de-latour-2010",
+        "price": 31917
+      }
+    ],
+    "clos-du-marquis": [
+      {
+        "slug": "clos-du-marquis-2006",
+        "price": 5833
+      },
+      {
+        "slug": "clos-du-marquis-2009",
+        "price": 6583
+      },
+      {
+        "slug": "clos-du-marquis-2010",
+        "price": 6625
+      },
+      {
+        "slug": "clos-du-marquis-2012",
+        "price": 4875
+      },
+      {
+        "slug": "clos-du-marquis-2014",
+        "price": 4833
+      },
+      {
+        "slug": "clos-du-marquis-2015",
+        "price": 5667
+      },
+      {
+        "slug": "clos-du-marquis-2017",
+        "price": null
+      },
+      {
+        "slug": "clos-du-marquis-2016",
+        "price": 5200
+      },
+      {
+        "slug": "clos-du-marquis-2011",
+        "price": 5000
+      },
+      {
+        "slug": "clos-du-marquis-2008",
+        "price": 5125
+      }
+    ],
+    "reserve-de-la-comtesse": [
+      {
+        "slug": "reserve-de-la-comtesse-2014",
+        "price": 3750
+      },
+      {
+        "slug": "reserve-de-la-comtesse-2015",
+        "price": 4250
+      },
+      {
+        "slug": "reserve-de-la-comtesse-2017",
+        "price": null
+      },
+      {
+        "slug": "reserve-de-la-comtesse-2010",
+        "price": 5667
+      },
+      {
+        "slug": "reserve-de-la-comtesse-2016",
+        "price": 3700
+      },
+      {
+        "slug": "reserve-de-la-comtesse-2009",
+        "price": 6250
+      }
+    ],
+    "chateau-fayat": [
+      {
+        "slug": "chateau-fayat-2014",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-fayat-2015",
+        "price": 3292
+      },
+      {
+        "slug": "chateau-fayat-2009",
+        "price": 3875
+      },
+      {
+        "slug": "chateau-fayat-2012",
+        "price": 2750
+      },
+      {
+        "slug": "chateau-fayat-2010",
+        "price": 4125
+      },
+      {
+        "slug": "chateau-fayat-2011",
+        "price": 2750
+      }
+    ],
+    "chateau-cheval-blanc": [
+      {
+        "slug": "chateau-cheval-blanc-2003",
+        "price": null
+      },
+      {
+        "slug": "chateau-cheval-blanc-2005",
+        "price": 99333
+      },
+      {
+        "slug": "chateau-cheval-blanc-2006",
+        "price": 70167
+      },
+      {
+        "slug": "chateau-cheval-blanc-2007",
+        "price": 56833
+      },
+      {
+        "slug": "chateau-cheval-blanc-2009",
+        "price": null
+      },
+      {
+        "slug": "chateau-cheval-blanc-2010",
+        "price": null
+      },
+      {
+        "slug": "chateau-cheval-blanc-2011",
+        "price": 67500
+      },
+      {
+        "slug": "chateau-cheval-blanc-2012",
+        "price": 51500
+      },
+      {
+        "slug": "chateau-cheval-blanc-2014",
+        "price": 53833
+      },
+      {
+        "slug": "chateau-cheval-blanc-2015",
+        "price": 99500
+      },
+      {
+        "slug": "chateau-cheval-blanc-2016",
+        "price": 63000
+      },
+      {
+        "slug": "chateau-cheval-blanc-1982",
+        "price": null
+      },
+      {
+        "slug": "chateau-cheval-blanc-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-cheval-blanc-2000",
+        "price": null
+      }
+    ],
+    "chateau-canon": [
+      {
+        "slug": "chateau-canon-2013",
+        "price": 6000
+      },
+      {
+        "slug": "chateau-canon-2010",
+        "price": 15667
+      },
+      {
+        "slug": "chateau-canon-2012",
+        "price": 7792
+      },
+      {
+        "slug": "chateau-canon-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-canon-2008",
+        "price": 14333
+      },
+      {
+        "slug": "chateau-canon-2009",
+        "price": 15500
+      }
+    ],
+    "chateau-de-malle": [
+      {
+        "slug": "chateau-de-malle-2016",
+        "price": 2800
+      },
+      {
+        "slug": "chateau-de-malle-1997",
+        "price": 3292
+      },
+      {
+        "slug": "chateau-de-malle-1996",
+        "price": 3042
+      }
+    ],
+    "chateau-figeac": [
+      {
+        "slug": "chateau-figeac-2009",
+        "price": 28333
+      },
+      {
+        "slug": "chateau-figeac-2010",
+        "price": 27500
+      },
+      {
+        "slug": "chateau-figeac-2012",
+        "price": 10333
+      },
+      {
+        "slug": "chateau-figeac-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-figeac-2008",
+        "price": 27000
+      },
+      {
+        "slug": "chateau-figeac-2016",
+        "price": 19900
+      }
+    ],
+    "chateau-cos-labory": [
+      {
+        "slug": "chateau-cos-labory-2014",
+        "price": 3500
+      },
+      {
+        "slug": "chateau-cos-labory-2015",
+        "price": 3583
+      },
+      {
+        "slug": "chateau-cos-labory-2016",
+        "price": 3200
+      },
+      {
+        "slug": "chateau-cos-labory-2010",
+        "price": 4333
+      },
+      {
+        "slug": "chateau-cos-labory-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-cos-labory-2009",
+        "price": 4167
+      },
+      {
+        "slug": "chateau-cos-labory-2013",
+        "price": 2792
+      }
+    ],
+    "la-tour-du-pin": [
+      {
+        "slug": "la-tour-du-pin-2006",
+        "price": 5708
+      },
+      {
+        "slug": "la-tour-du-pin-2007",
+        "price": 5708
+      }
+    ],
+    "chateau-rouget": [
+      {
+        "slug": "chateau-rouget-2011",
+        "price": 4000
+      },
+      {
+        "slug": "chateau-rouget-2012",
+        "price": 4125
+      },
+      {
+        "slug": "chateau-rouget-2013",
+        "price": 3500
+      },
+      {
+        "slug": "chateau-rouget-2014",
+        "price": 3917
+      },
+      {
+        "slug": "chateau-rouget-2015",
+        "price": 4583
+      },
+      {
+        "slug": "chateau-rouget-2016",
+        "price": 4400
+      },
+      {
+        "slug": "chateau-rouget-2017",
+        "price": null
+      }
+    ],
+    "clos-fourtet": [
+      {
+        "slug": "clos-fourtet-2010",
+        "price": 16250
+      },
+      {
+        "slug": "clos-fourtet-2013",
+        "price": 3667
+      },
+      {
+        "slug": "clos-fourtet-2014",
+        "price": 9167
+      },
+      {
+        "slug": "clos-fourtet-2016",
+        "price": 10000
+      },
+      {
+        "slug": "clos-fourtet-2017",
+        "price": null
+      }
+    ],
+    "la-closerie-de-camensac": [
+      {
+        "slug": "la-closerie-de-camensac-2009",
+        "price": 1708
+      },
+      {
+        "slug": "la-closerie-de-camensac-2013",
+        "price": 1250
+      },
+      {
+        "slug": "la-closerie-de-camensac-2014",
+        "price": 1375
+      },
+      {
+        "slug": "la-closerie-de-camensac-2015",
+        "price": 1458
+      },
+      {
+        "slug": "la-closerie-de-camensac-2016",
+        "price": 1542
+      },
+      {
+        "slug": "la-closerie-de-camensac-2010",
+        "price": 1542
+      },
+      {
+        "slug": "la-closerie-de-camensac-2008",
+        "price": 1542
+      },
+      {
+        "slug": "la-closerie-de-camensac-2012",
+        "price": 1417
+      }
+    ],
+    "chateau-petit-village": [
+      {
+        "slug": "chateau-petit-village-2013",
+        "price": 5750
+      },
+      {
+        "slug": "chateau-petit-village-2014",
+        "price": 6667
+      },
+      {
+        "slug": "chateau-petit-village-2015",
+        "price": 7917
+      },
+      {
+        "slug": "chateau-petit-village-2010",
+        "price": 8250
+      },
+      {
+        "slug": "chateau-petit-village-2012",
+        "price": 6583
+      },
+      {
+        "slug": "chateau-petit-village-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-petit-village-2016",
+        "price": 6600
+      },
+      {
+        "slug": "chateau-petit-village-2011",
+        "price": 6083
+      }
+    ],
+    "vieux-chateau-certan": [
+      {
+        "slug": "vieux-chateau-certan-2002",
+        "price": 21667
+      },
+      {
+        "slug": "vieux-chateau-certan-2016",
+        "price": 24500
+      },
+      {
+        "slug": "vieux-chateau-certan-1998",
+        "price": 31625
+      },
+      {
+        "slug": "vieux-chateau-certan-2017",
+        "price": null
+      },
+      {
+        "slug": "vieux-chateau-certan-2009",
+        "price": 34167
+      }
+    ],
+    "chateau-liot": [
+      {
+        "slug": "chateau-liot-2011",
+        "price": null
+      },
+      {
+        "slug": "chateau-liot-1997",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-liot-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-liot-1998",
+        "price": 2583
+      },
+      {
+        "slug": "chateau-liot-2013",
+        "price": null
+      },
+      {
+        "slug": "chateau-liot-2001",
+        "price": 3083
+      },
+      {
+        "slug": "chateau-liot-2012",
+        "price": 1917
+      },
+      {
+        "slug": "chateau-liot-2000",
+        "price": 2458
+      },
+      {
+        "slug": "chateau-liot-2003",
+        "price": 2583
+      },
+      {
+        "slug": "chateau-liot-2016",
+        "price": 1290
+      },
+      {
+        "slug": "chateau-liot-1999",
+        "price": 2542
+      },
+      {
+        "slug": "chateau-liot-2015",
+        "price": 1625
+      }
+    ],
+    "chateau-la-conseillante": [
+      {
+        "slug": "chateau-la-conseillante-2009",
+        "price": 26250
+      },
+      {
+        "slug": "chateau-la-conseillante-2014",
+        "price": 10500
+      },
+      {
+        "slug": "chateau-la-conseillante-2015",
+        "price": 19167
+      },
+      {
+        "slug": "chateau-la-conseillante-2016",
+        "price": 18400
+      },
+      {
+        "slug": "chateau-la-conseillante-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-conseillante-2010",
+        "price": 24500
+      }
+    ],
+    "le-marquis-de-calon-segur": [
+      {
+        "slug": "le-marquis-de-calon-segur-2016",
+        "price": 2500
+      },
+      {
+        "slug": "le-marquis-de-calon-segur-2015",
+        "price": 2750
+      },
+      {
+        "slug": "le-marquis-de-calon-segur-2017",
+        "price": null
+      }
+    ],
+    "chateau-ormes-de-pez": [
+      {
+        "slug": "chateau-ormes-de-pez-2011",
+        "price": 3000
+      },
+      {
+        "slug": "chateau-ormes-de-pez-2012",
+        "price": 3125
+      },
+      {
+        "slug": "chateau-ormes-de-pez-2013",
+        "price": 2492
+      },
+      {
+        "slug": "chateau-ormes-de-pez-2014",
+        "price": 2833
+      },
+      {
+        "slug": "chateau-ormes-de-pez-2015",
+        "price": 3250
+      },
+      {
+        "slug": "chateau-ormes-de-pez-2016",
+        "price": 2850
+      },
+      {
+        "slug": "chateau-ormes-de-pez-1998",
+        "price": null
+      },
+      {
+        "slug": "chateau-ormes-de-pez-2006",
+        "price": 4208
+      },
+      {
+        "slug": "chateau-ormes-de-pez-2009",
+        "price": null
+      },
+      {
+        "slug": "chateau-ormes-de-pez-2010",
+        "price": 4375
+      },
+      {
+        "slug": "chateau-ormes-de-pez-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-ormes-de-pez-2008",
+        "price": 3375
+      },
+      {
+        "slug": "chateau-ormes-de-pez-2000",
+        "price": null
+      }
+    ],
+    "chateau-potensac": [
+      {
+        "slug": "chateau-potensac-2006",
+        "price": 2833
+      },
+      {
+        "slug": "chateau-potensac-2009",
+        "price": 3125
+      },
+      {
+        "slug": "chateau-potensac-2010",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-potensac-2012",
+        "price": 2250
+      },
+      {
+        "slug": "chateau-potensac-2014",
+        "price": 2208
+      },
+      {
+        "slug": "chateau-potensac-2015",
+        "price": 2500
+      },
+      {
+        "slug": "chateau-potensac-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-potensac-2008",
+        "price": 2708
+      },
+      {
+        "slug": "chateau-potensac-2011",
+        "price": 2292
+      },
+      {
+        "slug": "chateau-potensac-2016",
+        "price": 2150
+      }
+    ],
+    "petit-figeac": [
+      {
+        "slug": "petit-figeac-2016",
+        "price": 4600
+      },
+      {
+        "slug": "petit-figeac-2015",
+        "price": null
+      },
+      {
+        "slug": "petit-figeac-2017",
+        "price": null
+      }
+    ],
+    "chateau-chasse-spleen": [
+      {
+        "slug": "chateau-chasse-spleen-2013",
+        "price": 2750
+      },
+      {
+        "slug": "chateau-chasse-spleen-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-chasse-spleen-1996",
+        "price": 6833
+      },
+      {
+        "slug": "chateau-chasse-spleen-2012",
+        "price": 3042
+      }
+    ],
+    "la-dame-de-montrose": [
+      {
+        "slug": "la-dame-de-montrose-2013",
+        "price": 1583
+      },
+      {
+        "slug": "la-dame-de-montrose-2014",
+        "price": 3583
+      },
+      {
+        "slug": "la-dame-de-montrose-2015",
+        "price": 3833
+      },
+      {
+        "slug": "la-dame-de-montrose-2017",
+        "price": null
+      },
+      {
+        "slug": "la-dame-de-montrose-2012",
+        "price": 3750
+      },
+      {
+        "slug": "la-dame-de-montrose-2016",
+        "price": 3500
+      }
+    ],
+    "chateau-brillette": [
+      {
+        "slug": "chateau-brillette-2011",
+        "price": 1833
+      },
+      {
+        "slug": "chateau-brillette-2012",
+        "price": 1792
+      },
+      {
+        "slug": "chateau-brillette-2009",
+        "price": 2833
+      },
+      {
+        "slug": "chateau-brillette-2010",
+        "price": 2500
+      }
+    ],
+    "chateau-capbern-gasqueton": [
+      {
+        "slug": "chateau-capbern-gasqueton-2010",
+        "price": 2375
+      },
+      {
+        "slug": "chateau-capbern-gasqueton-2014",
+        "price": 1833
+      },
+      {
+        "slug": "chateau-capbern-gasqueton-2012",
+        "price": 1792
+      },
+      {
+        "slug": "chateau-capbern-gasqueton-2013",
+        "price": 1750
+      },
+      {
+        "slug": "chateau-capbern-gasqueton-2008",
+        "price": 2583
+      },
+      {
+        "slug": "chateau-capbern-gasqueton-2011",
+        "price": 1833
+      }
+    ],
+    "chateau-capbern": [
+      {
+        "slug": "chateau-capbern-2015",
+        "price": 2000
+      },
+      {
+        "slug": "chateau-capbern-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-capbern-2016",
+        "price": 1800
+      }
+    ],
+    "chateau-citran": [
+      {
+        "slug": "chateau-citran-2012",
+        "price": 1625
+      },
+      {
+        "slug": "chateau-citran-2014",
+        "price": 1583
+      },
+      {
+        "slug": "chateau-citran-2015",
+        "price": 1583
+      },
+      {
+        "slug": "chateau-citran-2016",
+        "price": 1350
+      },
+      {
+        "slug": "chateau-citran-2017",
+        "price": null
+      }
+    ],
+    "chateau-phelan-segur": [
+      {
+        "slug": "chateau-phelan-segur-2012",
+        "price": 3875
+      },
+      {
+        "slug": "chateau-phelan-segur-2014",
+        "price": 3917
+      },
+      {
+        "slug": "chateau-phelan-segur-2015",
+        "price": 4667
+      },
+      {
+        "slug": "chateau-phelan-segur-2009",
+        "price": null
+      },
+      {
+        "slug": "chateau-phelan-segur-2016",
+        "price": 3900
+      },
+      {
+        "slug": "chateau-phelan-segur-2017",
+        "price": null
+      }
+    ],
+    "chateau-pibran": [
+      {
+        "slug": "chateau-pibran-2011",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-pibran-2012",
+        "price": 2833
+      }
+    ],
+    "chateau-lanessan": [
+      {
+        "slug": "chateau-lanessan-2014",
+        "price": 1458
+      },
+      {
+        "slug": "chateau-lanessan-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-lanessan-2016",
+        "price": 1400
+      }
+    ],
+    "chateau-la-pointe": [
+      {
+        "slug": "chateau-la-pointe-2012",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-pointe-2013",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-pointe-2014",
+        "price": 3375
+      },
+      {
+        "slug": "chateau-la-pointe-2015",
+        "price": 4333
+      },
+      {
+        "slug": "chateau-la-pointe-2016",
+        "price": 3700
+      },
+      {
+        "slug": "chateau-la-pointe-1996",
+        "price": 5000
+      },
+      {
+        "slug": "chateau-la-pointe-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-pointe-2000",
+        "price": null
+      }
+    ],
+    "chateau-clinet": [
+      {
+        "slug": "chateau-clinet-2014",
+        "price": 7083
+      },
+      {
+        "slug": "chateau-clinet-2016",
+        "price": 8650
+      },
+      {
+        "slug": "chateau-clinet-2017",
+        "price": null
+      }
+    ],
+    "chateau-la-fleur-de-bouard": [
+      {
+        "slug": "chateau-la-fleur-de-bouard-2015",
+        "price": 3250
+      },
+      {
+        "slug": "chateau-la-fleur-de-bouard-2016",
+        "price": 2375
+      },
+      {
+        "slug": "chateau-la-fleur-de-bouard-2017",
+        "price": null
+      }
+    ],
+    "chateau-cambon-la-pelouse": [
+      {
+        "slug": "chateau-cambon-la-pelouse-2016",
+        "price": 1200
+      },
+      {
+        "slug": "chateau-cambon-la-pelouse-2014",
+        "price": 1583
+      },
+      {
+        "slug": "chateau-cambon-la-pelouse-2015",
+        "price": 1417
+      },
+      {
+        "slug": "chateau-cambon-la-pelouse-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-cambon-la-pelouse-2011",
+        "price": 2042
+      },
+      {
+        "slug": "chateau-cambon-la-pelouse-2013",
+        "price": 1417
+      },
+      {
+        "slug": "chateau-cambon-la-pelouse-2012",
+        "price": null
+      }
+    ],
+    "chateau-de-camensac": [
+      {
+        "slug": "chateau-de-camensac-2009",
+        "price": null
+      },
+      {
+        "slug": "chateau-de-camensac-2011",
+        "price": 5667
+      },
+      {
+        "slug": "chateau-de-camensac-2012",
+        "price": 5250
+      },
+      {
+        "slug": "chateau-de-camensac-2014",
+        "price": 2500
+      },
+      {
+        "slug": "chateau-de-camensac-2015",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-de-camensac-2016",
+        "price": 2500
+      }
+    ],
+    "chateau-le-boscq": [
+      {
+        "slug": "chateau-le-boscq-2000",
+        "price": 4625
+      },
+      {
+        "slug": "chateau-le-boscq-2015",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-le-boscq-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-le-boscq-1998",
+        "price": 4208
+      },
+      {
+        "slug": "chateau-le-boscq-2014",
+        "price": 2208
+      },
+      {
+        "slug": "chateau-le-boscq-2016",
+        "price": 2500
+      },
+      {
+        "slug": "chateau-le-boscq-1999",
+        "price": 3708
+      }
+    ],
+    "chateau-le-gay": [
+      {
+        "slug": "chateau-le-gay-2005",
+        "price": 18500
+      },
+      {
+        "slug": "chateau-le-gay-2008",
+        "price": 12500
+      },
+      {
+        "slug": "chateau-le-gay-2012",
+        "price": 9167
+      },
+      {
+        "slug": "chateau-le-gay-2013",
+        "price": 7000
+      },
+      {
+        "slug": "chateau-le-gay-2014",
+        "price": 9333
+      },
+      {
+        "slug": "chateau-le-gay-2015",
+        "price": 10833
+      },
+      {
+        "slug": "chateau-le-gay-2016",
+        "price": 10000
+      },
+      {
+        "slug": "chateau-le-gay-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-le-gay-2011",
+        "price": 8750
+      }
+    ],
+    "chateau-la-croix-de-gay": [
+      {
+        "slug": "chateau-la-croix-de-gay-2015",
+        "price": 3417
+      },
+      {
+        "slug": "chateau-la-croix-de-gay-2016",
+        "price": 3250
+      },
+      {
+        "slug": "chateau-la-croix-de-gay-2017",
+        "price": null
+      }
+    ],
+    "chateau-kirwan": [
+      {
+        "slug": "chateau-kirwan-2015",
+        "price": 4500
+      },
+      {
+        "slug": "chateau-kirwan-2014",
+        "price": 3792
+      },
+      {
+        "slug": "chateau-kirwan-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-kirwan-2016",
+        "price": 3800
+      }
+    ],
+    "chateau-rollan-de-by": [
+      {
+        "slug": "chateau-rollan-de-by-2014",
+        "price": 1875
+      },
+      {
+        "slug": "chateau-rollan-de-by-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-rollan-de-by-2012",
+        "price": 2000
+      },
+      {
+        "slug": "chateau-rollan-de-by-2010",
+        "price": 2583
+      },
+      {
+        "slug": "chateau-rollan-de-by-2013",
+        "price": 1667
+      }
+    ],
+    "chateau-feytit-clinet": [
+      {
+        "slug": "chateau-feytit-clinet-2008",
+        "price": 6250
+      },
+      {
+        "slug": "chateau-feytit-clinet-2009",
+        "price": 8750
+      },
+      {
+        "slug": "chateau-feytit-clinet-2013",
+        "price": 4583
+      },
+      {
+        "slug": "chateau-feytit-clinet-2014",
+        "price": 5000
+      },
+      {
+        "slug": "chateau-feytit-clinet-2015",
+        "price": 6833
+      },
+      {
+        "slug": "chateau-feytit-clinet-2016",
+        "price": 6000
+      },
+      {
+        "slug": "chateau-feytit-clinet-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-feytit-clinet-2010",
+        "price": 7917
+      }
+    ],
+    "chateau-la-cabanne": [
+      {
+        "slug": "chateau-la-cabanne-2012",
+        "price": 2958
+      }
+    ],
+    "chateau-langoa-barton": [
+      {
+        "slug": "chateau-langoa-barton-2015",
+        "price": 4833
+      },
+      {
+        "slug": "chateau-langoa-barton-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-langoa-barton-2016",
+        "price": 4600
+      }
+    ],
+    "chateau-des-annereaux": [
+      {
+        "slug": "chateau-des-annereaux-2016",
+        "price": 1150
+      },
+      {
+        "slug": "chateau-des-annereaux-2013",
+        "price": 1458
+      },
+      {
+        "slug": "chateau-des-annereaux-2014",
+        "price": 1542
+      },
+      {
+        "slug": "chateau-des-annereaux-2006",
+        "price": 1833
+      },
+      {
+        "slug": "chateau-des-annereaux-2009",
+        "price": 2083
+      },
+      {
+        "slug": "chateau-des-annereaux-2010",
+        "price": 1958
+      }
+    ],
+    "echo-de-lynch-bages": [
+      {
+        "slug": "echo-de-lynch-bages-2013",
+        "price": 6167
+      },
+      {
+        "slug": "echo-de-lynch-bages-2014",
+        "price": 3667
+      },
+      {
+        "slug": "echo-de-lynch-bages-2015",
+        "price": 4158
+      },
+      {
+        "slug": "echo-de-lynch-bages-2016",
+        "price": 3600
+      },
+      {
+        "slug": "echo-de-lynch-bages-2017",
+        "price": null
+      },
+      {
+        "slug": "echo-de-lynch-bages-2012",
+        "price": 3750
+      }
+    ],
+    "chateau-brun": [
+      {
+        "slug": "chateau-brun-2016",
+        "price": 1000
+      },
+      {
+        "slug": "chateau-brun-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-brun-2012",
+        "price": 1458
+      },
+      {
+        "slug": "chateau-brun-2014",
+        "price": 1333
+      },
+      {
+        "slug": "chateau-brun-2015",
+        "price": 1208
+      }
+    ],
+    "la-fleur-de-bouard": [
+      {
+        "slug": "la-fleur-de-bouard-2014",
+        "price": 2458
+      }
+    ],
+    "duluc-de-branaire-ducru": [
+      {
+        "slug": "duluc-de-branaire-ducru-2013",
+        "price": 2125
+      },
+      {
+        "slug": "duluc-de-branaire-ducru-2014",
+        "price": 2375
+      },
+      {
+        "slug": "duluc-de-branaire-ducru-2010",
+        "price": 3083
+      },
+      {
+        "slug": "duluc-de-branaire-ducru-2012",
+        "price": 2458
+      },
+      {
+        "slug": "duluc-de-branaire-ducru-2009",
+        "price": 3292
+      },
+      {
+        "slug": "duluc-de-branaire-ducru-2011",
+        "price": 2500
+      }
+    ],
+    "y": [
+      {
+        "slug": "y-2005",
+        "price": null
+      },
+      {
+        "slug": "y-2016",
+        "price": 14167
+      }
+    ],
+    "chateau-gazin": [
+      {
+        "slug": "chateau-gazin-2010",
+        "price": null
+      },
+      {
+        "slug": "chateau-gazin-2012",
+        "price": 8750
+      },
+      {
+        "slug": "chateau-gazin-2013",
+        "price": 2875
+      },
+      {
+        "slug": "chateau-gazin-2014",
+        "price": 7250
+      },
+      {
+        "slug": "chateau-gazin-2015",
+        "price": 7917
+      },
+      {
+        "slug": "chateau-gazin-2016",
+        "price": 7400
+      },
+      {
+        "slug": "chateau-gazin-2017",
+        "price": null
+      }
+    ],
+    "chateau-guillot": [
+      {
+        "slug": "chateau-guillot-1999",
+        "price": 4167
+      }
+    ],
+    "chateau-pavie-decesse": [
+      {
+        "slug": "chateau-pavie-decesse-2005",
+        "price": null
+      }
+    ],
+    "chateau-la-fleur-de-gay": [
+      {
+        "slug": "chateau-la-fleur-de-gay-2008",
+        "price": 7833
+      },
+      {
+        "slug": "chateau-la-fleur-de-gay-2009",
+        "price": 11083
+      },
+      {
+        "slug": "chateau-la-fleur-de-gay-2010",
+        "price": 10167
+      },
+      {
+        "slug": "chateau-la-fleur-de-gay-2011",
+        "price": 8833
+      },
+      {
+        "slug": "chateau-la-fleur-de-gay-2012",
+        "price": 8250
+      },
+      {
+        "slug": "chateau-la-fleur-de-gay-2013",
+        "price": 7500
+      },
+      {
+        "slug": "chateau-la-fleur-de-gay-2014",
+        "price": 8000
+      },
+      {
+        "slug": "chateau-la-fleur-de-gay-2015",
+        "price": 9000
+      },
+      {
+        "slug": "chateau-la-fleur-de-gay-2016",
+        "price": 8550
+      },
+      {
+        "slug": "chateau-la-fleur-de-gay-2017",
+        "price": null
+      }
+    ],
+    "chateau-l-arrosee": [
+      {
+        "slug": "chateau-l-arrosee-2001",
+        "price": null
+      }
+    ],
+    "la-demoiselle-de-sociando-mallet": [
+      {
+        "slug": "la-demoiselle-de-sociando-mallet-2009",
+        "price": 2542
+      },
+      {
+        "slug": "la-demoiselle-de-sociando-mallet-2016",
+        "price": 2083
+      },
+      {
+        "slug": "la-demoiselle-de-sociando-mallet-2008",
+        "price": 2250
+      },
+      {
+        "slug": "la-demoiselle-de-sociando-mallet-2010",
+        "price": 2458
+      },
+      {
+        "slug": "la-demoiselle-de-sociando-mallet-2014",
+        "price": 1750
+      },
+      {
+        "slug": "la-demoiselle-de-sociando-mallet-2015",
+        "price": 1792
+      }
+    ],
+    "chateau-la-tour-de-bessan": [
+      {
+        "slug": "chateau-la-tour-de-bessan-2015",
+        "price": 2000
+      },
+      {
+        "slug": "chateau-la-tour-de-bessan-2016",
+        "price": 1500
+      },
+      {
+        "slug": "chateau-la-tour-de-bessan-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-tour-de-bessan-2011",
+        "price": 1750
+      },
+      {
+        "slug": "chateau-la-tour-de-bessan-2012",
+        "price": 1833
+      },
+      {
+        "slug": "chateau-la-tour-de-bessan-2014",
+        "price": 1708
+      }
+    ],
+    "clos-du-clocher": [
+      {
+        "slug": "clos-du-clocher-2015",
+        "price": 7583
+      },
+      {
+        "slug": "clos-du-clocher-2016",
+        "price": 4800
+      },
+      {
+        "slug": "clos-du-clocher-2017",
+        "price": null
+      }
+    ],
+    "chateau-charmail": [
+      {
+        "slug": "chateau-charmail-2011",
+        "price": 1708
+      },
+      {
+        "slug": "chateau-charmail-2012",
+        "price": 1792
+      },
+      {
+        "slug": "chateau-charmail-2014",
+        "price": 3250
+      },
+      {
+        "slug": "chateau-charmail-2015",
+        "price": 1708
+      },
+      {
+        "slug": "chateau-charmail-2016",
+        "price": 1320
+      },
+      {
+        "slug": "chateau-charmail-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-charmail-2013",
+        "price": 1625
+      }
+    ],
+    "la-fugue-de-nenin": [
+      {
+        "slug": "la-fugue-de-nenin-2004",
+        "price": null
+      },
+      {
+        "slug": "la-fugue-de-nenin-2012",
+        "price": 2667
+      },
+      {
+        "slug": "la-fugue-de-nenin-2014",
+        "price": 2417
+      },
+      {
+        "slug": "la-fugue-de-nenin-2015",
+        "price": 2875
+      },
+      {
+        "slug": "la-fugue-de-nenin-2016",
+        "price": 2500
+      },
+      {
+        "slug": "la-fugue-de-nenin-2017",
+        "price": null
+      },
+      {
+        "slug": "la-fugue-de-nenin-2010",
+        "price": 3417
+      },
+      {
+        "slug": "la-fugue-de-nenin-2005",
+        "price": 4750
+      },
+      {
+        "slug": "la-fugue-de-nenin-2009",
+        "price": 3708
+      },
+      {
+        "slug": "la-fugue-de-nenin-2013",
+        "price": 2208
+      }
+    ],
+    "chateau-cap-de-faugeres": [
+      {
+        "slug": "chateau-cap-de-faugeres-2016",
+        "price": 1050
+      },
+      {
+        "slug": "chateau-cap-de-faugeres-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-cap-de-faugeres-2015",
+        "price": 1292
+      }
+    ],
+    "chateau-clos-l-eglise": [
+      {
+        "slug": "chateau-clos-l-eglise-2006",
+        "price": 3500
+      }
+    ],
+    "chateau-caronne-sainte-gemme": [
+      {
+        "slug": "chateau-caronne-sainte-gemme-2014",
+        "price": 1458
+      },
+      {
+        "slug": "chateau-caronne-sainte-gemme-2017",
+        "price": null
+      }
+    ],
+    "chateau-poujeaux": [
+      {
+        "slug": "chateau-poujeaux-2002",
+        "price": null
+      },
+      {
+        "slug": "chateau-poujeaux-2003",
+        "price": null
+      },
+      {
+        "slug": "chateau-poujeaux-2010",
+        "price": null
+      },
+      {
+        "slug": "chateau-poujeaux-2012",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-poujeaux-2014",
+        "price": 2750
+      },
+      {
+        "slug": "chateau-poujeaux-2015",
+        "price": 3000
+      },
+      {
+        "slug": "chateau-poujeaux-2016",
+        "price": 2650
+      },
+      {
+        "slug": "chateau-poujeaux-2017",
+        "price": null
+      }
+    ],
+    "chateau-fonreaud": [
+      {
+        "slug": "chateau-fonreaud-2015",
+        "price": 1583
+      },
+      {
+        "slug": "chateau-fonreaud-1996",
+        "price": 3375
+      },
+      {
+        "slug": "chateau-fonreaud-2016",
+        "price": 1300
+      },
+      {
+        "slug": "chateau-fonreaud-2014",
+        "price": 1417
+      },
+      {
+        "slug": "chateau-fonreaud-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-fonreaud-2012",
+        "price": 1417
+      },
+      {
+        "slug": "chateau-fonreaud-2010",
+        "price": 1792
+      },
+      {
+        "slug": "chateau-fonreaud-2013",
+        "price": 1208
+      }
+    ],
+    "fleur-de-pedesclaux": [
+      {
+        "slug": "fleur-de-pedesclaux-2015",
+        "price": 2500
+      },
+      {
+        "slug": "fleur-de-pedesclaux-2010",
+        "price": 2667
+      }
+    ],
+    "chateau-valandraud": [
+      {
+        "slug": "chateau-valandraud-2015",
+        "price": 36000
+      },
+      {
+        "slug": "chateau-valandraud-2016",
+        "price": 14900
+      },
+      {
+        "slug": "chateau-valandraud-1996",
+        "price": 45833
+      },
+      {
+        "slug": "chateau-valandraud-1998",
+        "price": 31667
+      },
+      {
+        "slug": "chateau-valandraud-1999",
+        "price": 20417
+      },
+      {
+        "slug": "chateau-valandraud-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-valandraud-2006",
+        "price": 21667
+      },
+      {
+        "slug": "chateau-valandraud-2005",
+        "price": null
+      }
+    ],
+    "chateau-loudenne": [
+      {
+        "slug": "chateau-loudenne-2009",
+        "price": 2292
+      },
+      {
+        "slug": "chateau-loudenne-1998",
+        "price": 3083
+      }
+    ],
+    "chateau-faugeres": [
+      {
+        "slug": "chateau-faugeres-2013",
+        "price": null
+      },
+      {
+        "slug": "chateau-faugeres-2015",
+        "price": 3667
+      },
+      {
+        "slug": "chateau-faugeres-2016",
+        "price": 3500
+      },
+      {
+        "slug": "chateau-faugeres-2017",
+        "price": null
+      }
+    ],
+    "chateau-tour-de-pez": [
+      {
+        "slug": "chateau-tour-de-pez-2011",
+        "price": 1958
+      },
+      {
+        "slug": "chateau-tour-de-pez-2012",
+        "price": 1917
+      },
+      {
+        "slug": "chateau-tour-de-pez-2014",
+        "price": 1792
+      },
+      {
+        "slug": "chateau-tour-de-pez-2015",
+        "price": 1833
+      },
+      {
+        "slug": "chateau-tour-de-pez-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-tour-de-pez-2016",
+        "price": 1500
+      }
+    ],
+    "clos-rene": [
+      {
+        "slug": "clos-rene-2014",
+        "price": 2792
+      },
+      {
+        "slug": "clos-rene-2016",
+        "price": 2650
+      },
+      {
+        "slug": "clos-rene-2012",
+        "price": 3000
+      },
+      {
+        "slug": "clos-rene-2017",
+        "price": null
+      },
+      {
+        "slug": "clos-rene-2013",
+        "price": 2458
+      }
+    ],
+    "chateau-mazeyres": [
+      {
+        "slug": "chateau-mazeyres-2012",
+        "price": 5083
+      },
+      {
+        "slug": "chateau-mazeyres-2013",
+        "price": 2083
+      },
+      {
+        "slug": "chateau-mazeyres-2014",
+        "price": 2417
+      },
+      {
+        "slug": "chateau-mazeyres-2015",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-mazeyres-2016",
+        "price": 2350
+      },
+      {
+        "slug": "chateau-mazeyres-2017",
+        "price": null
+      }
+    ],
+    "chateau-sociando-mallet": [
+      {
+        "slug": "chateau-sociando-mallet-2012",
+        "price": 3125
+      },
+      {
+        "slug": "chateau-sociando-mallet-2000",
+        "price": 9417
+      },
+      {
+        "slug": "chateau-sociando-mallet-2013",
+        "price": 2708
+      },
+      {
+        "slug": "chateau-sociando-mallet-2014",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-sociando-mallet-2015",
+        "price": 3375
+      },
+      {
+        "slug": "chateau-sociando-mallet-2016",
+        "price": 3150
+      },
+      {
+        "slug": "chateau-sociando-mallet-2006",
+        "price": 4875
+      },
+      {
+        "slug": "chateau-sociando-mallet-2008",
+        "price": 4250
+      },
+      {
+        "slug": "chateau-sociando-mallet-2010",
+        "price": 4958
+      },
+      {
+        "slug": "chateau-sociando-mallet-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-sociando-mallet-2009",
+        "price": 6250
+      },
+      {
+        "slug": "chateau-sociando-mallet-2007",
+        "price": 4333
+      }
+    ],
+    "chateau-la-dominique": [
+      {
+        "slug": "chateau-la-dominique-2009",
+        "price": 6333
+      },
+      {
+        "slug": "chateau-la-dominique-2010",
+        "price": 5625
+      },
+      {
+        "slug": "chateau-la-dominique-2012",
+        "price": 4250
+      },
+      {
+        "slug": "chateau-la-dominique-2014",
+        "price": 4000
+      },
+      {
+        "slug": "chateau-la-dominique-2015",
+        "price": 5083
+      },
+      {
+        "slug": "chateau-la-dominique-2016",
+        "price": 5000
+      },
+      {
+        "slug": "chateau-la-dominique-1999",
+        "price": 5875
+      },
+      {
+        "slug": "chateau-la-dominique-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-dominique-2013",
+        "price": 3542
+      },
+      {
+        "slug": "chateau-la-dominique-2006",
+        "price": 4083
+      }
+    ],
+    "chateau-haut-marbuzet": [
+      {
+        "slug": "chateau-haut-marbuzet-2012",
+        "price": 3917
+      },
+      {
+        "slug": "chateau-haut-marbuzet-2013",
+        "price": 3500
+      },
+      {
+        "slug": "chateau-haut-marbuzet-2014",
+        "price": 4083
+      },
+      {
+        "slug": "chateau-haut-marbuzet-2015",
+        "price": 4500
+      },
+      {
+        "slug": "chateau-haut-marbuzet-2016",
+        "price": 3700
+      },
+      {
+        "slug": "chateau-haut-marbuzet-2004",
+        "price": 5375
+      },
+      {
+        "slug": "chateau-haut-marbuzet-2006",
+        "price": 4958
+      },
+      {
+        "slug": "chateau-haut-marbuzet-2007",
+        "price": 4750
+      },
+      {
+        "slug": "chateau-haut-marbuzet-2009",
+        "price": 7167
+      },
+      {
+        "slug": "chateau-haut-marbuzet-2010",
+        "price": 5333
+      },
+      {
+        "slug": "chateau-haut-marbuzet-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-haut-marbuzet-2008",
+        "price": 4750
+      },
+      {
+        "slug": "chateau-haut-marbuzet-2000",
+        "price": 7292
+      }
+    ],
+    "le-clementin-de-pape-clement": [
+      {
+        "slug": "le-clementin-de-pape-clement-2014",
+        "price": 2833
+      },
+      {
+        "slug": "le-clementin-de-pape-clement-2013",
+        "price": 4667
+      },
+      {
+        "slug": "le-clementin-de-pape-clement-2016",
+        "price": 3917
+      },
+      {
+        "slug": "le-clementin-de-pape-clement-2016-1",
+        "price": 4167
+      },
+      {
+        "slug": "le-clementin-de-pape-clement-2017",
+        "price": null
+      },
+      {
+        "slug": "le-clementin-de-pape-clement-2014-1",
+        "price": 4667
+      }
+    ],
+    "chateau-grand-mayne": [
+      {
+        "slug": "chateau-grand-mayne-2015",
+        "price": 3833
+      },
+      {
+        "slug": "chateau-grand-mayne-2016",
+        "price": 3900
+      },
+      {
+        "slug": "chateau-grand-mayne-2017",
+        "price": null
+      }
+    ],
+    "chateau-d-armailhac": [
+      {
+        "slug": "chateau-d-armailhac-2009",
+        "price": 7333
+      },
+      {
+        "slug": "chateau-d-armailhac-2010",
+        "price": 6167
+      },
+      {
+        "slug": "chateau-d-armailhac-2011",
+        "price": 10000
+      },
+      {
+        "slug": "chateau-d-armailhac-2012",
+        "price": 4583
+      },
+      {
+        "slug": "chateau-d-armailhac-2014",
+        "price": 4417
+      },
+      {
+        "slug": "chateau-d-armailhac-2015",
+        "price": 2646
+      },
+      {
+        "slug": "chateau-d-armailhac-2016",
+        "price": 4200
+      },
+      {
+        "slug": "chateau-d-armailhac-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-d-armailhac-2005",
+        "price": 9208
+      }
+    ],
+    "chateau-soutard": [
+      {
+        "slug": "chateau-soutard-2015",
+        "price": 4750
+      },
+      {
+        "slug": "chateau-soutard-2016",
+        "price": 3950
+      },
+      {
+        "slug": "chateau-soutard-2017",
+        "price": null
+      }
+    ],
+    "chateau-labegorce": [
+      {
+        "slug": "chateau-labegorce-2010",
+        "price": 6167
+      },
+      {
+        "slug": "chateau-labegorce-2012",
+        "price": 2792
+      },
+      {
+        "slug": "chateau-labegorce-2015",
+        "price": 3292
+      },
+      {
+        "slug": "chateau-labegorce-2017",
+        "price": null
+      }
+    ],
+    "chateau-le-bon-pasteur": [
+      {
+        "slug": "chateau-le-bon-pasteur-2016",
+        "price": 6450
+      },
+      {
+        "slug": "chateau-le-bon-pasteur-2015",
+        "price": 7667
+      },
+      {
+        "slug": "chateau-le-bon-pasteur-2017",
+        "price": null
+      }
+    ],
+    "l-esprit-de-chevalier": [
+      {
+        "slug": "l-esprit-de-chevalier-2016",
+        "price": 2000
+      },
+      {
+        "slug": "l-esprit-de-chevalier-2015-1",
+        "price": 2333
+      },
+      {
+        "slug": "l-esprit-de-chevalier-2016-1",
+        "price": 2100
+      },
+      {
+        "slug": "l-esprit-de-chevalier-2012",
+        "price": 2492
+      }
+    ],
+    "le-petit-cheval": [
+      {
+        "slug": "le-petit-cheval-2014",
+        "price": 16667
+      },
+      {
+        "slug": "le-petit-cheval-2017",
+        "price": null
+      }
+    ],
+    "domaine-de-la-solitude": [
+      {
+        "slug": "domaine-de-la-solitude-2016-1",
+        "price": 1600
+      },
+      {
+        "slug": "domaine-de-la-solitude-2017",
+        "price": null
+      },
+      {
+        "slug": "domaine-de-la-solitude-2017-1",
+        "price": null
+      },
+      {
+        "slug": "domaine-de-la-solitude-2014-1",
+        "price": 1958
+      },
+      {
+        "slug": "domaine-de-la-solitude-2016",
+        "price": 1600
+      },
+      {
+        "slug": "domaine-de-la-solitude-2015-1",
+        "price": 2083
+      },
+      {
+        "slug": "domaine-de-la-solitude-2012",
+        "price": 2333
+      },
+      {
+        "slug": "domaine-de-la-solitude-2015",
+        "price": 1833
+      }
+    ],
+    "le-carillon-d-angelus": [
+      {
+        "slug": "le-carillon-d-angelus-2015",
+        "price": 10500
+      },
+      {
+        "slug": "le-carillon-d-angelus-2016",
+        "price": 8550
+      },
+      {
+        "slug": "le-carillon-d-angelus-2017",
+        "price": null
+      }
+    ],
+    "chateau-de-chantegrive": [
+      {
+        "slug": "chateau-de-chantegrive-2014",
+        "price": 1458
+      },
+      {
+        "slug": "chateau-de-chantegrive-2015",
+        "price": 1417
+      },
+      {
+        "slug": "chateau-de-chantegrive-2016",
+        "price": 1200
+      },
+      {
+        "slug": "chateau-de-chantegrive-2013",
+        "price": 1375
+      }
+    ],
+    "chateau-peyrabon": [
+      {
+        "slug": "chateau-peyrabon-2008",
+        "price": 1708
+      },
+      {
+        "slug": "chateau-peyrabon-2009",
+        "price": 2458
+      },
+      {
+        "slug": "chateau-peyrabon-2010",
+        "price": 2250
+      },
+      {
+        "slug": "chateau-peyrabon-2011",
+        "price": 1500
+      },
+      {
+        "slug": "chateau-peyrabon-2012",
+        "price": 2750
+      },
+      {
+        "slug": "chateau-peyrabon-2014",
+        "price": 1375
+      },
+      {
+        "slug": "chateau-peyrabon-2016",
+        "price": 975
+      },
+      {
+        "slug": "chateau-peyrabon-1996",
+        "price": 2667
+      },
+      {
+        "slug": "chateau-peyrabon-1999",
+        "price": 2083
+      },
+      {
+        "slug": "chateau-peyrabon-2000",
+        "price": 2792
+      },
+      {
+        "slug": "chateau-peyrabon-2001",
+        "price": 2500
+      },
+      {
+        "slug": "chateau-peyrabon-2002",
+        "price": 2000
+      },
+      {
+        "slug": "chateau-peyrabon-2003",
+        "price": 2250
+      },
+      {
+        "slug": "chateau-peyrabon-2004",
+        "price": 2000
+      },
+      {
+        "slug": "chateau-peyrabon-2006",
+        "price": 1833
+      },
+      {
+        "slug": "chateau-peyrabon-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-peyrabon-2013",
+        "price": 1083
+      },
+      {
+        "slug": "chateau-peyrabon-2005",
+        "price": 2667
+      }
+    ],
+    "chateau-la-fleur-peyrabon": [
+      {
+        "slug": "chateau-la-fleur-peyrabon-2000",
+        "price": 4375
+      },
+      {
+        "slug": "chateau-la-fleur-peyrabon-2002",
+        "price": 3167
+      },
+      {
+        "slug": "chateau-la-fleur-peyrabon-2003",
+        "price": 3833
+      },
+      {
+        "slug": "chateau-la-fleur-peyrabon-2004",
+        "price": 7167
+      },
+      {
+        "slug": "chateau-la-fleur-peyrabon-2006",
+        "price": 3167
+      },
+      {
+        "slug": "chateau-la-fleur-peyrabon-2008",
+        "price": 1438
+      },
+      {
+        "slug": "chateau-la-fleur-peyrabon-2009",
+        "price": 3625
+      },
+      {
+        "slug": "chateau-la-fleur-peyrabon-2010",
+        "price": 7500
+      },
+      {
+        "slug": "chateau-la-fleur-peyrabon-2011",
+        "price": 2750
+      },
+      {
+        "slug": "chateau-la-fleur-peyrabon-2012",
+        "price": 2417
+      },
+      {
+        "slug": "chateau-la-fleur-peyrabon-2013",
+        "price": 2042
+      },
+      {
+        "slug": "chateau-la-fleur-peyrabon-2016",
+        "price": 2300
+      },
+      {
+        "slug": "chateau-la-fleur-peyrabon-1998",
+        "price": 3625
+      },
+      {
+        "slug": "chateau-la-fleur-peyrabon-2017",
+        "price": null
+      }
+    ],
+    "croix-de-beaucaillou": [
+      {
+        "slug": "croix-de-beaucaillou-2010",
+        "price": 5833
+      },
+      {
+        "slug": "croix-de-beaucaillou-2011",
+        "price": null
+      },
+      {
+        "slug": "croix-de-beaucaillou-2012",
+        "price": 3958
+      },
+      {
+        "slug": "croix-de-beaucaillou-2014",
+        "price": 4833
+      }
+    ],
+    "clos-haut-peyraguey": [
+      {
+        "slug": "clos-haut-peyraguey-2007",
+        "price": 4625
+      },
+      {
+        "slug": "clos-haut-peyraguey-2008",
+        "price": 4167
+      },
+      {
+        "slug": "clos-haut-peyraguey-2011",
+        "price": null
+      },
+      {
+        "slug": "clos-haut-peyraguey-2012",
+        "price": 3667
+      },
+      {
+        "slug": "clos-haut-peyraguey-2017",
+        "price": null
+      },
+      {
+        "slug": "clos-haut-peyraguey-2015",
+        "price": 3583
+      },
+      {
+        "slug": "clos-haut-peyraguey-2014",
+        "price": 3500
+      },
+      {
+        "slug": "clos-haut-peyraguey-2009",
+        "price": 5083
+      },
+      {
+        "slug": "clos-haut-peyraguey-2005",
+        "price": 4250
+      },
+      {
+        "slug": "clos-haut-peyraguey-2016",
+        "price": 2850
+      },
+      {
+        "slug": "clos-haut-peyraguey-2003",
+        "price": null
+      }
+    ],
+    "la-croix-ducru-beaucaillou": [
+      {
+        "slug": "la-croix-ducru-beaucaillou-2015",
+        "price": 4583
+      },
+      {
+        "slug": "la-croix-ducru-beaucaillou-2017",
+        "price": null
+      },
+      {
+        "slug": "la-croix-ducru-beaucaillou-2016",
+        "price": 4300
+      }
+    ],
+    "chateau-clarisse": [
+      {
+        "slug": "chateau-clarisse-2012",
+        "price": 2583
+      },
+      {
+        "slug": "chateau-clarisse-2014",
+        "price": 2208
+      },
+      {
+        "slug": "chateau-clarisse-2015",
+        "price": 2667
+      },
+      {
+        "slug": "chateau-clarisse-2016",
+        "price": 1600
+      },
+      {
+        "slug": "chateau-clarisse-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-clarisse-2013",
+        "price": 2292
+      }
+    ],
+    "domaine-de-courteillac": [
+      {
+        "slug": "domaine-de-courteillac-2014",
+        "price": 1083
+      },
+      {
+        "slug": "domaine-de-courteillac-2015",
+        "price": 958
+      },
+      {
+        "slug": "domaine-de-courteillac-2016",
+        "price": 800
+      },
+      {
+        "slug": "domaine-de-courteillac-2017",
+        "price": null
+      },
+      {
+        "slug": "domaine-de-courteillac-2011",
+        "price": 1042
+      }
+    ],
+    "chateau-grand-corbin-despagne": [
+      {
+        "slug": "chateau-grand-corbin-despagne-2014",
+        "price": 2750
+      },
+      {
+        "slug": "chateau-grand-corbin-despagne-2015",
+        "price": 3292
+      },
+      {
+        "slug": "chateau-grand-corbin-despagne-2011",
+        "price": 3200
+      },
+      {
+        "slug": "chateau-grand-corbin-despagne-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-grand-corbin-despagne-2012",
+        "price": 3417
+      },
+      {
+        "slug": "chateau-grand-corbin-despagne-2016",
+        "price": 2700
+      },
+      {
+        "slug": "chateau-grand-corbin-despagne-2013",
+        "price": 2333
+      }
+    ],
+    "chateau-barde-haut": [
+      {
+        "slug": "chateau-barde-haut-2013",
+        "price": 2417
+      },
+      {
+        "slug": "chateau-barde-haut-2015",
+        "price": 3500
+      },
+      {
+        "slug": "chateau-barde-haut-2016",
+        "price": 3300
+      },
+      {
+        "slug": "chateau-barde-haut-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-barde-haut-2014",
+        "price": 2833
+      }
+    ],
+    "chateau-franc-mayne": [
+      {
+        "slug": "chateau-franc-mayne-2016",
+        "price": 2950
+      },
+      {
+        "slug": "chateau-franc-mayne-2017",
+        "price": null
+      }
+    ],
+    "sarget-de-gruaud-larose": [
+      {
+        "slug": "sarget-de-gruaud-larose-2014",
+        "price": 2583
+      },
+      {
+        "slug": "sarget-de-gruaud-larose-2017",
+        "price": null
+      },
+      {
+        "slug": "sarget-de-gruaud-larose-2015",
+        "price": null
+      },
+      {
+        "slug": "sarget-de-gruaud-larose-2016",
+        "price": 2150
+      }
+    ],
+    "chateau-montlandrie": [
+      {
+        "slug": "chateau-montlandrie-2015",
+        "price": 2333
+      },
+      {
+        "slug": "chateau-montlandrie-2011",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-montlandrie-2012",
+        "price": 2250
+      },
+      {
+        "slug": "chateau-montlandrie-2013",
+        "price": 2458
+      },
+      {
+        "slug": "chateau-montlandrie-2014",
+        "price": 2208
+      },
+      {
+        "slug": "chateau-montlandrie-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-montlandrie-2010",
+        "price": 2833
+      },
+      {
+        "slug": "chateau-montlandrie-2016",
+        "price": 1750
+      }
+    ],
+    "la-chapelle-de-la-mission": [
+      {
+        "slug": "la-chapelle-de-la-mission-2012",
+        "price": 5583
+      },
+      {
+        "slug": "la-chapelle-de-la-mission-2014",
+        "price": 5250
+      },
+      {
+        "slug": "la-chapelle-de-la-mission-2015",
+        "price": 9000
+      },
+      {
+        "slug": "la-chapelle-de-la-mission-2016",
+        "price": 7600
+      },
+      {
+        "slug": "la-chapelle-de-la-mission-2017",
+        "price": null
+      }
+    ],
+    "les-pagodes-de-cos": [
+      {
+        "slug": "les-pagodes-de-cos-2010",
+        "price": 7000
+      },
+      {
+        "slug": "les-pagodes-de-cos-2014",
+        "price": 4333
+      },
+      {
+        "slug": "les-pagodes-de-cos-2015",
+        "price": 5167
+      }
+    ],
+    "chateau-de-la-dauphine": [
+      {
+        "slug": "chateau-de-la-dauphine-2014",
+        "price": 1750
+      },
+      {
+        "slug": "chateau-de-la-dauphine-2015",
+        "price": 1875
+      },
+      {
+        "slug": "chateau-de-la-dauphine-2016",
+        "price": 1400
+      },
+      {
+        "slug": "chateau-de-la-dauphine-2010",
+        "price": 2333
+      },
+      {
+        "slug": "chateau-de-la-dauphine-2011",
+        "price": 1667
+      },
+      {
+        "slug": "chateau-de-la-dauphine-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-de-la-dauphine-2013",
+        "price": 1500
+      }
+    ],
+    "chateau-tronquoy-lalande": [
+      {
+        "slug": "chateau-tronquoy-lalande-1996",
+        "price": 3667
+      },
+      {
+        "slug": "chateau-tronquoy-lalande-1999",
+        "price": 2833
+      },
+      {
+        "slug": "chateau-tronquoy-lalande-2006",
+        "price": 3708
+      },
+      {
+        "slug": "chateau-tronquoy-lalande-2009",
+        "price": 4042
+      },
+      {
+        "slug": "chateau-tronquoy-lalande-2011",
+        "price": 3000
+      },
+      {
+        "slug": "chateau-tronquoy-lalande-2010",
+        "price": 4583
+      },
+      {
+        "slug": "chateau-tronquoy-lalande-2007",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-tronquoy-lalande-2012",
+        "price": 3000
+      }
+    ],
+    "pagodes-de-cos": [
+      {
+        "slug": "pagodes-de-cos-2016",
+        "price": 4100
+      },
+      {
+        "slug": "pagodes-de-cos-2017",
+        "price": null
+      }
+    ],
+    "chateau-de-myrat": [
+      {
+        "slug": "chateau-de-myrat-2000",
+        "price": 2958
+      },
+      {
+        "slug": "chateau-de-myrat-2014",
+        "price": 2817
+      },
+      {
+        "slug": "chateau-de-myrat-2001",
+        "price": 4250
+      },
+      {
+        "slug": "chateau-de-myrat-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-de-myrat-2012",
+        "price": 2983
+      },
+      {
+        "slug": "chateau-de-myrat-2002",
+        "price": 3042
+      },
+      {
+        "slug": "chateau-de-myrat-2003",
+        "price": 3083
+      },
+      {
+        "slug": "chateau-de-myrat-2016",
+        "price": 2250
+      },
+      {
+        "slug": "chateau-de-myrat-1996",
+        "price": 3125
+      },
+      {
+        "slug": "chateau-de-myrat-1997",
+        "price": 3583
+      },
+      {
+        "slug": "chateau-de-myrat-2015",
+        "price": null
+      }
+    ],
+    "chateau-laroze": [
+      {
+        "slug": "chateau-laroze-2010",
+        "price": 3750
+      },
+      {
+        "slug": "chateau-laroze-2011",
+        "price": 2708
+      },
+      {
+        "slug": "chateau-laroze-2012",
+        "price": 2667
+      },
+      {
+        "slug": "chateau-laroze-2013",
+        "price": 2125
+      },
+      {
+        "slug": "chateau-laroze-2014",
+        "price": 2583
+      },
+      {
+        "slug": "chateau-laroze-2015",
+        "price": 2833
+      },
+      {
+        "slug": "chateau-laroze-2016",
+        "price": 2350
+      },
+      {
+        "slug": "chateau-laroze-2017",
+        "price": null
+      }
+    ],
+    "chateau-la-violette": [
+      {
+        "slug": "chateau-la-violette-2006",
+        "price": 24167
+      },
+      {
+        "slug": "chateau-la-violette-2013",
+        "price": 20000
+      },
+      {
+        "slug": "chateau-la-violette-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-violette-2016",
+        "price": null
+      }
+    ],
+    "chateau-pavie-macquin": [
+      {
+        "slug": "chateau-pavie-macquin-2013",
+        "price": 4667
+      },
+      {
+        "slug": "chateau-pavie-macquin-2014",
+        "price": 6667
+      },
+      {
+        "slug": "chateau-pavie-macquin-2015",
+        "price": 8000
+      },
+      {
+        "slug": "chateau-pavie-macquin-2016",
+        "price": 7700
+      },
+      {
+        "slug": "chateau-pavie-macquin-1998",
+        "price": null
+      },
+      {
+        "slug": "chateau-pavie-macquin-1999",
+        "price": null
+      },
+      {
+        "slug": "chateau-pavie-macquin-2017",
+        "price": null
+      }
+    ],
+    "le-petit-lion-du-marquis-de-las-cases": [
+      {
+        "slug": "le-petit-lion-du-marquis-de-las-cases-2014",
+        "price": 3750
+      },
+      {
+        "slug": "le-petit-lion-du-marquis-de-las-cases-2015",
+        "price": 5000
+      },
+      {
+        "slug": "le-petit-lion-du-marquis-de-las-cases-2017",
+        "price": null
+      },
+      {
+        "slug": "le-petit-lion-du-marquis-de-las-cases-2016",
+        "price": 4800
+      }
+    ],
+    "chateau-quintus": [
+      {
+        "slug": "chateau-quintus-2016",
+        "price": 11200
+      },
+      {
+        "slug": "chateau-quintus-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-quintus-2014",
+        "price": 10333
+      },
+      {
+        "slug": "chateau-quintus-2015",
+        "price": 15000
+      }
+    ],
+    "connetable-talbot": [
+      {
+        "slug": "connetable-talbot-2015",
+        "price": 2500
+      },
+      {
+        "slug": "connetable-talbot-2016",
+        "price": 2150
+      },
+      {
+        "slug": "connetable-talbot-2017",
+        "price": null
+      },
+      {
+        "slug": "connetable-talbot-2014",
+        "price": 2583
+      },
+      {
+        "slug": "connetable-talbot-2009",
+        "price": 4083
+      },
+      {
+        "slug": "connetable-talbot-2010",
+        "price": 4083
+      }
+    ],
+    "dragon-de-quintus": [
+      {
+        "slug": "dragon-de-quintus-2014",
+        "price": null
+      },
+      {
+        "slug": "dragon-de-quintus-2016",
+        "price": 2800
+      },
+      {
+        "slug": "dragon-de-quintus-2017",
+        "price": null
+      }
+    ],
+    "virginie-de-valandraud": [
+      {
+        "slug": "virginie-de-valandraud-2000",
+        "price": null
+      },
+      {
+        "slug": "virginie-de-valandraud-2016",
+        "price": 3600
+      }
+    ],
+    "chateau-siaurac": [
+      {
+        "slug": "chateau-siaurac-2010",
+        "price": 2250
+      },
+      {
+        "slug": "chateau-siaurac-2015",
+        "price": 1708
+      },
+      {
+        "slug": "chateau-siaurac-2016",
+        "price": 1500
+      },
+      {
+        "slug": "chateau-siaurac-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-siaurac-2014",
+        "price": 1583
+      },
+      {
+        "slug": "chateau-siaurac-2012",
+        "price": 1750
+      }
+    ],
+    "cuvee-auguste-du-chateau-troquart": [
+      {
+        "slug": "cuvee-auguste-du-chateau-troquart-2009",
+        "price": 2583
+      }
+    ],
+    "chateau-quinault-l-enclos": [
+      {
+        "slug": "chateau-quinault-l-enclos-2016",
+        "price": 2800
+      },
+      {
+        "slug": "chateau-quinault-l-enclos-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-quinault-l-enclos-2015",
+        "price": 3250
+      }
+    ],
+    "chateau-belle-vue": [
+      {
+        "slug": "chateau-belle-vue-2011",
+        "price": 1792
+      },
+      {
+        "slug": "chateau-belle-vue-2012",
+        "price": 1625
+      },
+      {
+        "slug": "chateau-belle-vue-2014",
+        "price": 1658
+      },
+      {
+        "slug": "chateau-belle-vue-2015",
+        "price": 1667
+      },
+      {
+        "slug": "chateau-belle-vue-2016",
+        "price": 1350
+      },
+      {
+        "slug": "chateau-belle-vue-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-belle-vue-2013",
+        "price": 1375
+      }
+    ],
+    "l-extravagant-de-doisy-daene": [
+      {
+        "slug": "l-extravagant-de-doisy-daene-2012",
+        "price": null
+      },
+      {
+        "slug": "l-extravagant-de-doisy-daene-2014",
+        "price": null
+      },
+      {
+        "slug": "l-extravagant-de-doisy-daene-2017",
+        "price": null
+      },
+      {
+        "slug": "l-extravagant-de-doisy-daene-2016",
+        "price": null
+      }
+    ],
+    "chateau-mignot": [
+      {
+        "slug": "chateau-mignot-2010",
+        "price": 1667
+      },
+      {
+        "slug": "chateau-mignot-2009",
+        "price": 1750
+      }
+    ],
+    "chateau-vray-croix-de-gay": [
+      {
+        "slug": "chateau-vray-croix-de-gay-2011",
+        "price": 5667
+      },
+      {
+        "slug": "chateau-vray-croix-de-gay-2016",
+        "price": 5500
+      },
+      {
+        "slug": "chateau-vray-croix-de-gay-2014",
+        "price": 5417
+      },
+      {
+        "slug": "chateau-vray-croix-de-gay-2010",
+        "price": 10000
+      },
+      {
+        "slug": "chateau-vray-croix-de-gay-2015",
+        "price": 6167
+      },
+      {
+        "slug": "chateau-vray-croix-de-gay-2017",
+        "price": null
+      }
+    ],
+    "chateau-haut-mazeris": [
+      {
+        "slug": "chateau-haut-mazeris-2005",
+        "price": 3208
+      }
+    ],
+    "chateau-clarisse-vieilles-vignes": [
+      {
+        "slug": "chateau-clarisse-vieilles-vignes-2014",
+        "price": 4083
+      },
+      {
+        "slug": "chateau-clarisse-vieilles-vignes-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-clarisse-vieilles-vignes-2015",
+        "price": 4042
+      },
+      {
+        "slug": "chateau-clarisse-vieilles-vignes-2016",
+        "price": 2720
+      }
+    ],
+    "clos-des-jacobins": [
+      {
+        "slug": "clos-des-jacobins-2010",
+        "price": 4417
+      },
+      {
+        "slug": "clos-des-jacobins-2011",
+        "price": 3000
+      },
+      {
+        "slug": "clos-des-jacobins-2012",
+        "price": 2583
+      },
+      {
+        "slug": "clos-des-jacobins-2014",
+        "price": 2708
+      },
+      {
+        "slug": "clos-des-jacobins-2015",
+        "price": 2917
+      },
+      {
+        "slug": "clos-des-jacobins-2016",
+        "price": 2600
+      },
+      {
+        "slug": "clos-des-jacobins-2017",
+        "price": null
+      },
+      {
+        "slug": "clos-des-jacobins-2013",
+        "price": 2375
+      }
+    ],
+    "chateau-les-grands-chenes": [
+      {
+        "slug": "chateau-les-grands-chenes-2015",
+        "price": 1417
+      },
+      {
+        "slug": "chateau-les-grands-chenes-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-les-grands-chenes-2016",
+        "price": 1200
+      }
+    ],
+    "chateau-bellefont-belcier": [
+      {
+        "slug": "chateau-bellefont-belcier-2015",
+        "price": 3750
+      },
+      {
+        "slug": "chateau-bellefont-belcier-2010",
+        "price": 5167
+      },
+      {
+        "slug": "chateau-bellefont-belcier-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-bellefont-belcier-2009",
+        "price": 4458
+      },
+      {
+        "slug": "chateau-bellefont-belcier-2011",
+        "price": 4333
+      },
+      {
+        "slug": "chateau-bellefont-belcier-2016",
+        "price": 3400
+      }
+    ],
+    "chateau-lilian-ladouys": [
+      {
+        "slug": "chateau-lilian-ladouys-2012",
+        "price": 1958
+      },
+      {
+        "slug": "chateau-lilian-ladouys-2008",
+        "price": 2542
+      }
+    ],
+    "chateau-desmirail": [
+      {
+        "slug": "chateau-desmirail-2005",
+        "price": 5792
+      },
+      {
+        "slug": "chateau-desmirail-2015",
+        "price": 3792
+      },
+      {
+        "slug": "chateau-desmirail-2016",
+        "price": 3150
+      },
+      {
+        "slug": "chateau-desmirail-2017",
+        "price": null
+      }
+    ],
+    "chateau-la-marzelle": [
+      {
+        "slug": "chateau-la-marzelle-2016",
+        "price": 3500
+      }
+    ],
+    "chateau-le-prieure": [
+      {
+        "slug": "chateau-le-prieure-2016",
+        "price": 3750
+      }
+    ],
+    "chateau-sansonnet": [
+      {
+        "slug": "chateau-sansonnet-2016",
+        "price": 2750
+      },
+      {
+        "slug": "chateau-sansonnet-2015",
+        "price": 3167
+      },
+      {
+        "slug": "chateau-sansonnet-2017",
+        "price": null
+      }
+    ],
+    "chateau-siran": [
+      {
+        "slug": "chateau-siran-2012",
+        "price": 2542
+      },
+      {
+        "slug": "chateau-siran-2014",
+        "price": 2500
+      },
+      {
+        "slug": "chateau-siran-2010",
+        "price": null
+      },
+      {
+        "slug": "chateau-siran-2011",
+        "price": 2750
+      },
+      {
+        "slug": "chateau-siran-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-siran-2015",
+        "price": 3417
+      },
+      {
+        "slug": "chateau-siran-2016",
+        "price": 2500
+      },
+      {
+        "slug": "chateau-siran-2008",
+        "price": 3500
+      }
+    ],
+    "rose-de-chevalier": [
+      {
+        "slug": "rose-de-chevalier-2016",
+        "price": 900
+      },
+      {
+        "slug": "rose-de-chevalier-2017",
+        "price": 900
+      }
+    ],
+    "chateau-fougas-maldoror": [
+      {
+        "slug": "chateau-fougas-maldoror-2002",
+        "price": 2667
+      }
+    ],
+    "chateau-grand-corbin": [
+      {
+        "slug": "chateau-grand-corbin-2015",
+        "price": 2417
+      },
+      {
+        "slug": "chateau-grand-corbin-2016",
+        "price": 2350
+      },
+      {
+        "slug": "chateau-grand-corbin-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-grand-corbin-2009",
+        "price": 3833
+      }
+    ],
+    "chateau-fleur-cardinale": [
+      {
+        "slug": "chateau-fleur-cardinale-2012",
+        "price": 4167
+      },
+      {
+        "slug": "chateau-fleur-cardinale-2014",
+        "price": 3750
+      },
+      {
+        "slug": "chateau-fleur-cardinale-2015",
+        "price": 3917
+      },
+      {
+        "slug": "chateau-fleur-cardinale-2016",
+        "price": 3800
+      },
+      {
+        "slug": "chateau-fleur-cardinale-2017",
+        "price": null
+      }
+    ],
+    "chateau-marquis-de-terme": [
+      {
+        "slug": "chateau-marquis-de-terme-2009",
+        "price": 4750
+      },
+      {
+        "slug": "chateau-marquis-de-terme-2010",
+        "price": 5042
+      },
+      {
+        "slug": "chateau-marquis-de-terme-2011",
+        "price": 3875
+      },
+      {
+        "slug": "chateau-marquis-de-terme-2015",
+        "price": 4917
+      },
+      {
+        "slug": "chateau-marquis-de-terme-2016",
+        "price": 3700
+      },
+      {
+        "slug": "chateau-marquis-de-terme-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-marquis-de-terme-2012",
+        "price": 4125
+      },
+      {
+        "slug": "chateau-marquis-de-terme-2014",
+        "price": 3667
+      }
+    ],
+    "chateau-malescot-st-exupery": [
+      {
+        "slug": "chateau-malescot-st-exupery-2014",
+        "price": 5333
+      },
+      {
+        "slug": "chateau-malescot-st-exupery-2010",
+        "price": 10083
+      },
+      {
+        "slug": "chateau-malescot-st-exupery-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-malescot-st-exupery-2012",
+        "price": 5000
+      },
+      {
+        "slug": "chateau-malescot-st-exupery-2016",
+        "price": 6400
+      }
+    ],
+    "chateau-branas-grand-poujeaux": [
+      {
+        "slug": "chateau-branas-grand-poujeaux-2013",
+        "price": 2333
+      },
+      {
+        "slug": "chateau-branas-grand-poujeaux-2014",
+        "price": 2667
+      },
+      {
+        "slug": "chateau-branas-grand-poujeaux-2015",
+        "price": 3000
+      },
+      {
+        "slug": "chateau-branas-grand-poujeaux-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-branas-grand-poujeaux-2010",
+        "price": 3667
+      },
+      {
+        "slug": "chateau-branas-grand-poujeaux-2016",
+        "price": 2500
+      },
+      {
+        "slug": "chateau-branas-grand-poujeaux-2009",
+        "price": 3833
+      },
+      {
+        "slug": "chateau-branas-grand-poujeaux-2012",
+        "price": 2792
+      }
+    ],
+    "alter-ego-de-palmer": [
+      {
+        "slug": "alter-ego-de-palmer-2014",
+        "price": 6333
+      },
+      {
+        "slug": "alter-ego-de-palmer-2015",
+        "price": 7417
+      },
+      {
+        "slug": "alter-ego-de-palmer-2016",
+        "price": 5800
+      },
+      {
+        "slug": "alter-ego-de-palmer-2017",
+        "price": null
+      },
+      {
+        "slug": "alter-ego-de-palmer-2012",
+        "price": 7250
+      }
+    ],
+    "chateau-beau-sejour-becot": [
+      {
+        "slug": "chateau-beau-sejour-becot-2016",
+        "price": 6200
+      }
+    ],
+    "chateau-batailley": [
+      {
+        "slug": "chateau-batailley-2010",
+        "price": null
+      },
+      {
+        "slug": "chateau-batailley-2011",
+        "price": 4583
+      },
+      {
+        "slug": "chateau-batailley-2012",
+        "price": 4667
+      },
+      {
+        "slug": "chateau-batailley-2013",
+        "price": 4000
+      },
+      {
+        "slug": "chateau-batailley-2014",
+        "price": 4292
+      },
+      {
+        "slug": "chateau-batailley-2015",
+        "price": 6500
+      },
+      {
+        "slug": "chateau-batailley-2016",
+        "price": 5150
+      },
+      {
+        "slug": "chateau-batailley-2017",
+        "price": null
+      }
+    ],
+    "chateau-senejac": [
+      {
+        "slug": "chateau-senejac-2015",
+        "price": 1375
+      },
+      {
+        "slug": "chateau-senejac-2016",
+        "price": 1250
+      },
+      {
+        "slug": "chateau-senejac-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-senejac-2014",
+        "price": 1417
+      },
+      {
+        "slug": "chateau-senejac-2012",
+        "price": 1542
+      },
+      {
+        "slug": "chateau-senejac-2013",
+        "price": 1333
+      }
+    ],
+    "chateau-bernadotte": [
+      {
+        "slug": "chateau-bernadotte-2010",
+        "price": 2292
+      },
+      {
+        "slug": "chateau-bernadotte-2011",
+        "price": 1792
+      },
+      {
+        "slug": "chateau-bernadotte-2009",
+        "price": 2333
+      }
+    ],
+    "chateau-troquart": [
+      {
+        "slug": "chateau-troquart-2006",
+        "price": 1625
+      }
+    ],
+    "chateau-peby-faugeres": [
+      {
+        "slug": "chateau-peby-faugeres-2016",
+        "price": 15300
+      },
+      {
+        "slug": "chateau-peby-faugeres-2017",
+        "price": null
+      }
+    ],
+    "ii-du-chateau-saint-pierre": [
+      {
+        "slug": "ii-du-chateau-saint-pierre-2015",
+        "price": 2208
+      },
+      {
+        "slug": "ii-du-chateau-saint-pierre-2016",
+        "price": 1900
+      },
+      {
+        "slug": "ii-du-chateau-saint-pierre-2017",
+        "price": null
+      }
+    ],
+    "la-belle-connivence": [
+      {
+        "slug": "la-belle-connivence-2016",
+        "price": 4400
+      },
+      {
+        "slug": "la-belle-connivence-2012",
+        "price": 6083
+      },
+      {
+        "slug": "la-belle-connivence-2013",
+        "price": 5500
+      },
+      {
+        "slug": "la-belle-connivence-2014",
+        "price": 6250
+      },
+      {
+        "slug": "la-belle-connivence-2011",
+        "price": 6167
+      }
+    ],
+    "le-clarence-de-haut-brion": [
+      {
+        "slug": "le-clarence-de-haut-brion-2016",
+        "price": 11700
+      },
+      {
+        "slug": "le-clarence-de-haut-brion-2009",
+        "price": 15417
+      },
+      {
+        "slug": "le-clarence-de-haut-brion-2014",
+        "price": 10833
+      },
+      {
+        "slug": "le-clarence-de-haut-brion-2015",
+        "price": 13167
+      },
+      {
+        "slug": "le-clarence-de-haut-brion-2017",
+        "price": null
+      },
+      {
+        "slug": "le-clarence-de-haut-brion-2010",
+        "price": null
+      }
+    ],
+    "les-pensees-de-la-tour-carnet": [
+      {
+        "slug": "les-pensees-de-la-tour-carnet-2015",
+        "price": 1658
+      }
+    ],
+    "chateau-clos-de-bouard": [
+      {
+        "slug": "chateau-clos-de-bouard-2016",
+        "price": 2150
+      }
+    ],
+    "chateau-larrivaux": [
+      {
+        "slug": "chateau-larrivaux-2016",
+        "price": 1050
+      },
+      {
+        "slug": "chateau-larrivaux-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-larrivaux-2015",
+        "price": 1233
+      }
+    ],
+    "chateau-la-rose-figeac": [
+      {
+        "slug": "chateau-la-rose-figeac-2016",
+        "price": 2650
+      }
+    ],
+    "chateau-segur-de-cabanac": [
+      {
+        "slug": "chateau-segur-de-cabanac-2016",
+        "price": 1610
+      }
+    ],
+    "chateau-verdignan": [
+      {
+        "slug": "chateau-verdignan-2016",
+        "price": 1220
+      }
+    ],
+    "chateau-moulin-de-la-rose": [
+      {
+        "slug": "chateau-moulin-de-la-rose-2016",
+        "price": 2150
+      }
+    ],
+    "chateau-la-confession": [
+      {
+        "slug": "chateau-la-confession-2015",
+        "price": 3167
+      },
+      {
+        "slug": "chateau-la-confession-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-la-confession-2014",
+        "price": 2833
+      }
+    ],
+    "le-plus-de-la-fleur-de-bouard": [
+      {
+        "slug": "le-plus-de-la-fleur-de-bouard-2014",
+        "price": 8167
+      },
+      {
+        "slug": "le-plus-de-la-fleur-de-bouard-2015",
+        "price": 9833
+      },
+      {
+        "slug": "le-plus-de-la-fleur-de-bouard-2016",
+        "price": 8800
+      },
+      {
+        "slug": "le-plus-de-la-fleur-de-bouard-2017",
+        "price": null
+      }
+    ],
+    "chateau-la-connivence": [
+      {
+        "slug": "chateau-la-connivence-2011",
+        "price": 20167
+      },
+      {
+        "slug": "chateau-la-connivence-2013",
+        "price": 19000
+      },
+      {
+        "slug": "chateau-la-connivence-2014",
+        "price": 21000
+      },
+      {
+        "slug": "chateau-la-connivence-2016",
+        "price": 15000
+      }
+    ],
+    "les-griffons-de-pichon-baron": [
+      {
+        "slug": "les-griffons-de-pichon-baron-2014",
+        "price": 3792
+      },
+      {
+        "slug": "les-griffons-de-pichon-baron-2015",
+        "price": 4333
+      }
+    ],
+    "moulin-de-la-lagune": [
+      {
+        "slug": "moulin-de-la-lagune-2014",
+        "price": 2792
+      }
+    ],
+    "chateau-de-ferrand": [
+      {
+        "slug": "chateau-de-ferrand-2013",
+        "price": 2500
+      },
+      {
+        "slug": "chateau-de-ferrand-2014",
+        "price": 2917
+      },
+      {
+        "slug": "chateau-de-ferrand-2015",
+        "price": 3000
+      },
+      {
+        "slug": "chateau-de-ferrand-2009",
+        "price": 3250
+      },
+      {
+        "slug": "chateau-de-ferrand-2010",
+        "price": 3167
+      }
+    ],
+    "chateau-la-tour-figeac": [
+      {
+        "slug": "chateau-la-tour-figeac-2014",
+        "price": 4292
+      },
+      {
+        "slug": "chateau-la-tour-figeac-2015",
+        "price": 4667
+      },
+      {
+        "slug": "chateau-la-tour-figeac-2016",
+        "price": 4100
+      }
+    ],
+    "chateau-fombrauge-prelude-de-fombrauge": [
+      {
+        "slug": "chateau-fombrauge-prelude-de-fombrauge-2016",
+        "price": 1458
+      },
+      {
+        "slug": "chateau-fombrauge-prelude-de-fombrauge-2014",
+        "price": 1500
+      }
+    ],
+    "symphonie-de-haut-peyraguey": [
+      {
+        "slug": "symphonie-de-haut-peyraguey-2016",
+        "price": 1917
+      }
+    ],
+    "chateau-larrivet-haut-brion": [
+      {
+        "slug": "chateau-larrivet-haut-brion-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-larrivet-haut-brion-2015",
+        "price": 3375
+      },
+      {
+        "slug": "chateau-larrivet-haut-brion-2016",
+        "price": 3000
+      }
+    ],
+    "chateau-doisy-daene": [
+      {
+        "slug": "chateau-doisy-daene-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-doisy-daene-2013",
+        "price": 3833
+      },
+      {
+        "slug": "chateau-doisy-daene-2014",
+        "price": 4083
+      },
+      {
+        "slug": "chateau-doisy-daene-2016",
+        "price": 3080
+      }
+    ],
+    "amiral-de-beychevelle": [
+      {
+        "slug": "amiral-de-beychevelle-2017",
+        "price": null
+      }
+    ],
+    "clos-des-lunes-lune-d-or": [
+      {
+        "slug": "clos-des-lunes-lune-d-or-2017",
+        "price": null
+      },
+      {
+        "slug": "clos-des-lunes-lune-d-or-2015",
+        "price": 4500
+      },
+      {
+        "slug": "clos-des-lunes-lune-d-or-2016",
+        "price": 3800
+      }
+    ],
+    "blanc-de-lynch-bages": [
+      {
+        "slug": "blanc-de-lynch-bages-2017",
+        "price": null
+      }
+    ],
+    "chateau-coufran": [
+      {
+        "slug": "chateau-coufran-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-coufran-2015",
+        "price": 1667
+      },
+      {
+        "slug": "chateau-coufran-2016",
+        "price": 1300
+      }
+    ],
+    "clos-la-gaffeliere": [
+      {
+        "slug": "clos-la-gaffeliere-2017",
+        "price": null
+      },
+      {
+        "slug": "clos-la-gaffeliere-2015",
+        "price": 2375
+      },
+      {
+        "slug": "clos-la-gaffeliere-2014",
+        "price": 2458
+      },
+      {
+        "slug": "clos-la-gaffeliere-2016",
+        "price": 2000
+      }
+    ],
+    "pavillon-blanc": [
+      {
+        "slug": "pavillon-blanc-2017",
+        "price": null
+      }
+    ],
+    "les-hauts-de-pontet-canet": [
+      {
+        "slug": "les-hauts-de-pontet-canet-2017",
+        "price": null
+      },
+      {
+        "slug": "les-hauts-de-pontet-canet-2005",
+        "price": 4750
+      },
+      {
+        "slug": "les-hauts-de-pontet-canet-2006",
+        "price": null
+      },
+      {
+        "slug": "les-hauts-de-pontet-canet-2004",
+        "price": 4042
+      }
+    ],
+    "caillou-blanc": [
+      {
+        "slug": "caillou-blanc-2017",
+        "price": null
+      },
+      {
+        "slug": "caillou-blanc-2016",
+        "price": 2600
+      }
+    ],
+    "chateau-de-chantegrive-caroline": [
+      {
+        "slug": "chateau-de-chantegrive-caroline-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-de-chantegrive-caroline-2016",
+        "price": 1400
+      },
+      {
+        "slug": "chateau-de-chantegrive-caroline-2014",
+        "price": 1875
+      },
+      {
+        "slug": "chateau-de-chantegrive-caroline-2015",
+        "price": 1750
+      }
+    ],
+    "chateau-la-fleur": [
+      {
+        "slug": "chateau-la-fleur-2016",
+        "price": 2640
+      }
+    ],
+    "le-blanc-sec-de-suduiraut": [
+      {
+        "slug": "le-blanc-sec-de-suduiraut-2017",
+        "price": 1208
+      }
+    ],
+    "le-g-de-chateau-guiraud": [
+      {
+        "slug": "le-g-de-chateau-guiraud-2017",
+        "price": 1208
+      },
+      {
+        "slug": "le-g-de-chateau-guiraud-2016",
+        "price": 1250
+      }
+    ],
+    "la-reserve-de-malartic": [
+      {
+        "slug": "la-reserve-de-malartic-2016",
+        "price": 2167
+      }
+    ],
+    "chateau-magrez-fombrauge": [
+      {
+        "slug": "chateau-magrez-fombrauge-2011",
+        "price": 14833
+      },
+      {
+        "slug": "chateau-magrez-fombrauge-2011-1",
+        "price": 3417
+      },
+      {
+        "slug": "chateau-magrez-fombrauge-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-magrez-fombrauge-2017-1",
+        "price": null
+      },
+      {
+        "slug": "chateau-magrez-fombrauge-2015-1",
+        "price": 2667
+      },
+      {
+        "slug": "chateau-magrez-fombrauge-2014-1",
+        "price": 11167
+      },
+      {
+        "slug": "chateau-magrez-fombrauge-2016",
+        "price": 10700
+      }
+    ],
+    "l-heritage-de-chasse-spleen": [
+      {
+        "slug": "l-heritage-de-chasse-spleen-2016",
+        "price": 1575
+      },
+      {
+        "slug": "l-heritage-de-chasse-spleen-2014",
+        "price": 1667
+      },
+      {
+        "slug": "l-heritage-de-chasse-spleen-2015",
+        "price": 1458
+      }
+    ],
+    "r-de-rieussec": [
+      {
+        "slug": "r-de-rieussec-2017",
+        "price": 1750
+      },
+      {
+        "slug": "r-de-rieussec-2016",
+        "price": 1708
+      },
+      {
+        "slug": "r-de-rieussec-2015",
+        "price": 2500
+      }
+    ],
+    "chateau-bellevue": [
+      {
+        "slug": "chateau-bellevue-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-bellevue-2016",
+        "price": 3900
+      }
+    ],
+    "chateau-carlmagnus": [
+      {
+        "slug": "chateau-carlmagnus-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-carlmagnus-2015",
+        "price": 1250
+      },
+      {
+        "slug": "chateau-carlmagnus-2016",
+        "price": 1060
+      }
+    ],
+    "chateau-beaulieu-comtes-de-tastes": [
+      {
+        "slug": "chateau-beaulieu-comtes-de-tastes-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-beaulieu-comtes-de-tastes-2016",
+        "price": 500
+      },
+      {
+        "slug": "chateau-beaulieu-comtes-de-tastes-2015",
+        "price": 642
+      }
+    ],
+    "chateau-croix-mouton": [
+      {
+        "slug": "chateau-croix-mouton-2017",
+        "price": null
+      }
+    ],
+    "chateau-francs-magnus": [
+      {
+        "slug": "chateau-francs-magnus-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-francs-magnus-2016",
+        "price": 500
+      },
+      {
+        "slug": "chateau-francs-magnus-2015",
+        "price": 733
+      }
+    ],
+    "chateau-dalem": [
+      {
+        "slug": "chateau-dalem-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-dalem-2014",
+        "price": 1833
+      },
+      {
+        "slug": "chateau-dalem-2016",
+        "price": 1700
+      }
+    ],
+    "chateau-moulin-riche": [
+      {
+        "slug": "chateau-moulin-riche-2017",
+        "price": null
+      }
+    ],
+    "chateau-le-crock": [
+      {
+        "slug": "chateau-le-crock-2017",
+        "price": null
+      }
+    ],
+    "chateau-les-grandes-murailles": [
+      {
+        "slug": "chateau-les-grandes-murailles-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-les-grandes-murailles-2016",
+        "price": 4200
+      },
+      {
+        "slug": "chateau-les-grandes-murailles-2015",
+        "price": 4667
+      }
+    ],
+    "chateau-grand-pontet": [
+      {
+        "slug": "chateau-grand-pontet-2017",
+        "price": null
+      },
+      {
+        "slug": "chateau-grand-pontet-2016",
+        "price": 2250
+      }
+    ],
+    "chateau-thieuley": [
+      {
+        "slug": "chateau-thieuley-2017",
+        "price": 825
+      },
+      {
+        "slug": "chateau-thieuley-2016-1",
+        "price": 580
+      },
+      {
+        "slug": "chateau-thieuley-2016",
+        "price": 792
+      },
+      {
+        "slug": "chateau-thieuley-2015",
+        "price": null
+      }
+    ],
+    "chateau-dassault": [
+      {
+        "slug": "chateau-dassault-2016",
+        "price": 3650
+      }
+    ],
+    "rose-de-la-solitude": [
+      {
+        "slug": "rose-de-la-solitude-2017",
+        "price": 708
+      },
+      {
+        "slug": "rose-de-la-solitude-2016",
+        "price": 667
+      }
+    ],
+    "la-grange-neuve-de-figeac": [
+      {
+        "slug": "la-grange-neuve-de-figeac-2005",
+        "price": null
+      },
+      {
+        "slug": "la-grange-neuve-de-figeac-2008",
+        "price": 3917
+      }
+    ],
+    "les-charmes-de-grand-corbin": [
+      {
+        "slug": "les-charmes-de-grand-corbin-2010",
+        "price": 2125
+      }
+    ],
+    "chateau-vieux-taillefer": [
+      {
+        "slug": "chateau-vieux-taillefer-2010",
+        "price": 4750
+      }
+    ],
+    "chateau-peyrat": [
+      {
+        "slug": "chateau-peyrat-2015",
+        "price": 1042
+      }
+    ],
+    "chateau-vieux-maillet": [
+      {
+        "slug": "chateau-vieux-maillet-2016",
+        "price": 2600
+      }
+    ],
+    "chateau-rabaud-promis": [
+      {
+        "slug": "chateau-rabaud-promis-2001",
+        "price": 4917
+      },
+      {
+        "slug": "chateau-rabaud-promis-2007",
+        "price": 3833
+      },
+      {
+        "slug": "chateau-rabaud-promis-1997",
+        "price": 4125
+      },
+      {
+        "slug": "chateau-rabaud-promis-2009",
+        "price": 4333
+      },
+      {
+        "slug": "chateau-rabaud-promis-2003",
+        "price": 3875
+      }
+    ],
+    "la-dame-de-bouard": [
+      {
+        "slug": "la-dame-de-bouard-2016",
+        "price": 1100
+      }
+    ],
+    "chateau-martinon": [
+      {
+        "slug": "chateau-martinon-2015",
+        "price": 792
+      },
+      {
+        "slug": "chateau-martinon-2014",
+        "price": 567
+      }
+    ],
+    "les-hauts-du-tertre": [
+      {
+        "slug": "les-hauts-du-tertre-2010",
+        "price": 3042
+      }
+    ],
+    "chateau-balestard-la-tonnelle": [
+      {
+        "slug": "chateau-balestard-la-tonnelle-2016",
+        "price": 2700
+      }
+    ],
+    "chateau-suau": [
+      {
+        "slug": "chateau-suau-2016",
+        "price": 1400
+      }
+    ],
+    "chateau-marquis-de-calon": [
+      {
+        "slug": "chateau-marquis-de-calon-2012",
+        "price": 2417
+      },
+      {
+        "slug": "chateau-marquis-de-calon-2014",
+        "price": 2500
+      }
+    ],
+    "les-allees-de-cantemerle": [
+      {
+        "slug": "les-allees-de-cantemerle-2010",
+        "price": 2250
+      }
+    ],
+    "chateau-corbin-michotte": [
+      {
+        "slug": "chateau-corbin-michotte-2016",
+        "price": 2450
+      }
+    ],
+    "le-different-de-chateau-de-ferrand": [
+      {
+        "slug": "le-different-de-chateau-de-ferrand-2010",
+        "price": 2042
+      }
+    ],
+    "cuvee-compostelle": [
+      {
+        "slug": "cuvee-compostelle-2016",
+        "price": 975
+      }
+    ],
+    "chateau-moulin-a-vent": [
+      {
+        "slug": "chateau-moulin-a-vent-2012",
+        "price": 1500
+      },
+      {
+        "slug": "chateau-moulin-a-vent-2010",
+        "price": 1667
+      }
+    ],
+    "mondot": [
+      {
+        "slug": "mondot-2009",
+        "price": 4583
+      },
+      {
+        "slug": "mondot-2011",
+        "price": 2833
+      }
+    ],
+    "chateau-petit-faurie-de-soutard": [
+      {
+        "slug": "chateau-petit-faurie-de-soutard-2011",
+        "price": 2875
+      }
+    ],
+    "chateau-beau-soleil": [
+      {
+        "slug": "chateau-beau-soleil-2010",
+        "price": 2583
+      },
+      {
+        "slug": "chateau-beau-soleil-2009",
+        "price": 2833
+      }
+    ],
+    "chateau-boyd-cantenac": [
+      {
+        "slug": "chateau-boyd-cantenac-2016",
+        "price": 3850
+      }
+    ],
+    "chateau-larmande": [
+      {
+        "slug": "chateau-larmande-2016",
+        "price": 2350
+      }
+    ],
+    "chateau-dauzac": [
+      {
+        "slug": "chateau-dauzac-2016",
+        "price": 3700
+      }
+    ],
+    "fleur-de-clinet": [
+      {
+        "slug": "fleur-de-clinet-2010",
+        "price": 4000
+      }
+    ],
+    "blason-d-issan": [
+      {
+        "slug": "blason-d-issan-2016",
+        "price": 2250
+      }
+    ],
+    "clos-des-lunes-lune-d-argent": [
+      {
+        "slug": "clos-des-lunes-lune-d-argent-2016",
+        "price": 6900
+      }
+    ],
+    "chateau-beausejour": [
+      {
+        "slug": "chateau-beausejour-2016",
+        "price": 10200
+      }
+    ],
+    "chateau-laffitte-carcasset": [
+      {
+        "slug": "chateau-laffitte-carcasset-2016",
+        "price": 1500
+      }
+    ],
+    "chateau-joanin-becot": [
+      {
+        "slug": "chateau-joanin-becot-2016",
+        "price": 1750
+      }
+    ],
+    "chateau-grand-corbin-manuel": [
+      {
+        "slug": "chateau-grand-corbin-manuel-2010",
+        "price": 2625
+      }
+    ],
+    "chateau-thieuley-reserve-francis-courselle": [
+      {
+        "slug": "chateau-thieuley-reserve-francis-courselle-2016",
+        "price": 800
+      }
+    ],
+    "chateau-guillemin-la-gaffeliere": [
+      {
+        "slug": "chateau-guillemin-la-gaffeliere-2012",
+        "price": 2375
+      }
+    ],
+    "chateau-de-romance-chateau-de-romance": [
+      {
+        "slug": "chateau-de-romance-chateau-de-romance-2016",
+        "price": 667
+      }
+    ]
+  }
+}
