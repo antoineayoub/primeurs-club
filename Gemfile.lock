@@ -56,6 +56,8 @@ GEM
     archive-zip (0.11.0)
       io-like (~> 0.3.0)
     arel (8.0.0)
+    arel-helpers (2.6.1)
+      activerecord (>= 3.1.0, < 6)
     autoprefixer-rails (8.2.0)
       execjs
     bcrypt (3.1.11)
@@ -117,9 +119,20 @@ GEM
       railties (>= 3.2, < 5.2)
     font-awesome-sass (5.0.6.2)
       sass (>= 3.2)
+    forest_liana (2.4.9)
+      arel-helpers
+      bcrypt
+      groupdate
+      jsonapi-serializers (>= 0.14.0)
+      jwt
+      rack-cors
+      rails (>= 4.0)
+      useragent
     formatador (0.2.5)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
+    groupdate (4.0.0)
+      activesupport (>= 4.2)
     haml (5.0.4)
       temple (>= 0.8.0)
       tilt
@@ -136,6 +149,9 @@ GEM
       thor (>= 0.14, < 2.0)
     jquery-ui-rails (5.0.5)
       railties (>= 3.2.16)
+    jsonapi-serializers (1.0.0)
+      activesupport
+    jwt (2.1.0)
     kaminari (1.1.1)
       activesupport (>= 4.1.0)
       kaminari-actionview (= 1.1.1)
@@ -181,6 +197,7 @@ GEM
       pry (>= 0.10.4)
     puma (3.11.3)
     rack (2.0.4)
+    rack-cors (1.0.2)
     rack-pjax (1.0.0)
       nokogiri (~> 1.5)
       rack (>= 1.1)
@@ -268,6 +285,7 @@ GEM
       thread_safe (~> 0.1)
     uglifier (4.1.8)
       execjs (>= 0.3.0, < 3)
+    useragent (0.16.10)
     warden (1.2.7)
       rack (>= 1.0)
     websocket-driver (0.6.5)
@@ -282,12 +300,13 @@ DEPENDENCIES
   better_errors
   binding_of_caller
   bootstrap-sass
-  chromedriver-helper
   carrierwave!
+  chromedriver-helper
   devise
   figaro
   fog-aws
   font-awesome-sass
+  forest_liana
   jbuilder (~> 2.0)
   jquery-rails
   listen (~> 3.0.5)

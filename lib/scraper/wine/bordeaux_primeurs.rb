@@ -37,11 +37,11 @@ module Scraper
 
         total_vintages = []
         combined[:years].length.times do |i|
-          price = combined[:prices][i] == "..." ? Scraper::Base:Base.null_value : combined[:prices][i]
-          
+          price = combined[:prices][i] == "..." ? Scraper::Base.null_value : combined[:prices][i]
+
           total_vintages << { year: combined[:years][i], price: price }
         end
-        
+
         total_vintages
       end
     end

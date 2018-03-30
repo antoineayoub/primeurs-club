@@ -25,6 +25,8 @@ gem 'carrierwave', git: "git@github.com:carrierwaveuploader/carrierwave.git"
 gem 'mini_magick'
 gem 'fog-aws'
 
+gem 'forest_liana'
+
 group :development, :test do
   gem 'binding_of_caller'
   gem 'better_errors'
