@@ -6,8 +6,8 @@ module Seed
 
     def initialize(number_of_wines)
       @json = load_json
-      @number_of_vendor_critics_created = 0
-      @number_of_vendor_vintages_created = 0
+      # @number_of_vendor_critics_created = 0
+      # @number_of_vendor_vintages_created = 0
       build_array_of_wine_details(number_of_wines)
       run
       # Seed::Logger.info("number of vender critics created: #{@number_of_vendor_critics_created}")
