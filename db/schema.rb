@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180329214644) do
+ActiveRecord::Schema.define(version: 20180330191307) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -64,6 +64,49 @@ ActiveRecord::Schema.define(version: 20180329214644) do
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
   end
 
+  create_table "vendor_critics", force: :cascade do |t|
+    t.string "name"
+    t.string "note"
+    t.text "description"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.string "website"
+    t.bigint "vendor_vintage_id"
+    t.index ["vendor_vintage_id"], name: "index_vendor_critics_on_vendor_vintage_id"
+  end
+
+  create_table "vendor_vintages", force: :cascade do |t|
+    t.string "vintage"
+    t.text "description"
+    t.string "alcohol"
+    t.date "best_after"
+    t.date "best_before"
+    t.date "delivery_date"
+    t.integer "price_cents"
+    t.string "short_description"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.string "website"
+    t.bigint "vendor_wine_id"
+    t.index ["vendor_wine_id"], name: "index_vendor_vintages_on_vendor_wine_id"
+  end
+
+  create_table "vendor_wines", force: :cascade do |t|
+    t.string "name"
+    t.bigint "appellation_id"
+    t.bigint "region_id"
+    t.integer "rating"
+    t.string "slug"
+    t.string "picture_label"
+    t.string "colour"
+    t.string "pays"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.string "website"
+    t.index ["appellation_id"], name: "index_vendor_wines_on_appellation_id"
+    t.index ["region_id"], name: "index_vendor_wines_on_region_id"
+  end
+
   create_table "vintages", id: :serial, force: :cascade do |t|
     t.integer "vintage"
     t.text "description"
@@ -97,6 +140,10 @@ ActiveRecord::Schema.define(version: 20180329214644) do
 
   add_foreign_key "appellations", "regions"
   add_foreign_key "photos", "wines"
+  add_foreign_key "vendor_critics", "vendor_vintages"
+  add_foreign_key "vendor_vintages", "vendor_wines"
+  add_foreign_key "vendor_wines", "appellations"
+  add_foreign_key "vendor_wines", "regions"
   add_foreign_key "vintages", "wines"
   add_foreign_key "wine_notes", "vintages"
   add_foreign_key "wines", "appellations"

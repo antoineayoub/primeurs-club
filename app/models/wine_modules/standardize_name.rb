@@ -1,10 +1,11 @@
 module WineModules
   module StandardizeName
-
     private
 
     def standardize_name
       self.slug = name
+
+      return false unless name
 
       all_lowercase
       remove_special_characters
