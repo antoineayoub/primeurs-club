@@ -6,6 +6,7 @@ tmp/*
 *.swp
 .DS_Store
 public/assets
+.rubocop.yml
 
 # Ignore application configuration
 /config/application.yml
