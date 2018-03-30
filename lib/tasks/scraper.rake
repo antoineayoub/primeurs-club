@@ -33,7 +33,7 @@ namespace :seed do
 
   desc "bord overview seed"
   task :bord_overview, [:number_of_wines] => [:environment] do |task, args|
-    Seed::BordOverview.run(args[:number_of_wines].to_i)
+    Seed::BordOverview.run(args[:number_of_wines])
   end
 
   desc "bordeaux primeurs seed"

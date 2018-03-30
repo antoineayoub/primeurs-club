@@ -13,13 +13,8 @@ module Seed
     private
 
     def build_array_of_wine_details(number_of_wines)
-      @wine_details = if number_of_wines
-                        @json[:wine_details].sample(number_of_wines)
-                      else
-                        @json[:wine_details]
-                      end
-
-      Seed::Logger.info("number of wines being seeded #{number_of_wines}")
+      @wine_details = number_of_wines ? @json[:wine_details].sample(number_of_wines.to_i) : @json[:wine_details]
+      Seed::Logger.info("number of wines being seeded #{@wine_details.length}")
     end
 
     def run
@@ -55,7 +50,17 @@ module Seed
     end
 
     def load_json
-      JSON.parse(File.open(Rails.root.join("db/scraper/bord_overview.json")).read, symbolize_names: true)
+      file_path = Dir.glob("#{Rails.root}/db/scraper/*_bord_overview.json").sort do |a, b|
+        timestamp_of_file(a) <=> timestamp_of_file(b)
+      end.first
+
+      Seed::Logger.info("initializing seed with: '#{file_path}'")
+
+      JSON.parse(File.open(file_path).read, symbolize_names: true)
+    end
+
+    def timestamp_of_file(file_name)
+      file_name.split("/").last.split("_").first.to_i
     end
 
     def build_wine_notes_for_vintage(vintage_object, vintage_attributes)
