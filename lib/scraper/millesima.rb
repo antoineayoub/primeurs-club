@@ -6,8 +6,8 @@ module Scraper
     set_output_file "millesima.json"
 
     def run
-      Scraper::MillesimaIndexPage.run
-      @wine_vintages = JSON.parse(File.open(Rails.root.join("db/scraper/millesima_index_page.json")).read)["wine_vintages"]
+      millesima_index_page_scraper = Scraper::MillesimaIndexPage.run
+      @wine_vintages = JSON.parse(File.open(millesima_index_page_scraper.output_file_path).read)["wine_vintages"]
       collect_details_of_each_wine
     end
     

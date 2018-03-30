@@ -11,8 +11,10 @@ module Scraper
     def run
       scraper = new
       scraper.write_to_output_file
+      scraper
     rescue
       scraper.write_to_output_file
+      scraper
     end
   
     def set_base_url(base_url)
@@ -30,6 +32,8 @@ module Scraper
 
   class Base
     extend BaseClassMethods
+
+    attr_reader :output_file_path
 
     def initialize
       @output_file_path = Rails.root.join("db/scraper/#{DateTime.now.strftime('%Y%m%d%H%M%S')}_#{self.class.output_file_name}")
