@@ -282,12 +282,13 @@ DEPENDENCIES
   better_errors
   binding_of_caller
   bootstrap-sass
-  chromedriver-helper
   carrierwave!
+  chromedriver-helper
   devise
   figaro
   fog-aws
   font-awesome-sass
+  i18n
   jbuilder (~> 2.0)
   jquery-rails
   listen (~> 3.0.5)
