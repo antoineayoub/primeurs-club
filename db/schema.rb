@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180330173401) do
+ActiveRecord::Schema.define(version: 20180330185357) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -71,6 +71,7 @@ ActiveRecord::Schema.define(version: 20180330173401) do
     t.text "description"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "website"
     t.index ["vintage_id"], name: "index_vendor_critics_on_vintage_id"
   end
 
@@ -86,6 +87,7 @@ ActiveRecord::Schema.define(version: 20180330173401) do
     t.string "short_description"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "website"
     t.index ["wine_id"], name: "index_vendor_vintages_on_wine_id"
   end
 
@@ -100,6 +102,7 @@ ActiveRecord::Schema.define(version: 20180330173401) do
     t.string "pays"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "website"
     t.index ["appellation_id"], name: "index_vendor_wines_on_appellation_id"
     t.index ["region_id"], name: "index_vendor_wines_on_region_id"
   end
