@@ -10,9 +10,9 @@ module Scraper
       @wine_vintages = JSON.parse(File.open(millesima_index_page_scraper.output_file_path).read)["wine_vintages"]
       collect_details_of_each_wine
     end
-    
+
     private
-    
+
     def collect_details_of_each_wine
       @output_hash[:wine_details] = []
 
@@ -37,13 +37,12 @@ module Scraper
       Scraper::Base.null_value
     end
 
-
     def dom_of_prototypal_wine(vintages)
       url = Millesima.base_url + "/#{vintages.first["slug"]}"
       @logger.info("PROTOTYPE WINE: visiting '#{url}'")
       dom_from_url(url)
     end
-    
+
     def dom_of_vintage(vintage)
       url = Millesima.base_url + "/#{vintage["slug"]}"
       @logger.info("VINTAGE: visiting '#{url}'")
