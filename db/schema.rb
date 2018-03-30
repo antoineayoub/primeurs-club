@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180330185357) do
+ActiveRecord::Schema.define(version: 20180330191307) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -65,18 +65,17 @@ ActiveRecord::Schema.define(version: 20180330185357) do
   end
 
   create_table "vendor_critics", force: :cascade do |t|
-    t.bigint "vintage_id"
     t.string "name"
     t.string "note"
     t.text "description"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "website"
-    t.index ["vintage_id"], name: "index_vendor_critics_on_vintage_id"
+    t.bigint "vendor_vintage_id"
+    t.index ["vendor_vintage_id"], name: "index_vendor_critics_on_vendor_vintage_id"
   end
 
   create_table "vendor_vintages", force: :cascade do |t|
-    t.bigint "wine_id"
     t.string "vintage"
     t.text "description"
     t.string "alcohol"
@@ -88,7 +87,8 @@ ActiveRecord::Schema.define(version: 20180330185357) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "website"
-    t.index ["wine_id"], name: "index_vendor_vintages_on_wine_id"
+    t.bigint "vendor_wine_id"
+    t.index ["vendor_wine_id"], name: "index_vendor_vintages_on_vendor_wine_id"
   end
 
   create_table "vendor_wines", force: :cascade do |t|
@@ -140,8 +140,8 @@ ActiveRecord::Schema.define(version: 20180330185357) do
 
   add_foreign_key "appellations", "regions"
   add_foreign_key "photos", "wines"
-  add_foreign_key "vendor_critics", "vintages"
-  add_foreign_key "vendor_vintages", "wines"
+  add_foreign_key "vendor_critics", "vendor_vintages"
+  add_foreign_key "vendor_vintages", "vendor_wines"
   add_foreign_key "vendor_wines", "appellations"
   add_foreign_key "vendor_wines", "regions"
   add_foreign_key "vintages", "wines"

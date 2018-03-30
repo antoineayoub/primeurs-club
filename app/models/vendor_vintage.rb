@@ -1,3 +1,4 @@
 class VendorVintage < ApplicationRecord
-  belongs_to :wine
+  belongs_to :vendor_wine
+  has_many :vendor_critics
 end
