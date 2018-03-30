@@ -11,7 +11,7 @@ class ApplicationRecord < ActiveRecord::Base
     elsif record.save
       logger&.debug(record.as_json)
     else
-      logger&.warn(new_record.errors.messages)
+      logger&.warn("#{record.class} is invalid -- #{record.errors.messages}")
     end
 
     record
