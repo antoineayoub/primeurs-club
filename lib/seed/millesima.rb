@@ -29,6 +29,7 @@
 module Seed
   class Millesima < Seed::Base
     def run
+      db_tally = Seed::DataBaseTally.begin_tracking(Seed::Logger)
       @wine_details.each do |wine_attributes|
         begin
           appellation = Appellation.find_or_create_by(name: wine_attributes[:appellation])
@@ -38,6 +39,7 @@ module Seed
           Seed::Logger.error(e)
         end
       end
+      db_tally.print_changes
     end
 
     def build_wine_with_appellation(appellation_object, wine_attributes)
@@ -51,12 +53,22 @@ module Seed
         pays: wine_attributes[:pays]
       }
 
-      VendorWine.conditionally_create(attributes, Seed::Logger)
+      vendor_wine = VendorWine.conditionally_create(attributes, Seed::Logger)
+
+      if vendor_wine.persisted?
+        photo = Photo.conditionally_create(
+          { imageable: vendor_wine },
+          Seed::Logger
+        )
+        photo.remote_photo_url = wine_attributes[:image_url]
+        photo.save
+      end
+
+      vendor_wine
     end
 
     def build_vendor_vintages_for_wine(wine_object, wine_attributes)
       wine_attributes[:vintages].each do |vintage_attributes|
-
         attributes = {
           website: website_name,
           vintage: vintage_attributes[:year],
