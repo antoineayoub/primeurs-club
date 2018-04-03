@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180403144820) do
+ActiveRecord::Schema.define(version: 20180403172619) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -29,6 +29,9 @@ ActiveRecord::Schema.define(version: 20180403144820) do
     t.bigint "wine_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.bigint "imageable_id"
+    t.string "imageable_type"
+    t.index ["imageable_id"], name: "index_photos_on_imageable_id"
     t.index ["wine_id"], name: "index_photos_on_wine_id"
   end
 
@@ -97,7 +100,6 @@ ActiveRecord::Schema.define(version: 20180403144820) do
     t.bigint "region_id"
     t.integer "rating"
     t.string "slug"
-    t.string "picture_label"
     t.string "colour"
     t.string "pays"
     t.datetime "created_at", null: false
