@@ -1,3 +1,18 @@
+# {
+#   "name": "Amiral de Beychevelle",
+#   "stamp_image_url": "http://www.bordeaux-primeurs.net/images/amiral_de_beychevelle.jpg",
+#   "appellation": "Saint-Julien",
+#   "rating": "Second vin du Chateau Beychevelle",
+#   "colour": "Vin rouge",
+#   "description": "Amiral de Beychevelle est un vin rouge issu de vignes plantées dans l'aire de l'appellation Saint...
+#   "vintages": [
+#     {
+#       "year": "2010",
+#       "price": "17.95"
+#     },
+#   ]
+# }
+
 module Seed
   class BordeauxPrimeurs < Seed::Base
     def run
@@ -18,8 +33,8 @@ module Seed
         name: wine_attributes[:name],
         rating: wine_attributes[:rating],
         description: wine_attributes[:description],
-        picture_label: wine_attributes[:description],
-        colour: wine_attributes[:description],
+        picture_label: wine_attributes[:stamp_image_url],
+        colour: wine_attributes[:colour],
         appellation: appellation_object
       }
 
