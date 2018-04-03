@@ -3,9 +3,8 @@ class Wine < ApplicationRecord
 
   belongs_to :appellation
 
-  has_many :photos, as: :imageable
-  has_many :vintages
-  has_many :photos
+  has_many :photos, as: :imageable, dependent: :destroy
+  has_many :vintages, dependent: :destroy
 
   before_validation :standardize_name
 
