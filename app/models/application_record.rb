@@ -9,7 +9,7 @@ class ApplicationRecord < ActiveRecord::Base
     if record.persisted?
       logger&.debug("Duplicate object detected")
     elsif record.save
-      logger&.debug(record.as_json)
+      logger&.debug("#{record.class} #{record.as_json}")
     else
       logger&.warn("#{record.class} is invalid -- #{record.errors.messages}")
     end
