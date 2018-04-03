@@ -20,5 +20,11 @@ module Seed
       Seed::Logger.info("initializing seed with: '#{file_path}'")
       JSON.parse(File.open(file_path).read, symbolize_names: true)
     end
+
+    def build_array_of_wine_details(number_of_wines)
+      # @wine_details = number_of_wines ? @json[:wine_details].sample(number_of_wines.to_i) : @json[:wine_details]
+      @wine_details = number_of_wines ? @json[:wine_details][0...number_of_wines.to_i] : @json[:wine_details]
+      Seed::Logger.info("number of wines being seeded #{@wine_details.length}")
+    end    
   end
 end

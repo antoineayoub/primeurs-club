@@ -32,12 +32,12 @@ namespace :seed do
   end
 
   desc "bord overview seed"
-  task :bord_overview, [:number_of_wines] => [:environment] do |task, args|
+  task :bord_overview, [:number_of_wines] => [:environment] do |_task, args|
     Seed::BordOverview.run(args[:number_of_wines])
   end
 
   desc "bordeaux primeurs seed"
-  task bordeaux_primeurs: [:environment] do
-    Seed::BordeauxPrimeurs.run
+  task :bordeaux_primeurs, [:number_of_wines] => [:environment] do |_task, args|
+    Seed::BordeauxPrimeurs.run(args[:number_of_wines])
   end
 end
