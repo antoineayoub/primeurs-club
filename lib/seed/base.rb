@@ -15,7 +15,7 @@ module Seed
     private
 
     def load_json
-      file_path = Dir.glob("#{Rails.root}/db/scraper/*_bordeaux_primeurs.json").sort do |a, b|
+      file_path = Dir.glob("#{Rails.root}/db/scraper/*_#{website_name}.json").sort do |a, b|
         timestamp_of_file(b) <=> timestamp_of_file(a)
       end.first
 
