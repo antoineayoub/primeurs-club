@@ -9,7 +9,9 @@ module Seed
       # @number_of_vendor_critics_created = 0
       # @number_of_vendor_vintages_created = 0
       build_array_of_wine_details(number_of_wines)
+      db_tally = Seed::DataBaseTally.begin_tracking(Seed::Logger)
       run
+      db_tally.print_changes
       # Seed::Logger.info("number of vender critics created: #{@number_of_vendor_critics_created}")
       # Seed::Logger.info("number of vender vintages created: #{@number_of_vendor_vintages_created}")
     end

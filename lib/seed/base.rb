@@ -7,7 +7,9 @@ module Seed
     def initialize(number_of_wines)
       @json = load_json
       build_array_of_wine_details(number_of_wines)
+      db_tally = Seed::DataBaseTally.begin_tracking(Seed::Logger)
       run
+      db_tally.print_changes
     end
 
     private

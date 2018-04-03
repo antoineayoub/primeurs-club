@@ -29,7 +29,6 @@
 module Seed
   class Millesima < Seed::Base
     def run
-      db_tally = Seed::DataBaseTally.begin_tracking(Seed::Logger)
       @wine_details.each do |wine_attributes|
         begin
           appellation = Appellation.find_or_create_by(name: wine_attributes[:appellation])
@@ -39,7 +38,6 @@ module Seed
           Seed::Logger.error(e)
         end
       end
-      db_tally.print_changes
     end
 
     def build_wine_with_appellation(appellation_object, wine_attributes)
