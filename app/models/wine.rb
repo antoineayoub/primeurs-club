@@ -2,6 +2,8 @@ class Wine < ApplicationRecord
   include WineModules::StandardizeName
 
   belongs_to :appellation
+
+  has_many :photos, as: :imageable
   has_many :vintages
   has_many :photos
 
