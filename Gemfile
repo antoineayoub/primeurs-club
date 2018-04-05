@@ -22,7 +22,7 @@ gem 'rails_admin', '>= 1.0.0.rc'
 
 gem "selenium-webdriver"
 gem 'chromedriver-helper'
-gem 'carrierwave', git: "git@github.com:carrierwaveuploader/carrierwave.git"
+gem 'carrierwave', git: "git://github.com/carrierwaveuploader/carrierwave.git"
 gem 'mini_magick'
 gem 'fog-aws'
 
