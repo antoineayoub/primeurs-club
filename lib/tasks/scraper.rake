@@ -28,21 +28,21 @@ end
 namespace :seed do
   desc "delete all records in the database"
   task clean: [:environment] do
-    Seed::Clean.run
+    Rails.logger.silence { Seed::Clean.run }
   end
 
   desc "bord overview seed"
   task :bord_overview, [:number_of_wines] => [:environment] do |_task, args|
-    Seed::BordOverview.run(args[:number_of_wines])
+    Rails.logger.silence { Seed::BordOverview.run(args[:number_of_wines]) }
   end
 
   desc "bordeaux primeurs seed"
   task :bordeaux_primeurs, [:number_of_wines] => [:environment] do |_task, args|
-    Seed::BordeauxPrimeurs.run(args[:number_of_wines])
+    Rails.logger.silence { Seed::BordeauxPrimeurs.run(args[:number_of_wines]) }
   end
 
   desc "millesima seed"
   task :millesima, [:number_of_wines] => [:environment] do |_task, args|
-    Seed::Millesima.run(args[:number_of_wines])
+    Rails.logger.silence { Seed::Millesima.run(args[:number_of_wines]) }
   end
 end

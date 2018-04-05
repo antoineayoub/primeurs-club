@@ -8,6 +8,9 @@ module Seed
       @initial_tally.sort_by { |_k, v| -(v.abs) }.each do |table_name, initial_record_count|
         log_change(table_name, initial_record_count)
       end
+      @initial_tally.sort_by { |_k, v| -(v.abs) }.each do |table_name, initial_record_count|
+        log_total(table_name, initial_record_count)
+      end      
     end
 
     private
@@ -23,7 +26,10 @@ module Seed
         @logger.info("#{table_name.pluralize} destroyed: #{delta.abs}")
       end
 
-      @logger.debug("#{table_name.pluralize} total: #{current_record_count}") unless delta == 0
+    end
+    
+    def log_total(table_name, initial_record_count)
+      @logger.info("#{table_name.pluralize} total: #{current_record_count}") unless delta == 0
     end
 
     def initialize(logger)

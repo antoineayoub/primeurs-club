@@ -33,12 +33,12 @@ module Seed
     def build_wine_with_appellation(appellation_object, wine_attributes)
       attributes = {
         website: website_name,
-        name: wine_attributes[:name],
-        rating: wine_attributes[:classement],
-        description: wine_attributes[:description],
-        colour: wine_attributes[:couleur],
+        name: wine_attributes[:wine][:name],
+        rating: wine_attributes[:wine][:classement],
+        description: wine_attributes[:wine][:description],
+        colour: wine_attributes[:wine][:couleur],
         appellation: appellation_object,
-        pays: wine_attributes[:pays]
+        pays: wine_attributes[:wine][:pays]
       }
 
       vendor_wine = VendorWine.conditionally_create(attributes, Seed::Logger)
