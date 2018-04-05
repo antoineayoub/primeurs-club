@@ -29,6 +29,8 @@ module Seed
     end
     
     def log_total(table_name, initial_record_count)
+      class_name = ActiveSupport::Inflector.classify(table_name)
+      current_record_count = ActiveSupport::Inflector.constantize(class_name).count
       @logger.info("#{table_name.pluralize} total: #{current_record_count}")
     end
 
