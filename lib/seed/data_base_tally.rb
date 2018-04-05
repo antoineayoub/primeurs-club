@@ -29,7 +29,7 @@ module Seed
     end
     
     def log_total(table_name, initial_record_count)
-      @logger.info("#{table_name.pluralize} total: #{current_record_count}") unless delta == 0
+      @logger.info("#{table_name.pluralize} total: #{current_record_count}")
     end
 
     def initialize(logger)
