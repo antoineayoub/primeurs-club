@@ -23,7 +23,7 @@ module Seed
         @logger.info("#{table_name.pluralize} destroyed: #{delta.abs}")
       end
 
-      @logger.info("#{table_name.pluralize} total: #{current_record_count}") unless delta == 0
+      @logger.debug("#{table_name.pluralize} total: #{current_record_count}") unless delta == 0
     end
 
     def initialize(logger)
