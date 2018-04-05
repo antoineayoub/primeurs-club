@@ -23,12 +23,22 @@ module Seed
         name: wine_attributes[:name],
         rating: wine_attributes[:rating],
         description: wine_attributes[:description],
-        picture_label: wine_attributes[:stamp_image_url],
         colour: wine_attributes[:colour],
         appellation: appellation_object
       }
 
-      VendorWine.conditionally_create(attributes, Seed::Logger)
+      vendor_wine = VendorWine.conditionally_create(attributes, Seed::Logger)
+
+      if vendor_wine.persisted?
+        photo = Photo.conditionally_create(
+          { imageable: vendor_wine },
+          Seed::Logger
+        )
+        photo.remote_photo_url = wine_attributes[:image_url]
+        photo.save
+      end
+
+      vendor_wine      
     end
 
     def build_vendor_vintages_for_wine(wine_object, wine_attributes)
