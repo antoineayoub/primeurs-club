@@ -31,11 +31,9 @@ module Seed
 
       if vendor_wine.persisted?
         photo = Photo.conditionally_create(
-          { imageable: vendor_wine },
+          { imageable: vendor_wine, photo: wine_attributes[:stamp_image_url] },
           Seed::Logger
         )
-        photo.remote_photo_url = wine_attributes[:image_url]
-        photo.save
       end
 
       vendor_wine      

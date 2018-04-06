@@ -1,13 +1,13 @@
 module Scraper
   module Wine
     class BordeauxPrimeurs < Wine::Base
-      set_attributes :name, :stamp_image_url, :appellation, :rating, :colour, :description, :vintages
+      set_attributes :name, :image_url, :appellation, :rating, :colour, :description, :vintages
 
       def name
         dom.search("h2").first.inner_html
       end
 
-      def stamp_image_url
+      def image_url
         Scraper::BordeauxPrimeurs.base_url + dom.search("td[width='45%'] > img").first.attributes["src"].value
       end
 

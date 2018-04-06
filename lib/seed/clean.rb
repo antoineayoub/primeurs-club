@@ -4,6 +4,7 @@ module Seed
       db_tally = Seed::DataBaseTally.begin_tracking(Seed::Logger)
 
       table_names = [
+        "photos",
         "wine_notes",
         "vintages",
         "wines",

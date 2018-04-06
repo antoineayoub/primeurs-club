@@ -22,14 +22,13 @@ module Scraper
     def collect_details_of_wine(wine_slug)
       vintages = @wine_vintages[wine_slug]
 
-      @output_hash[:wine_details] << {
-        wine: Wine::MillesimaWine.build_from_dom(dom_of_prototypal_wine(vintages)).to_hash,
-        vintages: vintages.map do |vintage| 
-          wine_vintage = Wine::MillesimaVintage.build_from_dom(dom_of_vintage(vintage))
-          wine_vintage.price = vintage["price"]
-          wine_vintage.to_hash
-        end
-      }
+      wine_hash = Wine::MillesimaWine.build_from_dom(dom_of_prototypal_wine(vintages)).to_hash
+      wine_hash[:vintages] = vintages.map do |vintage| 
+        wine_vintage = Wine::MillesimaVintage.build_from_dom(dom_of_vintage(vintage))
+        wine_vintage.price = vintage["price"]
+        wine_vintage.to_hash
+      end
+      @output_hash[:wine_details] << wine_hash
     rescue Interrupt, SignalException
       save_and_exit
     rescue => e
