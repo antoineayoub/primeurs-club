@@ -30,39 +30,24 @@ module Seed
   class Millesima < Seed::Base
     private
 
-    def run
-      @wine_details.each do |wine_attributes|
-        begin
-          appellation = Appellation.find_or_create_by(name: wine_attributes[:appellation])
-          Seed::Logger.info("building wine: \"#{wine_attributes[:wine][:name]}\"")
-          wine = build_wine_with_appellation(appellation, wine_attributes)
-          build_vendor_vintages_for_wine(wine, wine_attributes)
-        rescue => e
-          Seed::Logger.error(e)
-        end
-      end
-    end    
-
     def build_wine_with_appellation(appellation_object, wine_attributes)
       attributes = {
         website: website_name,
-        name: wine_attributes[:wine][:name],
-        rating: wine_attributes[:wine][:classement],
-        description: wine_attributes[:wine][:description],
-        colour: wine_attributes[:wine][:couleur],
+        name: wine_attributes[:name],
+        rating: wine_attributes[:classement],
+        description: wine_attributes[:description],
+        colour: wine_attributes[:couleur],
         appellation: appellation_object,
-        pays: wine_attributes[:wine][:pays]
+        pays: wine_attributes[:pays]
       }
 
       vendor_wine = VendorWine.conditionally_create(attributes, Seed::Logger)
 
       if vendor_wine.persisted?
         photo = Photo.conditionally_create(
-          { imageable: vendor_wine },
+          { imageable: vendor_wine, photo: wine_attributes[:image_url] },
           Seed::Logger
         )
-        photo.remote_photo_url = wine_attributes[:image_url]
-        photo.save
       end
 
       vendor_wine
