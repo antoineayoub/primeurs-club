@@ -1,4 +1,6 @@
 class VendorWine < ApplicationRecord
+  include WineModules::Photo
+  
   belongs_to :appellation
   belongs_to :region, optional: true
   has_many :photos, as: :imageable, dependent: :destroy

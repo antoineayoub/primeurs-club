@@ -1,5 +1,6 @@
 class Wine < ApplicationRecord
   include WineModules::StandardizeName
+  include WineModules::Photo
 
   belongs_to :appellation
 
