@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180419192651) do
+ActiveRecord::Schema.define(version: 20180419192855) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -92,7 +92,7 @@ ActiveRecord::Schema.define(version: 20180419192651) do
     t.datetime "updated_at", null: false
     t.string "website"
     t.bigint "vendor_wine_id"
-    t.string "exit_date"
+    t.date "launch_date"
     t.index ["vendor_wine_id"], name: "index_vendor_vintages_on_vendor_wine_id"
   end
 
