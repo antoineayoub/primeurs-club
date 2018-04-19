@@ -45,10 +45,6 @@ module Seed
       "bord_overview"
     end
 
-    def timestamp_of_file(file_name)
-      file_name.split("/").last.split("_").first.to_i
-    end
-
     def format_vintage_price(price)
       price.is_a?(String) ? price.gsub(/\D/, "") : nil
     end

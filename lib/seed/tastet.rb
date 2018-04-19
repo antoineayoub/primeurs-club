@@ -70,7 +70,7 @@ module Seed
         attributes = {
           website: website_name,
           vintage: vintage_attributes[:Année],
-          # date_de_sortie: vintage_attributes[:"Date de Sortie"],
+          launch_date: format_vintage_launch_date(vintage_attributes[:"Date de Sortie"]),
           price_cents: format_vintage_price(vintage_attributes[:PRC]),
           vendor_wine: wine_object
         }
@@ -93,6 +93,10 @@ module Seed
 
     def format_vintage_price(price_string)
       price_string.nil? ? nil : (price_string.gsub(",", ".").to_f * 100).to_i
+    end
+
+    def format_vintage_launch_date(launch_date_string)
+      Date.parse(launch_date_string)
     end
 
     def website_name
