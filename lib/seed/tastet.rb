@@ -70,7 +70,7 @@ module Seed
         attributes = {
           website: website_name,
           vintage: vintage_attributes[:Année],
-          # date_de_sortie: vintage_attributes[:"Date de Sortie"],
+          exit_date: vintage_attributes[:"Date de Sortie"],
           price_cents: format_vintage_price(vintage_attributes[:PRC]),
           vendor_wine: wine_object
         }
