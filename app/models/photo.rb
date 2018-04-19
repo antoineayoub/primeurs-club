@@ -12,6 +12,6 @@ class Photo < ApplicationRecord
     photo_uploader.download!(photo)
     photo_uploader.store!(photo_uploader.file)
     Seed::Logger.info("file uploaded: #{photo_uploader.file.path}")
-    self.photo = photo_uploader.url
+    self.photo_upload_url = photo_uploader.url
   end
 end
