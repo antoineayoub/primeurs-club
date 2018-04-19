@@ -2,9 +2,9 @@
   "wine_details": [
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "AILE D'ARGENT, Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "AILE D'ARGENT, Blanc",
       "vintages": [
         {
           "Année": "2014",
@@ -46,9 +46,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": null,
-      "Chateau": "AIR DE VIEUX ROBIN",
+      "appellation": "Médoc",
+      "name": "AIR DE VIEUX ROBIN",
       "vintages": [
         {
           "Année": "2006",
@@ -60,9 +60,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "ALTER EGO",
+      "appellation": "Margaux",
+      "name": "ALTER EGO",
       "vintages": [
         {
           "Année": "2014",
@@ -86,9 +86,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Fronsac",
       "Classement": null,
-      "Chateau": "ARIA",
+      "appellation": "Fronsac",
+      "name": "ARIA",
       "vintages": [
         {
           "Année": "2002",
@@ -112,9 +112,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "ARTIGUE DE SENEJAC",
+      "appellation": "Haut-Médoc",
+      "name": "ARTIGUE DE SENEJAC",
       "vintages": [
         {
           "Année": "1996",
@@ -126,9 +126,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "AURELIUS",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "AURELIUS",
       "vintages": [
         {
           "Année": "2001",
@@ -146,9 +146,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "BARON DE BRANE",
+      "appellation": "Margaux",
+      "name": "BARON DE BRANE",
       "vintages": [
         {
           "Année": "2007",
@@ -178,9 +178,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "BLANC de CHASSE SPLEEN, Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "BLANC de CHASSE SPLEEN, Blanc",
       "vintages": [
         {
           "Année": "2015",
@@ -228,9 +228,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "BLANC DE LYNCH BAGES, Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "BLANC DE LYNCH BAGES, Blanc",
       "vintages": [
         {
           "Année": "2014",
@@ -302,9 +302,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "BLASON DE L'EVANGILE",
+      "appellation": "Pomerol",
+      "name": "BLASON DE L'EVANGILE",
       "vintages": [
         {
           "Année": "2007",
@@ -340,9 +340,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "BLASON D'ISSAN",
+      "appellation": "Margaux",
+      "name": "BLASON D'ISSAN",
       "vintages": [
         {
           "Année": "2014",
@@ -420,9 +420,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "BOUQUET DE MONBRISON",
+      "appellation": "Margaux",
+      "name": "BOUQUET DE MONBRISON",
       "vintages": [
         {
           "Année": "1997",
@@ -458,9 +458,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": null,
-      "Chateau": "CARMES DE RIEUSSEC",
+      "appellation": "Sauternes",
+      "name": "CARMES DE RIEUSSEC",
       "vintages": [
         {
           "Année": "2016",
@@ -544,9 +544,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": null,
-      "Chateau": "CARRUADES DE LAFITE",
+      "appellation": "Pauillac",
+      "name": "CARRUADES DE LAFITE",
       "vintages": [
         {
           "Année": "2016",
@@ -708,9 +708,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "CHAPELLE D'AUSONE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "CHAPELLE D'AUSONE",
       "vintages": [
         {
           "Année": "2003",
@@ -746,9 +746,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": null,
-      "Chateau": "CHAPELLE DE POTENSAC",
+      "appellation": "Médoc",
+      "name": "CHAPELLE DE POTENSAC",
       "vintages": [
         {
           "Année": "2010",
@@ -760,9 +760,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Castillon",
       "Classement": null,
-      "Chateau": "Château AMPELIA",
+      "appellation": "Côtes de Castillon",
+      "name": "Château AMPELIA",
       "vintages": [
         {
           "Année": "2004",
@@ -798,9 +798,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "Château ANDRON BLANQUET",
+      "appellation": "St-Estèphe",
+      "name": "Château ANDRON BLANQUET",
       "vintages": [
         {
           "Année": "2016",
@@ -872,9 +872,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château ANEY",
+      "appellation": "Haut-Médoc",
+      "name": "Château ANEY",
       "vintages": [
         {
           "Année": "2003",
@@ -886,9 +886,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "1° Grand Cru Classé A",
-      "Chateau": "Château ANGELUS",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château ANGELUS",
       "vintages": [
         {
           "Année": "2014",
@@ -1092,9 +1092,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château ARMENS",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château ARMENS",
       "vintages": [
         {
           "Année": "2001",
@@ -1112,9 +1112,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château ARNAULD",
+      "appellation": "Haut-Médoc",
+      "name": "Château ARNAULD",
       "vintages": [
         {
           "Année": "2003",
@@ -1180,9 +1180,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "1° Grand Cru Classé A",
-      "Chateau": "Château AUSONE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château AUSONE",
       "vintages": [
         {
           "Année": "2002",
@@ -1278,9 +1278,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château BAHANS HAUT BRION, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château BAHANS HAUT BRION, Rouge",
       "vintages": [
         {
           "Année": "2002",
@@ -1340,9 +1340,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château BALESTARD LA TONNELLE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château BALESTARD LA TONNELLE",
       "vintages": [
         {
           "Année": "2011",
@@ -1462,9 +1462,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château BARDE HAUT",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château BARDE HAUT",
       "vintages": [
         {
           "Année": "2008",
@@ -1518,9 +1518,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Fronsac",
       "Classement": null,
-      "Chateau": "Château BARRABAQUE \"Prestige\"",
+      "appellation": "Fronsac",
+      "name": "Château BARRABAQUE \"Prestige\"",
       "vintages": [
         {
           "Année": "2016",
@@ -1640,9 +1640,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": null,
-      "Chateau": "Château BASTOR LAMONTAGNE",
+      "appellation": "Sauternes",
+      "name": "Château BASTOR LAMONTAGNE",
       "vintages": [
         {
           "Année": "2016",
@@ -1780,9 +1780,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château BEAUMONT",
+      "appellation": "Haut-Médoc",
+      "name": "Château BEAUMONT",
       "vintages": [
         {
           "Année": "2005",
@@ -1890,9 +1890,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château BEAUREGARD",
+      "appellation": "Pomerol",
+      "name": "Château BEAUREGARD",
       "vintages": [
         {
           "Année": "2006",
@@ -2048,9 +2048,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "1° Grand Cru Classé B",
-      "Chateau": "Château BEAUSEJOUR BECOT",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château BEAUSEJOUR BECOT",
       "vintages": [
         {
           "Année": "2005",
@@ -2152,9 +2152,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "1° Grand Cru Classé B",
-      "Chateau": "Château BEAUSEJOUR DUFFAU",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château BEAUSEJOUR DUFFAU",
       "vintages": [
         {
           "Année": "2003",
@@ -2184,9 +2184,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château BEAU SOLEIL",
+      "appellation": "Pomerol",
+      "name": "Château BEAU SOLEIL",
       "vintages": [
         {
           "Année": "2010",
@@ -2246,9 +2246,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "Château BEL AIR",
+      "appellation": "St-Estèphe",
+      "name": "Château BEL AIR",
       "vintages": [
         {
           "Année": "2000",
@@ -2260,9 +2260,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Blaye Côtes de Bordeaux",
       "Classement": null,
-      "Chateau": "Château BEL AIR LA ROYERE",
+      "appellation": "Blaye Côtes de Bordeaux",
+      "name": "Château BEL AIR LA ROYERE",
       "vintages": [
         {
           "Année": "2000",
@@ -2280,9 +2280,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château BELLEFONT-BELCIER",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château BELLEFONT-BELCIER",
       "vintages": [
         {
           "Année": "2011",
@@ -2336,9 +2336,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": null,
-      "Chateau": "Château BELLEGRAVE",
+      "appellation": "Pauillac",
+      "name": "Château BELLEGRAVE",
       "vintages": [
         {
           "Année": "2016",
@@ -2494,9 +2494,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château BELLE-VUE",
+      "appellation": "Haut-Médoc",
+      "name": "Château BELLE-VUE",
       "vintages": [
         {
           "Année": "2015",
@@ -2586,9 +2586,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château BELLEVUE MONDOTTE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château BELLEVUE MONDOTTE",
       "vintages": [
         {
           "Année": "2004",
@@ -2612,9 +2612,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château BELLISLE MONDOTTE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château BELLISLE MONDOTTE",
       "vintages": [
         {
           "Année": "2015",
@@ -2668,9 +2668,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château BERLIQUET",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château BERLIQUET",
       "vintages": [
         {
           "Année": "2016",
@@ -2718,9 +2718,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château BERNADOTTE",
+      "appellation": "Haut-Médoc",
+      "name": "Château BERNADOTTE",
       "vintages": [
         {
           "Année": "2011",
@@ -2816,9 +2816,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": "4° Cru Classé",
-      "Chateau": "Château BEYCHEVELLE",
+      "appellation": "St-Julien",
+      "name": "Château BEYCHEVELLE",
       "vintages": [
         {
           "Année": "2015",
@@ -3034,9 +3034,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux Supérieur",
       "Classement": null,
-      "Chateau": "Château BOLAIRE",
+      "appellation": "Bordeaux Supérieur",
+      "name": "Château BOLAIRE",
       "vintages": [
         {
           "Année": "2016",
@@ -3108,9 +3108,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château BOUSCAUT, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château BOUSCAUT, Blanc",
       "vintages": [
         {
           "Année": "2014",
@@ -3248,9 +3248,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château BOUSCAUT, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château BOUSCAUT, Rouge",
       "vintages": [
         {
           "Année": "2014",
@@ -3406,9 +3406,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château BOUTISSE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château BOUTISSE",
       "vintages": [
         {
           "Année": "2012",
@@ -3444,9 +3444,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "3° Cru Classé",
-      "Chateau": "Château BOYD CANTENAC",
+      "appellation": "Margaux",
+      "name": "Château BOYD CANTENAC",
       "vintages": [
         {
           "Année": "2016",
@@ -3662,9 +3662,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": "4° Cru Classé",
-      "Chateau": "Château BRANAIRE DUCRU",
+      "appellation": "St-Julien",
+      "name": "Château BRANAIRE DUCRU",
       "vintages": [
         {
           "Année": "2015",
@@ -3826,9 +3826,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Moulis",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château BRANAS GRAND POUJEAUX",
+      "appellation": "Moulis",
+      "name": "Château BRANAS GRAND POUJEAUX",
       "vintages": [
         {
           "Année": "2015",
@@ -3846,9 +3846,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Puisseguin St-Emilion",
       "Classement": null,
-      "Chateau": "Château BRANDA",
+      "appellation": "Puisseguin St-Emilion",
+      "name": "Château BRANDA",
       "vintages": [
         {
           "Année": "2003",
@@ -3884,9 +3884,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château BRANE CANTENAC",
+      "appellation": "Margaux",
+      "name": "Château BRANE CANTENAC",
       "vintages": [
         {
           "Année": "2006",
@@ -4036,9 +4036,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Moulis",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château BRILLETTE",
+      "appellation": "Moulis",
+      "name": "Château BRILLETTE",
       "vintages": [
         {
           "Année": "1995",
@@ -4062,9 +4062,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Barsac",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château BROUSTET",
+      "appellation": "Barsac",
+      "name": "Château BROUSTET",
       "vintages": [
         {
           "Année": "2015",
@@ -4190,9 +4190,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château BROWN, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château BROWN, Blanc",
       "vintages": [
         {
           "Année": "2014",
@@ -4318,9 +4318,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château BROWN, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château BROWN, Rouge",
       "vintages": [
         {
           "Année": "2014",
@@ -4446,9 +4446,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château CADET BON",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CADET BON",
       "vintages": [
         {
           "Année": "2013",
@@ -4520,9 +4520,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château CADET PIOLA",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CADET PIOLA",
       "vintages": [
         {
           "Année": "2005",
@@ -4618,9 +4618,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Montagne Saint-Emilion",
       "Classement": null,
-      "Chateau": "Château CALON",
+      "appellation": "Montagne Saint-Emilion",
+      "name": "Château CALON",
       "vintages": [
         {
           "Année": "2009",
@@ -4722,9 +4722,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": "3° Cru Classé",
-      "Chateau": "Château CALON SEGUR",
+      "appellation": "St-Estèphe",
+      "name": "Château CALON SEGUR",
       "vintages": [
         {
           "Année": "2013",
@@ -4898,9 +4898,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château CAMBON LA PELOUSE",
+      "appellation": "Haut-Médoc",
+      "name": "Château CAMBON LA PELOUSE",
       "vintages": [
         {
           "Année": "2016",
@@ -5002,9 +5002,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "1° Grand Cru Classé B",
-      "Chateau": "Château CANON",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CANON",
       "vintages": [
         {
           "Année": "2014",
@@ -5202,9 +5202,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château CANON LA GAFFELIERE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CANON LA GAFFELIERE",
       "vintages": [
         {
           "Année": "2005",
@@ -5348,9 +5348,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": null,
-      "Chateau": "Château CANTEGRIL",
+      "appellation": "Sauternes",
+      "name": "Château CANTEGRIL",
       "vintages": [
         {
           "Année": "2016",
@@ -5398,9 +5398,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château CANTELAUZE",
+      "appellation": "Pomerol",
+      "name": "Château CANTELAUZE",
       "vintages": [
         {
           "Année": "2009",
@@ -5442,9 +5442,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château CANTEMERLE",
+      "appellation": "Haut-Médoc",
+      "name": "Château CANTEMERLE",
       "vintages": [
         {
           "Année": "2015",
@@ -5516,9 +5516,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château CANTENAC",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CANTENAC",
       "vintages": [
         {
           "Année": "2002",
@@ -5536,9 +5536,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "3° Cru Classé",
-      "Chateau": "Château CANTENAC BROWN",
+      "appellation": "Margaux",
+      "name": "Château CANTENAC BROWN",
       "vintages": [
         {
           "Année": "2004",
@@ -5634,9 +5634,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château CANTIN",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CANTIN",
       "vintages": [
         {
           "Année": "2001",
@@ -5654,9 +5654,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "Château CAPBERN GASQUETON",
+      "appellation": "St-Estèphe",
+      "name": "Château CAPBERN GASQUETON",
       "vintages": [
         {
           "Année": "2013",
@@ -5680,9 +5680,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Castillon",
       "Classement": null,
-      "Chateau": "Château CAP DE FAUGERES",
+      "appellation": "Côtes de Castillon",
+      "name": "Château CAP DE FAUGERES",
       "vintages": [
         {
           "Année": "2004",
@@ -5730,9 +5730,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château CAP DE HAUT COMTESSE DE FUMEL",
+      "appellation": "Haut-Médoc",
+      "name": "Château CAP DE HAUT COMTESSE DE FUMEL",
       "vintages": [
         {
           "Année": "2001",
@@ -5750,9 +5750,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château CAP DE MOURLIN",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CAP DE MOURLIN",
       "vintages": [
         {
           "Année": "2011",
@@ -5884,9 +5884,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Listrac",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château CAP LEON VEYRIN",
+      "appellation": "Listrac",
+      "name": "Château CAP LEON VEYRIN",
       "vintages": [
         {
           "Année": "2003",
@@ -5898,9 +5898,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château CARBONNIEUX, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château CARBONNIEUX, Blanc",
       "vintages": [
         {
           "Année": "2014",
@@ -6110,9 +6110,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château CARBONNIEUX, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château CARBONNIEUX, Rouge",
       "vintages": [
         {
           "Année": "2014",
@@ -6316,9 +6316,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château CARONNE SAINTE GEMME",
+      "appellation": "Haut-Médoc",
+      "name": "Château CARONNE SAINTE GEMME",
       "vintages": [
         {
           "Année": "2014",
@@ -6432,9 +6432,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Canon Fronsac",
       "Classement": null,
-      "Chateau": "Château CASSAGNE HAUT-CANON",
+      "appellation": "Canon Fronsac",
+      "name": "Château CASSAGNE HAUT-CANON",
       "vintages": [
         {
           "Année": "2011",
@@ -6458,9 +6458,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Canon Fronsac",
       "Classement": null,
-      "Chateau": "Château CASSAGNE HAUT-CANON LA TRUFFIERE",
+      "appellation": "Canon Fronsac",
+      "name": "Château CASSAGNE HAUT-CANON LA TRUFFIERE",
       "vintages": [
         {
           "Année": "2005",
@@ -6472,9 +6472,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château CERTAN GIRAUD",
+      "appellation": "Pomerol",
+      "name": "Château CERTAN GIRAUD",
       "vintages": [
         {
           "Année": "1997",
@@ -6552,9 +6552,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Fronsac",
       "Classement": null,
-      "Chateau": "Château CHADENNE",
+      "appellation": "Fronsac",
+      "name": "Château CHADENNE",
       "vintages": [
         {
           "Année": "2003",
@@ -6584,9 +6584,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "Château CHANTELUNE",
+      "appellation": "Margaux",
+      "name": "Château CHANTELUNE",
       "vintages": [
         {
           "Année": "2016",
@@ -6604,9 +6604,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château CHARMAIL",
+      "appellation": "Haut-Médoc",
+      "name": "Château CHARMAIL",
       "vintages": [
         {
           "Année": "2016",
@@ -6702,9 +6702,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Moulis",
       "Classement": null,
-      "Chateau": "Château CHASSE SPLEEN",
+      "appellation": "Moulis",
+      "name": "Château CHASSE SPLEEN",
       "vintages": [
         {
           "Année": "2015",
@@ -6884,9 +6884,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château CHAUVIN",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CHAUVIN",
       "vintages": [
         {
           "Année": "2012",
@@ -7042,9 +7042,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "1° Grand Cru Classé A",
-      "Chateau": "Château CHEVAL BLANC",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CHEVAL BLANC",
       "vintages": [
         {
           "Année": "2013",
@@ -7230,9 +7230,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château CISSAC",
+      "appellation": "Haut-Médoc",
+      "name": "Château CISSAC",
       "vintages": [
         {
           "Année": "2003",
@@ -7298,9 +7298,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château CITRAN",
+      "appellation": "Haut-Médoc",
+      "name": "Château CITRAN",
       "vintages": [
         {
           "Année": "2016",
@@ -7438,9 +7438,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "Château CLAUZET",
+      "appellation": "St-Estèphe",
+      "name": "Château CLAUZET",
       "vintages": [
         {
           "Année": "2016",
@@ -7554,9 +7554,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château CLEMENT PICHON",
+      "appellation": "Haut-Médoc",
+      "name": "Château CLEMENT PICHON",
       "vintages": [
         {
           "Année": "2008",
@@ -7640,9 +7640,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château CLERC MILON",
+      "appellation": "Pauillac",
+      "name": "Château CLERC MILON",
       "vintages": [
         {
           "Année": "2014",
@@ -7828,9 +7828,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Barsac",
       "Classement": "1° Cru Classé",
-      "Chateau": "Château CLIMENS",
+      "appellation": "Barsac",
+      "name": "Château CLIMENS",
       "vintages": [
         {
           "Année": "2016",
@@ -8016,9 +8016,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château CLINET",
+      "appellation": "Pomerol",
+      "name": "Château CLINET",
       "vintages": [
         {
           "Année": "2014",
@@ -8132,9 +8132,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "Château CLOS CHAUMONT, Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "Château CLOS CHAUMONT, Blanc",
       "vintages": [
         {
           "Année": "2001",
@@ -8146,9 +8146,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "1ères Côtes de Bordeaux",
       "Classement": null,
-      "Chateau": "Château CLOS CHAUMONT, Rouge",
+      "appellation": "1ères Côtes de Bordeaux",
+      "name": "Château CLOS CHAUMONT, Rouge",
       "vintages": [
         {
           "Année": "2002",
@@ -8184,9 +8184,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Montagne Saint-Emilion",
       "Classement": null,
-      "Chateau": "Château CLOS DE BOUARD",
+      "appellation": "Montagne Saint-Emilion",
+      "name": "Château CLOS DE BOUARD",
       "vintages": [
         {
           "Année": "2016",
@@ -8198,9 +8198,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château CLOS DE SALLES",
+      "appellation": "Pomerol",
+      "name": "Château CLOS DE SALLES",
       "vintages": [
         {
           "Année": "2008",
@@ -8266,9 +8266,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château CLOS DES JACOBINS",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CLOS DES JACOBINS",
       "vintages": [
         {
           "Année": "2004",
@@ -8286,9 +8286,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Castillon",
       "Classement": null,
-      "Chateau": "Château CLOS L'EGLISE",
+      "appellation": "Côtes de Castillon",
+      "name": "Château CLOS L'EGLISE",
       "vintages": [
         {
           "Année": "2003",
@@ -8324,9 +8324,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château CLOS SAINT-EMILION PHILIPPE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CLOS SAINT-EMILION PHILIPPE",
       "vintages": [
         {
           "Année": "2002",
@@ -8338,9 +8338,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château COLOMBIER MONPELOU",
+      "appellation": "Pauillac",
+      "name": "Château COLOMBIER MONPELOU",
       "vintages": [
         {
           "Année": "2006",
@@ -8400,9 +8400,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château CORBIN",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CORBIN",
       "vintages": [
         {
           "Année": "2013",
@@ -8588,9 +8588,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château CORBIN MICHOTTE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CORBIN MICHOTTE",
       "vintages": [
         {
           "Année": "2016",
@@ -8710,9 +8710,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "Château CORDET",
+      "appellation": "Margaux",
+      "name": "Château CORDET",
       "vintages": [
         {
           "Année": "2000",
@@ -8772,9 +8772,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château COS D'ESTOURNEL",
+      "appellation": "St-Estèphe",
+      "name": "Château COS D'ESTOURNEL",
       "vintages": [
         {
           "Année": "2016",
@@ -8978,9 +8978,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château COS LABORY",
+      "appellation": "St-Estèphe",
+      "name": "Château COS LABORY",
       "vintages": [
         {
           "Année": "2016",
@@ -9142,9 +9142,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château COUFRAN",
+      "appellation": "Haut-Médoc",
+      "name": "Château COUFRAN",
       "vintages": [
         {
           "Année": "2009",
@@ -9162,9 +9162,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château COUHINS-LURTON, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château COUHINS-LURTON, Blanc",
       "vintages": [
         {
           "Année": "2001",
@@ -9212,9 +9212,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château COUTELIN MERVILLE",
+      "appellation": "St-Estèphe",
+      "name": "Château COUTELIN MERVILLE",
       "vintages": [
         {
           "Année": "2001",
@@ -9226,9 +9226,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Barsac",
       "Classement": "1° Cru Classé",
-      "Chateau": "Château COUTET",
+      "appellation": "Barsac",
+      "name": "Château COUTET",
       "vintages": [
         {
           "Année": "2016",
@@ -9354,9 +9354,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château CROIX CARDINALE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CROIX CARDINALE",
       "vintages": [
         {
           "Année": "2015",
@@ -9368,9 +9368,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux Supérieur",
       "Classement": null,
-      "Chateau": "Château CROIX MOUTON",
+      "appellation": "Bordeaux Supérieur",
+      "name": "Château CROIX MOUTON",
       "vintages": [
         {
           "Année": "2004",
@@ -9382,9 +9382,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château CROIZET BAGES",
+      "appellation": "Pauillac",
+      "name": "Château CROIZET BAGES",
       "vintages": [
         {
           "Année": "2014",
@@ -9552,9 +9552,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château CROQUE MICHOTTE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CROQUE MICHOTTE",
       "vintages": [
         {
           "Année": "2015",
@@ -9722,9 +9722,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château CURE BON",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château CURE BON",
       "vintages": [
         {
           "Année": "1999",
@@ -9754,9 +9754,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château D'AGASSAC",
+      "appellation": "Haut-Médoc",
+      "name": "Château D'AGASSAC",
       "vintages": [
         {
           "Année": "2012",
@@ -9858,9 +9858,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Castillon",
       "Classement": null,
-      "Chateau": "Château D'AIGUILHE",
+      "appellation": "Côtes de Castillon",
+      "name": "Château D'AIGUILHE",
       "vintages": [
         {
           "Année": "2014",
@@ -9956,9 +9956,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Fronsac",
       "Classement": null,
-      "Chateau": "Château DALEM",
+      "appellation": "Fronsac",
+      "name": "Château DALEM",
       "vintages": [
         {
           "Année": "2016",
@@ -10084,9 +10084,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château D'ARCHE",
+      "appellation": "Sauternes",
+      "name": "Château D'ARCHE",
       "vintages": [
         {
           "Année": "2016",
@@ -10248,9 +10248,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château D'ARMAILHAC",
+      "appellation": "Pauillac",
+      "name": "Château D'ARMAILHAC",
       "vintages": [
         {
           "Année": "2016",
@@ -10412,9 +10412,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "Château D'ARSAC",
+      "appellation": "Margaux",
+      "name": "Château D'ARSAC",
       "vintages": [
         {
           "Année": "2016",
@@ -10558,9 +10558,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château DASSAULT",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château DASSAULT",
       "vintages": [
         {
           "Année": "2015",
@@ -10692,9 +10692,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château DAUZAC",
+      "appellation": "Margaux",
+      "name": "Château DAUZAC",
       "vintages": [
         {
           "Année": "2012",
@@ -10802,9 +10802,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château de CAMENSAC",
+      "appellation": "Haut-Médoc",
+      "name": "Château de CAMENSAC",
       "vintages": [
         {
           "Année": "2015",
@@ -10960,9 +10960,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Lalande de Pomerol",
       "Classement": null,
-      "Chateau": "Château de CHAMBRUN",
+      "appellation": "Lalande de Pomerol",
+      "name": "Château de CHAMBRUN",
       "vintages": [
         {
           "Année": "2004",
@@ -10980,9 +10980,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Graves",
       "Classement": null,
-      "Chateau": "Château DE CHANTEGRIVE, Blanc",
+      "appellation": "Graves",
+      "name": "Château DE CHANTEGRIVE, Blanc",
       "vintages": [
         {
           "Année": "2004",
@@ -11048,9 +11048,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Graves",
       "Classement": null,
-      "Chateau": "Château DE CHANTEGRIVE \"Caroline\", Blanc",
+      "appellation": "Graves",
+      "name": "Château DE CHANTEGRIVE \"Caroline\", Blanc",
       "vintages": [
         {
           "Année": "2016",
@@ -11182,9 +11182,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Graves",
       "Classement": null,
-      "Chateau": "Château DE CHANTEGRIVE, Rouge",
+      "appellation": "Graves",
+      "name": "Château DE CHANTEGRIVE, Rouge",
       "vintages": [
         {
           "Année": "2016",
@@ -11322,9 +11322,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "Château DE COME",
+      "appellation": "St-Estèphe",
+      "name": "Château DE COME",
       "vintages": [
         {
           "Année": "2000",
@@ -11348,9 +11348,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château DE FIEUZAL, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château DE FIEUZAL, Blanc",
       "vintages": [
         {
           "Année": "2015",
@@ -11542,9 +11542,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château DE FIEUZAL, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château DE FIEUZAL, Rouge",
       "vintages": [
         {
           "Année": "2015",
@@ -11730,9 +11730,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux Côtes de Francs",
       "Classement": null,
-      "Chateau": "Château DE FRANCS \"LES CERISIERS\"",
+      "appellation": "Bordeaux Côtes de Francs",
+      "name": "Château DE FRANCS \"LES CERISIERS\"",
       "vintages": [
         {
           "Année": "2008",
@@ -11804,9 +11804,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château DE GIRONVILLE",
+      "appellation": "Haut-Médoc",
+      "name": "Château DE GIRONVILLE",
       "vintages": [
         {
           "Année": "2008",
@@ -11842,9 +11842,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux Supérieur",
       "Classement": null,
-      "Chateau": "Château de LA COUR D'ARGENT",
+      "appellation": "Bordeaux Supérieur",
+      "name": "Château de LA COUR D'ARGENT",
       "vintages": [
         {
           "Année": "2007",
@@ -11868,9 +11868,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux",
       "Classement": null,
-      "Chateau": "Château de LA COUR D'ARGENT, Rouge",
+      "appellation": "Bordeaux",
+      "name": "Château de LA COUR D'ARGENT, Rouge",
       "vintages": [
         {
           "Année": "2015",
@@ -11894,9 +11894,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Fronsac",
       "Classement": null,
-      "Chateau": "Château DE LA HUSTE",
+      "appellation": "Fronsac",
+      "name": "Château DE LA HUSTE",
       "vintages": [
         {
           "Année": "2002",
@@ -11938,9 +11938,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château DE LAMARQUE",
+      "appellation": "Haut-Médoc",
+      "name": "Château DE LAMARQUE",
       "vintages": [
         {
           "Année": "2001",
@@ -11958,9 +11958,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Fronsac",
       "Classement": null,
-      "Chateau": "Château DE LA RIVIERE",
+      "appellation": "Fronsac",
+      "name": "Château DE LA RIVIERE",
       "vintages": [
         {
           "Année": "2002",
@@ -11984,9 +11984,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château DE MALLE",
+      "appellation": "Sauternes",
+      "name": "Château DE MALLE",
       "vintages": [
         {
           "Année": "2016",
@@ -12136,9 +12136,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château de MYRAT",
+      "appellation": "Sauternes",
+      "name": "Château de MYRAT",
       "vintages": [
         {
           "Année": "2016",
@@ -12276,9 +12276,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux Supérieur",
       "Classement": null,
-      "Chateau": "Château de PARENCHERE Cuvée Raphaël",
+      "appellation": "Bordeaux Supérieur",
+      "name": "Château de PARENCHERE Cuvée Raphaël",
       "vintages": [
         {
           "Année": "2000",
@@ -12290,9 +12290,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Graves",
       "Classement": null,
-      "Chateau": "Château de RESPIDE, Rouge",
+      "appellation": "Graves",
+      "name": "Château de RESPIDE, Rouge",
       "vintages": [
         {
           "Année": "1992",
@@ -12304,9 +12304,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château de ROUILLAC, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château de ROUILLAC, Blanc",
       "vintages": [
         {
           "Année": "2004",
@@ -12324,9 +12324,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château de ROUILLAC, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château de ROUILLAC, Rouge",
       "vintages": [
         {
           "Année": "2005",
@@ -12374,9 +12374,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": null,
-      "Chateau": "Château DE SAINTE HELENE",
+      "appellation": "Sauternes",
+      "name": "Château DE SAINTE HELENE",
       "vintages": [
         {
           "Année": "2001",
@@ -12388,9 +12388,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château DE SALES",
+      "appellation": "Pomerol",
+      "name": "Château DE SALES",
       "vintages": [
         {
           "Année": "2004",
@@ -12462,9 +12462,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Lalande de Pomerol",
       "Classement": null,
-      "Chateau": "Château des ANNEREAUX",
+      "appellation": "Lalande de Pomerol",
+      "name": "Château des ANNEREAUX",
       "vintages": [
         {
           "Année": "2010",
@@ -12500,9 +12500,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": null,
-      "Chateau": "Château D'ESCURAC",
+      "appellation": "Médoc",
+      "name": "Château D'ESCURAC",
       "vintages": [
         {
           "Année": "2016",
@@ -12574,9 +12574,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "3° Cru Classé",
-      "Chateau": "Château DESMIRAIL",
+      "appellation": "Margaux",
+      "name": "Château DESMIRAIL",
       "vintages": [
         {
           "Année": "2016",
@@ -12756,9 +12756,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Lalande de Pomerol",
       "Classement": null,
-      "Chateau": "Château DE VIAUD",
+      "appellation": "Lalande de Pomerol",
+      "name": "Château DE VIAUD",
       "vintages": [
         {
           "Année": "2005",
@@ -12794,9 +12794,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château de VILLEGEORGE",
+      "appellation": "Haut-Médoc",
+      "name": "Château de VILLEGEORGE",
       "vintages": [
         {
           "Année": "2005",
@@ -12838,9 +12838,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "Château DEYREM VALENTIN",
+      "appellation": "Margaux",
+      "name": "Château DEYREM VALENTIN",
       "vintages": [
         {
           "Année": "2016",
@@ -12942,9 +12942,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "3° Cru Classé",
-      "Chateau": "Château D'ISSAN",
+      "appellation": "Margaux",
+      "name": "Château D'ISSAN",
       "vintages": [
         {
           "Année": "2014",
@@ -13124,9 +13124,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Barsac",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château DOISY DAENE",
+      "appellation": "Barsac",
+      "name": "Château DOISY DAENE",
       "vintages": [
         {
           "Année": "2016",
@@ -13258,9 +13258,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "Château DOISY DAENE sec, Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "Château DOISY DAENE sec, Blanc",
       "vintages": [
         {
           "Année": "2016",
@@ -13386,9 +13386,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château DOISY-VEDRINES",
+      "appellation": "Sauternes",
+      "name": "Château DOISY-VEDRINES",
       "vintages": [
         {
           "Année": "2016",
@@ -13424,9 +13424,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château DOMEYNE",
+      "appellation": "St-Estèphe",
+      "name": "Château DOMEYNE",
       "vintages": [
         {
           "Année": "2004",
@@ -13456,9 +13456,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château DUCRU-BEAUCAILLOU",
+      "appellation": "St-Julien",
+      "name": "Château DUCRU-BEAUCAILLOU",
       "vintages": [
         {
           "Année": "2007",
@@ -13632,9 +13632,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "4° Cru Classé",
-      "Chateau": "Château DUHART MILON ROTHSCHILD",
+      "appellation": "Pauillac",
+      "name": "Château DUHART MILON ROTHSCHILD",
       "vintages": [
         {
           "Année": "2016",
@@ -13862,9 +13862,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": null,
-      "Chateau": "Château DULUC",
+      "appellation": "St-Julien",
+      "name": "Château DULUC",
       "vintages": [
         {
           "Année": "1994",
@@ -13894,9 +13894,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château DU MOULIN ROUGE",
+      "appellation": "Haut-Médoc",
+      "name": "Château DU MOULIN ROUGE",
       "vintages": [
         {
           "Année": "2004",
@@ -13944,9 +13944,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château DURFORT VIVENS",
+      "appellation": "Margaux",
+      "name": "Château DURFORT VIVENS",
       "vintages": [
         {
           "Année": "2014",
@@ -14078,9 +14078,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château DU TAILHAS",
+      "appellation": "Pomerol",
+      "name": "Château DU TAILHAS",
       "vintages": [
         {
           "Année": "2014",
@@ -14194,9 +14194,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château DU TERTRE",
+      "appellation": "Margaux",
+      "name": "Château DU TERTRE",
       "vintages": [
         {
           "Année": "2015",
@@ -14340,9 +14340,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "1° Cru Supérieur Classé",
-      "Chateau": "Château d'YQUEM",
+      "appellation": "Sauternes",
+      "name": "Château d'YQUEM",
       "vintages": [
         {
           "Année": "2004",
@@ -14366,9 +14366,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château FAUGERES",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château FAUGERES",
       "vintages": [
         {
           "Année": "2004",
@@ -14428,9 +14428,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château FAURIE DE SOUCHARD",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château FAURIE DE SOUCHARD",
       "vintages": [
         {
           "Année": "2002",
@@ -14460,9 +14460,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château FERRAN, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château FERRAN, Blanc",
       "vintages": [
         {
           "Année": "2015",
@@ -14474,9 +14474,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château FERRAN, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château FERRAN, Rouge",
       "vintages": [
         {
           "Année": "2016",
@@ -14494,9 +14494,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "3° Cru Classé",
-      "Chateau": "Château FERRIERE",
+      "appellation": "Margaux",
+      "name": "Château FERRIERE",
       "vintages": [
         {
           "Année": "2014",
@@ -14616,9 +14616,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "1° Grand Cru Classé B",
-      "Chateau": "Château FIGEAC",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château FIGEAC",
       "vintages": [
         {
           "Année": "2014",
@@ -14822,9 +14822,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château FILHOT",
+      "appellation": "Sauternes",
+      "name": "Château FILHOT",
       "vintages": [
         {
           "Année": "2016",
@@ -14980,9 +14980,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château FLEUR CARDINALE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château FLEUR CARDINALE",
       "vintages": [
         {
           "Année": "2015",
@@ -15042,9 +15042,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château FOMBRAUGE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château FOMBRAUGE",
       "vintages": [
         {
           "Année": "2016",
@@ -15164,9 +15164,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "Château FOMBRAUGE, Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "Château FOMBRAUGE, Blanc",
       "vintages": [
         {
           "Année": "2010",
@@ -15184,9 +15184,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château FONBADET",
+      "appellation": "Pauillac",
+      "name": "Château FONBADET",
       "vintages": [
         {
           "Année": "2015",
@@ -15288,9 +15288,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Listrac",
       "Classement": null,
-      "Chateau": "Château FONREAUD",
+      "appellation": "Listrac",
+      "name": "Château FONREAUD",
       "vintages": [
         {
           "Année": "2016",
@@ -15434,9 +15434,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château FONROQUE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château FONROQUE",
       "vintages": [
         {
           "Année": "2015",
@@ -15490,9 +15490,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Fronsac",
       "Classement": null,
-      "Chateau": "Château FONTENIL",
+      "appellation": "Fronsac",
+      "name": "Château FONTENIL",
       "vintages": [
         {
           "Année": "2004",
@@ -15534,9 +15534,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Bourg",
       "Classement": null,
-      "Chateau": "Château FOUGAS \"Maldoror\"",
+      "appellation": "Côtes de Bourg",
+      "name": "Château FOUGAS \"Maldoror\"",
       "vintages": [
         {
           "Année": "2015",
@@ -15632,9 +15632,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Listrac",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château FOURCAS DUPRE",
+      "appellation": "Listrac",
+      "name": "Château FOURCAS DUPRE",
       "vintages": [
         {
           "Année": "2006",
@@ -15718,9 +15718,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Listrac",
       "Classement": null,
-      "Chateau": "Château FOURCAS HOSTEN",
+      "appellation": "Listrac",
+      "name": "Château FOURCAS HOSTEN",
       "vintages": [
         {
           "Année": "2016",
@@ -15810,9 +15810,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "Château FOURCAS HOSTEN, Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "Château FOURCAS HOSTEN, Blanc",
       "vintages": [
         {
           "Année": "2016",
@@ -15824,9 +15824,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Listrac",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château FOURCAS LOUBANEY",
+      "appellation": "Listrac",
+      "name": "Château FOURCAS LOUBANEY",
       "vintages": [
         {
           "Année": "2003",
@@ -15868,9 +15868,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château FOURNAS BERNADOTTE",
+      "appellation": "Haut-Médoc",
+      "name": "Château FOURNAS BERNADOTTE",
       "vintages": [
         {
           "Année": "1997",
@@ -15882,9 +15882,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château FRANC-MAYNE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château FRANC-MAYNE",
       "vintages": [
         {
           "Année": "2004",
@@ -15968,9 +15968,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux Supérieur",
       "Classement": null,
-      "Chateau": "Château GARDERA",
+      "appellation": "Bordeaux Supérieur",
+      "name": "Château GARDERA",
       "vintages": [
         {
           "Année": "2000",
@@ -15982,9 +15982,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château GAZIN",
+      "appellation": "Pomerol",
+      "name": "Château GAZIN",
       "vintages": [
         {
           "Année": "2015",
@@ -16140,9 +16140,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château GAZIN ROCQUENCOURT, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château GAZIN ROCQUENCOURT, Blanc",
       "vintages": [
         {
           "Année": "2012",
@@ -16166,9 +16166,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château GAZIN ROCQUENCOURT, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château GAZIN ROCQUENCOURT, Rouge",
       "vintages": [
         {
           "Année": "2012",
@@ -16234,9 +16234,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "1ères Côtes de Blaye",
       "Classement": null,
-      "Chateau": "Château GIGAULT \"Cuvée VIVA\"",
+      "appellation": "1ères Côtes de Blaye",
+      "name": "Château GIGAULT \"Cuvée VIVA\"",
       "vintages": [
         {
           "Année": "2005",
@@ -16290,9 +16290,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "3° Cru Classé",
-      "Chateau": "Château GISCOURS",
+      "appellation": "Margaux",
+      "name": "Château GISCOURS",
       "vintages": [
         {
           "Année": "2004",
@@ -16388,9 +16388,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": null,
-      "Chateau": "Château GLORIA",
+      "appellation": "St-Julien",
+      "name": "Château GLORIA",
       "vintages": [
         {
           "Année": "2016",
@@ -16582,9 +16582,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château GRACIA",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château GRACIA",
       "vintages": [
         {
           "Année": "2015",
@@ -16632,9 +16632,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château GRAND BARRAIL LAMARZELLE FIGEAC",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château GRAND BARRAIL LAMARZELLE FIGEAC",
       "vintages": [
         {
           "Année": "2002",
@@ -16682,9 +16682,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château GRAND CORBIN",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château GRAND CORBIN",
       "vintages": [
         {
           "Année": "2009",
@@ -16768,9 +16768,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château GRAND CORBIN DESPAGNE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château GRAND CORBIN DESPAGNE",
       "vintages": [
         {
           "Année": "2016",
@@ -16878,9 +16878,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château GRAND LARTIGUE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château GRAND LARTIGUE",
       "vintages": [
         {
           "Année": "1999",
@@ -16892,9 +16892,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château GRAND MAYNE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château GRAND MAYNE",
       "vintages": [
         {
           "Année": "2014",
@@ -17032,9 +17032,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Lalande de Pomerol",
       "Classement": null,
-      "Chateau": "Château GRAND ORMEAU",
+      "appellation": "Lalande de Pomerol",
+      "name": "Château GRAND ORMEAU",
       "vintages": [
         {
           "Année": "2007",
@@ -17052,9 +17052,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château GRAND PONTET",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château GRAND PONTET",
       "vintages": [
         {
           "Année": "2016",
@@ -17198,9 +17198,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château GRAND PUY DUCASSE",
+      "appellation": "Pauillac",
+      "name": "Château GRAND PUY DUCASSE",
       "vintages": [
         {
           "Année": "2016",
@@ -17398,9 +17398,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château GRAND PUY LACOSTE",
+      "appellation": "Pauillac",
+      "name": "Château GRAND PUY LACOSTE",
       "vintages": [
         {
           "Année": "2015",
@@ -17604,9 +17604,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Graves",
       "Classement": null,
-      "Chateau": "Château Grand Vin de CRABITEY, Rouge",
+      "appellation": "Graves",
+      "name": "Château Grand Vin de CRABITEY, Rouge",
       "vintages": [
         {
           "Année": "2002",
@@ -17630,9 +17630,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château GRUAUD LAROSE",
+      "appellation": "St-Julien",
+      "name": "Château GRUAUD LAROSE",
       "vintages": [
         {
           "Année": "2014",
@@ -17722,9 +17722,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Puisseguin St-Emilion",
       "Classement": null,
-      "Chateau": "Château GUIBOT LA FOURVIEILLE",
+      "appellation": "Puisseguin St-Emilion",
+      "name": "Château GUIBOT LA FOURVIEILLE",
       "vintages": [
         {
           "Année": "2009",
@@ -17772,9 +17772,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "1° Cru Classé",
-      "Chateau": "Château GUIRAUD",
+      "appellation": "Sauternes",
+      "name": "Château GUIRAUD",
       "vintages": [
         {
           "Année": "2017",
@@ -17906,9 +17906,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château HANTEILLAN",
+      "appellation": "Haut-Médoc",
+      "name": "Château HANTEILLAN",
       "vintages": [
         {
           "Année": "2000",
@@ -17938,9 +17938,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Graves",
       "Classement": null,
-      "Chateau": "Château HAURA, Rouge",
+      "appellation": "Graves",
+      "name": "Château HAURA, Rouge",
       "vintages": [
         {
           "Année": "2016",
@@ -17952,9 +17952,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": null,
-      "Chateau": "Château HAUT BAGES AVEROUS",
+      "appellation": "Pauillac",
+      "name": "Château HAUT BAGES AVEROUS",
       "vintages": [
         {
           "Année": "2007",
@@ -18122,9 +18122,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château HAUT BAGES LIBERAL",
+      "appellation": "Pauillac",
+      "name": "Château HAUT BAGES LIBERAL",
       "vintages": [
         {
           "Année": "2014",
@@ -18304,9 +18304,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château HAUT BAILLY, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château HAUT BAILLY, Rouge",
       "vintages": [
         {
           "Année": "2003",
@@ -18450,9 +18450,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château HAUT BATAILLEY",
+      "appellation": "Pauillac",
+      "name": "Château HAUT BATAILLEY",
       "vintages": [
         {
           "Année": "2015",
@@ -18662,9 +18662,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": null,
-      "Chateau": "Château HAUT BERGERON",
+      "appellation": "Sauternes",
+      "name": "Château HAUT BERGERON",
       "vintages": [
         {
           "Année": "2016",
@@ -18676,9 +18676,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château HAUT BERGEY, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château HAUT BERGEY, Blanc",
       "vintages": [
         {
           "Année": "2005",
@@ -18726,9 +18726,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château HAUT BERGEY, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château HAUT BERGEY, Rouge",
       "vintages": [
         {
           "Année": "2008",
@@ -18788,9 +18788,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château HAUT BRION, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château HAUT BRION, Blanc",
       "vintages": [
         {
           "Année": "2002",
@@ -18898,9 +18898,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": "1° Cru Classé",
-      "Chateau": "Château HAUT BRION, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château HAUT BRION, Rouge",
       "vintages": [
         {
           "Année": "2002",
@@ -19116,9 +19116,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Lalande de Pomerol",
       "Classement": null,
-      "Chateau": "Château HAUT CHAIGNEAU",
+      "appellation": "Lalande de Pomerol",
+      "name": "Château HAUT CHAIGNEAU",
       "vintages": [
         {
           "Année": "2005",
@@ -19160,9 +19160,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": null,
-      "Chateau": "Château HAUT CONDISSAS",
+      "appellation": "Médoc",
+      "name": "Château HAUT CONDISSAS",
       "vintages": [
         {
           "Année": "2011",
@@ -19252,9 +19252,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château HAUT CORBIN",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château HAUT CORBIN",
       "vintages": [
         {
           "Année": "2004",
@@ -19320,9 +19320,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château HAUT-GARDERE, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château HAUT-GARDERE, Blanc",
       "vintages": [
         {
           "Année": "2000",
@@ -19358,9 +19358,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château HAUT-GARDERE, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château HAUT-GARDERE, Rouge",
       "vintages": [
         {
           "Année": "2000",
@@ -19396,9 +19396,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux Supérieur",
       "Classement": null,
-      "Chateau": "Château HAUT GAY",
+      "appellation": "Bordeaux Supérieur",
+      "name": "Château HAUT GAY",
       "vintages": [
         {
           "Année": "2006",
@@ -19410,9 +19410,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château HAUT MAILLET",
+      "appellation": "Pomerol",
+      "name": "Château HAUT MAILLET",
       "vintages": [
         {
           "Année": "2013",
@@ -19526,9 +19526,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "Château HAUT MARBUZET",
+      "appellation": "St-Estèphe",
+      "name": "Château HAUT MARBUZET",
       "vintages": [
         {
           "Année": "2015",
@@ -19666,9 +19666,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Moulis",
       "Classement": null,
-      "Chateau": "Château JANDER",
+      "appellation": "Moulis",
+      "name": "Château JANDER",
       "vintages": [
         {
           "Année": "2000",
@@ -19680,9 +19680,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Lalande de Pomerol",
       "Classement": null,
-      "Chateau": "Château JEAN DE GUE",
+      "appellation": "Lalande de Pomerol",
+      "name": "Château JEAN DE GUE",
       "vintages": [
         {
           "Année": "2015",
@@ -19754,9 +19754,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château JEAN-FAURE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château JEAN-FAURE",
       "vintages": [
         {
           "Année": "2004",
@@ -19768,9 +19768,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château JEAN VOISIN",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château JEAN VOISIN",
       "vintages": [
         {
           "Année": "2004",
@@ -19806,9 +19806,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Castillon",
       "Classement": null,
-      "Chateau": "Château JOANIN BECOT",
+      "appellation": "Côtes de Castillon",
+      "name": "Château JOANIN BECOT",
       "vintages": [
         {
           "Année": "2002",
@@ -19826,9 +19826,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château JULIEN",
+      "appellation": "Haut-Médoc",
+      "name": "Château JULIEN",
       "vintages": [
         {
           "Année": "2003",
@@ -19840,9 +19840,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "3° Cru Classé",
-      "Chateau": "Château KIRWAN",
+      "appellation": "Margaux",
+      "name": "Château KIRWAN",
       "vintages": [
         {
           "Année": "2014",
@@ -19938,9 +19938,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "Château LABEGORCE",
+      "appellation": "Margaux",
+      "name": "Château LABEGORCE",
       "vintages": [
         {
           "Année": "2016",
@@ -20078,9 +20078,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "Château LABEGORCE ZEDE",
+      "appellation": "Margaux",
+      "name": "Château LABEGORCE ZEDE",
       "vintages": [
         {
           "Année": "2008",
@@ -20230,9 +20230,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château LA BIENFAISANCE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LA BIENFAISANCE",
       "vintages": [
         {
           "Année": "2004",
@@ -20262,9 +20262,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château LABORDE",
+      "appellation": "Haut-Médoc",
+      "name": "Château LABORDE",
       "vintages": [
         {
           "Année": "2000",
@@ -20276,9 +20276,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": null,
-      "Chateau": "Château LA BRIDANE",
+      "appellation": "St-Julien",
+      "name": "Château LA BRIDANE",
       "vintages": [
         {
           "Année": "2017",
@@ -20326,9 +20326,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château LA CABANNE",
+      "appellation": "Pomerol",
+      "name": "Château LA CABANNE",
       "vintages": [
         {
           "Année": "2016",
@@ -20472,9 +20472,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Lalande de Pomerol",
       "Classement": null,
-      "Chateau": "Château LA CHENADE",
+      "appellation": "Lalande de Pomerol",
+      "name": "Château LA CHENADE",
       "vintages": [
         {
           "Année": "2004",
@@ -20510,9 +20510,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château LA CLARE",
+      "appellation": "Médoc",
+      "name": "Château LA CLARE",
       "vintages": [
         {
           "Année": "2006",
@@ -20542,9 +20542,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château LA CLUSIERE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LA CLUSIERE",
       "vintages": [
         {
           "Année": "2001",
@@ -20562,9 +20562,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château LA COMMANDERIE MAZEYRES",
+      "appellation": "Pomerol",
+      "name": "Château LA COMMANDERIE MAZEYRES",
       "vintages": [
         {
           "Année": "2002",
@@ -20588,9 +20588,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château LA CONSEILLANTE",
+      "appellation": "Pomerol",
+      "name": "Château LA CONSEILLANTE",
       "vintages": [
         {
           "Année": "2014",
@@ -20788,9 +20788,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château LA COUSPAUDE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LA COUSPAUDE",
       "vintages": [
         {
           "Année": "2015",
@@ -20898,9 +20898,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château LA CROIX DE GAY",
+      "appellation": "Pomerol",
+      "name": "Château LA CROIX DE GAY",
       "vintages": [
         {
           "Année": "2015",
@@ -21080,9 +21080,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château LA CROIX DU CASSE",
+      "appellation": "Pomerol",
+      "name": "Château LA CROIX DU CASSE",
       "vintages": [
         {
           "Année": "2016",
@@ -21130,9 +21130,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château LA DOMINIQUE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LA DOMINIQUE",
       "vintages": [
         {
           "Année": "2013",
@@ -21324,9 +21324,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "1° Cru Classé",
-      "Chateau": "Château LAFAURIE PEYRAGUEY",
+      "appellation": "Sauternes",
+      "name": "Château LAFAURIE PEYRAGUEY",
       "vintages": [
         {
           "Année": "2016",
@@ -21434,9 +21434,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "1° Cru Classé",
-      "Chateau": "Château LAFITE ROTHSCHILD",
+      "appellation": "Pauillac",
+      "name": "Château LAFITE ROTHSCHILD",
       "vintages": [
         {
           "Année": "2016",
@@ -21658,9 +21658,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château LA FLEUR",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LA FLEUR",
       "vintages": [
         {
           "Année": "2003",
@@ -21672,9 +21672,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Lalande de Pomerol",
       "Classement": null,
-      "Chateau": "Château LA FLEUR DE BOUARD",
+      "appellation": "Lalande de Pomerol",
+      "name": "Château LA FLEUR DE BOUARD",
       "vintages": [
         {
           "Année": "2016",
@@ -21752,9 +21752,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château LA FLEUR DE GAY",
+      "appellation": "Pomerol",
+      "name": "Château LA FLEUR DE GAY",
       "vintages": [
         {
           "Année": "2014",
@@ -21910,9 +21910,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château LA FLEUR DE PLINCE",
+      "appellation": "Pomerol",
+      "name": "Château LA FLEUR DE PLINCE",
       "vintages": [
         {
           "Année": "2001",
@@ -21930,9 +21930,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Castillon",
       "Classement": null,
-      "Chateau": "Château LA FLEUR HAUT BRISSON",
+      "appellation": "Côtes de Castillon",
+      "name": "Château LA FLEUR HAUT BRISSON",
       "vintages": [
         {
           "Année": "2003",
@@ -21962,9 +21962,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château LA FLEUR MORANGE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LA FLEUR MORANGE",
       "vintages": [
         {
           "Année": "2016",
@@ -22000,9 +22000,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château LA FLEUR MORANGE Cuvée Mathilde",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LA FLEUR MORANGE Cuvée Mathilde",
       "vintages": [
         {
           "Année": "2016",
@@ -22032,9 +22032,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": "4° Cru Classé",
-      "Chateau": "Château LAFON ROCHET",
+      "appellation": "St-Estèphe",
+      "name": "Château LAFON ROCHET",
       "vintages": [
         {
           "Année": "2014",
@@ -22214,9 +22214,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "1° Grand Cru Classé B",
-      "Chateau": "Château LA GAFFELIERE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LA GAFFELIERE",
       "vintages": [
         {
           "Année": "2016",
@@ -22444,9 +22444,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Moulis",
       "Classement": null,
-      "Chateau": "Château LA GARRICQ",
+      "appellation": "Moulis",
+      "name": "Château LA GARRICQ",
       "vintages": [
         {
           "Année": "2016",
@@ -22500,9 +22500,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château LA GOMERIE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LA GOMERIE",
       "vintages": [
         {
           "Année": "2004",
@@ -22544,9 +22544,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Lussac St-Emilion",
       "Classement": null,
-      "Chateau": "Château LA GRANDE CLOTTE",
+      "appellation": "Lussac St-Emilion",
+      "name": "Château LA GRANDE CLOTTE",
       "vintages": [
         {
           "Année": "2004",
@@ -22564,9 +22564,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": "3° Cru Classé",
-      "Chateau": "Château LAGRANGE",
+      "appellation": "St-Julien",
+      "name": "Château LAGRANGE",
       "vintages": [
         {
           "Année": "2015",
@@ -22740,9 +22740,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Castillon",
       "Classement": null,
-      "Chateau": "Château LAGRAVE AUBERT",
+      "appellation": "Côtes de Castillon",
+      "name": "Château LAGRAVE AUBERT",
       "vintages": [
         {
           "Année": "2003",
@@ -22766,9 +22766,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "Château LA GURGUE",
+      "appellation": "Margaux",
+      "name": "Château LA GURGUE",
       "vintages": [
         {
           "Année": "2014",
@@ -22870,9 +22870,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "3° Cru Classé",
-      "Chateau": "Château LA LAGUNE",
+      "appellation": "Haut-Médoc",
+      "name": "Château LA LAGUNE",
       "vintages": [
         {
           "Année": "2015",
@@ -23040,9 +23040,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château LALANDE",
+      "appellation": "St-Julien",
+      "name": "Château LALANDE",
       "vintages": [
         {
           "Année": "2015",
@@ -23078,9 +23078,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": null,
-      "Chateau": "Château LALANDE BORIE",
+      "appellation": "St-Julien",
+      "name": "Château LALANDE BORIE",
       "vintages": [
         {
           "Année": "2016",
@@ -23176,9 +23176,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château LA LOUVIERE, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LA LOUVIERE, Blanc",
       "vintages": [
         {
           "Année": "2002",
@@ -23322,9 +23322,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château LA LOUVIERE, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LA LOUVIERE, Rouge",
       "vintages": [
         {
           "Année": "2002",
@@ -23450,9 +23450,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château LA MARZELLE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LA MARZELLE",
       "vintages": [
         {
           "Année": "2004",
@@ -23494,9 +23494,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château LA MISSION HAUT BRION, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LA MISSION HAUT BRION, Rouge",
       "vintages": [
         {
           "Année": "2002",
@@ -23634,9 +23634,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château LAMOTHE",
+      "appellation": "Sauternes",
+      "name": "Château LAMOTHE",
       "vintages": [
         {
           "Année": "2004",
@@ -23648,9 +23648,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château LAMOTHE BERGERON",
+      "appellation": "Haut-Médoc",
+      "name": "Château LAMOTHE BERGERON",
       "vintages": [
         {
           "Année": "2014",
@@ -23680,9 +23680,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château LAMOTHE GUIGNARD",
+      "appellation": "Sauternes",
+      "name": "Château LAMOTHE GUIGNARD",
       "vintages": [
         {
           "Année": "2005",
@@ -23706,9 +23706,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Moulis",
       "Classement": null,
-      "Chateau": "Château La MOULINE",
+      "appellation": "Moulis",
+      "name": "Château La MOULINE",
       "vintages": [
         {
           "Année": "2016",
@@ -23726,9 +23726,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château LANESSAN",
+      "appellation": "Haut-Médoc",
+      "name": "Château LANESSAN",
       "vintages": [
         {
           "Année": "2003",
@@ -23800,9 +23800,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": "3° Cru Classé",
-      "Chateau": "Château LANGOA BARTON",
+      "appellation": "St-Julien",
+      "name": "Château LANGOA BARTON",
       "vintages": [
         {
           "Année": "2016",
@@ -23826,9 +23826,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Montagne Saint-Emilion",
       "Classement": null,
-      "Chateau": "Château LA PAPETERIE",
+      "appellation": "Montagne Saint-Emilion",
+      "name": "Château LA PAPETERIE",
       "vintages": [
         {
           "Année": "2000",
@@ -23846,9 +23846,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château LA POINTE",
+      "appellation": "Pomerol",
+      "name": "Château LA POINTE",
       "vintages": [
         {
           "Année": "2007",
@@ -23980,9 +23980,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château LARCIS DUCASSE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LARCIS DUCASSE",
       "vintages": [
         {
           "Année": "2007",
@@ -24090,9 +24090,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château LARMANDE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LARMANDE",
       "vintages": [
         {
           "Année": "2015",
@@ -24170,9 +24170,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château LA ROSE FIGEAC",
+      "appellation": "Pomerol",
+      "name": "Château LA ROSE FIGEAC",
       "vintages": [
         {
           "Année": "2004",
@@ -24226,9 +24226,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château LAROSE PERGANSON",
+      "appellation": "Haut-Médoc",
+      "name": "Château LAROSE PERGANSON",
       "vintages": [
         {
           "Année": "2003",
@@ -24258,9 +24258,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château LAROSE TRINTAUDON",
+      "appellation": "Haut-Médoc",
+      "name": "Château LAROSE TRINTAUDON",
       "vintages": [
         {
           "Année": "2016",
@@ -24356,9 +24356,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Fronsac",
       "Classement": null,
-      "Chateau": "Château LA ROUSSELLE",
+      "appellation": "Fronsac",
+      "name": "Château LA ROUSSELLE",
       "vintages": [
         {
           "Année": "2003",
@@ -24370,9 +24370,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château LAROZE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LAROZE",
       "vintages": [
         {
           "Année": "2005",
@@ -24444,9 +24444,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château LARRIVAUX",
+      "appellation": "Haut-Médoc",
+      "name": "Château LARRIVAUX",
       "vintages": [
         {
           "Année": "2016",
@@ -24458,9 +24458,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château LARRIVET HAUT BRION, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LARRIVET HAUT BRION, Blanc",
       "vintages": [
         {
           "Année": "2015",
@@ -24646,9 +24646,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château LARRIVET HAUT BRION, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LARRIVET HAUT BRION, Rouge",
       "vintages": [
         {
           "Année": "2015",
@@ -24840,9 +24840,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château L'ARROSEE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château L'ARROSEE",
       "vintages": [
         {
           "Année": "2012",
@@ -24986,9 +24986,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château LASCOMBES",
+      "appellation": "Margaux",
+      "name": "Château LASCOMBES",
       "vintages": [
         {
           "Année": "2015",
@@ -25156,9 +25156,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Lalande de Pomerol",
       "Classement": null,
-      "Chateau": "Château LA SERGUE",
+      "appellation": "Lalande de Pomerol",
+      "name": "Château LA SERGUE",
       "vintages": [
         {
           "Année": "2005",
@@ -25206,9 +25206,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château LA SERRE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LA SERRE",
       "vintages": [
         {
           "Année": "2002",
@@ -25220,9 +25220,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château LASSEGUE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LASSEGUE",
       "vintages": [
         {
           "Année": "2000",
@@ -25234,9 +25234,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "1° Cru Classé",
-      "Chateau": "Château LATOUR",
+      "appellation": "Pauillac",
+      "name": "Château LATOUR",
       "vintages": [
         {
           "Année": "2011",
@@ -25476,9 +25476,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "1° Cru Classé",
-      "Chateau": "Château LA TOUR BLANCHE",
+      "appellation": "Sauternes",
+      "name": "Château LA TOUR BLANCHE",
       "vintages": [
         {
           "Année": "2015",
@@ -25622,9 +25622,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "4° Cru Classé",
-      "Chateau": "Château LA TOUR CARNET",
+      "appellation": "Haut-Médoc",
+      "name": "Château LA TOUR CARNET",
       "vintages": [
         {
           "Année": "2016",
@@ -25798,9 +25798,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "Château LA TOUR CARNET BLANC, Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "Château LA TOUR CARNET BLANC, Blanc",
       "vintages": [
         {
           "Année": "2016",
@@ -25818,9 +25818,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château LA TOUR DE BY",
+      "appellation": "Médoc",
+      "name": "Château LA TOUR DE BY",
       "vintages": [
         {
           "Année": "2000",
@@ -25832,9 +25832,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "Château LA TOUR DE MONS",
+      "appellation": "Margaux",
+      "name": "Château LA TOUR DE MONS",
       "vintages": [
         {
           "Année": "2016",
@@ -26014,9 +26014,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château LA TOUR DU PIN FIGEAC",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LA TOUR DU PIN FIGEAC",
       "vintages": [
         {
           "Année": "1998",
@@ -26058,9 +26058,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château LA TOUR FIGEAC",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LA TOUR FIGEAC",
       "vintages": [
         {
           "Année": "2011",
@@ -26132,9 +26132,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château LA TOUR HAUT BRION, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LA TOUR HAUT BRION, Rouge",
       "vintages": [
         {
           "Année": "2002",
@@ -26266,9 +26266,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château LATOUR-MARTILLAC, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LATOUR-MARTILLAC, Blanc",
       "vintages": [
         {
           "Année": "2015",
@@ -26376,9 +26376,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château LATOUR-MARTILLAC, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LATOUR-MARTILLAC, Rouge",
       "vintages": [
         {
           "Année": "2015",
@@ -26486,9 +26486,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Castillon",
       "Classement": null,
-      "Chateau": "Château LAUSSAC",
+      "appellation": "Côtes de Castillon",
+      "name": "Château LAUSSAC",
       "vintages": [
         {
           "Année": "2001",
@@ -26500,9 +26500,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Fronsac",
       "Classement": null,
-      "Chateau": "Château LA VIEILLE CURE",
+      "appellation": "Fronsac",
+      "name": "Château LA VIEILLE CURE",
       "vintages": [
         {
           "Année": "2016",
@@ -26604,9 +26604,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château LAVILLE HAUT BRION, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LAVILLE HAUT BRION, Blanc",
       "vintages": [
         {
           "Année": "2002",
@@ -26708,9 +26708,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château LA VIOLETTE",
+      "appellation": "Pomerol",
+      "name": "Château LA VIOLETTE",
       "vintages": [
         {
           "Année": "2003",
@@ -26794,9 +26794,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Puisseguin St-Emilion",
       "Classement": null,
-      "Chateau": "Château LE BERNAT",
+      "appellation": "Puisseguin St-Emilion",
+      "name": "Château LE BERNAT",
       "vintages": [
         {
           "Année": "2002",
@@ -26808,9 +26808,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Graves",
       "Classement": null,
-      "Chateau": "Château LE BONNAT, Blanc",
+      "appellation": "Graves",
+      "name": "Château LE BONNAT, Blanc",
       "vintages": [
         {
           "Année": "1996",
@@ -26822,9 +26822,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Graves",
       "Classement": null,
-      "Chateau": "Château LE BONNAT, Rouge",
+      "appellation": "Graves",
+      "name": "Château LE BONNAT, Rouge",
       "vintages": [
         {
           "Année": "1996",
@@ -26836,9 +26836,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château LE BON PASTEUR",
+      "appellation": "Pomerol",
+      "name": "Château LE BON PASTEUR",
       "vintages": [
         {
           "Année": "2004",
@@ -26928,9 +26928,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château LE CAILLOU",
+      "appellation": "Pomerol",
+      "name": "Château LE CAILLOU",
       "vintages": [
         {
           "Année": "2012",
@@ -26948,9 +26948,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "1ères Côtes de Bordeaux",
       "Classement": null,
-      "Chateau": "Château LE DOYENNE, Rouge",
+      "appellation": "1ères Côtes de Bordeaux",
+      "name": "Château LE DOYENNE, Rouge",
       "vintages": [
         {
           "Année": "2012",
@@ -27028,9 +27028,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château L'EGLISE CLINET",
+      "appellation": "Pomerol",
+      "name": "Château L'EGLISE CLINET",
       "vintages": [
         {
           "Année": "2004",
@@ -27108,9 +27108,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château LE MONTEIL D'ARSAC",
+      "appellation": "Haut-Médoc",
+      "name": "Château LE MONTEIL D'ARSAC",
       "vintages": [
         {
           "Année": "1995",
@@ -27122,9 +27122,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château L'ENCLOS",
+      "appellation": "Pomerol",
+      "name": "Château L'ENCLOS",
       "vintages": [
         {
           "Année": "2009",
@@ -27286,9 +27286,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château LEOVILLE BARTON",
+      "appellation": "St-Julien",
+      "name": "Château LEOVILLE BARTON",
       "vintages": [
         {
           "Année": "2015",
@@ -27504,9 +27504,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château LEOVILLE POYFERRE",
+      "appellation": "St-Julien",
+      "name": "Château LEOVILLE POYFERRE",
       "vintages": [
         {
           "Année": "2005",
@@ -27674,9 +27674,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château LE PRIEURE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LE PRIEURE",
       "vintages": [
         {
           "Année": "2007",
@@ -27694,9 +27694,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château LE SARTRE, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LE SARTRE, Blanc",
       "vintages": [
         {
           "Année": "2014",
@@ -27732,9 +27732,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château LE SARTRE, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LE SARTRE, Rouge",
       "vintages": [
         {
           "Année": "2014",
@@ -27764,9 +27764,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château LES CARMES HAUT BRION, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LES CARMES HAUT BRION, Rouge",
       "vintages": [
         {
           "Année": "2012",
@@ -27940,9 +27940,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Lalande de Pomerol",
       "Classement": null,
-      "Chateau": "Château LES CRUZELLES",
+      "appellation": "Lalande de Pomerol",
+      "name": "Château LES CRUZELLES",
       "vintages": [
         {
           "Année": "2014",
@@ -27978,9 +27978,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château Les GRANDES MURAILLES",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château Les GRANDES MURAILLES",
       "vintages": [
         {
           "Année": "1998",
@@ -28004,9 +28004,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": null,
-      "Chateau": "Château LES GRANDS CHENES",
+      "appellation": "Médoc",
+      "name": "Château LES GRANDS CHENES",
       "vintages": [
         {
           "Année": "2016",
@@ -28084,9 +28084,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": null,
-      "Chateau": "Château LES GRANDS CHENES \"Cuvée Prestige\"",
+      "appellation": "Médoc",
+      "name": "Château LES GRANDS CHENES \"Cuvée Prestige\"",
       "vintages": [
         {
           "Année": "2001",
@@ -28098,9 +28098,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "1ères Côtes de Blaye",
       "Classement": null,
-      "Chateau": "Château LES GRANDS MARECHAUX",
+      "appellation": "1ères Côtes de Blaye",
+      "name": "Château LES GRANDS MARECHAUX",
       "vintages": [
         {
           "Année": "2002",
@@ -28142,9 +28142,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château LES GRAVIERES",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LES GRAVIERES",
       "vintages": [
         {
           "Année": "2016",
@@ -28204,9 +28204,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": null,
-      "Chateau": "Château LES HAUTS DE PONTET",
+      "appellation": "Pauillac",
+      "name": "Château LES HAUTS DE PONTET",
       "vintages": [
         {
           "Année": "1995",
@@ -28224,9 +28224,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château LESPAULT MARTILLAC, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LESPAULT MARTILLAC, Blanc",
       "vintages": [
         {
           "Année": "2015",
@@ -28238,9 +28238,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château LESPAULT MARTILLAC, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LESPAULT MARTILLAC, Rouge",
       "vintages": [
         {
           "Année": "2015",
@@ -28258,9 +28258,9 @@
     },
     {
       "Couleur": "Rosé",
-      "Appellation": "Bordeaux Rosé",
       "Classement": null,
-      "Chateau": "Château LES ROSES DE FAUGERES, Rosé",
+      "appellation": "Bordeaux Rosé",
+      "name": "Château LES ROSES DE FAUGERES, Rosé",
       "vintages": [
         {
           "Année": "2002",
@@ -28284,9 +28284,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Listrac",
       "Classement": null,
-      "Chateau": "Château LESTAGE",
+      "appellation": "Listrac",
+      "name": "Château LESTAGE",
       "vintages": [
         {
           "Année": "2005",
@@ -28346,9 +28346,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Fronsac",
       "Classement": null,
-      "Chateau": "Château LES TROIS CROIX",
+      "appellation": "Fronsac",
+      "name": "Château LES TROIS CROIX",
       "vintages": [
         {
           "Année": "2016",
@@ -28486,9 +28486,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château LE THIL Comte Clary, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LE THIL Comte Clary, Blanc",
       "vintages": [
         {
           "Année": "2008",
@@ -28512,9 +28512,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château LE THIL Comte Clary, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château LE THIL Comte Clary, Rouge",
       "vintages": [
         {
           "Année": "2014",
@@ -28544,9 +28544,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château L'EVANGILE",
+      "appellation": "Pomerol",
+      "name": "Château L'EVANGILE",
       "vintages": [
         {
           "Année": "2014",
@@ -28744,9 +28744,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château L'HERMITAGE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château L'HERMITAGE",
       "vintages": [
         {
           "Année": "2006",
@@ -28812,9 +28812,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Graves",
       "Classement": null,
-      "Chateau": "Château L'HOSPITAL, Rouge",
+      "appellation": "Graves",
+      "name": "Château L'HOSPITAL, Rouge",
       "vintages": [
         {
           "Année": "2000",
@@ -28826,9 +28826,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "Château LILIAN LADOUYS",
+      "appellation": "St-Estèphe",
+      "name": "Château LILIAN LADOUYS",
       "vintages": [
         {
           "Année": "2016",
@@ -28966,9 +28966,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": null,
-      "Chateau": "Château LIOT",
+      "appellation": "Sauternes",
+      "name": "Château LIOT",
       "vintages": [
         {
           "Année": "2016",
@@ -29082,9 +29082,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château LIVERSAN",
+      "appellation": "Haut-Médoc",
+      "name": "Château LIVERSAN",
       "vintages": [
         {
           "Année": "1998",
@@ -29120,9 +29120,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": null,
-      "Chateau": "Château LOUSTEAUNEUF",
+      "appellation": "Médoc",
+      "name": "Château LOUSTEAUNEUF",
       "vintages": [
         {
           "Année": "2016",
@@ -29206,9 +29206,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion",
       "Classement": null,
-      "Chateau": "Château LUCIA",
+      "appellation": "St-Emilion",
+      "name": "Château LUCIA",
       "vintages": [
         {
           "Année": "2005",
@@ -29232,9 +29232,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château LUSSEAU",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château LUSSEAU",
       "vintages": [
         {
           "Année": "2004",
@@ -29252,9 +29252,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château LYNCH BAGES",
+      "appellation": "Pauillac",
+      "name": "Château LYNCH BAGES",
       "vintages": [
         {
           "Année": "2014",
@@ -29470,9 +29470,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château LYNCH MOUSSAS",
+      "appellation": "Pauillac",
+      "name": "Château LYNCH MOUSSAS",
       "vintages": [
         {
           "Année": "2016",
@@ -29700,9 +29700,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Graves",
       "Classement": null,
-      "Chateau": "Château MAGENCE, Rouge",
+      "appellation": "Graves",
+      "name": "Château MAGENCE, Rouge",
       "vintages": [
         {
           "Année": "1998",
@@ -29714,9 +29714,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château MAGREZ FOMBRAUGE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château MAGREZ FOMBRAUGE",
       "vintages": [
         {
           "Année": "2016",
@@ -29806,9 +29806,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux",
       "Classement": null,
-      "Chateau": "Château MAGREZ FOMBRAUGE, Blanc",
+      "appellation": "Bordeaux",
+      "name": "Château MAGREZ FOMBRAUGE, Blanc",
       "vintages": [
         {
           "Année": "2016",
@@ -29838,9 +29838,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château MAILLET",
+      "appellation": "Pomerol",
+      "name": "Château MAILLET",
       "vintages": [
         {
           "Année": "2015",
@@ -29852,9 +29852,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Montagne Saint-Emilion",
       "Classement": null,
-      "Chateau": "Château MAISON BLANCHE",
+      "appellation": "Montagne Saint-Emilion",
+      "name": "Château MAISON BLANCHE",
       "vintages": [
         {
           "Année": "2004",
@@ -29908,9 +29908,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château MALARTIC LAGRAVIERE, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château MALARTIC LAGRAVIERE, Blanc",
       "vintages": [
         {
           "Année": "2015",
@@ -30054,9 +30054,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château MALARTIC LAGRAVIERE, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château MALARTIC LAGRAVIERE, Rouge",
       "vintages": [
         {
           "Année": "2015",
@@ -30206,9 +30206,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château MALESCASSE",
+      "appellation": "Haut-Médoc",
+      "name": "Château MALESCASSE",
       "vintages": [
         {
           "Année": "2016",
@@ -30334,9 +30334,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "3° Cru Classé",
-      "Chateau": "Château MALESCOT SAINT EXUPERY",
+      "appellation": "Margaux",
+      "name": "Château MALESCOT SAINT EXUPERY",
       "vintages": [
         {
           "Année": "2014",
@@ -30426,9 +30426,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "1° Cru Classé",
-      "Chateau": "Château MARGAUX",
+      "appellation": "Margaux",
+      "name": "Château MARGAUX",
       "vintages": [
         {
           "Année": "2013",
@@ -30704,9 +30704,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Entre Deux Mers",
       "Classement": null,
-      "Chateau": "Château MARJOSSE, Blanc",
+      "appellation": "Entre Deux Mers",
+      "name": "Château MARJOSSE, Blanc",
       "vintages": [
         {
           "Année": "2011",
@@ -30772,9 +30772,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux",
       "Classement": null,
-      "Chateau": "Château MARJOSSE, Rouge",
+      "appellation": "Bordeaux",
+      "name": "Château MARJOSSE, Rouge",
       "vintages": [
         {
           "Année": "2014",
@@ -30840,9 +30840,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "3° Cru Classé",
-      "Chateau": "Château MARQUIS D'ALESME",
+      "appellation": "Margaux",
+      "name": "Château MARQUIS D'ALESME",
       "vintages": [
         {
           "Année": "2016",
@@ -30878,9 +30878,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "4° Cru Classé",
-      "Chateau": "Château MARQUIS DE TERME",
+      "appellation": "Margaux",
+      "name": "Château MARQUIS DE TERME",
       "vintages": [
         {
           "Année": "2014",
@@ -31018,9 +31018,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "Château MARSAC SEGUINEAU",
+      "appellation": "Margaux",
+      "name": "Château MARSAC SEGUINEAU",
       "vintages": [
         {
           "Année": "2016",
@@ -31056,9 +31056,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château MARTINENS",
+      "appellation": "Margaux",
+      "name": "Château MARTINENS",
       "vintages": [
         {
           "Année": "2006",
@@ -31142,9 +31142,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux Supérieur",
       "Classement": null,
-      "Chateau": "Château MARTINON",
+      "appellation": "Bordeaux Supérieur",
+      "name": "Château MARTINON",
       "vintages": [
         {
           "Année": "1992",
@@ -31156,9 +31156,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Moulis",
       "Classement": null,
-      "Chateau": "Château MAUCAILLOU",
+      "appellation": "Moulis",
+      "name": "Château MAUCAILLOU",
       "vintages": [
         {
           "Année": "2016",
@@ -31284,9 +31284,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Moulis",
       "Classement": null,
-      "Chateau": "Château MAUVESIN BARTON",
+      "appellation": "Moulis",
+      "name": "Château MAUVESIN BARTON",
       "vintages": [
         {
           "Année": "2016",
@@ -31328,9 +31328,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Listrac",
       "Classement": null,
-      "Chateau": "Château MAYNE LALANDE",
+      "appellation": "Listrac",
+      "name": "Château MAYNE LALANDE",
       "vintages": [
         {
           "Année": "2016",
@@ -31426,9 +31426,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château MAZEYRES",
+      "appellation": "Pomerol",
+      "name": "Château MAZEYRES",
       "vintages": [
         {
           "Année": "2015",
@@ -31560,9 +31560,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Montagne Saint-Emilion",
       "Classement": null,
-      "Chateau": "Château MESSILE AUBERT",
+      "appellation": "Montagne Saint-Emilion",
+      "name": "Château MESSILE AUBERT",
       "vintages": [
         {
           "Année": "2015",
@@ -31586,9 +31586,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Montagne Saint-Emilion",
       "Classement": null,
-      "Chateau": "Château MESSILE CASSAT",
+      "appellation": "Montagne Saint-Emilion",
+      "name": "Château MESSILE CASSAT",
       "vintages": [
         {
           "Année": "2002",
@@ -31606,9 +31606,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "Château MEYNEY",
+      "appellation": "St-Estèphe",
+      "name": "Château MEYNEY",
       "vintages": [
         {
           "Année": "2014",
@@ -31704,9 +31704,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château MEYRE",
+      "appellation": "Haut-Médoc",
+      "name": "Château MEYRE",
       "vintages": [
         {
           "Année": "1998",
@@ -31724,9 +31724,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château MILENS",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château MILENS",
       "vintages": [
         {
           "Année": "2015",
@@ -31798,9 +31798,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château MILLE ROSES",
+      "appellation": "Haut-Médoc",
+      "name": "Château MILLE ROSES",
       "vintages": [
         {
           "Année": "2016",
@@ -31950,9 +31950,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château MONBOUSQUET",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château MONBOUSQUET",
       "vintages": [
         {
           "Année": "2014",
@@ -32018,9 +32018,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "Château MONBOUSQUET, Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "Château MONBOUSQUET, Blanc",
       "vintages": [
         {
           "Année": "2004",
@@ -32068,9 +32068,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "Château MONBRISON",
+      "appellation": "Margaux",
+      "name": "Château MONBRISON",
       "vintages": [
         {
           "Année": "2014",
@@ -32244,9 +32244,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château MONDORION",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château MONDORION",
       "vintages": [
         {
           "Année": "2012",
@@ -32306,9 +32306,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château MONGRAVEY",
+      "appellation": "Margaux",
+      "name": "Château MONGRAVEY",
       "vintages": [
         {
           "Année": "2011",
@@ -32320,9 +32320,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château MONTLABERT",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château MONTLABERT",
       "vintages": [
         {
           "Année": "2014",
@@ -32358,9 +32358,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Castillon",
       "Classement": null,
-      "Chateau": "Château MONTLANDRIE",
+      "appellation": "Côtes de Castillon",
+      "name": "Château MONTLANDRIE",
       "vintages": [
         {
           "Année": "2014",
@@ -32372,9 +32372,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château MONTROSE",
+      "appellation": "St-Estèphe",
+      "name": "Château MONTROSE",
       "vintages": [
         {
           "Année": "2016",
@@ -32596,9 +32596,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Moulis",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château MOULIN A VENT",
+      "appellation": "Moulis",
+      "name": "Château MOULIN A VENT",
       "vintages": [
         {
           "Année": "2012",
@@ -32688,9 +32688,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château MOULIN DE SOUBEYRAN",
+      "appellation": "Haut-Médoc",
+      "name": "Château MOULIN DE SOUBEYRAN",
       "vintages": [
         {
           "Année": "2002",
@@ -32708,9 +32708,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château MOULINET",
+      "appellation": "Pomerol",
+      "name": "Château MOULINET",
       "vintages": [
         {
           "Année": "2007",
@@ -32734,9 +32734,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château MOULINET LASSERRE",
+      "appellation": "Pomerol",
+      "name": "Château MOULINET LASSERRE",
       "vintages": [
         {
           "Année": "2002",
@@ -32796,9 +32796,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Fronsac",
       "Classement": null,
-      "Chateau": "Château MOULIN HAUT LAROQUE",
+      "appellation": "Fronsac",
+      "name": "Château MOULIN HAUT LAROQUE",
       "vintages": [
         {
           "Année": "2016",
@@ -32906,9 +32906,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Canon Fronsac",
       "Classement": null,
-      "Chateau": "Château MOULIN PEY-LABRIE",
+      "appellation": "Canon Fronsac",
+      "name": "Château MOULIN PEY-LABRIE",
       "vintages": [
         {
           "Année": "1997",
@@ -32920,9 +32920,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château MOULIN SAINT-GEORGES",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château MOULIN SAINT-GEORGES",
       "vintages": [
         {
           "Année": "2003",
@@ -32970,9 +32970,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "1° Cru Classé",
-      "Chateau": "Château MOUTON ROTHSCHILD",
+      "appellation": "Pauillac",
+      "name": "Château MOUTON ROTHSCHILD",
       "vintages": [
         {
           "Année": "2014",
@@ -33254,9 +33254,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "Château N° 2 du LAFON ROCHET",
+      "appellation": "St-Estèphe",
+      "name": "Château N° 2 du LAFON ROCHET",
       "vintages": [
         {
           "Année": "1994",
@@ -33268,9 +33268,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Barsac",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château NAIRAC",
+      "appellation": "Barsac",
+      "name": "Château NAIRAC",
       "vintages": [
         {
           "Année": "2010",
@@ -33390,9 +33390,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château NENIN",
+      "appellation": "Pomerol",
+      "name": "Château NENIN",
       "vintages": [
         {
           "Année": "2014",
@@ -33578,9 +33578,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "1ères Côtes de Bordeaux",
       "Classement": null,
-      "Chateau": "Château NENINE - CUVEE DES AUGUSTINS, Rouge",
+      "appellation": "1ères Côtes de Bordeaux",
+      "name": "Château NENINE - CUVEE DES AUGUSTINS, Rouge",
       "vintages": [
         {
           "Année": "2003",
@@ -33598,9 +33598,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château OLIVIER, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château OLIVIER, Blanc",
       "vintages": [
         {
           "Année": "2015",
@@ -33786,9 +33786,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château OLIVIER, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château OLIVIER, Rouge",
       "vintages": [
         {
           "Année": "2015",
@@ -33986,9 +33986,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "Château ORMES DE PEZ",
+      "appellation": "St-Estèphe",
+      "name": "Château ORMES DE PEZ",
       "vintages": [
         {
           "Année": "2016",
@@ -34216,9 +34216,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "3° Cru Classé",
-      "Chateau": "Château PALMER",
+      "appellation": "Margaux",
+      "name": "Château PALMER",
       "vintages": [
         {
           "Année": "2014",
@@ -34278,9 +34278,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château PALOUMEY",
+      "appellation": "Haut-Médoc",
+      "name": "Château PALOUMEY",
       "vintages": [
         {
           "Année": "2016",
@@ -34412,9 +34412,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château PAPE CLEMENT, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château PAPE CLEMENT, Blanc",
       "vintages": [
         {
           "Année": "2016",
@@ -34552,9 +34552,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château PAPE CLEMENT, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château PAPE CLEMENT, Rouge",
       "vintages": [
         {
           "Année": "2016",
@@ -34764,9 +34764,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château PATACHE D'AUX",
+      "appellation": "Médoc",
+      "name": "Château PATACHE D'AUX",
       "vintages": [
         {
           "Année": "1995",
@@ -34778,9 +34778,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "1° Grand Cru Classé B",
-      "Chateau": "Château PAVIE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château PAVIE",
       "vintages": [
         {
           "Année": "2004",
@@ -34924,9 +34924,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château PAVIE DECESSE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château PAVIE DECESSE",
       "vintages": [
         {
           "Année": "2004",
@@ -34998,9 +34998,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "1° Grand Cru Classé B",
-      "Chateau": "Château PAVIE MACQUIN",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château PAVIE MACQUIN",
       "vintages": [
         {
           "Année": "2014",
@@ -35072,9 +35072,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château PEDESCLAUX",
+      "appellation": "Pauillac",
+      "name": "Château PEDESCLAUX",
       "vintages": [
         {
           "Année": "2015",
@@ -35098,9 +35098,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château PETIT BOCQ",
+      "appellation": "St-Estèphe",
+      "name": "Château PETIT BOCQ",
       "vintages": [
         {
           "Année": "2008",
@@ -35154,9 +35154,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château PETIT FAURIE DE SOUTARD",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château PETIT FAURIE DE SOUTARD",
       "vintages": [
         {
           "Année": "2011",
@@ -35270,9 +35270,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château PETIT VILLAGE",
+      "appellation": "Pomerol",
+      "name": "Château PETIT VILLAGE",
       "vintages": [
         {
           "Année": "2005",
@@ -35356,9 +35356,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château PEYRABON",
+      "appellation": "Haut-Médoc",
+      "name": "Château PEYRABON",
       "vintages": [
         {
           "Année": "2016",
@@ -35472,9 +35472,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "Château PHELAN SEGUR",
+      "appellation": "St-Estèphe",
+      "name": "Château PHELAN SEGUR",
       "vintages": [
         {
           "Année": "2015",
@@ -35594,9 +35594,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château PIBRAN",
+      "appellation": "Pauillac",
+      "name": "Château PIBRAN",
       "vintages": [
         {
           "Année": "2002",
@@ -35668,9 +35668,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château PICHON BARON",
+      "appellation": "Pauillac",
+      "name": "Château PICHON BARON",
       "vintages": [
         {
           "Année": "2008",
@@ -35814,9 +35814,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château PICHON LALANDE",
+      "appellation": "Pauillac",
+      "name": "Château PICHON LALANDE",
       "vintages": [
         {
           "Année": "2012",
@@ -35990,9 +35990,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château PICQUE CAILLOU, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château PICQUE CAILLOU, Blanc",
       "vintages": [
         {
           "Année": "2003",
@@ -36022,9 +36022,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château PICQUE CAILLOU, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château PICQUE CAILLOU, Rouge",
       "vintages": [
         {
           "Année": "2016",
@@ -36096,9 +36096,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château PLAISANCE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château PLAISANCE",
       "vintages": [
         {
           "Année": "2001",
@@ -36116,9 +36116,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château PLINCETTE",
+      "appellation": "Pomerol",
+      "name": "Château PLINCETTE",
       "vintages": [
         {
           "Année": "2011",
@@ -36202,9 +36202,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château POMIES AGASSAC",
+      "appellation": "Haut-Médoc",
+      "name": "Château POMIES AGASSAC",
       "vintages": [
         {
           "Année": "1999",
@@ -36216,9 +36216,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": "5° Cru Classé",
-      "Chateau": "Château PONTET CANET",
+      "appellation": "Pauillac",
+      "name": "Château PONTET CANET",
       "vintages": [
         {
           "Année": "2006",
@@ -36380,9 +36380,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château PONTOISE CABARRUS",
+      "appellation": "Haut-Médoc",
+      "name": "Château PONTOISE CABARRUS",
       "vintages": [
         {
           "Année": "2016",
@@ -36514,9 +36514,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": null,
-      "Chateau": "Château POTENSAC",
+      "appellation": "Médoc",
+      "name": "Château POTENSAC",
       "vintages": [
         {
           "Année": "2016",
@@ -36690,9 +36690,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "4° Cru Classé",
-      "Chateau": "Château POUGET",
+      "appellation": "Margaux",
+      "name": "Château POUGET",
       "vintages": [
         {
           "Année": "2001",
@@ -36788,9 +36788,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Moulis",
       "Classement": null,
-      "Chateau": "Château POUJEAUX",
+      "appellation": "Moulis",
+      "name": "Château POUJEAUX",
       "vintages": [
         {
           "Année": "2015",
@@ -36928,9 +36928,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château POUMEY, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château POUMEY, Rouge",
       "vintages": [
         {
           "Année": "2003",
@@ -36990,9 +36990,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "4° Cru Classé",
-      "Chateau": "Château PRIEURE LICHINE",
+      "appellation": "Margaux",
+      "name": "Château PRIEURE LICHINE",
       "vintages": [
         {
           "Année": "2016",
@@ -37160,9 +37160,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château QUINAULT-L'ENCLOS",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château QUINAULT-L'ENCLOS",
       "vintages": [
         {
           "Année": "2016",
@@ -37258,9 +37258,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "1° Cru Classé",
-      "Chateau": "Château RABAUD PROMIS",
+      "appellation": "Sauternes",
+      "name": "Château RABAUD PROMIS",
       "vintages": [
         {
           "Année": "2009",
@@ -37314,9 +37314,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château RAUZAN GASSIES",
+      "appellation": "Margaux",
+      "name": "Château RAUZAN GASSIES",
       "vintages": [
         {
           "Année": "2006",
@@ -37484,9 +37484,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": "2° Cru Classé",
-      "Chateau": "Château RAUZAN SEGLA",
+      "appellation": "Margaux",
+      "name": "Château RAUZAN SEGLA",
       "vintages": [
         {
           "Année": "2014",
@@ -37624,9 +37624,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "1° Cru Classé",
-      "Chateau": "Château RAYNE VIGNEAU",
+      "appellation": "Sauternes",
+      "name": "Château RAYNE VIGNEAU",
       "vintages": [
         {
           "Année": "2015",
@@ -37800,9 +37800,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Fronsac",
       "Classement": null,
-      "Chateau": "Château RENARD MONDESIR",
+      "appellation": "Fronsac",
+      "name": "Château RENARD MONDESIR",
       "vintages": [
         {
           "Année": "2003",
@@ -37826,9 +37826,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Cadillac Côtes Bordeaux",
       "Classement": null,
-      "Chateau": "Château REYNON",
+      "appellation": "Cadillac Côtes Bordeaux",
+      "name": "Château REYNON",
       "vintages": [
         {
           "Année": "2016",
@@ -37954,9 +37954,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "Château REYNON, Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "Château REYNON, Blanc",
       "vintages": [
         {
           "Année": "2016",
@@ -38076,9 +38076,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "1° Cru Classé",
-      "Chateau": "Château RIEUSSEC",
+      "appellation": "Sauternes",
+      "name": "Château RIEUSSEC",
       "vintages": [
         {
           "Année": "2016",
@@ -38246,9 +38246,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château RIOU DE THAILLAS",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château RIOU DE THAILLAS",
       "vintages": [
         {
           "Année": "2002",
@@ -38272,9 +38272,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château RIPEAU",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château RIPEAU",
       "vintages": [
         {
           "Année": "2002",
@@ -38298,9 +38298,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château ROLLAN DE BY",
+      "appellation": "Médoc",
+      "name": "Château ROLLAN DE BY",
       "vintages": [
         {
           "Année": "2011",
@@ -38390,9 +38390,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château ROL VALENTIN",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château ROL VALENTIN",
       "vintages": [
         {
           "Année": "2004",
@@ -38446,9 +38446,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Montagne Saint-Emilion",
       "Classement": null,
-      "Chateau": "Château ROUDIER",
+      "appellation": "Montagne Saint-Emilion",
+      "name": "Château ROUDIER",
       "vintages": [
         {
           "Année": "2002",
@@ -38472,9 +38472,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château ROUGET",
+      "appellation": "Pomerol",
+      "name": "Château ROUGET",
       "vintages": [
         {
           "Année": "2007",
@@ -38564,9 +38564,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château ROYLLAND",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château ROYLLAND",
       "vintages": [
         {
           "Année": "2004",
@@ -38584,9 +38584,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Castillon",
       "Classement": null,
-      "Chateau": "Château SAINTE COLOMBE",
+      "appellation": "Côtes de Castillon",
+      "name": "Château SAINTE COLOMBE",
       "vintages": [
         {
           "Année": "2002",
@@ -38616,9 +38616,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château SAINT PAUL",
+      "appellation": "Haut-Médoc",
+      "name": "Château SAINT PAUL",
       "vintages": [
         {
           "Année": "2001",
@@ -38636,9 +38636,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": "4° Cru Classé",
-      "Chateau": "Château SAINT PIERRE",
+      "appellation": "St-Julien",
+      "name": "Château SAINT PIERRE",
       "vintages": [
         {
           "Année": "2016",
@@ -38794,9 +38794,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "Château SEGONNES",
+      "appellation": "Margaux",
+      "name": "Château SEGONNES",
       "vintages": [
         {
           "Année": "1999",
@@ -38838,9 +38838,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château SENEJAC",
+      "appellation": "Haut-Médoc",
+      "name": "Château SENEJAC",
       "vintages": [
         {
           "Année": "2016",
@@ -38930,9 +38930,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "Château SERILHAN",
+      "appellation": "St-Estèphe",
+      "name": "Château SERILHAN",
       "vintages": [
         {
           "Année": "2006",
@@ -38962,9 +38962,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Lalande de Pomerol",
       "Classement": null,
-      "Chateau": "Château SIAURAC",
+      "appellation": "Lalande de Pomerol",
+      "name": "Château SIAURAC",
       "vintages": [
         {
           "Année": "2007",
@@ -38982,9 +38982,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "1° Cru Classé",
-      "Chateau": "Château SIGALAS RABAUD",
+      "appellation": "Sauternes",
+      "name": "Château SIGALAS RABAUD",
       "vintages": [
         {
           "Année": "2009",
@@ -39032,9 +39032,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "Château SIRAN",
+      "appellation": "Margaux",
+      "name": "Château SIRAN",
       "vintages": [
         {
           "Année": "2016",
@@ -39160,9 +39160,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "Château SMITH HT. LAFITTE, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Château SMITH HT. LAFITTE, Blanc",
       "vintages": [
         {
           "Année": "2015",
@@ -39270,9 +39270,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Château SMITH HT. LAFITTE, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Château SMITH HT. LAFITTE, Rouge",
       "vintages": [
         {
           "Année": "2015",
@@ -39380,9 +39380,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château SOCIANDO MALLET",
+      "appellation": "Haut-Médoc",
+      "name": "Château SOCIANDO MALLET",
       "vintages": [
         {
           "Année": "2015",
@@ -39568,9 +39568,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "1ères Côtes de Bordeaux",
       "Classement": null,
-      "Chateau": "Château SORTILEGE DE PLAISANCE, Rouge",
+      "appellation": "1ères Côtes de Bordeaux",
+      "name": "Château SORTILEGE DE PLAISANCE, Rouge",
       "vintages": [
         {
           "Année": "2002",
@@ -39594,9 +39594,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château SOUDARS",
+      "appellation": "Haut-Médoc",
+      "name": "Château SOUDARS",
       "vintages": [
         {
           "Année": "2006",
@@ -39626,9 +39626,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château SOUTARD",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château SOUTARD",
       "vintages": [
         {
           "Année": "2008",
@@ -39712,9 +39712,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": "1° Cru Classé",
-      "Chateau": "Château SUDUIRAUT",
+      "appellation": "Sauternes",
+      "name": "Château SUDUIRAUT",
       "vintages": [
         {
           "Année": "2016",
@@ -39870,9 +39870,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": "4° Cru Classé",
-      "Chateau": "Château TALBOT",
+      "appellation": "St-Julien",
+      "name": "Château TALBOT",
       "vintages": [
         {
           "Année": "2006",
@@ -39962,9 +39962,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "Château TALBOT CAILLOU BLANC, Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "Château TALBOT CAILLOU BLANC, Blanc",
       "vintages": [
         {
           "Année": "2006",
@@ -40060,9 +40060,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "1ères Côtes de Bordeaux",
       "Classement": null,
-      "Chateau": "Château TANESSE, Rouge",
+      "appellation": "1ères Côtes de Bordeaux",
+      "name": "Château TANESSE, Rouge",
       "vintages": [
         {
           "Année": "2000",
@@ -40074,9 +40074,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château TERREY GROS CAILLOUX",
+      "appellation": "St-Julien",
+      "name": "Château TERREY GROS CAILLOUX",
       "vintages": [
         {
           "Année": "2005",
@@ -40166,9 +40166,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château TERTRE DAUGAY",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château TERTRE DAUGAY",
       "vintages": [
         {
           "Année": "2006",
@@ -40204,9 +40204,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "Château THIEULEY, Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "Château THIEULEY, Blanc",
       "vintages": [
         {
           "Année": "2007",
@@ -40260,9 +40260,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "Château THIEULEY Blc Cuvée Francis Courselle, Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "Château THIEULEY Blc Cuvée Francis Courselle, Blanc",
       "vintages": [
         {
           "Année": "2004",
@@ -40298,9 +40298,9 @@
     },
     {
       "Couleur": "Rosé",
-      "Appellation": "Clairet",
       "Classement": null,
-      "Chateau": "Château THIEULEY Clairet, Rosé",
+      "appellation": "Clairet",
+      "name": "Château THIEULEY Clairet, Rosé",
       "vintages": [
         {
           "Année": "2009",
@@ -40354,9 +40354,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux",
       "Classement": null,
-      "Chateau": "Château THIEULEY Réserve Francis Courselle, Rouge",
+      "appellation": "Bordeaux",
+      "name": "Château THIEULEY Réserve Francis Courselle, Rouge",
       "vintages": [
         {
           "Année": "2005",
@@ -40398,9 +40398,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux",
       "Classement": null,
-      "Chateau": "Château THIEULEY, Rouge",
+      "appellation": "Bordeaux",
+      "name": "Château THIEULEY, Rouge",
       "vintages": [
         {
           "Année": "2005",
@@ -40442,9 +40442,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "Château TOUR DE PEZ",
+      "appellation": "St-Estèphe",
+      "name": "Château TOUR DE PEZ",
       "vintages": [
         {
           "Année": "2016",
@@ -40528,9 +40528,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": "Cru Bourgeois Supérieur",
-      "Chateau": "Château TOUR DU HAUT MOULIN",
+      "appellation": "Haut-Médoc",
+      "name": "Château TOUR DU HAUT MOULIN",
       "vintages": [
         {
           "Année": "2005",
@@ -40554,9 +40554,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Fronsac",
       "Classement": null,
-      "Chateau": "Château TOUR DU MOULIN \"cuvée particulière\"",
+      "appellation": "Fronsac",
+      "name": "Château TOUR DU MOULIN \"cuvée particulière\"",
       "vintages": [
         {
           "Année": "2001",
@@ -40568,9 +40568,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": null,
-      "Chateau": "Château TOUR SAINT BONNET",
+      "appellation": "Médoc",
+      "name": "Château TOUR SAINT BONNET",
       "vintages": [
         {
           "Année": "2016",
@@ -40702,9 +40702,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Château TRIANON",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château TRIANON",
       "vintages": [
         {
           "Année": "2008",
@@ -40758,9 +40758,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "Château TRONQUOY-LALANDE",
+      "appellation": "St-Estèphe",
+      "name": "Château TRONQUOY-LALANDE",
       "vintages": [
         {
           "Année": "2012",
@@ -40796,9 +40796,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château TROPLONG MONDOT",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château TROPLONG MONDOT",
       "vintages": [
         {
           "Année": "2005",
@@ -40906,9 +40906,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "1° Grand Cru Classé B",
-      "Chateau": "Château VALANDRAUD",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château VALANDRAUD",
       "vintages": [
         {
           "Année": "2015",
@@ -41028,9 +41028,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "Château VERDIGNAN",
+      "appellation": "Haut-Médoc",
+      "name": "Château VERDIGNAN",
       "vintages": [
         {
           "Année": "2009",
@@ -41048,9 +41048,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Castillon",
       "Classement": null,
-      "Chateau": "Château VEYRY",
+      "appellation": "Côtes de Castillon",
+      "name": "Château VEYRY",
       "vintages": [
         {
           "Année": "2010",
@@ -41116,9 +41116,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Montagne Saint-Emilion",
       "Classement": null,
-      "Chateau": "Château VIEUX MESSILE CASSAT",
+      "appellation": "Montagne Saint-Emilion",
+      "name": "Château VIEUX MESSILE CASSAT",
       "vintages": [
         {
           "Année": "2000",
@@ -41130,9 +41130,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": "Cru Bourgeois",
-      "Chateau": "Château VIEUX ROBIN",
+      "appellation": "Médoc",
+      "name": "Château VIEUX ROBIN",
       "vintages": [
         {
           "Année": "2002",
@@ -41186,9 +41186,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": null,
-      "Chateau": "Château VIEUX ROBIN \"BOIS DE LUNIER\"",
+      "appellation": "Médoc",
+      "name": "Château VIEUX ROBIN \"BOIS DE LUNIER\"",
       "vintages": [
         {
           "Année": "2008",
@@ -41278,9 +41278,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Fronsac",
       "Classement": null,
-      "Chateau": "Château VILLARS",
+      "appellation": "Fronsac",
+      "name": "Château VILLARS",
       "vintages": [
         {
           "Année": "2005",
@@ -41304,9 +41304,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château VILLEMAURINE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château VILLEMAURINE",
       "vintages": [
         {
           "Année": "2014",
@@ -41330,9 +41330,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Château VRAY CROIX DE GAY",
+      "appellation": "Pomerol",
+      "name": "Château VRAY CROIX DE GAY",
       "vintages": [
         {
           "Année": "2007",
@@ -41350,9 +41350,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "Château YON FIGEAC",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Château YON FIGEAC",
       "vintages": [
         {
           "Année": "2002",
@@ -41382,9 +41382,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "CHEVALIER DE LASCOMBES",
+      "appellation": "Margaux",
+      "name": "CHEVALIER DE LASCOMBES",
       "vintages": [
         {
           "Année": "2015",
@@ -41444,9 +41444,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "CH. FAYAT",
+      "appellation": "Pomerol",
+      "name": "CH. FAYAT",
       "vintages": [
         {
           "Année": "2013",
@@ -41464,9 +41464,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "CLOS DE L'ORATOIRE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "CLOS DE L'ORATOIRE",
       "vintages": [
         {
           "Année": "2007",
@@ -41538,9 +41538,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "CLOS DE SARPE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "CLOS DE SARPE",
       "vintages": [
         {
           "Année": "2011",
@@ -41624,9 +41624,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux",
       "Classement": null,
-      "Chateau": "CLOS DES LUNES LUNE D'ARGENT, Blanc",
+      "appellation": "Bordeaux",
+      "name": "CLOS DES LUNES LUNE D'ARGENT, Blanc",
       "vintages": [
         {
           "Année": "2014",
@@ -41638,9 +41638,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux",
       "Classement": null,
-      "Chateau": "CLOS DES LUNES LUNE D'OR, Blanc",
+      "appellation": "Bordeaux",
+      "name": "CLOS DES LUNES LUNE D'OR, Blanc",
       "vintages": [
         {
           "Année": "2014",
@@ -41658,9 +41658,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "CLOS DES QUATRE VENTS",
+      "appellation": "Margaux",
+      "name": "CLOS DES QUATRE VENTS",
       "vintages": [
         {
           "Année": "2004",
@@ -41696,9 +41696,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "CLOS DU JAUGUEYRON",
+      "appellation": "Margaux",
+      "name": "CLOS DU JAUGUEYRON",
       "vintages": [
         {
           "Année": "2008",
@@ -41776,9 +41776,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": null,
-      "Chateau": "CLOS DU MARQUIS",
+      "appellation": "St-Julien",
+      "name": "CLOS DU MARQUIS",
       "vintages": [
         {
           "Année": "2016",
@@ -41976,9 +41976,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Graves",
       "Classement": null,
-      "Chateau": "CLOS FLORIDENE , Blanc",
+      "appellation": "Graves",
+      "name": "CLOS FLORIDENE , Blanc",
       "vintages": [
         {
           "Année": "2016",
@@ -42116,9 +42116,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Graves",
       "Classement": null,
-      "Chateau": "CLOS FLORIDENE , Rouge",
+      "appellation": "Graves",
+      "name": "CLOS FLORIDENE , Rouge",
       "vintages": [
         {
           "Année": "2016",
@@ -42220,9 +42220,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "1° Grand Cru Classé B",
-      "Chateau": "CLOS FOURTET",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "CLOS FOURTET",
       "vintages": [
         {
           "Année": "2014",
@@ -42378,9 +42378,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "CLOS L'EGLISE",
+      "appellation": "Pomerol",
+      "name": "CLOS L'EGLISE",
       "vintages": [
         {
           "Année": "2008",
@@ -42416,9 +42416,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Castillon",
       "Classement": null,
-      "Chateau": "CLOS LES LUNELLES",
+      "appellation": "Côtes de Castillon",
+      "name": "CLOS LES LUNELLES",
       "vintages": [
         {
           "Année": "2004",
@@ -42448,9 +42448,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Castillon",
       "Classement": null,
-      "Chateau": "CLOS LOUIE",
+      "appellation": "Côtes de Castillon",
+      "name": "CLOS LOUIE",
       "vintages": [
         {
           "Année": "2003",
@@ -42462,9 +42462,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Castillon",
       "Classement": null,
-      "Chateau": "CLOS PUY ARNAUD",
+      "appellation": "Côtes de Castillon",
+      "name": "CLOS PUY ARNAUD",
       "vintages": [
         {
           "Année": "2003",
@@ -42476,9 +42476,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "CLOS RENE",
+      "appellation": "Pomerol",
+      "name": "CLOS RENE",
       "vintages": [
         {
           "Année": "2012",
@@ -42676,9 +42676,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Cadillac",
       "Classement": null,
-      "Chateau": "Clos SAINTE-ANNE, Blanc",
+      "appellation": "Cadillac",
+      "name": "Clos SAINTE-ANNE, Blanc",
       "vintages": [
         {
           "Année": "1999",
@@ -42690,9 +42690,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": "Grand Cru Classé",
-      "Chateau": "CLOS SAINT MARTIN",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "CLOS SAINT MARTIN",
       "vintages": [
         {
           "Année": "1996",
@@ -42710,9 +42710,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": null,
-      "Chateau": "CONNETABLE DE TALBOT",
+      "appellation": "St-Julien",
+      "name": "CONNETABLE DE TALBOT",
       "vintages": [
         {
           "Année": "2006",
@@ -42784,9 +42784,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Cuvée CHARLES DE SARPE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Cuvée CHARLES DE SARPE",
       "vintages": [
         {
           "Année": "2008",
@@ -42828,9 +42828,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Domaine DE CHEVALIER , Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "Domaine DE CHEVALIER , Blanc",
       "vintages": [
         {
           "Année": "2014",
@@ -43010,9 +43010,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": "Cru Classé",
-      "Chateau": "Domaine DE CHEVALIER , Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "Domaine DE CHEVALIER , Rouge",
       "vintages": [
         {
           "Année": "2014",
@@ -43216,9 +43216,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "Domaine de MARTIALIS",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "Domaine de MARTIALIS",
       "vintages": [
         {
           "Année": "1995",
@@ -43230,9 +43230,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux",
       "Classement": null,
-      "Chateau": "Domaine de VALMENGAUX, Rouge",
+      "appellation": "Bordeaux",
+      "name": "Domaine de VALMENGAUX, Rouge",
       "vintages": [
         {
           "Année": "2004",
@@ -43256,9 +43256,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "DONJON DE CHATEAU LAMARQUE",
+      "appellation": "Haut-Médoc",
+      "name": "DONJON DE CHATEAU LAMARQUE",
       "vintages": [
         {
           "Année": "1999",
@@ -43270,9 +43270,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": null,
-      "Chateau": "ECHO de LYNCH BAGES",
+      "appellation": "Pauillac",
+      "name": "ECHO de LYNCH BAGES",
       "vintages": [
         {
           "Année": "2014",
@@ -43320,9 +43320,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Côtes de Bourg",
       "Classement": null,
-      "Chateau": "EPICUREA DE CHATEAU MARTINAT",
+      "appellation": "Côtes de Bourg",
+      "name": "EPICUREA DE CHATEAU MARTINAT",
       "vintages": [
         {
           "Année": "2003",
@@ -43334,9 +43334,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux Supérieur",
       "Classement": null,
-      "Chateau": "FLEUR SAINT ANTOINE",
+      "appellation": "Bordeaux Supérieur",
+      "name": "FLEUR SAINT ANTOINE",
       "vintages": [
         {
           "Année": "2003",
@@ -43354,9 +43354,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "FUGUE DE NENIN",
+      "appellation": "Pomerol",
+      "name": "FUGUE DE NENIN",
       "vintages": [
         {
           "Année": "2014",
@@ -43440,9 +43440,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "G DE CH. GUIRAUD, Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "G DE CH. GUIRAUD, Blanc",
       "vintages": [
         {
           "Année": "2017",
@@ -43466,9 +43466,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": "2° Cru Classé",
-      "Chateau": "Gd vin de LEOVILLE du MARQUIS DE LAS CASES",
+      "appellation": "St-Julien",
+      "name": "Gd vin de LEOVILLE du MARQUIS DE LAS CASES",
       "vintages": [
         {
           "Année": "2014",
@@ -43660,9 +43660,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": null,
-      "Chateau": "GOULEE",
+      "appellation": "Médoc",
+      "name": "GOULEE",
       "vintages": [
         {
           "Année": "2011",
@@ -43698,9 +43698,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Graves",
       "Classement": null,
-      "Chateau": "GRAND ENCLOS DU CHATEAU CERONS , Blanc",
+      "appellation": "Graves",
+      "name": "GRAND ENCLOS DU CHATEAU CERONS , Blanc",
       "vintages": [
         {
           "Année": "2011",
@@ -43712,9 +43712,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Graves",
       "Classement": null,
-      "Chateau": "GRAND ENCLOS DU CHATEAU CERONS , Rouge",
+      "appellation": "Graves",
+      "name": "GRAND ENCLOS DU CHATEAU CERONS , Rouge",
       "vintages": [
         {
           "Année": "2011",
@@ -43744,9 +43744,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": null,
-      "Chateau": "Grande Réserve LA CROIX DUCRU BEAUCAILLOU",
+      "appellation": "St-Julien",
+      "name": "Grande Réserve LA CROIX DUCRU BEAUCAILLOU",
       "vintages": [
         {
           "Année": "2008",
@@ -43776,9 +43776,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Fronsac",
       "Classement": null,
-      "Chateau": "HAUT CARLES",
+      "appellation": "Fronsac",
+      "name": "HAUT CARLES",
       "vintages": [
         {
           "Année": "2004",
@@ -43820,9 +43820,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": null,
-      "Chateau": "HAUTS DE PONTET-CANET",
+      "appellation": "Pauillac",
+      "name": "HAUTS DE PONTET-CANET",
       "vintages": [
         {
           "Année": "2007",
@@ -43840,9 +43840,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux",
       "Classement": null,
-      "Chateau": "HERITAGE DE THIEULEY, Rouge",
+      "appellation": "Bordeaux",
+      "name": "HERITAGE DE THIEULEY, Rouge",
       "vintages": [
         {
           "Année": "2002",
@@ -43866,9 +43866,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "LA BESSANE",
+      "appellation": "Margaux",
+      "name": "LA BESSANE",
       "vintages": [
         {
           "Année": "2007",
@@ -43904,9 +43904,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "LA CHAPELLE DE LA MISSION HAUT BRION , Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "LA CHAPELLE DE LA MISSION HAUT BRION , Rouge",
       "vintages": [
         {
           "Année": "2002",
@@ -43966,9 +43966,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "LA CLOSERIE DE CAMENSAC",
+      "appellation": "Haut-Médoc",
+      "name": "LA CLOSERIE DE CAMENSAC",
       "vintages": [
         {
           "Année": "1996",
@@ -43986,9 +43986,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": null,
-      "Chateau": "LACOSTE BORIE",
+      "appellation": "Pauillac",
+      "name": "LACOSTE BORIE",
       "vintages": [
         {
           "Année": "2015",
@@ -44132,9 +44132,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Montagne Saint-Emilion",
       "Classement": null,
-      "Chateau": "LA DAME DE BOUARD",
+      "appellation": "Montagne Saint-Emilion",
+      "name": "LA DAME DE BOUARD",
       "vintages": [
         {
           "Année": "2016",
@@ -44146,9 +44146,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "LA DAME DE MONTROSE",
+      "appellation": "St-Estèphe",
+      "name": "LA DAME DE MONTROSE",
       "vintages": [
         {
           "Année": "2016",
@@ -44304,9 +44304,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "LA DEMOISELLE DE SOCIANDO MALLET",
+      "appellation": "Haut-Médoc",
+      "name": "LA DEMOISELLE DE SOCIANDO MALLET",
       "vintages": [
         {
           "Année": "2012",
@@ -44366,9 +44366,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "LA FLEUR D'ARTHUS",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "LA FLEUR D'ARTHUS",
       "vintages": [
         {
           "Année": "2002",
@@ -44386,9 +44386,9 @@
     },
     {
       "Couleur": "Rosé",
-      "Appellation": "Bordeaux Rosé",
       "Classement": null,
-      "Chateau": "LAFON ROSET, Rosé",
+      "appellation": "Bordeaux Rosé",
+      "name": "LAFON ROSET, Rosé",
       "vintages": [
         {
           "Année": "2009",
@@ -44400,9 +44400,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion",
       "Classement": null,
-      "Chateau": "LA GRANGE NEUVE DE FIGEAC",
+      "appellation": "St-Emilion",
+      "name": "LA GRANGE NEUVE DE FIGEAC",
       "vintages": [
         {
           "Année": "1994",
@@ -44414,9 +44414,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "LA PETITE EGLISE",
+      "appellation": "Pomerol",
+      "name": "LA PETITE EGLISE",
       "vintages": [
         {
           "Année": "2004",
@@ -44470,9 +44470,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": null,
-      "Chateau": "LA PETITE MARQUISE du Clos du Marquis",
+      "appellation": "St-Julien",
+      "name": "LA PETITE MARQUISE du Clos du Marquis",
       "vintages": [
         {
           "Année": "2016",
@@ -44484,9 +44484,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion",
       "Classement": null,
-      "Chateau": "L'ARCHANGE",
+      "appellation": "St-Emilion",
+      "name": "L'ARCHANGE",
       "vintages": [
         {
           "Année": "2004",
@@ -44516,9 +44516,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "LA SERENITE, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "LA SERENITE, Rouge",
       "vintages": [
         {
           "Année": "2005",
@@ -44554,9 +44554,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "LA SIRENE DE GISCOURS",
+      "appellation": "Margaux",
+      "name": "LA SIRENE DE GISCOURS",
       "vintages": [
         {
           "Année": "2000",
@@ -44568,9 +44568,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "LATOUR A POMEROL",
+      "appellation": "Pomerol",
+      "name": "LATOUR A POMEROL",
       "vintages": [
         {
           "Année": "1996",
@@ -44582,9 +44582,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": null,
-      "Chateau": "LA TOURETTE",
+      "appellation": "Pauillac",
+      "name": "LA TOURETTE",
       "vintages": [
         {
           "Année": "2001",
@@ -44602,9 +44602,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "L DE LA LOUVIERE, Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "L DE LA LOUVIERE, Blanc",
       "vintages": [
         {
           "Année": "2001",
@@ -44664,9 +44664,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "L DE LA LOUVIERE , Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "L DE LA LOUVIERE , Rouge",
       "vintages": [
         {
           "Année": "2001",
@@ -44726,9 +44726,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux",
       "Classement": null,
-      "Chateau": "LE BLANC SEC DE CH. BROUSTET, Blanc",
+      "appellation": "Bordeaux",
+      "name": "LE BLANC SEC DE CH. BROUSTET, Blanc",
       "vintages": [
         {
           "Année": "2009",
@@ -44740,9 +44740,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "LE CARILLON D'ANGELUS",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "LE CARILLON D'ANGELUS",
       "vintages": [
         {
           "Année": "2014",
@@ -44766,9 +44766,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "LE CARILLON DE L'ANGELUS",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "LE CARILLON DE L'ANGELUS",
       "vintages": [
         {
           "Année": "2010",
@@ -44858,9 +44858,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "LE CLEMENTIN DU CH. PAPE CLEMENT , Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "LE CLEMENTIN DU CH. PAPE CLEMENT , Rouge",
       "vintages": [
         {
           "Année": "2014",
@@ -44938,9 +44938,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "LE CLOS DES CARMES HAUT BRION, Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "LE CLOS DES CARMES HAUT BRION, Rouge",
       "vintages": [
         {
           "Année": "1992",
@@ -44952,9 +44952,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "LE CYGNE du Château FONREAUD , Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "LE CYGNE du Château FONREAUD , Blanc",
       "vintages": [
         {
           "Année": "2015",
@@ -45002,9 +45002,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "LE JARDIN DE PETIT VILLAGE",
+      "appellation": "Pomerol",
+      "name": "LE JARDIN DE PETIT VILLAGE",
       "vintages": [
         {
           "Année": "2000",
@@ -45034,9 +45034,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux",
       "Classement": null,
-      "Chateau": "LE LYS DE LAFAURIE, Blanc",
+      "appellation": "Bordeaux",
+      "name": "LE LYS DE LAFAURIE, Blanc",
       "vintages": [
         {
           "Année": "2015",
@@ -45048,9 +45048,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "LE PETIT CHEVAL",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "LE PETIT CHEVAL",
       "vintages": [
         {
           "Année": "2013",
@@ -45152,9 +45152,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": null,
-      "Chateau": "LE PETIT LION du Marquis de Las Cases",
+      "appellation": "St-Julien",
+      "name": "LE PETIT LION du Marquis de Las Cases",
       "vintages": [
         {
           "Année": "2013",
@@ -45178,9 +45178,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": null,
-      "Chateau": "LE PETIT MOUTON DE MOUTON ROTHSCHILD",
+      "appellation": "Pauillac",
+      "name": "LE PETIT MOUTON DE MOUTON ROTHSCHILD",
       "vintages": [
         {
           "Année": "2014",
@@ -45246,9 +45246,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "LE PIN",
+      "appellation": "Pomerol",
+      "name": "LE PIN",
       "vintages": [
         {
           "Année": "2002",
@@ -45296,9 +45296,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Lalande de Pomerol",
       "Classement": null,
-      "Chateau": "LE PLUS DE LA FLEUR DE BOUARD",
+      "appellation": "Lalande de Pomerol",
+      "name": "LE PLUS DE LA FLEUR DE BOUARD",
       "vintages": [
         {
           "Année": "2016",
@@ -45328,9 +45328,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "Le Pomerol de PETIT-VILLAGE",
+      "appellation": "Pomerol",
+      "name": "Le Pomerol de PETIT-VILLAGE",
       "vintages": [
         {
           "Année": "1996",
@@ -45342,9 +45342,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "L'ERMITAGE DE CHASSE SPLEEN",
+      "appellation": "Haut-Médoc",
+      "name": "L'ERMITAGE DE CHASSE SPLEEN",
       "vintages": [
         {
           "Année": "2000",
@@ -45386,9 +45386,9 @@
     },
     {
       "Couleur": "Rosé",
-      "Appellation": "Bordeaux Rosé",
       "Classement": null,
-      "Chateau": "Le Rosé d'Agassac, Rosé",
+      "appellation": "Bordeaux Rosé",
+      "name": "Le Rosé d'Agassac, Rosé",
       "vintages": [
         {
           "Année": "2007",
@@ -45400,9 +45400,9 @@
     },
     {
       "Couleur": "Rosé",
-      "Appellation": "Bordeaux Rosé",
       "Classement": null,
-      "Chateau": "Le Rosé de MALARTIC, Rosé",
+      "appellation": "Bordeaux Rosé",
+      "name": "Le Rosé de MALARTIC, Rosé",
       "vintages": [
         {
           "Année": "2007",
@@ -45414,9 +45414,9 @@
     },
     {
       "Couleur": "Rosé",
-      "Appellation": "Bordeaux Rosé",
       "Classement": null,
-      "Chateau": "Le Rosé de PHELAN SEGUR, Rosé",
+      "appellation": "Bordeaux Rosé",
+      "name": "Le Rosé de PHELAN SEGUR, Rosé",
       "vintages": [
         {
           "Année": "2009",
@@ -45428,9 +45428,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "LES ARUMS DE LAGRANGE , Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "LES ARUMS DE LAGRANGE , Blanc",
       "vintages": [
         {
           "Année": "2015",
@@ -45484,9 +45484,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": null,
-      "Chateau": "Les CHARMILLES de La Tour Blanche",
+      "appellation": "Sauternes",
+      "name": "Les CHARMILLES de La Tour Blanche",
       "vintages": [
         {
           "Année": "2000",
@@ -45498,9 +45498,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "LES DOUVES DE CARNET",
+      "appellation": "Haut-Médoc",
+      "name": "LES DOUVES DE CARNET",
       "vintages": [
         {
           "Année": "1999",
@@ -45512,9 +45512,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": null,
-      "Chateau": "LES FIEFS DE LAGRANGE",
+      "appellation": "St-Julien",
+      "name": "LES FIEFS DE LAGRANGE",
       "vintages": [
         {
           "Année": "2015",
@@ -45670,9 +45670,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": null,
-      "Chateau": "LES FORTS DE LATOUR",
+      "appellation": "Pauillac",
+      "name": "LES FORTS DE LATOUR",
       "vintages": [
         {
           "Année": "2011",
@@ -45810,9 +45810,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "LES PAGODES DE COS",
+      "appellation": "St-Estèphe",
+      "name": "LES PAGODES DE COS",
       "vintages": [
         {
           "Année": "2016",
@@ -45902,9 +45902,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "LES PELERINS DE LAFON ROCHET",
+      "appellation": "St-Estèphe",
+      "name": "LES PELERINS DE LAFON ROCHET",
       "vintages": [
         {
           "Année": "2003",
@@ -45916,9 +45916,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "L'ESPRIT DE CHEVALIER , Blanc",
+      "appellation": "Pessac-Léognan",
+      "name": "L'ESPRIT DE CHEVALIER , Blanc",
       "vintages": [
         {
           "Année": "1995",
@@ -45942,9 +45942,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pessac-Léognan",
       "Classement": null,
-      "Chateau": "L'ESPRIT DE CHEVALIER , Rouge",
+      "appellation": "Pessac-Léognan",
+      "name": "L'ESPRIT DE CHEVALIER , Rouge",
       "vintages": [
         {
           "Année": "1995",
@@ -45974,9 +45974,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": null,
-      "Chateau": "LES TOURELLES DE LONGUEVILLE",
+      "appellation": "Pauillac",
+      "name": "LES TOURELLES DE LONGUEVILLE",
       "vintages": [
         {
           "Année": "2000",
@@ -46054,9 +46054,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "LES VALENTINES",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "LES VALENTINES",
       "vintages": [
         {
           "Année": "1997",
@@ -46068,9 +46068,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Sauternes",
       "Classement": null,
-      "Chateau": "L'EXTRAVAGANT DU CHATEAU DOISY DAENE",
+      "appellation": "Sauternes",
+      "name": "L'EXTRAVAGANT DU CHATEAU DOISY DAENE",
       "vintages": [
         {
           "Année": "2016",
@@ -46178,9 +46178,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "L'HERITAGE DE CHASSE SPLEEN",
+      "appellation": "Haut-Médoc",
+      "name": "L'HERITAGE DE CHASSE SPLEEN",
       "vintages": [
         {
           "Année": "2001",
@@ -46192,9 +46192,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Montagne Saint-Emilion",
       "Classement": null,
-      "Chateau": "Louis RAPIN",
+      "appellation": "Montagne Saint-Emilion",
+      "name": "Louis RAPIN",
       "vintages": [
         {
           "Année": "2004",
@@ -46242,9 +46242,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "LYNSOLENCE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "LYNSOLENCE",
       "vintages": [
         {
           "Année": "2015",
@@ -46328,9 +46328,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Estèphe",
       "Classement": null,
-      "Chateau": "MARQUIS DE CALON",
+      "appellation": "St-Estèphe",
+      "name": "MARQUIS DE CALON",
       "vintages": [
         {
           "Année": "2013",
@@ -46372,9 +46372,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "MARQUIS DE MONS",
+      "appellation": "Margaux",
+      "name": "MARQUIS DE MONS",
       "vintages": [
         {
           "Année": "1995",
@@ -46392,9 +46392,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "MONDOT",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "MONDOT",
       "vintages": [
         {
           "Année": "1993",
@@ -46406,9 +46406,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "MOULINS DE CITRAN Rge",
+      "appellation": "Haut-Médoc",
+      "name": "MOULINS DE CITRAN Rge",
       "vintages": [
         {
           "Année": "1999",
@@ -46438,9 +46438,9 @@
     },
     {
       "Couleur": "Blanc",
-      "Appellation": "Bordeaux Blanc",
       "Classement": null,
-      "Chateau": "PAVILLON BLANC du Château MARGAUX, Blanc",
+      "appellation": "Bordeaux Blanc",
+      "name": "PAVILLON BLANC du Château MARGAUX, Blanc",
       "vintages": [
         {
           "Année": "2013",
@@ -46590,9 +46590,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Margaux",
       "Classement": null,
-      "Chateau": "PAVILLON ROUGE du Château MARGAUX",
+      "appellation": "Margaux",
+      "name": "PAVILLON ROUGE du Château MARGAUX",
       "vintages": [
         {
           "Année": "2013",
@@ -46766,9 +46766,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "PEBY FAUGERES",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "PEBY FAUGERES",
       "vintages": [
         {
           "Année": "2004",
@@ -46816,9 +46816,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Lalande de Pomerol",
       "Classement": null,
-      "Chateau": "PLAISIR DE SIAURAC",
+      "appellation": "Lalande de Pomerol",
+      "name": "PLAISIR DE SIAURAC",
       "vintages": [
         {
           "Année": "2007",
@@ -46830,9 +46830,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Montagne Saint-Emilion",
       "Classement": null,
-      "Chateau": "RECLOS DE LA COURONNE",
+      "appellation": "Montagne Saint-Emilion",
+      "name": "RECLOS DE LA COURONNE",
       "vintages": [
         {
           "Année": "2004",
@@ -46856,9 +46856,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Bordeaux Supérieur",
       "Classement": null,
-      "Chateau": "REIGNAC",
+      "appellation": "Bordeaux Supérieur",
+      "name": "REIGNAC",
       "vintages": [
         {
           "Année": "2001",
@@ -46870,9 +46870,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pauillac",
       "Classement": null,
-      "Chateau": "RESERVE DE LA COMTESSE",
+      "appellation": "Pauillac",
+      "name": "RESERVE DE LA COMTESSE",
       "vintages": [
         {
           "Année": "2012",
@@ -46938,9 +46938,9 @@
     },
     {
       "Couleur": "Rosé",
-      "Appellation": "Bordeaux Rosé",
       "Classement": null,
-      "Chateau": "Rosé de CHEVALIER, Rosé",
+      "appellation": "Bordeaux Rosé",
+      "name": "Rosé de CHEVALIER, Rosé",
       "vintages": [
         {
           "Année": "2012",
@@ -46958,9 +46958,9 @@
     },
     {
       "Couleur": "Rosé",
-      "Appellation": "Bordeaux Rosé",
       "Classement": null,
-      "Chateau": "Rosé de SOLITUDE, Rosé",
+      "appellation": "Bordeaux Rosé",
+      "name": "Rosé de SOLITUDE, Rosé",
       "vintages": [
         {
           "Année": "2009",
@@ -46972,9 +46972,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Haut-Médoc",
       "Classement": null,
-      "Chateau": "RUBAN BLEU D'ARSAC",
+      "appellation": "Haut-Médoc",
+      "name": "RUBAN BLEU D'ARSAC",
       "vintages": [
         {
           "Année": "2000",
@@ -47016,9 +47016,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "SAINTEM",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "SAINTEM",
       "vintages": [
         {
           "Année": "2004",
@@ -47030,9 +47030,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "SANCTUS",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "SANCTUS",
       "vintages": [
         {
           "Année": "2012",
@@ -47128,9 +47128,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Julien",
       "Classement": null,
-      "Chateau": "SARGET DE GRUAUD LAROSE",
+      "appellation": "St-Julien",
+      "name": "SARGET DE GRUAUD LAROSE",
       "vintages": [
         {
           "Année": "2008",
@@ -47220,9 +47220,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "ST PAUL DE DOMINIQUE",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "ST PAUL DE DOMINIQUE",
       "vintages": [
         {
           "Année": "2000",
@@ -47234,9 +47234,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Pomerol",
       "Classement": null,
-      "Chateau": "VIEUX CHATEAU CERTAN",
+      "appellation": "Pomerol",
+      "name": "VIEUX CHATEAU CERTAN",
       "vintages": [
         {
           "Année": "2005",
@@ -47392,9 +47392,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "Médoc",
       "Classement": "Cru Bourgeois",
-      "Chateau": "VIEUX CHATEAU LANDON",
+      "appellation": "Médoc",
+      "name": "VIEUX CHATEAU LANDON",
       "vintages": [
         {
           "Année": "2009",
@@ -47406,9 +47406,9 @@
     },
     {
       "Couleur": "Rouge",
-      "Appellation": "St-Emilion Grand Cru",
       "Classement": null,
-      "Chateau": "VIRGINIE DE VALANDRAUD",
+      "appellation": "St-Emilion Grand Cru",
+      "name": "VIRGINIE DE VALANDRAUD",
       "vintages": [
         {
           "Année": "2015",
