@@ -41,5 +41,9 @@ module Seed
       @wine_details = number_of_wines ? @json[:wine_details][0...number_of_wines.to_i] : @json[:wine_details]
       Seed::Logger.info("number of wines being seeded #{@wine_details.length}")
     end
+
+    def timestamp_of_file(file_name)
+      file_name.split("/").last.split("_").first.to_i
+    end    
   end
 end
