@@ -23,6 +23,11 @@ namespace :scraper do
   task millesima_index_page: [:environment] do
     Scraper::MillesimaIndexPage.run
   end
+
+  desc "tastet csv converter"
+  task tastet: [:environment] do
+    Seed::Tastet.generate_json_file
+  end
 end
 
 namespace :seed do
@@ -45,4 +50,9 @@ namespace :seed do
   task :millesima, [:number_of_wines] => [:environment] do |_task, args|
     Rails.logger.silence { Seed::Millesima.run(args[:number_of_wines]) }
   end
+
+  desc "tastet seed"
+  task :tastet, [:number_of_wines] => [:environment] do |_task, args|
+    Rails.logger.silence { Seed::Tastet.run(args[:number_of_wines]) }
+  end  
 end
