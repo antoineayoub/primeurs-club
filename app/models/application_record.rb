@@ -3,8 +3,8 @@ class ApplicationRecord < ActiveRecord::Base
 
   # As of now this method only conditionally creates
   # I don't yet know what the update conditions should be
-  def self.conditionally_create(attributes, logger = nil)
-    record = find_by(attributes) || new(attributes)
+  def self.conditionally_create(attrs, logger = nil)
+    record = find_by(attrs) || new(attrs)
 
     if record.persisted?
       logger&.debug("Duplicate object detected")
