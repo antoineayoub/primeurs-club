@@ -1,0 +1,2524 @@
+{
+  "wine_details": [
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Saint-Emilion Grand Cru",
+      "wine_name": "Château Valandraud",
+      "wine_slug": "chateau_valandraud",
+      "rating": "1er Grand Cru Classé B",
+      "status": "launched",
+      "price": 11500,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Le Château Valandraud a vu le jour très récemment au début des années 1990, créé par le charismatique et ambitieux Jean-Luc Thunevin. De 60 ares de vignoble à l’origine, le domaine s’est progressivement étendu à 10 hectares aujourd’hui, planté en merlot (70%) et cabernet-franc (25%), avec une touche de cabernet-sauvignon et de malbec.Très séducteur à ses débuts, dans un style opulent et épicé, le vin de Valandraud évolue vers un profil moins moderne dans les derniers millésimes, avec des tanins plus fins et plus fermes. Son potentiel de garde en est encore meilleur.Le Second vin du Château est Virginie de Valandraud.\r\n                Le millésime 2017 vu par la propriété  Assemblage : 90% merlot, 10% cabernet franc  Elevage : 24 à 36 mois en barriques 100% neuves",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 115.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Bouteille de 75 cl",
+          "price": 115.0,
+          "extra_charge": "2,75 €"
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 690.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl",
+          "price": 230.0,
+          "extra_charge": "4,60 €"
+        },
+        {
+          "bottling": "1 Magnum de 150 cl (carton neutre)",
+          "price": 230.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "3 Magnums de 150 cl",
+          "price": 690.0,
+          "extra_charge": "7,80 €"
+        },
+        {
+          "bottling": "6 Magnums de 150 cl",
+          "price": 1.0,
+          "extra_charge": "Offert"
+        },
+        {
+          "bottling": "1 Double Magnum de 300 cl",
+          "price": 460.0,
+          "extra_charge": "36,00 €"
+        },
+        {
+          "bottling": "1 Impériale de 600 cl",
+          "price": 920.0,
+          "extra_charge": "50,00 €"
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Wine Spectator",
+          "wine_note": "93-96/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "95/100"
+        },
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "95-97/100"
+        }
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Pomerol",
+      "wine_name": "Château Bellegrave",
+      "wine_slug": "chateau_bellegrave",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "La grappe verte sur la photo indique que le vin est actuellement le produit de raisins issus de l’agriculture biologique. Le vin quant à lui sera certifié vin biologique uniquement après sa mise en bouteilles. Retrouvez ici l’ensemble des vins issus de raisins de l’agriculture biologique.\r\nUn très joli Pomerol de graves, qui ne porte pas son nom pour rien. Jean-Marie Bouldy a repris cette propriété du sud-ouest de Pomerol en 1980 à la suite de son père, qui l’avait acquise en 1951. Le vignoble de 8,5 hectares est certifié en agriculture biologique. Assemblages de merlot (80%) et cabernet franc, élevés en fûts de chêne dont 1/3 sont neufs, les vins du Château Bellegrave sont charnus, souples et veloutés, avec une élégante expression de mûre, de framboise et de rose, mêlée de poivre et de cuir.\r\n ",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Haut-Médoc",
+      "wine_name": "Château Caronne Sainte-Gemme",
+      "wine_slug": "chateau_caronne_sainte_gemme",
+      "rating": "",
+      "status": "coming",
+      "price": 0,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "description": "Une valeur sûre du Haut-Médoc ! Ce vignoble de 38 hectares est implanté sur de belles croupes de graves à proximité de l’appellation Saint-Julien, d’où l’élégance caractéristique de son vin. Propriété de la famille Nony-Borie depuis 1900, Caronne Sainte-Gemme a connu d’importants investissements techniques qui lui permettent aujourd’hui de se confirmer au top de son appellation.  Le château produit des vins riches au fruit toujours mûr avec de fines notes mentholées. En plus du cabernet-sauvignon (60% de l’encépagement) qui leur procure une bonne aptitude à la garde, ils comptent 35% de merlot, d’où un profil souple et soyeux qui les rend accessibles dès leur jeunesse. Un apport de petit verdot complète le tout, garant d’une jolie fraîcheur.",
+      "bottling": [
+
+      ],
+      "wine_critic": [
+
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau_cambon_la_pelouse"
+        }
+      ]
+    }
+  ]
+}

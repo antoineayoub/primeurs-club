@@ -33,11 +33,9 @@ module Scraper
               show_url = wine_card.search('a').attribute('href').value
               wine_url   = "https://www.chateauprimeur.com#{show_url}"
 
-              #Appellation
-              puts wine[:region] = "Bordeaux"
+              wine[:region] = "Bordeaux"
               wine[:appellation] = wine_card.search(".produit_appellation").text.strip
 
-              #Wine
               wine[:wine_name] = wine_card.search(".produit_description a strong").text.strip.gsub(/\s*2017/,"")
               @logger.info(wine[:wine_name]) if wine[:wine_name]
 
@@ -84,7 +82,6 @@ module Scraper
                 wine[:other_wine] << other_wine
               end
 
-              puts wine
               @output_hash[:wine_details] << wine
             end
           end
