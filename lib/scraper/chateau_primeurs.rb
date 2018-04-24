@@ -63,6 +63,10 @@ module Scraper
                 puts wine_note = critic_tbl[1].strip
               end
 
+              wine_details.search(".produit").each do |product|
+               puts other_wine = slugify(product.search("img").first.attributes["alt"].value.strip.gsub(/\s*2017/,""))
+              end
+
             end
           end
         rescue NoMethodError => e
