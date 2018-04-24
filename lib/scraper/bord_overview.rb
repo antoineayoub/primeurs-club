@@ -14,7 +14,6 @@ module Scraper
     def run
 
       @dom = dom_from_url(BordOverview.base_url)
-      binding.pry
       @all_rows = @dom.search("#overview > tbody > tr")
       collect_details_of_each_wine
     end
@@ -27,7 +26,6 @@ module Scraper
       collect_unique_wine_names.map do |wine_name|
         begin
           wine_dom = dom_from_wine_name(wine_name)
-          binding.pry
           wine = Wine::BordOverview.build_from_dom(wine_dom).to_hash
           @logger.info(wine[:name]) if wine[:name]
           @output_hash[:wine_details] << wine

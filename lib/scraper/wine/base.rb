@@ -32,7 +32,6 @@ module Scraper
 
       def to_hash
         @attributes.each_with_object({}) do |attribute, hash|
-          binding.pry
           hash[attribute] = instance_variable_get("@#{attribute}")
         end
       end

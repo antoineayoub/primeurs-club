@@ -13,6 +13,7 @@ module Scraper
     def run
       @dom = dom_from_url(ChateauPrimeurs.base_url)
       @nb_pages = @dom.search('.pagination > .tc span').last.text.to_i
+      @output_hash[:wine_details] = []
 
       begin
           html_file = open("https://www.chateauprimeur.com/Grand-vins-Bordeaux-primeur-2017/")
@@ -20,6 +21,8 @@ module Scraper
 
           puts @nb_pages
           for i in (1..@nb_pages)
+            wine = {}
+
             puts "Page n°#{i}"
             url = "https://www.chateauprimeur.com/catalogue/tous/2017?url=Grand-vins-Bordeaux-primeur-2017&page=#{i}"
             html_file = open(url)
@@ -31,47 +34,65 @@ module Scraper
               wine_url   = "https://www.chateauprimeur.com#{show_url}"
 
               #Appellation
-              puts region = "Bordeaux"
-              puts appellation = wine_card.search(".produit_appellation").text.strip
+              puts wine[:region] = "Bordeaux"
+              wine[:appellation] = wine_card.search(".produit_appellation").text.strip
 
               #Wine
-              puts wine_name = wine_card.search(".produit_description a strong").text.strip.gsub(/\s*2017/,"")
-              puts wine_slug = slugify(wine_name)
-              puts rating = wine_card.search(".produit_classement").text.strip || ""
+              wine[:wine_name] = wine_card.search(".produit_description a strong").text.strip.gsub(/\s*2017/,"")
+              @logger.info(wine[:wine_name]) if wine[:wine_name]
+
+              wine[:wine_slug] = slugify(wine[:wine_name])
+              wine[:rating] = wine_card.search(".produit_classement").text.strip || ""
 
               status = wine_card.search(".produit_btn > a").text.strip
-              puts status = "launched" if status == "Je commande"
-              puts status = "coming" if status == "A venir"
-              puts status = "out_of_stock" if status == "Epuisé"
-              puts status = "not_sale" if status == "Non mis en marché"
+              wine[:status] = "launched" if status == "Je commande"
+              wine[:status] = "coming" if status == "A venir"
+              wine[:status] = "out_of_stock" if status == "Epuisé"
+              wine[:status] = "not_sale" if status == "Non mis en marché"
 
-              puts price = (wine_card.search(".prix").text.strip.gsub(/\s€\s*/,"").to_f*100).to_i
+              wine[:price] = (wine_card.search(".prix").text.strip.gsub(/\s€\s*/,"").to_f*100).to_i
 
               wine_details  = Nokogiri::HTML(open(wine_url), nil, 'utf-8')
-              puts delivery_date = wine_details.search(".produit_livraison").text.strip
-              puts description = wine_details.search(".description").text.strip
+              wine[:delivery_date] = wine_details.search(".produit_livraison").text.strip
+              wine[:description] = wine_details.search(".description").text.strip
+
+              wine[:bottling] = []
 
               wine_details.search(".ligne_poste").each do |ligne|
-                puts bottlinge = ligne.children.search('.format_cond').text.strip
-                puts price = ligne.children.search('.format_quan').children.search('select').first.attributes["price"].value.to_f
-                puts extra_charge = ligne.children.search('.format_supp > span').text.strip
+                bottling = {}
+                bottling[:bottling] = ligne.children.search('.format_cond').text.strip
+                bottling[:price] = ligne.children.search('.format_quan').children.search('select').first.attributes["price"].value.to_f
+                bottling[:extra_charge] = ligne.children.search('.format_supp > span').text.strip
+                wine[:bottling] << bottling
               end
+
+              wine[:wine_critic] = []
 
               wine_details.search(".produit_notations li").each do |critic|
+                wine_critic = {}
                 critic_tbl = critic.text.strip.split(/\s:\s/)
-                puts wine_critic_name = critic_tbl[0].strip
-                puts wine_note = critic_tbl[1].strip
+                wine_critic[:wine_critic_name] = critic_tbl[0].strip
+                wine_critic[:wine_note] = critic_tbl[1].strip
+
+                wine[:wine_critic] << wine_critic
               end
 
+              wine[:other_wine] = []
               wine_details.search(".produit").each do |product|
-               puts other_wine = slugify(product.search("img").first.attributes["alt"].value.strip.gsub(/\s*2017/,""))
+                other_wine = {}
+                other_wine[:wine_slug] = slugify(product.search("img").first.attributes["alt"].value.strip.gsub(/\s*2017/,""))
+                wine[:other_wine] << other_wine
               end
 
+              puts wine
+              @output_hash[:wine_details] << wine
             end
           end
-        rescue NoMethodError => e
-          puts e
-          return 1
+        rescue Interrupt, SignalException
+          save_and_exit
+        rescue => e
+          @logger.fatal(e)
+          Scraper::Base.null_value
       end
     end
 
