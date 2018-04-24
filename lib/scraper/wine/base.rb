@@ -6,18 +6,18 @@ module Scraper
       def null_value
         nil
       end
-  
+
       def build_from_dom(dom)
         new(dom)
       end
-  
+
       def set_attributes(*attributes)
         @attributes = attributes
       end
 
       def before_scraping(*methods)
         @before_scraping_methods = methods
-      end      
+      end
     end
 
     class Base
@@ -32,6 +32,7 @@ module Scraper
 
       def to_hash
         @attributes.each_with_object({}) do |attribute, hash|
+          binding.pry
           hash[attribute] = instance_variable_get("@#{attribute}")
         end
       end

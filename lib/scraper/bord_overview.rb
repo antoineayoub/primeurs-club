@@ -1,6 +1,6 @@
 module Scraper
   class BordOverview < Base
-    set_base_url "http://www.bordoverview.com/?year=all&bank=both"
+    set_base_url "https://www.bordoverview.com/?year=all&bank=both"
     set_output_file "bord_overview.json"
 
     def self.headers
@@ -12,11 +12,13 @@ module Scraper
     end
 
     def run
+
       @dom = dom_from_url(BordOverview.base_url)
+      binding.pry
       @all_rows = @dom.search("#overview > tbody > tr")
       collect_details_of_each_wine
     end
-    
+
     private
 
     def collect_details_of_each_wine
@@ -24,19 +26,20 @@ module Scraper
 
       collect_unique_wine_names.map do |wine_name|
         begin
-          wine_dom = dom_from_wine_name(wine_name)      
+          wine_dom = dom_from_wine_name(wine_name)
+          binding.pry
           wine = Wine::BordOverview.build_from_dom(wine_dom).to_hash
           @logger.info(wine[:name]) if wine[:name]
           @output_hash[:wine_details] << wine
         rescue Interrupt, SignalException
-          save_and_exit        
+          save_and_exit
         rescue => e
           @logger.fatal(e)
           Scraper::Base.null_value
         end
       end
     end
-    
+
     def dom_from_wine_name(wine_name)
       array_of_nodes = all_rows.select { |row| row.children.first.text.gsub(/\(buy\)$/, "").strip == wine_name }
       Nokogiri::XML::NodeSet.new(@dom, array_of_nodes)
