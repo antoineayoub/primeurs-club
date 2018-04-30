@@ -2,13 +2,17 @@ module Scraper
   module Wine
     class MillesimaWine < Wine::Base
       set_attributes(
-        :name, :description, :image_url, :pays,
+        :wine_slug, :name, :description, :image_url, :pays,
         :region, :appellation, :classement,
         :vignoble, :mention_qualite, :producteur,
         :couleur, :vin_liquoreux, :alcool
       )
 
       before_scraping :build_details_hash
+
+      def wine_slug
+        Scraper::Wine::Base.slugify(dom.search(".main_header").first.text.match(/(^[\D\s]*)\s\d/)[1])
+      end
 
       def name
         dom.search(".main_header").first.text.match(/(^[\D\s]*)\s\d/)[1]

@@ -1,9 +1,3 @@
-require 'open-uri'
-require 'net/http'
-require 'nokogiri'
-require "active_support/inflector" # not necessary if Rails
-
-
 module Scraper
   class ChateauPrimeurs < Base
 
@@ -39,7 +33,7 @@ module Scraper
               wine[:wine_name] = wine_card.search(".produit_description a strong").text.strip.gsub(/\s*2017/,"")
               @logger.info(wine[:wine_name]) if wine[:wine_name]
 
-              wine[:wine_slug] = slugify(wine[:wine_name])
+              wine[:wine_slug] = Scraper::Wine::Base.slugify(wine[:wine_name])
               wine[:rating] = wine_card.search(".produit_classement").text.strip || ""
 
               status = wine_card.search(".produit_btn > a").text.strip
@@ -59,8 +53,8 @@ module Scraper
               wine_details.search(".ligne_poste").each do |ligne|
                 bottling = {}
                 bottling[:bottling] = ligne.children.search('.format_cond').text.strip
-                bottling[:price] = ligne.children.search('.format_quan').children.search('select').first.attributes["price"].value.to_f
-                bottling[:extra_charge] = ligne.children.search('.format_supp > span').text.strip
+                bottling[:price] = ligne.children.search('.format_prix > strong').text.strip.gsub(/\s€\s*/,"").to_f*100
+                bottling[:extra_charge] = ligne.children.search('.format_supp > span').text.strip.gsub(/\s€\s*/,"").to_f*100
                 wine[:bottling] << bottling
               end
 
@@ -78,7 +72,7 @@ module Scraper
               wine[:other_wine] = []
               wine_details.search(".produit").each do |product|
                 other_wine = {}
-                other_wine[:wine_slug] = slugify(product.search("img").first.attributes["alt"].value.strip.gsub(/\s*2017/,""))
+                other_wine[:wine_slug] = Scraper::Wine::Base.slugify(product.search("img").first.attributes["alt"].value.strip.gsub(/\s*2017/,""))
                 wine[:other_wine] << other_wine
               end
 
@@ -91,11 +85,6 @@ module Scraper
           @logger.fatal(e)
           Scraper::Base.null_value
       end
-    end
-
-
-    def slugify(wine_name)
-      ActiveSupport::Inflector.transliterate(wine_name).downcase.gsub!(/[^0-9A-Za-z]/, '_')
     end
   end
 end

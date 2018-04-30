@@ -1,4 +1,5 @@
 require 'open-uri'
+require 'net/http'
 require 'json'
 require 'nokogiri'
 
@@ -16,15 +17,15 @@ module Scraper
       scraper.write_to_output_file
       scraper
     end
-  
+
     def set_base_url(base_url)
       @base_url = base_url
     end
-  
+
     def set_output_file(output_file_name)
       @output_file_name = output_file_name
-    end    
- 
+    end
+
     def null_value
       nil
     end
@@ -42,7 +43,7 @@ module Scraper
       @output_hash = {}
 
       run
-    end    
+    end
 
     def write_to_output_file
       stringified_json = JSON.pretty_generate(@output_hash)
@@ -66,7 +67,7 @@ module Scraper
       @logger.fatal("MANUAL INTERRUPT. WRITING TO OUTPUT FILE.")
       write_to_output_file
       @logger.fatal("EXITING.")
-      exit      
+      exit
     end
   end
 end

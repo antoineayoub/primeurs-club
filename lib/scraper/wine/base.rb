@@ -1,3 +1,5 @@
+require "active_support/inflector" # not necessary if Rails
+
 module Scraper
   module Wine
     module BaseClassMethods
@@ -17,6 +19,10 @@ module Scraper
 
       def before_scraping(*methods)
         @before_scraping_methods = methods
+      end
+
+      def slugify(wine_name)
+        ActiveSupport::Inflector.transliterate(wine_name).strip.downcase.gsub(/[^0-9A-Za-z]/, '-')
       end
     end
 
