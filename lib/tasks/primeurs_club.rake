@@ -1,7 +1,7 @@
 namespace :scraper do
   desc "chateau primeurs scraper"
   task chateau_primeurs: [:environment] do
-    Scraper::ChateauPrimeurs.new.run
+    Scraper::ChateauPrimeurs.run
   end
 
   desc "millesima scraper"
