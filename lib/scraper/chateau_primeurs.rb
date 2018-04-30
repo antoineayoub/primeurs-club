@@ -30,10 +30,10 @@ module Scraper
               wine[:region] = "Bordeaux"
               wine[:appellation] = wine_card.search(".produit_appellation").text.strip
 
-              wine[:wine_name] = wine_card.search(".produit_description a strong").text.strip.gsub(/\s*2017/,"")
-              @logger.info(wine[:wine_name]) if wine[:wine_name]
+              wine[:name] = wine_card.search(".produit_description a strong").text.strip.gsub(/\s*2017/,"")
+              @logger.info(wine[:name]) if wine[:name]
 
-              wine[:wine_slug] = Scraper::Wine::Base.slugify(wine[:wine_name])
+              wine[:wine_slug] = Scraper::Wine::Base.slugify(wine[:name])
               wine[:rating] = wine_card.search(".produit_classement").text.strip || ""
 
               status = wine_card.search(".produit_btn > a").text.strip
@@ -46,6 +46,7 @@ module Scraper
 
               wine_details  = Nokogiri::HTML(open(wine_url), nil, 'utf-8')
               wine[:delivery_date] = wine_details.search(".produit_livraison").text.strip
+              wine[:stamp_image_url] = wine_details.search(".produit_photos > ul > .big > a").attribute('href').value
               wine[:description] = wine_details.search(".description").text.strip
 
               wine[:bottling] = []

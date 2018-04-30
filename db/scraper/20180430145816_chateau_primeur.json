@@ -1,0 +1,187 @@
+{
+  "wine_details": [
+    {
+      "region": "Bordeaux",
+      "appellation": "Margaux",
+      "name": "Alter Ego de Palmer",
+      "wine_slug": "alter-ego-de-palmer",
+      "rating": "2nd Vin du Château Palmer",
+      "status": "launched",
+      "price": 5600,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "image_url": "/img/produits/zoomwines/100000787_B.jpg",
+      "description": "Ce remarquable Cru Classé de 13,5 hectares est situé sur les coteaux sud de Saint-Emilion, à proximité des 1ers Crus Classés Pavie et Larcis Ducasse. Sur ce terroir argilo-calcaire, les cabernets occupent 1/3 de l’encépagement (franc 17%, sauvignon 11%), aux côtés du merlot dominant (72%), d’où la trame tannique et la fraîcheur bien présentes dans les vins.\r\nAlors que « Belcier » évoque le fondateur du domaine à la fin du 18e siècle, « Bellefont » signifie « belle fontaine » en raison des nombreuses sources présentes sur ces terres. Depuis novembre 2012, le château appartient à l’homme d’affaires chinois M. Wang, en activité notamment dans le négoce de thé, vins et alcools. Il fait appel au brillant œnologue bordelais Michel Rolland pour suivre les vinifications.\r\nCharnus et solaires, les vins de Bellefont-Belcier restent néanmoins fermes et frais dans leur finale. L’élevage en barriques, dont 80% neuves, marque les vins d’un superbe caractère épicé.",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 3900.0,
+          "extra_charge": 0.0
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 23400.0,
+          "extra_charge": 0.0
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 46800.0,
+          "extra_charge": 0.0
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "89-91/100"
+        },
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Decanter",
+          "wine_note": "90/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "90/100"
+        }
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau-guiraud"
+        },
+        {
+          "wine_slug": "chateau-lafaurie-peyraguey"
+        },
+        {
+          "wine_slug": "chateau-coutet"
+        },
+        {
+          "wine_slug": "chateau-labegorce"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Margaux",
+      "name": "Alter Ego de Palmer",
+      "wine_slug": "alter-ego-de-palmer",
+      "rating": "2nd Vin du Château Palmer",
+      "status": "launched",
+      "price": 5600,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "image_url": "/img/produits/zoomwines/100000787_B.jpg",
+      "description": "Ce remarquable Cru Classé de 13,5 hectares est situé sur les coteaux sud de Saint-Emilion, à proximité des 1ers Crus Classés Pavie et Larcis Ducasse. Sur ce terroir argilo-calcaire, les cabernets occupent 1/3 de l’encépagement (franc 17%, sauvignon 11%), aux côtés du merlot dominant (72%), d’où la trame tannique et la fraîcheur bien présentes dans les vins.\r\nAlors que « Belcier » évoque le fondateur du domaine à la fin du 18e siècle, « Bellefont » signifie « belle fontaine » en raison des nombreuses sources présentes sur ces terres. Depuis novembre 2012, le château appartient à l’homme d’affaires chinois M. Wang, en activité notamment dans le négoce de thé, vins et alcools. Il fait appel au brillant œnologue bordelais Michel Rolland pour suivre les vinifications.\r\nCharnus et solaires, les vins de Bellefont-Belcier restent néanmoins fermes et frais dans leur finale. L’élevage en barriques, dont 80% neuves, marque les vins d’un superbe caractère épicé.",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 3900.0,
+          "extra_charge": 0.0
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 23400.0,
+          "extra_charge": 0.0
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 46800.0,
+          "extra_charge": 0.0
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "89-91/100"
+        },
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Decanter",
+          "wine_note": "90/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "90/100"
+        }
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau-guiraud"
+        },
+        {
+          "wine_slug": "chateau-lafaurie-peyraguey"
+        },
+        {
+          "wine_slug": "chateau-coutet"
+        },
+        {
+          "wine_slug": "chateau-labegorce"
+        }
+      ]
+    },
+    {
+      "region": "Bordeaux",
+      "appellation": "Margaux",
+      "name": "Alter Ego de Palmer",
+      "wine_slug": "alter-ego-de-palmer",
+      "rating": "2nd Vin du Château Palmer",
+      "status": "launched",
+      "price": 5600,
+      "delivery_date": "Livraison 1er semestre 2020",
+      "image_url": "/img/produits/zoomwines/100000787_B.jpg",
+      "description": "Ce remarquable Cru Classé de 13,5 hectares est situé sur les coteaux sud de Saint-Emilion, à proximité des 1ers Crus Classés Pavie et Larcis Ducasse. Sur ce terroir argilo-calcaire, les cabernets occupent 1/3 de l’encépagement (franc 17%, sauvignon 11%), aux côtés du merlot dominant (72%), d’où la trame tannique et la fraîcheur bien présentes dans les vins.\r\nAlors que « Belcier » évoque le fondateur du domaine à la fin du 18e siècle, « Bellefont » signifie « belle fontaine » en raison des nombreuses sources présentes sur ces terres. Depuis novembre 2012, le château appartient à l’homme d’affaires chinois M. Wang, en activité notamment dans le négoce de thé, vins et alcools. Il fait appel au brillant œnologue bordelais Michel Rolland pour suivre les vinifications.\r\nCharnus et solaires, les vins de Bellefont-Belcier restent néanmoins fermes et frais dans leur finale. L’élevage en barriques, dont 80% neuves, marque les vins d’un superbe caractère épicé.",
+      "bottling": [
+        {
+          "bottling": "1 Bouteille de 75 cl (carton neutre)",
+          "price": 3900.0,
+          "extra_charge": 0.0
+        },
+        {
+          "bottling": "6 Bouteilles de 75 cl",
+          "price": 23400.0,
+          "extra_charge": 0.0
+        },
+        {
+          "bottling": "12 Bouteilles de 75 cl",
+          "price": 46800.0,
+          "extra_charge": 0.0
+        }
+      ],
+      "wine_critic": [
+        {
+          "wine_critic_name": "Wine Enthusiast",
+          "wine_note": "89-91/100"
+        },
+        {
+          "wine_critic_name": "J. Suckling",
+          "wine_note": "93-94/100"
+        },
+        {
+          "wine_critic_name": "Decanter",
+          "wine_note": "90/100"
+        },
+        {
+          "wine_critic_name": "JM Quarin",
+          "wine_note": "90/100"
+        }
+      ],
+      "other_wine": [
+        {
+          "wine_slug": "chateau-guiraud"
+        },
+        {
+          "wine_slug": "chateau-lafaurie-peyraguey"
+        },
+        {
+          "wine_slug": "chateau-coutet"
+        },
+        {
+          "wine_slug": "chateau-labegorce"
+        }
+      ]
+    }
+  ]
+}
