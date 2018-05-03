@@ -26,7 +26,7 @@ module WineModules
       
       def initialize(string, slug_methods)
         @string = string
-        slug_methods.each { |method| send(method) }
+        slug_methods.each { |method| send(method) } if @string
       end
       
       def remove_space_around
