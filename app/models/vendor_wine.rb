@@ -3,6 +3,7 @@ class VendorWine < ApplicationRecord
   include WineModules::StandardizeName
 
   belongs_to :region, optional: true
+  belongs_to :wine
   has_many :photos, as: :imageable, dependent: :destroy
   has_many :vendor_vintages, dependent: :destroy
 
@@ -20,7 +21,7 @@ class VendorWine < ApplicationRecord
       seed_log_duplicate
       found_vendor_wine
     else
-      create!(attrs.slice(:name, :slug, :description))
+      create!(attrs.slice(:name, :slug, :description, :wine))
     end
   end
 end
