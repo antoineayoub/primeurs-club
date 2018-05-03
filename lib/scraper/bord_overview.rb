@@ -12,7 +12,6 @@ module Scraper
     end
 
     def run
-
       @dom = dom_from_url(BordOverview.base_url)
       @all_rows = @dom.search("#overview > tbody > tr")
       collect_details_of_each_wine
@@ -44,7 +43,7 @@ module Scraper
     end
 
     def collect_unique_wine_names
-      all_rows.map { |row| row.children.first.text.gsub(/\(buy\)$/, "") }.uniq
+      all_rows.map { |row| row.children.first.text.gsub(/\(buy\)$/, "").strip }.uniq
     end
 
     def all_rows
