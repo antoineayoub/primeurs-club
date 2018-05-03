@@ -28,6 +28,11 @@ namespace :scraper do
   task tastet: [:environment] do
     Seed::Tastet.generate_json_file
   end
+
+  desc "global wine survey"
+  task gws: [:environment] do
+    Scraper::GlobalWineSurvey.run
+  end  
 end
 
 namespace :seed do
