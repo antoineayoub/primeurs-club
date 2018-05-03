@@ -6,6 +6,8 @@ class Wine < ApplicationRecord
 
   has_many :photos, as: :imageable, dependent: :destroy
   has_many :vintages, dependent: :destroy
+  has_many :vendor_wines
+  has_many :vendor_vintages, through: :vendor_wines
 
   before_validation :standardize_name
 
