@@ -21,7 +21,7 @@ class VendorWine < ApplicationRecord
       seed_log_duplicate
       found_vendor_wine
     else
-      create!(attrs.slice(:name, :slug, :description, :wine))
+      create!(attrs.slice(:name, :slug, :description, :wine, :website))
     end
   end
 end
