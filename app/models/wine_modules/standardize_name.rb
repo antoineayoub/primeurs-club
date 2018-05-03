@@ -2,19 +2,19 @@ module WineModules
   module StandardizeName
     private
 
+    STANDARD_SLUG_METHODS = [
+      :remove_space_around,
+      :all_lowercase,
+      :remove_special_characters,
+      :remove_double_space,
+      :remove_the_word_chateau,
+      :convert_spaces_to_hyphens
+    ]
+
     def standardize_name
       return false unless name
 
-      slug_methods = [
-        :remove_space_around,
-        :all_lowercase,
-        :remove_special_characters,
-        :remove_double_space,
-        :remove_the_word_chateau,
-        :convert_spaces_to_hyphens
-      ]
-
-      self.slug = Slug.new(name, slug_methods)
+      self.slug = Slug.generate(name, STANDARD_SLUG_METHODS)
     end
 
     class Slug
