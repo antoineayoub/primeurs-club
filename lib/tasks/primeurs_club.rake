@@ -55,4 +55,9 @@ namespace :seed do
   task :tastet, [:number_of_wines] => [:environment] do |_task, args|
     Rails.logger.silence { Seed::Tastet.run(args[:number_of_wines]) }
   end  
+
+  desc "chateau primeurs seed"
+  task :chateau_primeurs, [:number_of_wines] => [:environment] do |_task, args|
+    Rails.logger.silence { Seed::ChateauPrimeurs.run(args[:number_of_wines]) }
+  end
 end
