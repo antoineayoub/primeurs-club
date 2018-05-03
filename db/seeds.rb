@@ -44,7 +44,8 @@ regions.each do |region_name, region_record|
         name: shorter_name(wine["wine"]),
         rating: wine["classification"] ?  wine["classification"].gsub(/ en \d{2-4}/,"") : "",
         colour: wine["color"],
-        wine_type: wine["wine_type"]
+        wine_type: wine["wine_type"],
+        gws_id: wine["wine_id"]
       },
       gws_data: wine
     }
@@ -68,7 +69,6 @@ wines_by_name.each do |name, wines|
     wine.vendor_vintages.find_or_create_by!(
       vintage: gws_data["vintage"],
       global_wine_score: gws_data["score"],
-      gws_id: gws_data["wine_id"],
       lwin: gws_data["lwin"],
       lwin_11: gws_data["lwin_11"],
       confidence_index: gws_data["confidence_index"],
