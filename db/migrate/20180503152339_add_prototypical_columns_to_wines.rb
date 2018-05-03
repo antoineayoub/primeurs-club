@@ -30,7 +30,7 @@
 class AddPrototypicalColumnsToWines < ActiveRecord::Migration[5.1]
   def change
     remove_column :wines, :description
-    add_columns :wines, :colour
-    add_columns :wines, :country
+    add_column :wines, :colour, :string
+    add_column :wines, :country, :string
   end
 end

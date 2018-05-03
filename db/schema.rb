@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180502230350) do
+ActiveRecord::Schema.define(version: 20180503152339) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -86,7 +86,7 @@ ActiveRecord::Schema.define(version: 20180502230350) do
     t.date "best_after"
     t.date "best_before"
     t.date "delivery_date"
-    t.integer "public_price"
+    t.integer "price_cents"
     t.text "short_description"
     t.float "global_wine_score"
     t.datetime "created_at", null: false
@@ -105,17 +105,11 @@ ActiveRecord::Schema.define(version: 20180502230350) do
 
   create_table "vendor_wines", force: :cascade do |t|
     t.string "name"
-    t.bigint "appellation_id"
-    t.string "rating"
     t.string "slug"
-    t.string "colour"
-    t.string "pays"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "website"
     t.text "description"
-    t.string "wine_type"
-    t.index ["appellation_id"], name: "index_vendor_wines_on_appellation_id"
   end
 
   create_table "vintages", id: :serial, force: :cascade do |t|
@@ -145,12 +139,13 @@ ActiveRecord::Schema.define(version: 20180502230350) do
   create_table "wines", id: :serial, force: :cascade do |t|
     t.string "name"
     t.string "rating"
-    t.text "description"
     t.integer "appellation_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "slug"
     t.string "wine_type"
+    t.string "colour"
+    t.string "country"
     t.index ["appellation_id"], name: "index_wines_on_appellation_id"
   end
 
@@ -158,7 +153,6 @@ ActiveRecord::Schema.define(version: 20180502230350) do
   add_foreign_key "photos", "wines"
   add_foreign_key "vendor_critics", "vendor_vintages"
   add_foreign_key "vendor_vintages", "vendor_wines"
-  add_foreign_key "vendor_wines", "appellations"
   add_foreign_key "vintages", "wines"
   add_foreign_key "wine_notes", "vintages"
   add_foreign_key "wines", "appellations"

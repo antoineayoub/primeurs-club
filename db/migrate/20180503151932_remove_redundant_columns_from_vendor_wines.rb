@@ -17,7 +17,7 @@
 
 class RemoveRedundantColumnsFromVendorWines < ActiveRecord::Migration[5.1]
   def change
-    remove_column :vendor_wines, :appelation_id
+    remove_column :vendor_wines, :appellation_id
     remove_column :vendor_wines, :wine_type
     remove_column :vendor_wines, :rating
     remove_column :vendor_wines, :colour
