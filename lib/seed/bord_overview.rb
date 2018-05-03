@@ -46,7 +46,7 @@ module Seed
     end
 
     def format_vintage_price(price)
-      price.is_a?(String) ? price.gsub(/\D/, "") : nil
+      price.is_a?(String) ? price.gsub(/\D/, "").to_i * 100 : nil
     end
   end
 end
