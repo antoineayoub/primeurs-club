@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180419192855) do
+ActiveRecord::Schema.define(version: 20180502230350) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -86,20 +86,26 @@ ActiveRecord::Schema.define(version: 20180419192855) do
     t.date "best_after"
     t.date "best_before"
     t.date "delivery_date"
-    t.integer "price_cents"
-    t.string "short_description"
+    t.integer "public_price"
+    t.text "short_description"
+    t.float "global_wine_score"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "website"
     t.bigint "vendor_wine_id"
     t.date "launch_date"
+    t.string "lwin"
+    t.string "lwin_11"
+    t.string "gws_id"
+    t.string "confidence_index"
+    t.string "journalist_names"
+    t.string "journalist_count"
     t.index ["vendor_wine_id"], name: "index_vendor_vintages_on_vendor_wine_id"
   end
 
   create_table "vendor_wines", force: :cascade do |t|
     t.string "name"
     t.bigint "appellation_id"
-    t.bigint "region_id"
     t.string "rating"
     t.string "slug"
     t.string "colour"
@@ -108,18 +114,22 @@ ActiveRecord::Schema.define(version: 20180419192855) do
     t.datetime "updated_at", null: false
     t.string "website"
     t.text "description"
+    t.string "wine_type"
     t.index ["appellation_id"], name: "index_vendor_wines_on_appellation_id"
-    t.index ["region_id"], name: "index_vendor_wines_on_region_id"
   end
 
   create_table "vintages", id: :serial, force: :cascade do |t|
     t.integer "vintage"
     t.text "description"
     t.integer "wine_id"
-    t.integer "price"
+    t.integer "price_cents"
     t.string "status"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "lwin"
+    t.string "lwin_11"
+    t.string "gws_id"
+    t.string "confidence_index"
     t.index ["wine_id"], name: "index_vintages_on_wine_id"
   end
 
@@ -140,6 +150,7 @@ ActiveRecord::Schema.define(version: 20180419192855) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "slug"
+    t.string "wine_type"
     t.index ["appellation_id"], name: "index_wines_on_appellation_id"
   end
 
@@ -148,7 +159,6 @@ ActiveRecord::Schema.define(version: 20180419192855) do
   add_foreign_key "vendor_critics", "vendor_vintages"
   add_foreign_key "vendor_vintages", "vendor_wines"
   add_foreign_key "vendor_wines", "appellations"
-  add_foreign_key "vendor_wines", "regions"
   add_foreign_key "vintages", "wines"
   add_foreign_key "wine_notes", "vintages"
   add_foreign_key "wines", "appellations"

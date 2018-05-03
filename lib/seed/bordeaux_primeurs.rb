@@ -36,7 +36,7 @@ module Seed
         )
       end
 
-      vendor_wine      
+      vendor_wine
     end
 
     def build_vendor_vintages_for_wine(wine_object, wine_attributes)

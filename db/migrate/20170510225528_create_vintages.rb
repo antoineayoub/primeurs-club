@@ -4,7 +4,7 @@ class CreateVintages < ActiveRecord::Migration[5.0]
       t.integer :vintage
       t.text :description
       t.references :wine, foreign_key: true, index: true
-      t.integer :price
+      t.integer :price_cents
       t.string :status
       t.timestamps
     end
