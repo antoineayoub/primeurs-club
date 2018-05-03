@@ -10,7 +10,7 @@ module Seed
         appellation: appellation_object
       }
 
-      VendorWine.conditionally_create(attributes, Seed::Logger)
+      VendorWine.find_by_slug_or_create(attributes)
     end
 
     def build_vendor_vintages_for_wine(wine_object, wine_attributes)
@@ -22,7 +22,7 @@ module Seed
           vendor_wine: wine_object
         }
 
-        vintage = VendorVintage.conditionally_create(attributes, Seed::Logger)
+        vintage = VendorVintage.create_or_update_price(attributes)
         build_vendor_critics_for_vintage(vintage, vintage_attributes)
       end
     end
@@ -37,7 +37,7 @@ module Seed
           vendor_vintage: vintage_object
         }
 
-        VendorCritic.conditionally_create(attributes, Seed::Logger)
+        VendorCritic.find_or_create_by(attributes)
       end
     end
 
