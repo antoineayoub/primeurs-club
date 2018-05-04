@@ -1,7 +1,11 @@
 module Scraper
   module Wine
     class BordeauxPrimeurs < Wine::Base
-      set_attributes :name, :image_url, :appellation, :rating, :colour, :description, :vintages
+      set_attributes  :wine_slug, :name, :image_url, :appellation, :rating, :colour, :description, :vintages
+
+      def wine_slug
+        Scraper::Wine::Base.slugify(dom.search("h2").first.inner_html)
+      end
 
       def name
         dom.search("h2").first.inner_html
@@ -38,10 +42,10 @@ module Scraper
         total_vintages = []
         combined[:years].length.times do |i|
           price = combined[:prices][i] == "..." ? Scraper::Base.null_value : combined[:prices][i]
-          
+
           total_vintages << { year: combined[:years][i], price: price }
         end
-        
+
         total_vintages
       end
     end

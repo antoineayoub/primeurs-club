@@ -9,7 +9,8 @@ class CreateVendorVintages < ActiveRecord::Migration[5.1]
       t.date :best_before
       t.date :delivery_date
       t.integer :price_cents
-      t.string :short_description
+      t.text :short_description
+      t.float :global_wine_score
 
       t.timestamps
     end

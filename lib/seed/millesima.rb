@@ -38,17 +38,12 @@ module Seed
         description: wine_attributes[:description],
         colour: wine_attributes[:couleur],
         appellation: appellation_object,
-        pays: wine_attributes[:pays]
+        country: wine_attributes[:pays]
       }
 
-      vendor_wine = VendorWine.conditionally_create(attributes, Seed::Logger)
+      vendor_wine = VendorWine.find_by_slug_or_create(attributes)
 
-      if vendor_wine.persisted?
-        photo = Photo.conditionally_create(
-          { imageable: vendor_wine, photo: wine_attributes[:image_url] },
-          Seed::Logger
-        )
-      end
+      photo = Photo.find_or_create_by(imageable: vendor_wine, photo: wine_attributes[:image_url]) if vendor_wine.persisted?
 
       vendor_wine
     end
@@ -63,7 +58,7 @@ module Seed
           vendor_wine: wine_object
         }
 
-        vintage = VendorVintage.conditionally_create(attributes, Seed::Logger)
+        vintage = VendorVintage.create_or_update_price(attributes)
         build_vendor_critics_for_vintage(vintage, vintage_attributes)
       end
     end
@@ -78,13 +73,12 @@ module Seed
           vendor_vintage: vintage_object
         }
 
-        critic = VendorCritic.conditionally_create(attributes, Seed::Logger)
-        # @number_of_vendor_critics_created += 1 if critic
+        critic = VendorCritic.find_or_create_by(attributes)
       end
     end
 
     def format_vintage_price(price_string)
-      price_string.nil? ? nil : (price_string.to_f * 100).to_i
+      price_string.nil? ? nil : (price_string.to_f).to_i
     end
 
     def website_name

@@ -1,7 +1,7 @@
 namespace :scraper do
   desc "chateau primeurs scraper"
   task chateau_primeurs: [:environment] do
-    Scraper::ChateauPrimeurs.new.run
+    Scraper::ChateauPrimeurs.run
   end
 
   desc "millesima scraper"
@@ -28,6 +28,11 @@ namespace :scraper do
   task tastet: [:environment] do
     Seed::Tastet.generate_json_file
   end
+
+  desc "global wine survey"
+  task gws: [:environment] do
+    Scraper::GlobalWineSurvey.run
+  end  
 end
 
 namespace :seed do
@@ -55,4 +60,14 @@ namespace :seed do
   task :tastet, [:number_of_wines] => [:environment] do |_task, args|
     Rails.logger.silence { Seed::Tastet.run(args[:number_of_wines]) }
   end  
+
+  desc "chateau primeurs seed"
+  task :chateau_primeurs, [:number_of_wines] => [:environment] do |_task, args|
+    Rails.logger.silence { Seed::ChateauPrimeurs.run(args[:number_of_wines]) }
+  end
+
+  desc "global wine survey"
+  task :gws, [:number_of_wines] => [:environment] do |_task, args|
+    Rails.logger.silence { Seed::GlobalWineSurvey.run(args[:number_of_wines]) }
+  end    
 end

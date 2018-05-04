@@ -1,65 +1,90 @@
-require 'open-uri'
-require 'net/http'
-require 'nokogiri'
-
 module Scraper
-  class ChateauPrimeurs
+  class ChateauPrimeurs < Base
+
+    set_base_url "https://www.chateauprimeur.com/Grand-vins-Bordeaux-primeur-2017/"
+    set_output_file "chateau_primeur.json"
+
     def run
+      @dom = dom_from_url(ChateauPrimeurs.base_url)
+      @nb_pages = @dom.search('.pagination > .tc span').last.text.to_i
+      @output_hash[:wine_details] = []
+
       begin
-        html_file = open("https://www.chateauprimeur.com/Grand-vins-Bordeaux-primeur-2017/")
-        html_doc  = Nokogiri::HTML(html_file, nil, 'utf-8')
-        nb_pages = html_doc.search('.pagination > .tc span').last.text.to_i
-
-        region = Region.create(name: "Bordeaux")
-        retailer = Retailer.create(name: "Château Primeur", type: "revendeur")
-
-        puts nb_pages
-        for i in (1..nb_pages)
-          puts "Page n°#{i}"
-          url = "https://www.chateauprimeur.com/catalogue/tous/2017?url=Grand-vins-Bordeaux-primeur-2017&page=#{i}"
-          html_file = open(url)
+          html_file = open("https://www.chateauprimeur.com/Grand-vins-Bordeaux-primeur-2017/")
           html_doc  = Nokogiri::HTML(html_file, nil, 'utf-8')
-          wine_cards =  html_doc.search('.produit')
 
-          wine_cards.each do |wine_card|
-            show_url = wine_card.search('a').attribute('href').value
-            wine_url   = "https://www.chateauprimeur.com#{show_url}"
+          puts @nb_pages
+          for i in (1..@nb_pages)
+            wine = {}
 
-            #Appellation
-            appellation = wine_card.search(".produit_appellation").text
+            puts "Page n°#{i}"
+            url = "https://www.chateauprimeur.com/catalogue/tous/2017?url=Grand-vins-Bordeaux-primeur-2017&page=#{i}"
+            html_file = open(url)
+            html_doc  = Nokogiri::HTML(html_file, nil, 'utf-8')
+            wine_cards =  html_doc.search('.produit')
 
-            find_appellation = Appellation.find_by_name(appellation)
-            unless find_appellation
-              find_appellation = Appellation.create!(name: appellation, region_id: region.id)
+            wine_cards.each do |wine_card|
+              show_url = wine_card.search('a').attribute('href').value
+              wine_url   = "https://www.chateauprimeur.com#{show_url}"
+
+              wine[:region] = "Bordeaux"
+              wine[:appellation] = wine_card.search(".produit_appellation").text.strip
+
+              wine[:name] = wine_card.search(".produit_description a strong").text.strip.gsub(/\s*2017/,"")
+              @logger.info(wine[:name]) if wine[:name]
+
+              wine[:wine_slug] = Scraper::Wine::Base.slugify(wine[:name])
+              wine[:rating] = wine_card.search(".produit_classement").text.strip || ""
+
+              status = wine_card.search(".produit_btn > a").text.strip
+              wine[:status] = "launched" if status == "Je commande"
+              wine[:status] = "coming" if status == "A venir"
+              wine[:status] = "out_of_stock" if status == "Epuisé"
+              wine[:status] = "not_sale" if status == "Non mis en marché"
+
+              wine[:price] = (wine_card.search(".prix").text.strip.gsub(/\s€\s*/,"").to_f*100).to_i
+
+              wine_details  = Nokogiri::HTML(open(wine_url), nil, 'utf-8')
+              wine[:delivery_date] = wine_details.search(".produit_livraison").text.strip
+              wine[:stamp_image_url] = wine_details.search(".produit_photos > ul > .big > a").attribute('href').value
+              wine[:description] = wine_details.search(".description").text.strip
+
+              wine[:bottling] = []
+
+              wine_details.search(".ligne_poste").each do |ligne|
+                bottling = {}
+                bottling[:bottling] = ligne.children.search('.format_cond').text.strip
+                bottling[:price] = ligne.children.search('.format_prix > strong').text.strip.gsub(/\s€\s*/,"").to_f*100
+                bottling[:extra_charge] = ligne.children.search('.format_supp > span').text.strip.gsub(/\s€\s*/,"").to_f*100
+                wine[:bottling] << bottling
+              end
+
+              wine[:wine_critic] = []
+
+              wine_details.search(".produit_notations li").each do |critic|
+                wine_critic = {}
+                critic_tbl = critic.text.strip.split(/\s:\s/)
+                wine_critic[:wine_critic_name] = critic_tbl[0].strip
+                wine_critic[:wine_note] = critic_tbl[1].strip
+
+                wine[:wine_critic] << wine_critic
+              end
+
+              wine[:other_wine] = []
+              wine_details.search(".produit").each do |product|
+                other_wine = {}
+                other_wine[:wine_slug] = Scraper::Wine::Base.slugify(product.search("img").first.attributes["alt"].value.strip.gsub(/\s*2017/,""))
+                wine[:other_wine] << other_wine
+              end
+
+              @output_hash[:wine_details] << wine
             end
-
-            #Wine
-            puts wine_name = wine_card.search(".produit_description a strong").text.strip.gsub(/\s*2017/,"")
-            rating = wine_card.search(".produit_classement").text.strip || ""
-
-            status = wine_card.search(".produit_btn > a").text
-            status = "Sorti" if status == "Je commande"
-
-            wine = Wine.create(name: wine_name,appellation_id: find_appellation.id,rating: rating)
-
-            #vintage
-            price = (wine_card.search(".prix").text.strip.gsub(/\s€\s*/,"").to_f*100).to_i
-
-            vintage = Vintage.create!(vintage: 2016, wine_id: wine.id, price: price, status: status)
-
-            wine_details  = Nokogiri::HTML(open(wine_url), nil, 'utf-8')
-
-            wine_details.search(".produit_notations li").each do |note|
-              vintage.update!(description:  wine_details.search(".description").text  )
-              note_tbl = note.text.strip.split(/\s:\s/)
-              WineNote.create(name: note_tbl[0],note: note_tbl[1],vintage_id: vintage.id)
-            end
-
-            RetailerStock.create!(retailer_id: retailer.id , vintage_id: vintage.id, quantity: 0)
           end
-        end
-      rescue NoMethodError => e
-        return 1
+        rescue Interrupt, SignalException
+          save_and_exit
+        rescue => e
+          @logger.fatal(e)
+          Scraper::Base.null_value
       end
     end
   end
