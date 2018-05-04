@@ -43,31 +43,31 @@ namespace :seed do
 
   desc "bord overview seed"
   task :bord_overview, [:number_of_wines] => [:environment] do |_task, args|
-    Rails.logger.silence { Seed::BordOverview.run(args[:number_of_wines]) }
+    Rails.logger.silence { Seed::BordOverview.run(number_of_wines: args[:number_of_wines]) }
   end
 
   desc "bordeaux primeurs seed"
   task :bordeaux_primeurs, [:number_of_wines] => [:environment] do |_task, args|
-    Rails.logger.silence { Seed::BordeauxPrimeurs.run(args[:number_of_wines]) }
+    Rails.logger.silence { Seed::BordeauxPrimeurs.run(number_of_wines: args[:number_of_wines]) }
   end
 
   desc "millesima seed"
   task :millesima, [:number_of_wines] => [:environment] do |_task, args|
-    Rails.logger.silence { Seed::Millesima.run(args[:number_of_wines]) }
+    Rails.logger.silence { Seed::Millesima.run(number_of_wines: args[:number_of_wines]) }
   end
 
   desc "tastet seed"
   task :tastet, [:number_of_wines] => [:environment] do |_task, args|
-    Rails.logger.silence { Seed::Tastet.run(args[:number_of_wines]) }
+    Rails.logger.silence { Seed::Tastet.run(number_of_wines: args[:number_of_wines]) }
   end  
 
   desc "chateau primeurs seed"
   task :chateau_primeurs, [:number_of_wines] => [:environment] do |_task, args|
-    Rails.logger.silence { Seed::ChateauPrimeurs.run(args[:number_of_wines]) }
+    Rails.logger.silence { Seed::ChateauPrimeurs.run(number_of_wines: args[:number_of_wines]) }
   end
 
   desc "global wine survey"
   task :gws, [:number_of_wines] => [:environment] do |_task, args|
-    Rails.logger.silence { Seed::GlobalWineSurvey.run(args[:number_of_wines]) }
+    Rails.logger.silence { Seed::GlobalWineSurvey.run(number_of_wines: args[:number_of_wines]) }
   end    
 end
