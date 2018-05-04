@@ -14,6 +14,8 @@ class VendorWine < ApplicationRecord
   after_save :log_results_of_save
 
   def self.find_by_slug_or_create(attrs)
+    attrs[:slug] = Slug.generate(attrs[:name], WineModules::StandardizeName::STANDARD_SLUG_METHODS)
+
     if found_vendor_wine = find_by(slug: attrs[:slug], website: attrs[:website])
       seed_log_duplicate
       found_vendor_wine
