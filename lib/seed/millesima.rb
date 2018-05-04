@@ -43,7 +43,7 @@ module Seed
 
       vendor_wine = VendorWine.find_by_slug_or_create(attributes)
 
-      photo = Photo.find_or_create_by(imageable: vendor_wine, photo: wine_attributes[:image_url]) if vendor_wine.persisted?
+      Photo.find_or_create_by(imageable: vendor_wine, photo: wine_attributes[:image_url]) if vendor_wine.persisted?
 
       vendor_wine
     end
@@ -73,12 +73,12 @@ module Seed
           vendor_vintage: vintage_object
         }
 
-        critic = VendorCritic.find_or_create_by(attributes)
+        VendorCritic.find_or_create_by(attributes)
       end
     end
 
     def format_vintage_price(price_string)
-      price_string.nil? ? nil : (price_string.to_f).to_i
+      price_string.nil? ? nil : price_string.to_f.to_i
     end
 
     def website_name
