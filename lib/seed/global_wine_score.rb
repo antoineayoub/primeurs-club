@@ -22,7 +22,7 @@
 # }
 
 module Seed
-  class GlobalWineSurvey < Seed::Base
+  class GlobalWineScore < Seed::Base
     def build_wine_with_appellation(appellation_object, wine_attributes)
       attributes = {
         website: website_name,
@@ -53,7 +53,7 @@ module Seed
     end
 
     def website_name
-      "global_wine_survey"
+      "global_wine_score"
     end
   end
 end

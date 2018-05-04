@@ -1,6 +1,6 @@
 module Scraper
-  class GlobalWineSurvey < Base
-    set_output_file "global_wine_survey.json"
+  class GlobalWineScore < Base
+    set_output_file "global_wine_score.json"
 
     def run
       gws_results = GWS.fetch_latest(region: "Bordeaux").map do |wine_attribues|
