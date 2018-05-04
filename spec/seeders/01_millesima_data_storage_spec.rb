@@ -11,6 +11,7 @@ end
 
 describe Seed::Millesima do
   before(:all) do
+    Seed::Clean.run
     Seed::Millesima.run(json_file_path: Rails.root.join("spec", "seeders", "json", "millesima_content.json"))
   end
 
@@ -121,6 +122,15 @@ describe Seed::Millesima do
           first: 4
         )
       end
+    end
+
+    it "running the seeder multiple times creates no duplicates" do
+      Seed::Millesima.run(json_file_path: Rails.root.join("spec", "seeders", "json", "millesima_content.json"))
+      
+      expect(Wine.count).to eq(2)
+      expect(VendorWine.count).to eq(2)
+      expect(VendorVintage.count).to eq(8)
+      expect(VendorCritic.count).to eq(40)
     end
   end
 end

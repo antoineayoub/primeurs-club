@@ -2,6 +2,7 @@ require "rails_helper"
 
 describe "Slug Generation" do
   before(:each) { Seed::Clean.run }
+  after(:all) { Seed::Clean.run }
 
   let(:simple_slugs) {
     {
