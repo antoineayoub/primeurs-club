@@ -124,7 +124,6 @@ ActiveRecord::Schema.define(version: 20180503202532) do
     t.datetime "updated_at", null: false
     t.string "lwin"
     t.string "lwin_11"
-    t.string "gws_id"
     t.string "confidence_index"
     t.index ["wine_id"], name: "index_vintages_on_wine_id"
   end
@@ -146,6 +145,7 @@ ActiveRecord::Schema.define(version: 20180503202532) do
     t.datetime "updated_at", null: false
     t.string "slug"
     t.string "wine_type"
+    t.string "gws_id"
     t.string "colour"
     t.string "country"
     t.index ["appellation_id"], name: "index_wines_on_appellation_id"
