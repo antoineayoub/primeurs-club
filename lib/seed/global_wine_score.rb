@@ -29,8 +29,10 @@ module Seed
         name: wine_attributes[:name],
         rating: wine_attributes[:classification],
         colour: wine_attributes[:color],
+        gws_id: wine_attributes[:wine_id],
         appellation: appellation_object,
-        country: wine_attributes[:country]
+        country: wine_attributes[:country],
+        lwin: wine_attributes[:lwin]
       }
 
       VendorWine.find_by_slug_or_create(attributes)
@@ -41,8 +43,6 @@ module Seed
         vendor_wine: wine_object,
         vintage: wine_attributes[:vintage],
         global_wine_score: wine_attributes[:score],
-        gws_id: wine_attributes[:wine_id],
-        lwin: wine_attributes[:lwin],
         lwin_11: wine_attributes[:lwin_11],
         journalist_count: wine_attributes[:journalist_count],
         confidence_index: wine_attributes[:confidence_index],
