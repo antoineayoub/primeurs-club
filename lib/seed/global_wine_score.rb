@@ -26,7 +26,7 @@ module Seed
     def build_wine_with_appellation(appellation_object, wine_attributes)
       attributes = {
         website: website_name,
-        name: wine_attributes[:name],
+        name: shorter_name(wine_attributes[:name]),
         rating: wine_attributes[:classification],
         colour: wine_attributes[:color],
         gws_id: wine_attributes[:wine_id],
