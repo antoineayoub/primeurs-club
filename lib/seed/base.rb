@@ -30,7 +30,7 @@ module Seed
     end
 
     def config_from_options(options)
-      @photo_upload = options[:photo_upload] || true
+      @photo_upload = options[:photo_upload] || false
       @number_of_wines = options[:number_of_wines] || false
       @json_file_path = options[:json_file_path] || false
     end
