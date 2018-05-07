@@ -14,7 +14,8 @@ class VendorVintage < ApplicationRecord
         seed_log_duplicate
       end
 
-      return existing_vendor_vintage
+      existing_vendor_vintage
+
     end
 
     private
@@ -23,6 +24,7 @@ class VendorVintage < ApplicationRecord
       unless [:vendor_wine, :vintage].all? { |attribute| vendor_vintage_attrs.include?(attribute) }
         raise VendorVintageError, "Must include vendor_wine and vintage on vendor_vintage creation"
       end
+
       find_by(vendor_vintage_attrs.slice(:vendor_wine, :vintage))
     end
   end

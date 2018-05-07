@@ -1,12 +1,14 @@
 module Seed
   class Base
-    def self.run(number_of_wines)
-      new(number_of_wines)
+    def self.run(options = {})
+      new(options)
     end
 
-    def initialize(number_of_wines)
-      @json = load_json
-      build_array_of_wine_details(number_of_wines)
+    def initialize(options)
+      config_from_options(options)
+      build_json_file_path
+      load_json
+      build_array_of_wine_details
       db_tally = Seed::DataBaseTally.begin_tracking(Seed::Logger)
       run
       db_tally.print_changes
@@ -38,18 +40,33 @@ module Seed
       end
     end
 
-    def load_json
-      file_path = Dir.glob("#{Rails.root}/db/scraper/*_#{website_name}.json").sort do |a, b|
-        timestamp_of_file(b) <=> timestamp_of_file(a)
-      end.first
-
-      Seed::Logger.info("initializing seed with: '#{file_path}'")
-      JSON.parse(File.open(file_path).read, symbolize_names: true)
+    def config_from_options(options)
+      @photo_upload = options[:photo_upload] || true
+      @number_of_wines = options[:number_of_wines] || false
+      @json_file_path = options[:json_file_path] || false
     end
 
-    def build_array_of_wine_details(number_of_wines)
-      # @wine_details = number_of_wines ? @json[:wine_details].sample(number_of_wines.to_i) : @json[:wine_details]
-      @wine_details = number_of_wines ? @json[:wine_details][0...number_of_wines.to_i] : @json[:wine_details]
+    def photo_upload?
+      @photo_upload
+    end
+
+    def build_json_file_path
+      @file_path = if @json_file_path
+        @json_file_path
+      else
+        Dir.glob("#{Rails.root}/db/scraper/*_#{website_name}.json").sort do |a, b|
+          timestamp_of_file(b) <=> timestamp_of_file(a)
+        end.first
+      end
+    end
+
+    def load_json
+      Seed::Logger.info("initializing seed with: '#{@file_path}'")
+      @json = JSON.parse(File.open(@file_path).read, symbolize_names: true)
+    end
+
+    def build_array_of_wine_details
+      @wine_details = @number_of_wines ? @json[:wine_details][0...@number_of_wines.to_i] : @json[:wine_details]
       Seed::Logger.info("number of wines being seeded #{@wine_details.length}")
     end
 

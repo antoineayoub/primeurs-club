@@ -9,7 +9,7 @@ class Wine < ApplicationRecord
   has_many :vendor_wines
   has_many :vendor_vintages, through: :vendor_wines
 
-  before_validation :standardize_name
+  before_create :standardize_name
 
   validates_uniqueness_of :slug
 

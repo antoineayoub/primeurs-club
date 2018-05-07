@@ -29,6 +29,8 @@ gem 'fog-aws'
 gem "http"
 
 group :development, :test do
+  gem 'rspec-rails'
+
   gem 'binding_of_caller'
   gem 'better_errors'
 
