@@ -1,0 +1,146 @@
+{
+  "wine_details": [
+    {
+      "Couleur": "Rouge",
+      "Classement": "2° Cru Classé",
+      "appellation": "St-Julien",
+      "name": "Château GRUAUD LAROSE",
+      "vintages": [
+        {
+          "Année": "2014",
+          "Date de Sortie": "06/05/2015",
+          "PRC": "39,5",
+          "Wine Advocate": "90"
+        },
+        {
+          "Année": "2008",
+          "Date de Sortie": "15/04/2009",
+          "PRC": "23,5",
+          "Wine Advocate": "90"
+        },
+        {
+          "Année": "2007",
+          "Date de Sortie": "19/05/2008",
+          "PRC": "29",
+          "Wine Advocate": "87"
+        },
+        {
+          "Année": "2006",
+          "Date de Sortie": "02/05/2007",
+          "PRC": "29,5",
+          "Wine Advocate": "84"
+        },
+        {
+          "Année": "2005",
+          "Date de Sortie": "02/06/2006",
+          "PRC": "34",
+          "Wine Advocate": "90"
+        },
+        {
+          "Année": "2004",
+          "Date de Sortie": "11/04/2005",
+          "PRC": "22,25",
+          "Wine Advocate": "87"
+        },
+        {
+          "Année": "2003",
+          "Date de Sortie": "24/05/2004",
+          "PRC": "24,25",
+          "Wine Advocate": "88"
+        },
+        {
+          "Année": "2002",
+          "Date de Sortie": "16/04/2003",
+          "PRC": "19,5",
+          "Wine Advocate": "88 - 90"
+        },
+        {
+          "Année": "2001",
+          "Date de Sortie": "02/05/2002",
+          "PRC": "24,1",
+          "Wine Advocate": "90"
+        },
+        {
+          "Année": "2000",
+          "Date de Sortie": "18/04/2001",
+          "PRC": "27",
+          "Wine Advocate": "94"
+        },
+        {
+          "Année": "1999",
+          "Date de Sortie": "17/04/2000",
+          "PRC": "24,39",
+          "Wine Advocate": "89"
+        },
+        {
+          "Année": "1998",
+          "Date de Sortie": "25/03/1999",
+          "PRC": "28,2",
+          "Wine Advocate": "88"
+        },
+        {
+          "Année": "1997",
+          "Date de Sortie": "04/06/1998",
+          "PRC": "37,65",
+          "Wine Advocate": "87"
+        },
+        {
+          "Année": "1996",
+          "Date de Sortie": "29/05/1997",
+          "PRC": "29,12",
+          "Wine Advocate": "89"
+        }
+      ]
+    },
+    {
+      "Couleur": "Rouge",
+      "Classement": null,
+      "appellation": "Puisseguin St-Emilion",
+      "name": "Château GUIBOT LA FOURVIEILLE",
+      "vintages": [
+        {
+          "Année": "2009",
+          "Date de Sortie": "12/04/2010",
+          "PRC": "8,7",
+          "Wine Advocate": "89"
+        },
+        {
+          "Année": "2006",
+          "Date de Sortie": "22/05/2007",
+          "PRC": "8,4",
+          "Wine Advocate": null
+        },
+        {
+          "Année": "2004",
+          "Date de Sortie": "20/05/2005",
+          "PRC": "8,4",
+          "Wine Advocate": null
+        },
+        {
+          "Année": "2003",
+          "Date de Sortie": "04/05/2004",
+          "PRC": "8,3",
+          "Wine Advocate": null
+        },
+        {
+          "Année": "2002",
+          "Date de Sortie": "15/05/2003",
+          "PRC": "6,8",
+          "Wine Advocate": null
+        },
+        {
+          "Année": "2001",
+          "Date de Sortie": "10/04/2002",
+          "PRC": "7,15",
+          "Wine Advocate": "88 - 90"
+        },
+        {
+          "Année": "2000",
+          "Date de Sortie": "27/03/2001",
+          "PRC": null,
+          "Wine Advocate": "87 - 89"
+        }
+      ]
+    }
+  ]
+}
