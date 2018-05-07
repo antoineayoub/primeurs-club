@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180503202532) do
+ActiveRecord::Schema.define(version: 20180505135624) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -94,11 +94,8 @@ ActiveRecord::Schema.define(version: 20180503202532) do
     t.string "website"
     t.bigint "vendor_wine_id"
     t.date "launch_date"
-    t.string "lwin"
     t.string "lwin_11"
-    t.string "gws_id"
     t.string "confidence_index"
-    t.string "journalist_names"
     t.string "journalist_count"
     t.index ["vendor_wine_id"], name: "index_vendor_vintages_on_vendor_wine_id"
   end
@@ -111,6 +108,7 @@ ActiveRecord::Schema.define(version: 20180503202532) do
     t.text "description"
     t.bigint "wine_id"
     t.string "website"
+    t.string "gws_id"
     t.index ["wine_id"], name: "index_vendor_wines_on_wine_id"
   end
 
@@ -122,7 +120,6 @@ ActiveRecord::Schema.define(version: 20180503202532) do
     t.string "status"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.string "lwin"
     t.string "lwin_11"
     t.string "confidence_index"
     t.index ["wine_id"], name: "index_vintages_on_wine_id"
@@ -148,6 +145,7 @@ ActiveRecord::Schema.define(version: 20180503202532) do
     t.string "gws_id"
     t.string "colour"
     t.string "country"
+    t.string "lwin"
     t.index ["appellation_id"], name: "index_wines_on_appellation_id"
   end
 

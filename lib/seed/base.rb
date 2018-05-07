@@ -16,6 +16,17 @@ module Seed
 
     private
 
+    def shorter_name(gws_name)
+      wine_name = gws_name.split(',')
+
+      if wine_name.count <= 2
+        wine_name = wine_name.first
+      else
+        wine_name = wine_name.first + wine_name.second
+      end
+      wine_name
+    end
+
     def run
       @wine_details.each do |wine_attributes|
         begin

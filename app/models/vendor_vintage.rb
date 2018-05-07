@@ -15,6 +15,7 @@ class VendorVintage < ApplicationRecord
       end
 
       existing_vendor_vintage
+
     end
 
     private
@@ -35,7 +36,7 @@ class VendorVintage < ApplicationRecord
   has_many :vendor_critics, dependent: :destroy
 
   validates_presence_of :vendor_wine
-  
+
   after_save :log_results_of_save
 
   def price_has_changed_from(price_cents)
