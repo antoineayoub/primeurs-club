@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180505135624) do
+ActiveRecord::Schema.define(version: 20180507215745) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -23,17 +23,13 @@ ActiveRecord::Schema.define(version: 20180505135624) do
     t.index ["region_id"], name: "index_appellations_on_region_id"
   end
 
-  create_table "photos", force: :cascade do |t|
-    t.string "photo"
-    t.string "from"
-    t.bigint "wine_id"
+  create_table "images", force: :cascade do |t|
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.bigint "imageable_id"
     t.string "imageable_type"
-    t.string "photo_upload_url"
-    t.index ["imageable_id"], name: "index_photos_on_imageable_id"
-    t.index ["wine_id"], name: "index_photos_on_wine_id"
+    t.string "image_url"
+    t.index ["imageable_id"], name: "index_images_on_imageable_id"
   end
 
   create_table "regions", id: :serial, force: :cascade do |t|
@@ -150,7 +146,6 @@ ActiveRecord::Schema.define(version: 20180505135624) do
   end
 
   add_foreign_key "appellations", "regions"
-  add_foreign_key "photos", "wines"
   add_foreign_key "vendor_critics", "vendor_vintages"
   add_foreign_key "vendor_vintages", "vendor_wines"
   add_foreign_key "vendor_wines", "wines"

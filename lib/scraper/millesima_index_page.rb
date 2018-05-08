@@ -60,7 +60,6 @@ module Scraper
 
     def each_page_of_fifty_wines(&block)
       total_number_of_pages = Scraper::MillesimaIndexPage.total_number_of_wines / Scraper::MillesimaIndexPage.page_size
-
       (total_number_of_pages - Scraper::MillesimaIndexPage.start_page).times do |page_number|
         begin
           @logger.info("page number: #{page_number + Scraper::MillesimaIndexPage.start_page}")
