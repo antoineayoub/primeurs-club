@@ -68,6 +68,6 @@ namespace :seed do
 
   desc "global wine score"
   task :gws, [:number_of_wines] => [:environment] do |_task, args|
-    Rails.logger.silence { Seed::GlobalWineSurvey.run(number_of_wines: args[:number_of_wines]) }
+    Rails.logger.silence { Seed::GlobalWineScore.run(number_of_wines: args[:number_of_wines]) }
   end
 end
