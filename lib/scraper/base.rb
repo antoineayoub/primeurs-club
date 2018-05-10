@@ -37,7 +37,7 @@ module Scraper
     attr_reader :output_file_path
 
     def initialize
-      @output_file_path = Rails.root.join("db/scraper/#{DateTime.now.strftime('%Y%m%d%H%M%S')}_#{self.class.output_file_name}")
+      puts @output_file_path = Rails.root.join("db/scraper/#{DateTime.now.strftime('%Y%m%d%H%M%S')}_#{self.class.output_file_name}")
 
       @logger = Logger.new(STDOUT)
       @output_hash = {}
