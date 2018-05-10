@@ -9,7 +9,6 @@ class Image < ApplicationRecord
   private
 
   def upload_image
-    binding.pry
     image_uploader = ImageUploader.new
     image = open()
     image_uploader.download!(image)

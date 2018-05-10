@@ -21,13 +21,25 @@ class GWS
     #  is_primeurs - A boolean, default: true
     #
     def fetch_latest(params)
-      params_with_defaults = { limit: 5000 }.merge(params)
+      wines = []
+      offset = 0
+      limit = 5000
+      params_with_defaults = { limit: limit }.merge(params)
       response = auth_then.get(BASE_URL, params: params_with_defaults)
-      if response.code == 200
-        response.parse["results"]
-      else
-        []
+      count = response.parse["count"]
+
+      while offset < count
+        if response.code == 200
+          response.parse["results"].each do |result|
+            wines << result
+          end
+        else
+          []
+        end
+        response = auth_then.get(response.parse["next"]) if response.parse["next"] != nil
+        offset += 5000
       end
+      wines
     end
 
     def update_all()
