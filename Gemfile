@@ -25,6 +25,7 @@ gem 'chromedriver-helper'
 gem 'carrierwave', git: "git://github.com/carrierwaveuploader/carrierwave.git"
 gem 'mini_magick'
 gem 'fog-aws'
+gem 'aws-sdk', '~> 3'
 
 gem "http"
 

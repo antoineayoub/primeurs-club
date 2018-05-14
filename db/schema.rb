@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180507215745) do
+ActiveRecord::Schema.define(version: 20180514075021) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -30,6 +30,14 @@ ActiveRecord::Schema.define(version: 20180507215745) do
     t.string "imageable_type"
     t.string "image_url"
     t.index ["imageable_id"], name: "index_images_on_imageable_id"
+  end
+
+  create_table "json_names", force: :cascade do |t|
+    t.string "name"
+    t.string "website"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.string "json"
   end
 
   create_table "regions", id: :serial, force: :cascade do |t|

@@ -8,6 +8,7 @@ module Scraper
     def run
       millesima_index_page_scraper = Scraper::MillesimaIndexPage.run
       @wine_vintages = JSON.parse(File.open(millesima_index_page_scraper.output_file_path).read)["wine_vintages"]
+      @website = "millesima"
       collect_details_of_each_wine
     end
 
@@ -23,7 +24,7 @@ module Scraper
       vintages = @wine_vintages[wine_slug]
 
       wine_hash = Wine::MillesimaWine.build_from_dom(dom_of_prototypal_wine(vintages)).to_hash
-      wine_hash[:vintages] = vintages.map do |vintage| 
+      wine_hash[:vintages] = vintages.map do |vintage|
         wine_vintage = Wine::MillesimaVintage.build_from_dom(dom_of_vintage(vintage))
         wine_vintage.price = vintage["price"]
         wine_vintage.to_hash
