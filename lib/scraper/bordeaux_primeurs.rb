@@ -5,6 +5,7 @@ module Scraper
 
     def run
       @output_hash[:wine_slugs] = collect_all_wine_slugs
+      @website = "bordeaux_primeurs"
       collect_details_of_each_wine
     end
 

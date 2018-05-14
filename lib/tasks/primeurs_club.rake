@@ -33,6 +33,11 @@ namespace :scraper do
   task gws: [:environment] do
     Scraper::GlobalWineScore.run
   end
+
+  desc "la grande cave"
+  task la_grande_cave: [:environment] do
+    Scraper::LaGrandeCave.run
+  end
 end
 
 namespace :seed do

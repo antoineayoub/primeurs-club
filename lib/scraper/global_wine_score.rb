@@ -6,11 +6,12 @@ module Scraper
       cpt = 0
       gws_results = GWS.fetch_latest({ region: "Bordeaux" }).map do |wine_attributes|
         wine_attributes["name"] = wine_attributes.delete("wine")
-        wine_attributes
         @logger.info(wine_attributes["name"])
         cpt += 1
+        wine_attributes
       end
       @logger.info("Number of imported lines : #{cpt}")
+      @website = "global_wine_score"
       @output_hash = { wine_details: gws_results }
       rescue Interrupt, SignalException
         save_and_exit

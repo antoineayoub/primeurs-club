@@ -5,7 +5,7 @@ class ImageUploader < CarrierWave::Uploader::Base
   storage :fog
 
   def store_dir
-    "wine_label"
+    "ppc/wine_label"
   end
 
   def filename

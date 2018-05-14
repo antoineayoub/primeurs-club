@@ -6,11 +6,12 @@ module Scraper
 
     def run
       @dom = dom_from_url(ChateauPrimeurs.base_url)
+      @website = "chateau_primeur"
       @nb_pages = @dom.search('.pagination > .tc span').last.text.to_i
       @output_hash[:wine_details] = []
 
       begin
-          html_file = open("https://www.chateauprimeur.com/Grand-vins-Bordeaux-primeur-2017/")
+          html_file = open("https://www.lagrandecave.fr/tousNosVins/")
           html_doc  = Nokogiri::HTML(html_file, nil, 'utf-8')
 
           puts @nb_pages
@@ -18,7 +19,7 @@ module Scraper
             wine = {}
 
             puts "Page n°#{i}"
-            url = "https://www.chateauprimeur.com/catalogue/tous/2017?url=Grand-vins-Bordeaux-primeur-2017&page=#{i}"
+            url = "https://www.lagrandecave.fr/tousNosVins?page=#{i}"
             html_file = open(url)
             html_doc  = Nokogiri::HTML(html_file, nil, 'utf-8')
             wine_cards =  html_doc.search('.produit')
@@ -76,7 +77,7 @@ module Scraper
                 other_wine[:wine_slug] = Scraper::Wine::Base.slugify(product.search("img").first.attributes["alt"].value.strip.gsub(/\s*2017/,""))
                 wine[:other_wine] << other_wine
               end
-
+              @website = "chateau_primeur"
               @output_hash[:wine_details] << wine
             end
           end
