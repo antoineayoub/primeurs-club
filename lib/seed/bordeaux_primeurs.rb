@@ -29,13 +29,7 @@ module Seed
 
       vendor_wine = VendorWine.find_by_slug_or_create(attributes)
 
-<<<<<<< HEAD
-      if vendor_wine.persisted? && photo_upload?
-        Photo.find_or_create_by(imageable: vendor_wine, photo: wine_attributes[:stamp_image_url]) 
-      end
-=======
       Photo.find_or_create_by(imageable: vendor_wine, photo: wine_attributes[:stamp_image_url]) if vendor_wine.persisted?
->>>>>>> master
 
       vendor_wine
     end
