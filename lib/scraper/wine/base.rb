@@ -48,6 +48,10 @@ module Scraper
         @dom
       end
 
+      def dom_from_url(url)
+        Nokogiri::HTML(open(url), nil, 'utf-8')
+      end
+
       def run_before_scraping_methods
         if self.class.before_scraping_methods
           self.class.before_scraping_methods.each { |method_symbol| send(method_symbol) }
