@@ -22,8 +22,6 @@ module Scraper
       @dom = dom_from_url(LaGrandeCave.base_url)
       @website = "la_grande_cave"
       @number_of_pages = @dom.search('.pagination')[0].children[7].children.text.strip.to_i
-      @output_hash[:wine_details] = []
-
       collect_details_of_each_wine
 
     rescue Interrupt, SignalException
