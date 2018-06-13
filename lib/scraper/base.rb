@@ -11,9 +11,7 @@ module Scraper
 
     def run
       scraper = new
-      scraper.write_to_output_file
-      scraper
-    rescue
+    ensure
       scraper.write_to_output_file
       scraper
     end
@@ -47,25 +45,17 @@ module Scraper
 
     def write_to_output_file
       stringified_json = JSON.pretty_generate(@output_hash)
-
+    ensure
       json_file = File.open(@output_file_path, "w")
       json_file.puts(stringified_json)
-
+      
       json_name = JsonName.new(name: name_from_path(@output_file_path), website: @website )
       json_name.json = json_file
       json_name.save
-
+      
       json_file.close
+
       Seed::Logger.info("file uploaded: #{json_name.json_url}")
-    rescue
-      json_file = File.open(@output_file_path, "w")
-      json_file.puts(stringified_json)
-
-      json_name = JsonName.new(name: name_from_path(@output_file_path), website: @website )
-      json_name.json = json_file
-      json_name.save
-
-      json_file.close
     end
 
     private
