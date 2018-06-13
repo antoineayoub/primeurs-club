@@ -11,6 +11,7 @@ module Scraper
 
     def run
       scraper = new
+      scraper.run
     ensure
       scraper.write_to_output_file
       scraper
@@ -39,8 +40,6 @@ module Scraper
 
       @logger = Logger.new(STDOUT)
       @output_hash = {}
-
-      run
     end
 
     def write_to_output_file
