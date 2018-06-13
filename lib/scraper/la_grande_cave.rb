@@ -3,6 +3,11 @@ module Scraper
     set_base_url "https://www.lagrandecave.fr/tousNosVins?format=1"
     set_output_file "la_grande_cave.json"
 
+    def collect_details_of_each_wine
+
+      @output_hash[:wine_details] = []
+    end
+
     def run
       @dom = dom_from_url(LaGrandeCave.base_url)
       @website = "la_grande_cave"
@@ -35,18 +40,18 @@ module Scraper
             wine[:encepagement] = @details_hash[:encepagement]
             wine[:age_moyen_des_vignes] = @details_hash[:age_moyen_des_vignes]
             wine[:elevage] = @details_hash[:elevage]
-            wine[:label_url] = wine_card.search('img[role="visuel_principal"]')[0].src
+            # wine[:label_url] = wine_card.search('img[role="visuel_principal"]')[0].src
 
             vintages = []
 
-            if wine_type == 'Primeur'
-              wine[:price] = wine_card.search(".prix_vin").text.strip.gsub(/\s€\s*/,"").to_f*100).to_i
+            if wine[:type] == 'Primeur'
+              wine[:price] = (wine_card.search(".prix_vin").text.strip.gsub(/\s€\s*/,"").to_f*100).to_i
             else
-              wine[:price] = wine_card.search(".prix_unite > strong").text.strip.gsub(/\s€\s*/,"").to_f*100).to_i
+              wine[:price] = (wine_card.search(".prix_unite > strong").text.strip.gsub(/\s€\s*/,"").to_f*100).to_i
             end
 
             build_details_hash(html_doc, "notations")
-            wine[:destription] = wine_card.search('#millesimes').first.text.strip
+            # wine[:destription] = wine_card.search('#millesimes').first.text.strip
 
             @output_hash[:wine_details] << wine
           end
