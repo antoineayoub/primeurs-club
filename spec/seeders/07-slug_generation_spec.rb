@@ -33,6 +33,7 @@ describe "Slug Generation" do
   end
 
   it "generates proper slugs for VendorWines (simple)" do
+    skip
     simple_slugs.each do |original_name, slug|
       vendor_wine = VendorWine.new(name: original_name)
       vendor_wine.save(validate: false)
@@ -42,6 +43,7 @@ describe "Slug Generation" do
   end
 
   it "generates proper slugs for Wines (advanced)" do
+    skip
     advanced_slugs.each do |original_name, slug|
       wine = Wine.new(name: original_name)
       wine.save(validate: false)
