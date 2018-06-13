@@ -82,7 +82,7 @@ module Scraper
             output_hash
           end
 
-          def vintages_hash
+          def vintages_hash(sibling_urls)
             sibling_urls.map do |sibling_url|
               sibling_wine = @wines.find { |wine| wine.page_url == sibling_url }
               sibling_wine&.vintage_info
