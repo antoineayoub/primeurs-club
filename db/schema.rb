@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180503202532) do
+ActiveRecord::Schema.define(version: 20180514075021) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -23,17 +23,21 @@ ActiveRecord::Schema.define(version: 20180503202532) do
     t.index ["region_id"], name: "index_appellations_on_region_id"
   end
 
-  create_table "photos", force: :cascade do |t|
-    t.string "photo"
-    t.string "from"
-    t.bigint "wine_id"
+  create_table "images", force: :cascade do |t|
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.bigint "imageable_id"
     t.string "imageable_type"
-    t.string "photo_upload_url"
-    t.index ["imageable_id"], name: "index_photos_on_imageable_id"
-    t.index ["wine_id"], name: "index_photos_on_wine_id"
+    t.string "image_url"
+    t.index ["imageable_id"], name: "index_images_on_imageable_id"
+  end
+
+  create_table "json_names", force: :cascade do |t|
+    t.string "name"
+    t.string "website"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.string "json"
   end
 
   create_table "regions", id: :serial, force: :cascade do |t|
@@ -94,11 +98,8 @@ ActiveRecord::Schema.define(version: 20180503202532) do
     t.string "website"
     t.bigint "vendor_wine_id"
     t.date "launch_date"
-    t.string "lwin"
     t.string "lwin_11"
-    t.string "gws_id"
     t.string "confidence_index"
-    t.string "journalist_names"
     t.string "journalist_count"
     t.index ["vendor_wine_id"], name: "index_vendor_vintages_on_vendor_wine_id"
   end
@@ -111,6 +112,7 @@ ActiveRecord::Schema.define(version: 20180503202532) do
     t.text "description"
     t.bigint "wine_id"
     t.string "website"
+    t.string "gws_id"
     t.index ["wine_id"], name: "index_vendor_wines_on_wine_id"
   end
 
@@ -122,7 +124,6 @@ ActiveRecord::Schema.define(version: 20180503202532) do
     t.string "status"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.string "lwin"
     t.string "lwin_11"
     t.string "confidence_index"
     t.index ["wine_id"], name: "index_vintages_on_wine_id"
@@ -148,11 +149,11 @@ ActiveRecord::Schema.define(version: 20180503202532) do
     t.string "gws_id"
     t.string "colour"
     t.string "country"
+    t.string "lwin"
     t.index ["appellation_id"], name: "index_wines_on_appellation_id"
   end
 
   add_foreign_key "appellations", "regions"
-  add_foreign_key "photos", "wines"
   add_foreign_key "vendor_critics", "vendor_vintages"
   add_foreign_key "vendor_vintages", "vendor_wines"
   add_foreign_key "vendor_wines", "wines"

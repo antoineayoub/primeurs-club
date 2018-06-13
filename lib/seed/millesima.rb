@@ -25,6 +25,8 @@
 #         }
 #       ]
 #      }
+#
+require 'open-uri'
 
 module Seed
   class Millesima < Seed::Base
@@ -41,13 +43,17 @@ module Seed
         country: wine_attributes[:pays]
       }
 
-      vendor_wine = VendorWine.find_by_slug_or_create(attributes)
+      @vendor_wine = VendorWine.find_by_slug_or_create(attributes)
 
-      if vendor_wine.persisted? && photo_upload?
-        Photo.find_or_create_by(imageable: vendor_wine, photo: wine_attributes[:image_url]) 
+      if @vendor_wine.persisted? && photo_upload?
+        image_uploader = ImageUploader.new(@vendor_wine)
+        image = open(wine_attributes[:image_url])
+        image_uploader.store!(image)
+        Seed::Logger.info("file uploaded: #{image_uploader.url}")
+        Image.find_or_create_by(imageable_type: "VendorWine", imageable: @vendor_wine, image_url: image_uploader.url )
       end
 
-      vendor_wine
+      @vendor_wine
     end
 
     def build_vendor_vintages_for_wine(wine_object, wine_attributes)

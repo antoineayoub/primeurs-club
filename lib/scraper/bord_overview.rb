@@ -14,6 +14,7 @@ module Scraper
     def run
       @dom = dom_from_url(BordOverview.base_url)
       @all_rows = @dom.search("#overview > tbody > tr")
+      @website = "bord_overview"
       collect_details_of_each_wine
     end
 

@@ -16,6 +16,17 @@ module Seed
 
     private
 
+    def shorter_name(gws_name)
+      wine_name = gws_name.split(',')
+
+      if wine_name.count <= 2
+        wine_name = wine_name.first
+      else
+        wine_name = wine_name.first + wine_name.second
+      end
+      wine_name
+    end
+
     def run
       @wine_details.each do |wine_attributes|
         begin
@@ -43,15 +54,14 @@ module Seed
       @file_path = if @json_file_path
         @json_file_path
       else
-        Dir.glob("#{Rails.root}/db/scraper/*_#{website_name}.json").sort do |a, b|
-          timestamp_of_file(b) <=> timestamp_of_file(a)
-        end.first
+        JsonName.where(website: website_name).last.json.url unless JsonName.where(website: website_name).last.nil?
       end
     end
 
     def load_json
       Seed::Logger.info("initializing seed with: '#{@file_path}'")
-      @json = JSON.parse(File.open(@file_path).read, symbolize_names: true)
+      @json = JSON.load(open(@file_path))
+      @json = JSON.parse(@json.to_json, symbolize_names: true)
     end
 
     def build_array_of_wine_details

@@ -37,7 +37,7 @@ module Scraper
     attr_reader :output_file_path
 
     def initialize
-      @output_file_path = Rails.root.join("db/scraper/#{DateTime.now.strftime('%Y%m%d%H%M%S')}_#{self.class.output_file_name}")
+      puts @output_file_path = Rails.root.join("db/scraper/#{DateTime.now.strftime('%Y%m%d%H%M%S')}_#{self.class.output_file_name}")
 
       @logger = Logger.new(STDOUT)
       @output_hash = {}
@@ -50,10 +50,21 @@ module Scraper
 
       json_file = File.open(@output_file_path, "w")
       json_file.puts(stringified_json)
+
+      json_name = JsonName.new(name: name_from_path(@output_file_path), website: @website )
+      json_name.json = json_file
+      json_name.save
+
       json_file.close
+      Seed::Logger.info("file uploaded: #{json_name.json_url}")
     rescue
       json_file = File.open(@output_file_path, "w")
-      json_file.puts(@output_hash.inspect)
+      json_file.puts(stringified_json)
+
+      json_name = JsonName.new(name: name_from_path(@output_file_path), website: @website )
+      json_name.json = json_file
+      json_name.save
+
       json_file.close
     end
 
@@ -61,6 +72,10 @@ module Scraper
 
     def dom_from_url(url)
       Nokogiri::HTML(open(url), nil, 'utf-8')
+    end
+
+    def name_from_path(path)
+      File.basename(path,".*")
     end
 
     def save_and_exit

@@ -2,9 +2,10 @@ class VendorWine < ApplicationRecord
   include WineModules::Photo
   include WineModules::StandardizeName
 
+  has_many :images, as: :imageable, dependent: :destroy
+
   belongs_to :region, optional: true
   belongs_to :wine
-  has_many :photos, as: :imageable, dependent: :destroy
   has_many :vendor_vintages, dependent: :destroy
 
   validates :name, presence: true
