@@ -69,7 +69,6 @@ module Scraper
 
     def save_and_exit
       @logger.fatal("MANUAL INTERRUPT. WRITING TO OUTPUT FILE.")
-      write_to_output_file
       @logger.fatal("EXITING.")
       exit
     end
