@@ -10,56 +10,52 @@ module Scraper
       @output_hash[:wine_details] = []
 
       begin
-          puts @nb_pages
-          for i in (1..@nb_pages)
-            wine = {}
+        puts @nb_pages
+        for i in (1..@nb_pages)
+          wine = {}
 
-            puts "Page n°#{i}"
-            html_doc  = dom_from_url(LaGrandeCave.base_url + "&page=#{i}")
+          puts "Page n°#{i}"
+          html_doc  = dom_from_url(LaGrandeCave.base_url + "&page=#{i}")
 
-            wine_cards =  html_doc.search('.bouteille_liste')
+          wine_cards =  html_doc.search('.bouteille_liste')
 
-            wine_cards.each do |wine_card|
-              wine_url = wine_card.search('.infos > a').attribute('href').value
+          wine_cards.each do |wine_card|
+            wine_url = wine_card.search('.infos > a').attribute('href').value
 
-              html_doc  = dom_from_url(wine_url)
+            html_doc  = dom_from_url(wine_url)
 
-              build_details_hash(html_doc, "details")
-              wine[:pays] = "France"
-              wine[:region] = "Bordeaux"
-              wine[:name] = wine_card.search(".nom_vin > h2 .up").text.strip
-              wine[:type] = wine_card.search(".contenance_vin").text.strip
-              wine[:appellation] = @details_hash[:appellation]
-              wine[:classement] = @details_hash[:classement]
-              wine[:superficie] = @details_hash[:superficie]
-              wine[:encepagement] = @details_hash[:encepagement]
-              wine[:age_moyen_des_vignes] = @details_hash[:age_moyen_des_vignes]
-              wine[:elevage] = @details_hash[:elevage]
-              wine[:label_url] = wine_card.search('img[role="visuel_principal"]')[0].src
+            build_details_hash(html_doc, "details")
+            wine[:pays] = "France"
+            wine[:region] = "Bordeaux"
+            wine[:name] = wine_card.search(".nom_vin > h2 .up").text.strip
+            wine[:type] = wine_card.search(".contenance_vin").text.strip
+            wine[:appellation] = @details_hash[:appellation]
+            wine[:classement] = @details_hash[:classement]
+            wine[:superficie] = @details_hash[:superficie]
+            wine[:encepagement] = @details_hash[:encepagement]
+            wine[:age_moyen_des_vignes] = @details_hash[:age_moyen_des_vignes]
+            wine[:elevage] = @details_hash[:elevage]
+            wine[:label_url] = wine_card.search('img[role="visuel_principal"]')[0].src
 
-              vintages = []
+            vintages = []
 
-              if wine_type == 'Primeur'
-                wine[:price] = wine_card.search(".prix_vin").text.strip.gsub(/\s€\s*/,"").to_f*100).to_i
-              else
-                wine[:price] = wine_card.search(".prix_unite > strong").text.strip.gsub(/\s€\s*/,"").to_f*100).to_i
-              end
-
-
-
-
-
-              build_details_hash(html_doc, "notations")
-              wine[:destription] = wine_card.search('#millesimes').first.text.strip
-
-              @output_hash[:wine_details] << wine
+            if wine_type == 'Primeur'
+              wine[:price] = wine_card.search(".prix_vin").text.strip.gsub(/\s€\s*/,"").to_f*100).to_i
+            else
+              wine[:price] = wine_card.search(".prix_unite > strong").text.strip.gsub(/\s€\s*/,"").to_f*100).to_i
             end
+
+            build_details_hash(html_doc, "notations")
+            wine[:destription] = wine_card.search('#millesimes').first.text.strip
+
+            @output_hash[:wine_details] << wine
           end
-        rescue Interrupt, SignalException
-          save_and_exit
-        rescue => e
-          @logger.fatal(e)
-          Scraper::Base.null_value
+        end
+      rescue Interrupt, SignalException
+        save_and_exit
+      rescue => e
+        @logger.fatal(e)
+        Scraper::Base.null_value
       end
     end
     private
