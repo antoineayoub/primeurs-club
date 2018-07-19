@@ -4,7 +4,6 @@ class VendorWine < ApplicationRecord
 
   has_many :images, as: :imageable, dependent: :destroy
 
-  belongs_to :region, optional: true
   belongs_to :wine
   has_many :vendor_vintages, dependent: :destroy
 

@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180514075021) do
+ActiveRecord::Schema.define(version: 20180719194615) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -21,6 +21,15 @@ ActiveRecord::Schema.define(version: 20180514075021) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["region_id"], name: "index_appellations_on_region_id"
+  end
+
+  create_table "critics", id: :serial, force: :cascade do |t|
+    t.string "name"
+    t.string "note"
+    t.integer "vintage_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["vintage_id"], name: "index_critics_on_vintage_id"
   end
 
   create_table "images", force: :cascade do |t|
@@ -92,14 +101,11 @@ ActiveRecord::Schema.define(version: 20180514075021) do
     t.date "delivery_date"
     t.integer "price_cents"
     t.text "short_description"
-    t.float "global_wine_score"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "website"
     t.bigint "vendor_wine_id"
     t.date "launch_date"
-    t.string "lwin_11"
-    t.string "confidence_index"
     t.string "journalist_count"
     t.index ["vendor_wine_id"], name: "index_vendor_vintages_on_vendor_wine_id"
   end
@@ -112,30 +118,19 @@ ActiveRecord::Schema.define(version: 20180514075021) do
     t.text "description"
     t.bigint "wine_id"
     t.string "website"
-    t.string "gws_id"
     t.index ["wine_id"], name: "index_vendor_wines_on_wine_id"
   end
 
   create_table "vintages", id: :serial, force: :cascade do |t|
     t.integer "vintage"
-    t.text "description"
     t.integer "wine_id"
-    t.integer "price_cents"
     t.string "status"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "lwin_11"
     t.string "confidence_index"
+    t.float "global_wine_score"
     t.index ["wine_id"], name: "index_vintages_on_wine_id"
-  end
-
-  create_table "wine_notes", id: :serial, force: :cascade do |t|
-    t.string "name"
-    t.string "note"
-    t.integer "vintage_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.index ["vintage_id"], name: "index_wine_notes_on_vintage_id"
   end
 
   create_table "wines", id: :serial, force: :cascade do |t|
@@ -154,10 +149,10 @@ ActiveRecord::Schema.define(version: 20180514075021) do
   end
 
   add_foreign_key "appellations", "regions"
+  add_foreign_key "critics", "vintages"
   add_foreign_key "vendor_critics", "vendor_vintages"
   add_foreign_key "vendor_vintages", "vendor_wines"
   add_foreign_key "vendor_wines", "wines"
   add_foreign_key "vintages", "wines"
-  add_foreign_key "wine_notes", "vintages"
   add_foreign_key "wines", "appellations"
 end
