@@ -5,17 +5,17 @@ class VendorVintage < ApplicationRecord
     def create_or_update_price(attrs)
       existing_vendor_vintage = find_by_wine_and_year(attrs)
 
-      if existing_vendor_vintage && existing_vendor_vintage.price_has_changed_from(attrs[:price_cents])
+      if existing_vendor_vintage.nil?
+        Vintage.find_by(wine: attrs[:vendor_wine].wine, vintage: attrs[:vintage]) || Vintage.create!(attrs.slice(*Vintage.attribute_names).merge({wine: attrs[:vendor_wine].wine}))
+        return create(attrs)
+      elsif existing_vendor_vintage.price_has_changed_from(attrs[:price_cents])
         Seed::Logger&.info("Updating #{existing_vendor_vintage.info_description} price from #{existing_vendor_vintage.price_cents} to #{attrs[:price_cents]}")
         existing_vendor_vintage.update(price_cents: attrs[:price_cents])
-      elsif existing_vendor_vintage.nil?
-        return create(attrs)
       else
         seed_log_duplicate
       end
 
       existing_vendor_vintage
-
     end
 
     private
