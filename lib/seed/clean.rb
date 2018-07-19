@@ -5,7 +5,7 @@ module Seed
 
       table_names = [
         "images",
-        "wine_notes",
+        "critics",
         "vintages",
         "vendor_critics",
         "vendor_vintages",
