@@ -28,12 +28,16 @@ module Seed
       }
 
       vendor_wine = VendorWine.find_by_slug_or_create(attributes)
+<<<<<<< HEAD
 
+=======
+      
+>>>>>>> grande-cave-scraper
       Image.find_or_create_by(imageable: vendor_wine, image_url: wine_attributes[:stamp_image_url]) if vendor_wine.persisted?
 
       vendor_wine
     end
-
+    
     def build_vendor_vintages_for_wine(wine_object, wine_attributes)
       wine_attributes[:vintages].each do |vintage_attributes|
         attributes = {
