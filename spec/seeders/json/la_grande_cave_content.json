@@ -1,0 +1,78 @@
+{
+  "wine_details": [
+    {
+      "name": "\"Y\" d'Yquem 2005",
+      "type": "Caisse bois de 6 bouteilles (75cl)",
+      "pays": "France",
+      "region": "Bordeaux",
+      "appellation": "bordeaux blanc",
+      "classement": "2nd vin",
+      "superficie": null,
+      "age_moyen_des_vignes": null,
+      "vin_liquoreux": null,
+      "sols_et_sous_sols": null,
+      "image_url": null,
+      "elevage": "en barriques neuves à 30% durant 10 mois",
+      "vintages": [
+        {
+          "description": null,
+          "price": 13500,
+          "encepagement": "sémillon 75% - sauvignon 25%",
+          "citation": null,
+          "year": 2014
+        },
+        {
+          "description": null,
+          "price": 13800,
+          "encepagement": "sémillon 75% - sauvignon 25%",
+          "citation": null,
+          "year": 2012
+        }
+      ]
+    },
+    {
+      "name": "Aile d'Argent 2008",
+      "type": "Caisse bois de 6 bouteilles (75cl)",
+      "pays": "France",
+      "region": "Bordeaux",
+      "appellation": "bordeaux blanc",
+      "classement": "2nd vin",
+      "superficie": "4 ha",
+      "age_moyen_des_vignes": null,
+      "vin_liquoreux": null,
+      "sols_et_sous_sols": null,
+      "image_url": null,
+      "elevage": null,
+      "vintages": [
+        {
+          "description": null,
+          "price": 6400,
+          "encepagement": "sauvignon 57% - semillon 42% - muscadelle 1%",
+          "citation": null,
+          "year": 2017
+        },
+        {
+          "description": null,
+          "price": 7600,
+          "encepagement": "sauvignon 57% - semillon 42% - muscadelle 1%",
+          "citation": null,
+          "year": 2014
+        },
+        {
+          "description": null,
+          "price": 6800,
+          "encepagement": "sauvignon 57% - semillon 42% - muscadelle 1%",
+          "citation": null,
+          "year": 2011
+        },
+        {
+          "description": null,
+          "price": 7500,
+          "encepagement": "sauvignon 57% - semillon 42% - muscadelle 1%",
+          "citation": null,
+          "year": 2009
+        }
+      ]
+    }
+  ]
+}
