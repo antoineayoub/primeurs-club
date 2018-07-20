@@ -42,7 +42,7 @@ module WineModules
         # This may cause issues if the I18n locale is set externally
         @string = I18n.transliterate(@string).gsub(/[^0-9A-Za-z]/, ' ')
       end
-
+      
       def remove_double_space
         # This may cause issues if the I18n locale is set externally
         @string = @string.gsub(/ +/, ' ')
@@ -57,13 +57,21 @@ module WineModules
       end
 
       def clip_by_commas
-        @string = @string.split(',')
+        # =================
 
-        if @string.count <= 2
-          @string = @string.first
-        else
-          @string = @string.first + @string.second
-        end
+        # I'm not 100% sure, but I don't think that it was the right idea
+
+        # @string = @string.split(',')
+
+        # if @string.count <= 2
+        #   @string = @string.first
+        # else
+        #   @string = @string.first + @string.second
+        # end
+
+        # =================
+
+        @string = @string.split(',').first
       end
     end
   end
