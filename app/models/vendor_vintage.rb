@@ -8,16 +8,17 @@ class VendorVintage < ApplicationRecord
       if existing_vendor_vintage.nil?
         # This is a new vintage from this vendor that we haven't seen before
         # If we cannot find it's canonical Vintage, create a new one
+
         Vintage.find_by(wine: attrs[:vendor_wine].wine, vintage: attrs[:vintage]) || 
-          Vintage.create!(attrs.slice(*Vintage.attribute_names).merge({wine: attrs[:vendor_wine].wine}))
+          Vintage.create!(attrs.slice(*Vintage.attribute_names.map(&:to_sym)).merge({wine: attrs[:vendor_wine].wine}))
 
         # Create and return a new VendorVintage
-        return self.create(attrs)
+        return self.create!(attrs)
 
       elsif existing_vendor_vintage.price_has_changed_from(attrs[:price_cents])
         # Otherwise, if the price has changed since the last time we've seen it, update it's price
         Seed::Logger&.info("Updating #{existing_vendor_vintage.info_description} price from #{existing_vendor_vintage.price_cents} to #{attrs[:price_cents]}")
-        existing_vendor_vintage.update(price_cents: attrs[:price_cents])
+        existing_vendor_vintage.update!(price_cents: attrs[:price_cents])
       else
         seed_log_duplicate
       end
@@ -32,7 +33,7 @@ class VendorVintage < ApplicationRecord
         raise VendorVintageError, "Must include vendor_wine and vintage on vendor_vintage creation"
       end
 
-      find_by(vendor_vintage_attrs.slice(:vendor_wine, :vintage))
+      find_by(vendor_vintage_attrs.slice(:vendor_wine, :vintage, :website))
     end
   end
 
