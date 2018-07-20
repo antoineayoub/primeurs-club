@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180719194615) do
+ActiveRecord::Schema.define(version: 20180720172300) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -29,6 +29,7 @@ ActiveRecord::Schema.define(version: 20180719194615) do
     t.integer "vintage_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.text "description"
     t.index ["vintage_id"], name: "index_critics_on_vintage_id"
   end
 
@@ -79,17 +80,6 @@ ActiveRecord::Schema.define(version: 20180719194615) do
     t.boolean "admin", default: false, null: false
     t.index ["email"], name: "index_users_on_email", unique: true
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
-  end
-
-  create_table "vendor_critics", force: :cascade do |t|
-    t.string "name"
-    t.string "note"
-    t.text "description"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.string "website"
-    t.bigint "vendor_vintage_id"
-    t.index ["vendor_vintage_id"], name: "index_vendor_critics_on_vendor_vintage_id"
   end
 
   create_table "vendor_vintages", force: :cascade do |t|
@@ -150,7 +140,6 @@ ActiveRecord::Schema.define(version: 20180719194615) do
 
   add_foreign_key "appellations", "regions"
   add_foreign_key "critics", "vintages"
-  add_foreign_key "vendor_critics", "vendor_vintages"
   add_foreign_key "vendor_vintages", "vendor_wines"
   add_foreign_key "vendor_wines", "wines"
   add_foreign_key "vintages", "wines"

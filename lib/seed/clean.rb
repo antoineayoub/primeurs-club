@@ -7,7 +7,7 @@ module Seed
         "images",
         "critics",
         "vintages",
-        "vendor_critics",
+        "critics",
         "vendor_vintages",
         "vendor_wines",
         "wines",

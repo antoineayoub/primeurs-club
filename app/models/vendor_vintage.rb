@@ -41,7 +41,7 @@ class VendorVintage < ApplicationRecord
   extend VendorVintageClassMethods
 
   belongs_to :vendor_wine
-  has_many :vendor_critics, dependent: :destroy
+  has_many :critics, dependent: :destroy
 
   validates_presence_of :vendor_wine
 
@@ -53,5 +53,9 @@ class VendorVintage < ApplicationRecord
 
   def info_description
     "#{vendor_wine.name} / #{vintage}"
+  end
+
+  def prototypical_vintage
+    vendor_wine.wine.vintages.find_by_vintage(vintage)
   end
 end
