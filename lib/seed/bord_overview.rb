@@ -37,7 +37,11 @@ module Seed
           vendor_vintage: vintage_object
         }
 
-        VendorCritic.find_or_create_by(attributes)
+        Critic.find_or_create_by!(
+          attributes
+            .slice(:name, :note, :descirption)
+            .merge({ vintage: vintage_object.prototypical_vintage })
+        )
       end
     end
 

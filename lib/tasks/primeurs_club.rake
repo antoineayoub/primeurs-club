@@ -76,3 +76,11 @@ namespace :seed do
     Rails.logger.silence { Seed::GlobalWineScore.run(number_of_wines: args[:number_of_wines]) }
   end
 end
+
+namespace :db do
+  desc "generate a schema"
+  task :draw do
+    Rake::Task["erd"].invoke
+    system "mv -f erd.pdf db/schema.pdf"
+  end
+end

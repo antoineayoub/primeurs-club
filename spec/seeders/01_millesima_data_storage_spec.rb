@@ -1,7 +1,7 @@
 require "rails_helper"
 
 def array_attribute_compare(model, attribute, expectation, options = {})
-  collection = options[:first] ? model.first(options[:first]) : model.all
+  collection = options[:first] ? model.first(options[:first]) : model.order(:created_at)
   expect(collection.map(&attribute)).to eq(expectation)
 end
 
@@ -100,14 +100,14 @@ describe Seed::Millesima do
       end
     end
 
-    context VendorCritic do
+    context Critic do
       it "stores correct number of VendorCritics" do
-        expect(VendorCritic.count).to eq(40)
+        expect(Critic.count).to eq(40)
       end
 
       it "stores the correct name" do
         array_attribute_compare(
-          VendorCritic,
+          Critic,
           :name,
           ["P", "JR", "WS", "RG"],
           first: 4
@@ -116,7 +116,7 @@ describe Seed::Millesima do
 
       it "stores the correct note" do
         array_attribute_compare(
-          VendorCritic,
+          Critic,
           :note,
           ["91", "15", "87-90", "15"],
           first: 4
@@ -130,7 +130,7 @@ describe Seed::Millesima do
       expect(Wine.count).to eq(2)
       expect(VendorWine.count).to eq(2)
       expect(VendorVintage.count).to eq(8)
-      expect(VendorCritic.count).to eq(40)
+      expect(Critic.count).to eq(40)
     end
   end
 end

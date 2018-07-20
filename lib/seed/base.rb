@@ -35,6 +35,7 @@ module Seed
           wine = build_wine_with_appellation(appellation, wine_attributes)
           build_vendor_vintages_for_wine(wine, wine_attributes)
         rescue => e
+          raise e if Rails.env == "test"
           Seed::Logger.error(e)
         end
       end
