@@ -33,7 +33,7 @@ module Seed
 
       vendor_wine
     end
-
+    
     def build_vendor_vintages_for_wine(wine_object, wine_attributes)
       wine_attributes[:vintages].each do |vintage_attributes|
         attributes = {
