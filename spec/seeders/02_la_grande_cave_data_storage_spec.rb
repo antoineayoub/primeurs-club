@@ -5,7 +5,7 @@ describe Seed::LaGrandeCave do
 
   before(:all) do
     Seed::Clean.run
-    Seed::LaGrandeCave.run(json_file_path: Rails.root.join("spec", "seeders", "json", "millesima_content.json"))
+    Seed::LaGrandeCave.run(json_file_path: Rails.root.join("spec", "seeders", "json", "la_grande_cave_content.json"))
   end
 
   after(:all) { Seed::Clean.run }
