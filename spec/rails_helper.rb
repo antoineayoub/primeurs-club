@@ -57,3 +57,8 @@ RSpec.configure do |config|
 end
 
 Seed::Logger.level = :fatal
+
+def array_attribute_compare(model, attribute, expectation, options = {})
+  collection = options[:first] ? model.first(options[:first]) : model.order(:created_at)
+  expect(collection.map(&attribute)).to eq(expectation)
+end

@@ -1,15 +1,8 @@
 require "rails_helper"
 
-def array_attribute_compare(model, attribute, expectation, options = {})
-  collection = options[:first] ? model.first(options[:first]) : model.order(:created_at)
-  expect(collection.map(&attribute)).to eq(expectation)
-end
-
-def website_name
-  "millesima"
-end
-
 describe Seed::Millesima do
+  let(:website_name) { "millesima" }
+
   before(:all) do
     Seed::Clean.run
     Seed::Millesima.run(json_file_path: Rails.root.join("spec", "seeders", "json", "millesima_content.json"))
